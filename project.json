@@ -2,8 +2,12 @@
     "paths": {
         "encoding_table":  "./project/tbl_all.json",
         "menu_table":      "./project/menu_files.json",
+		"order":      	   "./project/order.json",
+		"hashes":		   "./project/hashes.json",
         "original_files":  "./0_disc/",
+		"original_all":	   "./0_disc/PSP_GAME/USRDIR/all.dat",
         "extracted_files": "./1_extracted/",
+		"extracted_eboot": "./1_extracted/Eboot",
         "import_dat":      "./2_translated/DAT/",
 		"menu_original":   "./1.5_original_translated/menu/",
 		"skit_original":   "./1.5_original_translated/skits/",
@@ -11,13 +15,14 @@
         "menu_xml":        "./2_translated/menu/",
         "story_xml":       "./2_translated/story/",
         "skit_xml":        "./2_translated/skits/",
-		"new_font":			   "./2_translated/font/",
+		"new_font":		   "./2_translated/font/",
         "final_files":     "./3_patched/",
         "temp_files":      "./3_patched/patched_temp/",
         "game_builds":     "./4_builds/",
 		"saved_files":	   "./tools/saved_files/",
-        "tools":           "./tools/"
+        "tools":           "./tools/",
+		"utils":		   "./tools/pythonlib/utils"
     },
     "asm_file":        "adjust_textbox.asm",
-    "main_exe_name":   "arm9.bin"
+    "main_exe_name":   "EBOOT.BIN"
 }
