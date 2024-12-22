@@ -1,7 +1,7 @@
 import argparse
 from pathlib import Path
 
-from ToolsNDX import ToolsNDX
+from pythonlib.games.ToolsNDX import ToolsNDX
 
 SCRIPT_VERSION = "0.0.3"
 
@@ -170,7 +170,6 @@ if __name__ == "__main__":
         if args.file_type == "Menu":
             tales_instance.extract_all_menu(keep_translations=True)
 
-
         elif args.file_type == "Iso":
             tales_instance.extract_iso(Path(args.iso.resolve()))
             tales_instance.extract_main_archive()
@@ -184,6 +183,4 @@ if __name__ == "__main__":
         elif args.file_type == "All":
             tales_instance.extract_iso(Path(args.iso.resolve()))
             tales_instance.extract_main_archive()
-            #tales_instance.extract_all_menu(keep_translations=True)
-            #tales_instance.extract_all_skits(args.replace)
-            #tales_instance.extract_all_story(args.replace)
+            tales_instance.extract_all_story(args.replace)

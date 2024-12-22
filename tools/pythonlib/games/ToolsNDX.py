@@ -10,10 +10,12 @@ import pycdlib
 import subprocess
 import datetime
 import lxml.etree as etree
-from formats.FileIO import FileIO
-from formats.fps4 import Fps4
-from formats.tss import Tss
-from formats.text_toh import text_to_bytes, bytes_to_text
+from pythonlib.formats.FileIO import FileIO
+from pythonlib.formats.fps4 import Fps4
+from pythonlib.formats.tss import Tss
+from pythonlib.formats.pak import Pak
+from pythonlib.formats.text_toh import text_to_bytes, bytes_to_text
+from pythonlib.formats.cab import extract_cab_file
 import re
 from itertools import chain
 import io
@@ -21,11 +23,12 @@ from tqdm import tqdm
 import struct
 
 
+
 class ToolsNDX():
 
 
     def __init__(self, project_file: Path, insert_mask: list[str], changed_only: bool = False) -> None:
-        os.environ["PATH"] += os.pathsep + os.path.join( os.getcwd(), 'pythonlib', 'utils')
+        os.environ["PATH"] += os.pathsep + os.path.join(os.getcwd(), 'pythonlib', '../utils')
         base_path = project_file.parent
 
         #if os.path.exists('programs_infos.json'):
@@ -211,18 +214,8 @@ class ToolsNDX():
             self.id = 1
 
     def extract_main_archive(self):
-
-        # Clean files and folders
-        #shutil.rmtree("../Data/{}/Menu/New".format(self.repo_name))
-        #for file in os.scandir("../Data/{}/All".format(self.repo_name)):
-        #    if os.path.isfile(file.path):
-        #        os.remove(file.path, )
-
-        menu_files_json = json.load(open(self.paths['menu_table'], encoding="utf-8"))
         order = {}
         order['order'] = []
-
-        files_to_prepare = [ele['Hashes_Name'] for ele in menu_files_json if ele['Hashes_Name'] != '']
 
         # Extract decrypted eboot
         self.extract_decripted_eboot()
@@ -243,27 +236,7 @@ class ToolsNDX():
                     final_name = self.hashes[hash_]
 
                 self.extract_archive_file(file_info[0], file_info[1], final_name, all_read)
-
-                # Story file
-                #if final_name.startswith("map/pack/ep_") and final_name.endswith(".cab"):
-                #    story_dest = "../Data/{}/Story/New/{}".format(self.repo_name, os.path.basename(final_name))
-                #    os.makedirs(os.path.dirname(story_dest), exist_ok=True)
-                #    shutil.copy(os.path.join(self.all_extract, final_name), story_dest)
-
-                # Event  file
-                #elif final_name.startswith("map/") and os.path.dirname(final_name) == "map" and final_name.endswith(
-                #        ".bin"):
-                #    event_dest = "../Data/{}/Events/New/{}".format(self.repo_name, final_name)
-                #    os.makedirs(os.path.dirname(event_dest), exist_ok=True)
-                #    shutil.copy(os.path.join(self.all_extract, final_name), event_dest)
-
-                #if len([ele for ele in files_to_prepare if ele in final_name]) > 0:
-                #    copy_path = os.path.join("../Data/{}/Menu/New/{}".format(self.repo_name, final_name))
-                #    Path(os.path.dirname(copy_path)).mkdir(parents=True, exist_ok=True)
-                #    shutil.copy(os.path.join(self.all_extract, final_name), copy_path)
-
                 order['order'].append(hash_)
-
 
             with open(self.paths['order'], 'w') as f:
                 f.write(json.dumps(order, indent=4))
@@ -292,6 +265,32 @@ class ToolsNDX():
             shell=True,
             stdout=subprocess.DEVNULL
             )
+
+    def extract_all_story(self, keep_translations=False):
+        print("Extracting Story")
+        cab_path = self.paths['extracted_files'] / 'All' / 'map' / 'pack'
+
+        for cab_file in cab_path.iterdir():
+
+            if 'ep_' in cab_file.name or 'sb_' in cab_file.name:
+                extract_cab_file(cab_file, cab_path)
+                self.extract_pak(cab_path / cab_file.stem / f'{cab_file.stem}.dat', 3)
+
+    def extract_pak(self, file_path:Path, format:int):
+        try:
+            pak = Pak.from_path(file_path, format)
+
+        except struct.error:
+            print(f'Error with {file_path.stem}')
+
+        else:
+            for file in pak.files:
+
+                if file.data[0:3] == b'TSS':
+                    with open(file_path.parent / f'{file_path.stem}.tss', 'wb') as f:
+                        f.write(file.data)
+                    break
+
 
     def extract_menu_file(self, file_def, f: FileIO, keep_translations=False) -> bytes:
 
@@ -530,155 +529,6 @@ class ToolsNDX():
             bytes_entry += (b'\x00' * rest)
 
         return bytes_entry
-
-    def extract_all_skits(self, keep_translations=False):
-        type = 'skit'
-        base_path = self.paths['extracted_files'] / self.file_dict[type]
-        base_path.mkdir(parents=True, exist_ok=True)
-        fps4 = Fps4(detail_path=self.paths['original_files'] / 'data' / 'fc' / 'fcscr.dat',
-                    header_path=self.paths['original_files'] / 'data' / 'fc' / 'fcscr.b')
-        fps4.extract_files(destination_path=base_path, copy_path=self.paths['temp_files'] / self.file_dict['skit'], decompressed=True)
-
-        self.paths['skit_xml'].mkdir(parents=True, exist_ok=True)
-        self.paths['skit_original'].mkdir(parents=True, exist_ok=True)
-        for tss_file in tqdm(base_path.iterdir(), desc='Extracting Skits Files...'):
-            tss_obj = Tss(tss_file, list_status_insertion=self.list_status_insertion)
-            if len(tss_obj.struct_dict) > 0:
-                tss_obj.extract_to_xml(original_path=self.paths['skit_original'] / tss_file.with_suffix('.xml').name,
-                                       translated_path=self.paths['skit_xml'] / tss_file.with_suffix('.xml').name,
-                                       keep_translations=keep_translations)
-
-    def pack_tss(self, destination_path:Path, xml_path:Path):
-        tss = Tss(path=destination_path,
-                  list_status_insertion=self.list_status_insertion)
-
-        tss.pack_tss_file(destination_path=destination_path,
-                          xml_path=xml_path)
-
-    def pack_all_skits(self):
-        type = 'skit'
-        fps4 = Fps4(detail_path=self.paths['original_files'] / 'data' / 'fc' / 'fcscr.dat',
-                    header_path=self.paths['original_files'] / 'data' / 'fc' / 'fcscr.b')
-
-        xml_list, archive_list = self.find_changes('skit')
-
-        # Repack TSS files
-        for archive in tqdm(archive_list, total=len(archive_list), desc="Inserting Skits Files..."):
-            end_name = f"{self.file_dict[type]}/{archive}.FCBIN"
-            src = self.paths['extracted_files'] / end_name
-            tss_path = self.paths['temp_files'] / end_name
-            shutil.copy(src=src,
-                        dst=tss_path)
-            self.pack_tss(destination_path=tss_path,
-                          xml_path=self.paths['skit_xml'] / f'{archive}.xml')
-
-            args = [self.paths['tools'] / 'pythonlib' / 'utils' / 'lzss', '-evn', tss_path]
-            subprocess.run(args, stdout=subprocess.DEVNULL)
-
-        #Repack FPS4 archive
-        final_path = self.paths['final_files'] / 'data' / 'fc'
-        final_path.mkdir(parents=True, exist_ok=True)
-        fps4.pack_file(updated_file_path=self.paths['temp_files'] / self.file_dict[type],
-                       destination_folder=final_path)
-
-    def pack_mapbin_story(self, file_name, type):
-        mapbin_folder = self.paths['temp_files'] / self.file_dict[type] / file_name
-
-        fps4_mapbin = Fps4(detail_path=self.paths['extracted_files'] / self.file_dict[type] / f'{file_name}.MAPBIN',
-                           header_path=self.paths['extracted_files'] / self.file_dict[type] / f'{file_name}.B')
-
-        fps4_mapbin.pack_fps4_type1(updated_file_path=mapbin_folder,
-                                    destination_folder=self.paths['temp_files'] / self.file_dict[type])
-
-    def pack_all_story(self):
-        type = 'story'
-        # Copy original TSS files in the "updated" folder
-        dest = self.paths['temp_files'] / self.file_dict[type]
-
-        #Repack all the TSS that need to be updated based on status changed
-        xml_list, archive_list = self.find_changes('story')
-
-        if len(xml_list) > 0:
-            for xml_path in tqdm(xml_list, total=len(xml_list), desc='Inserting Story Files'):
-
-                if os.path.exists(xml_path):
-                    archive_name = xml_path.stem if not xml_path.stem.endswith('P') else xml_path.stem[0:-1]
-                    end_name = f"{self.file_dict['story']}/{archive_name}/{xml_path.stem}.SCP"
-                    src = self.paths['extracted_files'] / end_name
-                    tss_path = self.paths['temp_files'] / end_name
-                    shutil.copy(src=src,
-                                dst=tss_path)
-                    self.pack_tss(destination_path=tss_path,
-                                  xml_path=xml_path)
-
-                    args = [self.paths['tools'] / 'pythonlib' / 'utils' / 'lzss', '-evn', tss_path]
-                    subprocess.run(args, stdout = subprocess.DEVNULL)
-
-            # Find all the xmls that has changed recently
-            for archive in archive_list:
-                self.pack_mapbin_story(archive, type)
-
-            folder = 'm'
-            base_path = self.paths['extracted_files'] / 'data' / folder
-            (self.paths['final_files'] / self.file_dict[type]).mkdir(parents=True, exist_ok=True)
-            fps4_m = Fps4(detail_path=self.paths['original_files'] / self.file_dict['story'] / f'{folder}.dat',
-                        header_path=self.paths['original_files'] / self.file_dict['story'] / f'{folder}.b')
-            fps4_m.pack_fps4_type1(updated_file_path=self.paths['temp_files'] / self.file_dict[type],
-                                   destination_folder=self.paths['final_files'] / self.file_dict[type])
-
-    def find_changes(self, type):
-
-        xml_list = []
-        archive_list = []
-        for xml_path in [path for path in self.paths[f'{type}_xml'].iterdir() if 'git' not in path.name]:
-            tree = etree.parse(xml_path)
-            root = tree.getroot()
-            entries_translated = [entry for entry in root.iter('Entry') if entry.find('Status').text in self.list_status_insertion]
-
-
-            if len(entries_translated) > 0:
-                archive_name = xml_path.stem if not xml_path.stem.endswith('P') else xml_path.stem[0:-1]
-                xml_list.append(xml_path)
-                archive_list.append(archive_name)
-
-        archive_list = list(set(archive_list))
-
-        return xml_list, archive_list
-
-    def extract_tss(self, tss_file:Path, file_type:str, keep_translations=False):
-        tss_obj = Tss(path=tss_file, list_status_insertion=self.list_status_insertion)
-
-        if (len(tss_obj.struct_dict) > 0) or (len(tss_obj.string_list) > 0):
-            original_path = self.paths[f'{file_type}_original'] / tss_file.with_suffix('.xml').name
-            translated_path = self.paths[f'{file_type}_xml'] / tss_file.with_suffix('.xml').name
-            tss_obj.extract_to_xml(original_path= original_path,
-                                       translated_path=translated_path,
-                                       keep_translations=keep_translations)
-
-
-    def extract_all_story(self, extract_XML=False):
-        folder = 'm'
-        base_path = self.paths['extracted_files'] / 'data' / folder
-
-        fps4 = Fps4(detail_path=self.paths['original_files'] / 'data' / folder / f'{folder}.dat',
-                    header_path=self.paths['original_files'] / 'data' / folder / f'{folder}.b')
-        copy_path = self.paths['temp_files'] / self.file_dict['story']
-        fps4.extract_files(destination_path=base_path, copy_path=copy_path)
-
-        self.paths['story_xml'].mkdir(parents=True, exist_ok=True)
-        self.paths['story_original'].mkdir(parents=True, exist_ok=True)
-        scp_files = [file for file in base_path.iterdir() if file.suffix == '.MAPBIN']
-        for file in tqdm(scp_files, total=len(scp_files), desc=f"Extracting Story Files"):
-
-            file_header = file.with_suffix('.B')
-            fps4_tss = Fps4(detail_path=file, header_path=file_header)
-            folder_path = file.with_suffix('')
-            folder_path.mkdir(parents=True, exist_ok=True)
-            fps4_tss.extract_files(destination_path=folder_path, copy_path=copy_path / file.stem, decompressed=True)
-
-            # Load the tss file
-            for tss_file in [file_path for file_path in folder_path.iterdir() if file_path.suffix == '.SCP']:
-                self.extract_tss(tss_file, 'story')
 
     def create_entry(self, strings_node, pointer_offset, text, entry_type, speaker_id, unknown_pointer):
 
