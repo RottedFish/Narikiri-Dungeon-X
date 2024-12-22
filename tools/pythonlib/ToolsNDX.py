@@ -42,8 +42,8 @@ class ToolsNDX():
         self.main_exe_name = json_raw["main_exe_name"]
         self.asm_file = json_raw["asm_file"]
 
-        with open(self.paths["encoding_table"], encoding="utf-8") as f:
-            json_raw = json.load(f)
+        json_raw = json.load(open(self.paths["encoding_table"], encoding="utf-8"))
+        self.hashes = json.load(open(self.paths['hashes'], encoding="utf-8"))
 
         for k, v in json_raw.items():
             self.jsonTblTags[k] = {int(k2, 16): v2 for k2, v2 in v.items()}
@@ -56,6 +56,7 @@ class ToolsNDX():
                 self.ijsonTblTags[k] = {v2: hex(k2).replace('0x', '').upper() for k2, v2 in v.items()}
         self.iTags = {v2.upper(): k2 for k2, v2 in self.jsonTblTags['TAGS'].items()}
         self.id = 1
+        self.struct_id = 1
 
         # byteCode
         self.story_byte_code = b"\xF8"
@@ -75,13 +76,13 @@ class ToolsNDX():
 
         print("Extracting ISO files...")
         iso = pycdlib.PyCdlib()
-        iso.open(umd_iso)
+        iso.open(str(umd_iso))
         extract_to = self.paths["original_files"]
         self.clean_folder(extract_to)
 
         files = []
         for dirname, _, filelist in iso.walk(iso_path="/"):
-            files += [dirname +"/"+ x for x in filelist]
+            files += [dirname + "/" + x for x in filelist]
 
         for file in files:
             out_path = extract_to/ file[1:]
@@ -133,40 +134,6 @@ class ToolsNDX():
         if r.returncode != 0:
             raise ValueError("Error building code")
 
-    def update_arm9_size(self, game_iso:Path):
-
-        with FileIO(game_iso, 'rb') as f:
-            f.seek(0x28)
-            load = f.read_uint32()
-            f.seek(0x70)
-            auto = f.read_uint32() - load
-
-        compressed_arm9_path = self.paths['final_files'] / 'arm9.bin'
-        decompressed_arm9_path = self.paths['temp_files'] / 'arm9/arm9.bin'
-        arm9_comp_size = os.path.getsize(compressed_arm9_path)
-        arm9_decomp_size = os.path.getsize(decompressed_arm9_path)
-        with FileIO(compressed_arm9_path, 'r+b') as f:
-            f.seek(auto - 4)
-            offset = f.read_uint32() - load
-
-            #1st value to update
-            f.seek(offset)
-            val1 = load + arm9_decomp_size - 0x18
-            f.write_uint32(val1)
-
-            #2nd value to update
-            f.seek(offset + 1*4)
-            val2 = load + arm9_decomp_size
-            f.write_uint32(val2)
-
-            #3rd value to update
-            f.seek(offset + 5*4)
-            val3 = load + arm9_comp_size
-            f.write_uint32(val3)
-
-            f.seek(0)
-            return f.read()
-
     def clean_folder(self, path: Path) -> None:
         target_files = list(path.iterdir())
         if len(target_files) != 0:
@@ -177,7 +144,6 @@ class ToolsNDX():
                 elif file.name.lower() != ".gitignore":
                     file.unlink(missing_ok=False)
 
-
     def clean_builds(self, path: Path) -> None:
         target_files = sorted(list(path.glob("*.nds")), key=lambda x: x.name)[:-4]
         if len(target_files) != 0:
@@ -185,7 +151,6 @@ class ToolsNDX():
             for file in target_files:
                 print(f"Deleting {str(file.name)}...")
                 file.unlink()
-
 
     def get_style_pointers(self, file: FileIO, ptr_range: tuple[int, int], base_offset: int, style: str) -> tuple[
         list[int], list[int]]:
@@ -220,6 +185,7 @@ class ToolsNDX():
         for text, pointer_offset, emb in list_informations:
             self.create_entry(strings_node, pointer_offset, text, entry_type, -1, "")
             #self.create_entry(strings_node, pointers_offset, text, emb, max_len)
+
     def extract_all_menu(self, keep_translations=False) -> None:
         #xml_path = self.paths["menu_xml"]
         xml_path = self.paths["menu_original"]
@@ -243,6 +209,90 @@ class ToolsNDX():
                 xmlFile.write(xml_data)
 
             self.id = 1
+
+    def extract_main_archive(self):
+
+        # Clean files and folders
+        #shutil.rmtree("../Data/{}/Menu/New".format(self.repo_name))
+        #for file in os.scandir("../Data/{}/All".format(self.repo_name)):
+        #    if os.path.isfile(file.path):
+        #        os.remove(file.path, )
+
+        menu_files_json = json.load(open(self.paths['menu_table'], encoding="utf-8"))
+        order = {}
+        order['order'] = []
+
+        files_to_prepare = [ele['Hashes_Name'] for ele in menu_files_json if ele['Hashes_Name'] != '']
+
+        # Extract decrypted eboot
+        self.extract_decripted_eboot()
+
+        # Open the eboot and go at the start of the offsets table
+        eboot = open(self.paths['extracted_eboot'] / self.main_exe_name, 'rb')
+        eboot.seek(0x1FF624)
+
+        print("Extract All.dat")
+        with open(self.paths['original_all'], "rb") as all_read:
+            while True:
+                file_info = struct.unpack('<3I', eboot.read(12))
+                if (file_info[2] == 0):
+                    break
+                hash_ = '%08X' % file_info[2]
+                final_name = hash_
+                if hash_ in self.hashes.keys():
+                    final_name = self.hashes[hash_]
+
+                self.extract_archive_file(file_info[0], file_info[1], final_name, all_read)
+
+                # Story file
+                #if final_name.startswith("map/pack/ep_") and final_name.endswith(".cab"):
+                #    story_dest = "../Data/{}/Story/New/{}".format(self.repo_name, os.path.basename(final_name))
+                #    os.makedirs(os.path.dirname(story_dest), exist_ok=True)
+                #    shutil.copy(os.path.join(self.all_extract, final_name), story_dest)
+
+                # Event  file
+                #elif final_name.startswith("map/") and os.path.dirname(final_name) == "map" and final_name.endswith(
+                #        ".bin"):
+                #    event_dest = "../Data/{}/Events/New/{}".format(self.repo_name, final_name)
+                #    os.makedirs(os.path.dirname(event_dest), exist_ok=True)
+                #    shutil.copy(os.path.join(self.all_extract, final_name), event_dest)
+
+                #if len([ele for ele in files_to_prepare if ele in final_name]) > 0:
+                #    copy_path = os.path.join("../Data/{}/Menu/New/{}".format(self.repo_name, final_name))
+                #    Path(os.path.dirname(copy_path)).mkdir(parents=True, exist_ok=True)
+                #    shutil.copy(os.path.join(self.all_extract, final_name), copy_path)
+
+                order['order'].append(hash_)
+
+
+            with open(self.paths['order'], 'w') as f:
+                f.write(json.dumps(order, indent=4))
+
+
+    def extract_archive_file(self, start:int, size:int, file_name:str, all_read):
+        all_read.seek(start, 0)
+        data = all_read.read(size)
+
+        (self.paths['extracted_files'] / 'All' / file_name).parent.mkdir(parents=True, exist_ok=True)
+        with open(self.paths['extracted_files'] / 'All' / file_name, mode='wb') as output_file:
+            output_file.write(data)
+
+    def extract_decripted_eboot(self):
+        print("Extracting Eboot")
+        original_eboot = self.paths['original_files'] / 'PSP_GAME' / 'SYSDIR' / self.main_exe_name
+        self.paths['extracted_eboot'].mkdir(parents=True, exist_ok=True)
+        dest_eboot = self.paths['extracted_eboot'] / self.main_exe_name
+
+        args = ["deceboot.exe", str(original_eboot), str(dest_eboot)]
+        #env["PATH"] = f"{env['PATH']}"
+
+        listFile = subprocess.run(
+            args,
+            cwd= self.paths['utils'],
+            shell=True,
+            stdout=subprocess.DEVNULL
+            )
+
     def extract_menu_file(self, file_def, f: FileIO, keep_translations=False) -> bytes:
 
         base_offset = file_def["base_offset"]
@@ -331,19 +381,6 @@ class ToolsNDX():
                     #print(f'String: {jap_text} was not found in translated XML')
 
             #[print(f'{entry} was not found in original') for entry, value in translated_entries.items() if entry not in original_entries and entry is not None]
-
-    def unpack_menu_files(self):
-        base_path = self.paths['extracted_files'] / 'data/menu'/ 'monsterbook'
-        fps4 = Fps4(detail_path=self.paths['original_files'] / 'data/menu' / 'monsterbook' / 'EnemyIcon.dat',
-                    header_path=self.paths['original_files'] / 'data/menu' / 'monsterbook' / 'EnemyIcon.b')
-        fps4.extract_files(base_path, decompressed=False)
-
-        for file in fps4.files:
-            file_path = self.paths['extracted_files'] / 'data/menu/monsterbook/' / file.name
-            enemy_fps4 = Fps4(header_path=file_path)
-            print(file_path.with_suffix(''))
-            enemy_fps4.extract_files(file_path.with_suffix(''), decompressed=True)
-
 
     def pack_all_menu(self) -> None:
         xml_path = self.paths["menu_xml"]
@@ -464,7 +501,6 @@ class ToolsNDX():
                 f.write_uint16_at(_h, val_hi)
                 f.write_uint16_at(_l, val_lo)
 
-
     def get_node_bytes(self, entry_node, pad=False) -> bytes:
 
         # Grab the fields from the Entry in the XML
@@ -488,33 +524,12 @@ class ToolsNDX():
         # Convert the text values to bytes using TBL, TAGS, COLORS, ...
         bytes_entry = text_to_bytes(final_text)
 
-        #Pad with 00
+        # Pad with 00
         if pad:
             rest = 4 - len(bytes_entry) % 4 - 1
             bytes_entry += (b'\x00' * rest)
 
         return bytes_entry
-
-    def extract_menu_bg(self):
-        file_name = 'MENU_BG'
-        base_path = self.paths['extracted_files'] / 'data' / 'menu'
-        fps4 = Fps4(detail_path=self.paths['original_files'] / f'data/menu/{file_name}.dat',
-                    header_path=self.paths['original_files'] / f'data/menu/{file_name}.b')
-
-        (base_path / file_name).mkdir(parents=True, exist_ok=True)
-        fps4.extract_files(destination_path= base_path / file_name, copy_path=self.paths['temp_files'] / 'menu',
-                           decompressed=False)
-
-    def pack_menu_bg(self):
-        file_name = 'MENU_BG'
-        base_path = self.paths['extracted_files'] / 'data' / 'menu'
-        fps4 = Fps4(detail_path=self.paths['original_files'] / f'data/menu/{file_name}.dat',
-                    header_path=self.paths['original_files'] / f'data/menu/{file_name}.b')
-
-        (base_path / file_name).mkdir(parents=True, exist_ok=True)
-        fps4.pack_fps4_bg(self.paths['temp_files'] / 'data' / 'menu' / file_name, self.paths['final_files'] / 'data' / 'menu')
-        #fps4.extract_files(destination_path=base_path / file_name, copy_path=self.paths['temp_files'] / 'menu',
-        #                   decompressed=False)
 
     def extract_all_skits(self, keep_translations=False):
         type = 'skit'
@@ -547,7 +562,7 @@ class ToolsNDX():
 
         xml_list, archive_list = self.find_changes('skit')
 
-        #Repack TSS files
+        # Repack TSS files
         for archive in tqdm(archive_list, total=len(archive_list), desc="Inserting Skits Files..."):
             end_name = f"{self.file_dict[type]}/{archive}.FCBIN"
             src = self.paths['extracted_files'] / end_name
@@ -566,7 +581,6 @@ class ToolsNDX():
         fps4.pack_file(updated_file_path=self.paths['temp_files'] / self.file_dict[type],
                        destination_folder=final_path)
 
-
     def pack_mapbin_story(self, file_name, type):
         mapbin_folder = self.paths['temp_files'] / self.file_dict[type] / file_name
 
@@ -575,6 +589,7 @@ class ToolsNDX():
 
         fps4_mapbin.pack_fps4_type1(updated_file_path=mapbin_folder,
                                     destination_folder=self.paths['temp_files'] / self.file_dict[type])
+
     def pack_all_story(self):
         type = 'story'
         # Copy original TSS files in the "updated" folder
@@ -655,19 +670,15 @@ class ToolsNDX():
         scp_files = [file for file in base_path.iterdir() if file.suffix == '.MAPBIN']
         for file in tqdm(scp_files, total=len(scp_files), desc=f"Extracting Story Files"):
 
-
             file_header = file.with_suffix('.B')
             fps4_tss = Fps4(detail_path=file, header_path=file_header)
             folder_path = file.with_suffix('')
             folder_path.mkdir(parents=True, exist_ok=True)
             fps4_tss.extract_files(destination_path=folder_path, copy_path=copy_path / file.stem, decompressed=True)
 
-            #Load the tss file
+            # Load the tss file
             for tss_file in [file_path for file_path in folder_path.iterdir() if file_path.suffix == '.SCP']:
                 self.extract_tss(tss_file, 'story')
-
-
-
 
     def create_entry(self, strings_node, pointer_offset, text, entry_type, speaker_id, unknown_pointer):
 
@@ -692,66 +703,9 @@ class ToolsNDX():
         etree.SubElement(entry_node, "Id").text = str(self.id)
         etree.SubElement(entry_node, "Status").text = "To Do"
         self.id += 1
+
     def extract_from_string(self, f, strings_offset, pointer_offset, text_offset, root):
 
         f.seek(text_offset, 0)
         japText, buff = bytes_to_text(f, text_offset)
         self.create_entry(root, pointer_offset, japText, "Other Strings", -1, "")
-
-
-
-    def text_to_bytes(self, text):
-        multi_regex = (self.HEX_TAG + "|" + self.COMMON_TAG + r"|(\n)")
-        tokens = [sh for sh in re.split(multi_regex, text) if sh]
-
-        output = b''
-        for t in tokens:
-            # Hex literals
-            if re.match(self.HEX_TAG, t):
-                output += struct.pack("B", int(t[1:3], 16))
-
-            # Tags
-            elif re.match(self.COMMON_TAG, t):
-                tag, param, *_ = t[1:-1].split(":") + [None]
-
-                if tag == "icon":
-                    output += struct.pack("B", self.ijsonTblTags["TAGS"].get(tag))
-                    output += b'\x28' + struct.pack('B', int(param)) + b'\x29'
-
-                elif any(re.match(possible_value, tag)  for possible_value in self.VALID_VOICEID):
-                    output += b'\x09\x28' + tag.encode("cp932") + b'\x29'
-
-                elif tag == "Bubble":
-                    output += b'\x0C'
-
-                else:
-                    if tag in self.ijsonTblTags["TAGS"]:
-                        output += struct.pack("B", self.ijsonTblTags["TAGS"][tag])
-                        continue
-
-                    for k, v in self.ijsonTblTags.items():
-                        if tag in v:
-                            if k in ['NAME', 'COLOR']:
-                                output += struct.pack('B',self.iTags[k]) + b'\x28' + bytes.fromhex(v[tag]) + b'\x29'
-                                break
-                            else:
-                                output += b'\x81' + bytes.fromhex(v[tag])
-
-            # Actual text
-            elif t == "\n":
-                output += b"\x0A"
-            else:
-                for c in t:
-                    if c in self.PRINTABLE_CHARS or c == "\u3000":
-                        output += c.encode("cp932")
-                    else:
-
-                        if c in self.ijsonTblTags["TBL"].keys():
-                            b = self.ijsonTblTags["TBL"][c].to_bytes(2, 'big')
-                            output += b
-                        else:
-                            output += c.encode("cp932")
-
-
-
-        return output

@@ -168,13 +168,12 @@ if __name__ == "__main__":
     if args.action == "extract":
 
         if args.file_type == "Menu":
-            #tales_instance.unpack_menu_files()
             tales_instance.extract_all_menu(keep_translations=True)
-            tales_instance.extract_menu_bg()
+
 
         elif args.file_type == "Iso":
             tales_instance.extract_iso(Path(args.iso.resolve()))
-
+            tales_instance.extract_main_archive()
 
         elif args.file_type == "Skits":
             tales_instance.extract_all_skits(args.replace)
@@ -183,10 +182,8 @@ if __name__ == "__main__":
             tales_instance.extract_all_story(args.replace)
 
         elif args.file_type == "All":
-            tales_instance.extract_Iso(args.iso.resolve())
-            tales_instance.decompress_arm9()
-            tales_instance.decompress_overlays()
-            tales_instance.extract_menu_bg()
-            tales_instance.extract_all_menu(keep_translations=True)
-            tales_instance.extract_all_skits(args.replace)
-            tales_instance.extract_all_story(args.replace)
+            tales_instance.extract_iso(Path(args.iso.resolve()))
+            tales_instance.extract_main_archive()
+            #tales_instance.extract_all_menu(keep_translations=True)
+            #tales_instance.extract_all_skits(args.replace)
+            #tales_instance.extract_all_story(args.replace)
