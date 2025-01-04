@@ -219,7 +219,7 @@ class ToolsNDX():
 
     def extract_archives(self):
         self.extract_bt_data()
-        #self.extract_text_talk()
+        self.extract_text_talk()
 
     def extract_text_talk(self):
         fps4_path = self.paths['extracted_files'] / 'All' / 'battle' / 'data' / 'BT_DATA' / 'BT_TEXT_TALK_DATA'
