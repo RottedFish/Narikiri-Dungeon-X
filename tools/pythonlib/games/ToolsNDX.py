@@ -81,7 +81,7 @@ class ToolsNDX():
 
         print("Extracting ISO files...")
         iso = pycdlib.PyCdlib()
-        iso.open(str(umd_iso))
+        iso.open(umd_iso)
         extract_to = self.paths["original_files"]
         self.clean_folder(extract_to)
 
@@ -90,7 +90,12 @@ class ToolsNDX():
             files += [dirname + "/" + x for x in filelist]
 
         for file in files:
-            out_path = extract_to/ file[1:]
+
+            if 'UMD_DATA' in file:
+                out_path = extract_to / file[2:]
+            else:
+                out_path = extract_to/ file[1:]
+
             out_path.parent.mkdir(parents=True, exist_ok=True)
 
             with iso.open_file_from_iso(iso_path=file) as f, open(str(out_path).split(";")[0], "wb+") as output:
@@ -213,7 +218,7 @@ class ToolsNDX():
             self.id = 1
 
     def extract_archives(self):
-        #self.extract_bt_data()
+        self.extract_bt_data()
         self.extract_text_talk()
 
     def extract_text_talk(self):
@@ -236,6 +241,10 @@ class ToolsNDX():
                     header_path=fps4_path / 'bt_data.b')
         fps4.extract_files(destination_path=fps4_path / 'BT_DATA', copy_path=copy_path,
                            decompressed=False)
+
+        for cab_file in (fps4_path / 'BT_DATA').iterdir():
+            extract_cab_file(cab_file, fps4_path / 'BT_DATA' / cab_file.stem)
+            #self.extract_pak(fps4_path / 'BT_DATA' / cab_file.stem / f'{cab_file.stem}.dat', 3)
     def extract_main_archive(self):
         order = {}
         order['order'] = []

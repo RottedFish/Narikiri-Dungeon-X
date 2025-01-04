@@ -53,7 +53,7 @@ class Fps4():
 
             self.pack_file = self.pack_fps4_type1
 
-            if self.first_offset > 0:
+            if self.first_offset == 0:
                 if self.block_size == 0x2C:
                     self.read_more = True
                     self.extract_type1_fps4(f_header=f_header)
@@ -64,7 +64,8 @@ class Fps4():
 
             else:
                 self.pack_file = self.pack_fps4_type1
-                self.extract_type2_fps4(f_header=f_header)
+                self.read_more = True
+                self.extract_type1_fps4(f_header=f_header)
 
     #Type 2 = Header with File offset
     def extract_type2_fps4(self, f_header:FileIO):
@@ -74,6 +75,8 @@ class Fps4():
         f_header.seek(self.header_size,0)
         for _ in range(self.file_amount):
             files_offset.append(f_header.read_uint32())
+            f_header.read(0x28)
+
         files_offset.append(self.file_size)
 
         #Create each file
