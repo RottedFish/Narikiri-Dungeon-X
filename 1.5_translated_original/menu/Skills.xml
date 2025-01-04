@@ -1,0 +1,3336 @@
+<MenuText>
+  <Strings>
+    <Section>Skills</Section>
+    <Entry>
+      <PointerOffset>8,12</PointerOffset>
+      <JapaneseText>ダミー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48</PointerOffset>
+      <JapaneseText>ストレングス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52</PointerOffset>
+      <JapaneseText>物攻が＋５０アップする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>88</PointerOffset>
+      <JapaneseText>マジカル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>92</PointerOffset>
+      <JapaneseText>術攻が＋５０アップする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>128</PointerOffset>
+      <JapaneseText>ディフェンド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>132</PointerOffset>
+      <JapaneseText>物防が＋５０アップする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>168</PointerOffset>
+      <JapaneseText>レジスト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>172</PointerOffset>
+      <JapaneseText>術防が＋５０アップする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>208</PointerOffset>
+      <JapaneseText>イベイジョン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>212</PointerOffset>
+      <JapaneseText>敏捷が＋１５アップする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>248</PointerOffset>
+      <JapaneseText>キャスティング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>252</PointerOffset>
+      <JapaneseText>詠唱が＋３０アップする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>288</PointerOffset>
+      <JapaneseText>バイタリティ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>292</PointerOffset>
+      <JapaneseText>最大ＨＰが５％アップする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>328</PointerOffset>
+      <JapaneseText>ラックプラス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>332</PointerOffset>
+      <JapaneseText>幸運が＋３０アップする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>368</PointerOffset>
+      <JapaneseText>ＨＰブラスター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>372</PointerOffset>
+      <JapaneseText>戦闘開始時から一度のみ、ＨＰが５％以下の状態で秘奥義を発動可能。　
+ただし、戦闘開始時にＨＰが９５％以上あるのが条件</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>408</PointerOffset>
+      <JapaneseText>ライフアップ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>412</PointerOffset>
+      <JapaneseText>戦闘終了後、僅かな確率で最大ＨＰが＋１アップする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>448</PointerOffset>
+      <JapaneseText>ディフェンドＣＶ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>452</PointerOffset>
+      <JapaneseText>術防の５０％の値が、物防に移される</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>488</PointerOffset>
+      <JapaneseText>レジストＣＶ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>492</PointerOffset>
+      <JapaneseText>物防の５０％の値が、術防に移される</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>528</PointerOffset>
+      <JapaneseText>ムーヴＣＶ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>532</PointerOffset>
+      <JapaneseText>詠唱の１０％の値が、敏捷に移される</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>568</PointerOffset>
+      <JapaneseText>キャストＣＶ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>572</PointerOffset>
+      <JapaneseText>敏捷の２５％の値が、詠唱に移される</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>608,728,848,968,1088,1208,1328,1448,1568,1688,1808,1928,2048,2168,2288,2408,2528,2648,2768,2888,3008,3128,3248,3368,3488,3608,3728,3848,3968,4088,4208,4328,4448,4568,4688,4808,4928,5048,5168,5288,5408</PointerOffset>
+      <JapaneseText>アタックプラス１</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>612,732,852,972,1092,1212,1332,1452,1572,1692,1812,1932,2052,2172,2292,2412,2532,2652,2772,2892,3012,3132,3252,3372,3492,3612,3732,3852,3972,4092,4212,4332,4452,4572,4692,4812,4932,5052,5172,5292,5412</PointerOffset>
+      <JapaneseText>通常技が＋１回余分に出せる。　
+通常技ヒット時に増加するＥＢＧが少し増える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>648,768,888,1008,1128,1248,1368,1488,1608,1728,1848,1968,2088,2208,2328,2448,2568,2688,2808,2928,3048,3168,3288,3408,3528,3648,3768,3888,4008,4128,4248,4368,4488,4608,4728,4848,4968,5088,5208,5328,5448</PointerOffset>
+      <JapaneseText>アタックプラス２</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>652,772,892,1012,1132,1252,1372,1492,1612,1732,1852,1972,2092,2212,2332,2452,2572,2692,2812,2932,3052,3172,3292,3412,3532,3652,3772,3892,4012,4132,4252,4372,4492,4612,4732,4852,4972,5092,5212,5332,5452</PointerOffset>
+      <JapaneseText>通常技が＋１回余分に出せる。　
+通常技ヒット時に与えるダメージが少し増える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>688,808,928,1048,1168,1288,1408,1528,1648,1768,1888,2008,2128,2248,2368,2488,2608,2728,2848,2968,3088,3208,3328,3448,3568,3688,3808,3928,4048,4168,4288,4408,4528,4648,4768,4888,5008,5128,5248,5368,5488</PointerOffset>
+      <JapaneseText>アタックプラス３</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>692,812,932,1052,1172,1292,1412,1532,1652,1772,1892,2012,2132,2252,2372,2492,2612,2732,2852,2972,3092,3212,3332,3452,3572,3692,3812,3932,4052,4172,4292,4412,4532,4652,4772,4892,5012,5132,5252,5372,5492</PointerOffset>
+      <JapaneseText>通常技が＋１回余分に出せる。　
+通常技ヒット時にクリティカルが発生し易くなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5528</PointerOffset>
+      <JapaneseText>ＡＤキャンセラー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5532</PointerOffset>
+      <JapaneseText>同名特技同士を連続で２度まで繋げられるようになる。
+この間に、別名の術技を挟むと再度繋げられる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5568,5808,6048,6288,6528,6768,7008,7248,7488,7968,8208,8448,8688,8928,9168,9408,9648,9888,10128,10368,10608,10848,11088,11328,11568,11808,12048,12288,12528,12768,13008,13248,13488,13728,13968,14208,14448,14688,14928</PointerOffset>
+      <JapaneseText>キャンセラー１</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5572,5612,5652,5692,5732,5772,5812,5852,5892,5932,5972,6012,6052,6092,6132,6172,6212,6252,6292,6332,6372,6412,6452,6492,6532,6572,6612,6652,6692,6732,6772,6812,6852,6892,6932,6972,7012,7052,7092,7132,7172,7212,7252,7292,7332,7372,7412,7452,7492,7532,7572,7612,7652,7692,7892,7932,7972,8012,8052,8092,8132,8172,8212,8252,8292,8332,8372,8412,8452,8492,8532,8572,8612,8652,8692,8732,8772,8812,8852,8892,8932,8972,9012,9052,9092,9132,9172,9212,9252,9292,9332,9372,9412,9452,9492,9532,9572,9612,9652,9692,9732,9772,9812,9852,9892,9932,9972,10012,10052,10092,10132,10172,10212,10252,10292,10332,10372,10412,10452,10492,10532,10572,10612,10652,10692,10732,10772,10812,10852,10892,10932,10972,11012,11052,11092,11132,11172,11212,11252,11292,11332,11372,11412,11452,11492,11532,11572,11612,11652,11692,11732,11772,11812,11852,11892,11932,11972,12012,12052,12092,12132,12172,12212,12252,12292,12332,12372,12412,12452,12492,12532,12572,12612,12652,12692,12732,12772,12812,12852,12892,12932,12972,13012,13052,13092,13132,13172,13212,13252,13292,13332,13372,13412,13452,13492,13532,13572,13612,13652,13692,13732,13772,13812,13852,13892,13932,13972,14012,14052,14092,14132,14172,14212,14252,14292,14332,14372,14412,14452,14492,14532,14572,14612,14652,14692,14732,14772,14812,14852,14892,14932,14972,15012,15052,15092,15132</PointerOffset>
+      <JapaneseText>特技同士の連携が＋１回可能になる。　
+ただし、同名特技同士は連携出来ない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5608,5848,6088,6328,6568,6808,7048,7288,7528,8008,8248,8488,8728,8968,9208,9448,9688,9928,10168,10408,10648,10888,11128,11368,11608,11848,12088,12328,12568,12808,13048,13288,13528,13768,14008,14248,14488,14728,14968</PointerOffset>
+      <JapaneseText>キャンセラー２</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5648,5888,6128,6368,6608,6848,7088,7328,7568,8048,8288,8528,8768,9008,9248,9488,9728,9968,10208,10448,10688,10928,11168,11408,11648,11888,12128,12368,12608,12848,13088,13328,13568,13808,14048,14288,14528,14768,15008</PointerOffset>
+      <JapaneseText>キャンセラー３</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5688,5928,6168,6408,6648,6888,7128,7368,7608,8088,8328,8568,8808,9048,9288,9528,9768,10008,10248,10488,10728,10968,11208,11448,11688,11928,12168,12408,12648,12888,13128,13368,13608,13848,14088,14328,14568,14808,15048</PointerOffset>
+      <JapaneseText>キャンセラー４</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5728,5968,6208,6448,6688,6928,7168,7408,7648,7888,8128,8368,8608,8848,9088,9328,9568,9808,10048,10288,10528,10768,11008,11248,11488,11728,11968,12208,12448,12688,12928,13168,13408,13648,13888,14128,14368,14608,14848,15088</PointerOffset>
+      <JapaneseText>キャンセラー５</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5768,6008,6248,6488,6728,6968,7208,7448,7688,7928,8168,8408,8648,8888,9128,9368,9608,9848,10088,10328,10568,10808,11048,11288,11528,11768,12008,12248,12488,12728,12968,13208,13448,13688,13928,14168,14408,14648,14888,15128</PointerOffset>
+      <JapaneseText>キャンセラー６</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7728,20488,20528,20568,20608</PointerOffset>
+      <JapaneseText>ハピネスシングＧＬＤ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7732</PointerOffset>
+      <JapaneseText>戦闘終了時に、１０％の確率で取得ガルドが１０％増加する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7768,20648,20688,20728,20768</PointerOffset>
+      <JapaneseText>ハピネスシングＣＰ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7772</PointerOffset>
+      <JapaneseText>戦闘終了時に、１０％の確率で取得ＣＰが１０％増加する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7808,20368,20408,20448</PointerOffset>
+      <JapaneseText>ハピネスシングＥＸＰ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7812</PointerOffset>
+      <JapaneseText>戦闘終了時に、１０％の確率で取得ＥＸＰが１０％増加する
+（スキル効果はパーティで１つのみ発揮）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7848,24688,24728,24768,24808,24848,24888,24928,24968,25008,25048</PointerOffset>
+      <JapaneseText>ライフリバース</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7852,24692,24732,24772,24812,24852,24892,24932,24972,25012,25052</PointerOffset>
+      <JapaneseText>最後に受けたダメージの半分のＨＰを少しずつ回復する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15168</PointerOffset>
+      <JapaneseText>キャプチャープラス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15172</PointerOffset>
+      <JapaneseText>戦闘リザルトでモンスターを捕獲出来る確率が＋２０％される。
+獣操系コスチュームのみで効果発動</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15208</PointerOffset>
+      <JapaneseText>マネッコプラス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15212</PointerOffset>
+      <JapaneseText>チェインパートナーの持続時間が１０秒延びる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15248</PointerOffset>
+      <JapaneseText>ワンセルフ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15252</PointerOffset>
+      <JapaneseText>戦闘参加人数が１人の時、取得ＥＸＰが３０％増加する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15288</PointerOffset>
+      <JapaneseText>ハイテンション</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15292</PointerOffset>
+      <JapaneseText>あらゆるＥＢＧの減少量が元の９０％になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15328</PointerOffset>
+      <JapaneseText>ラッキーブレイブ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15332</PointerOffset>
+      <JapaneseText>秘奥義を使用した後１０％の確率で
+ＥＢＧが１０〜３０％までランダムで溜まることがある</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15368</PointerOffset>
+      <JapaneseText>１ダメージ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15372</PointerOffset>
+      <JapaneseText>あらゆる攻撃で１ダメージしか与えられなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15408</PointerOffset>
+      <JapaneseText>クリティカル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15412</PointerOffset>
+      <JapaneseText>あらゆる攻撃でクリティカル頻度がアップする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15448</PointerOffset>
+      <JapaneseText>Ｒイース</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15452</PointerOffset>
+      <JapaneseText>ジャンプ着地時の硬直時間が半減する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15488</PointerOffset>
+      <JapaneseText>Ｒキャンセル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15492</PointerOffset>
+      <JapaneseText>高所からの着地をキャンセルして攻撃を出せるようになる。
+ただし、ＥＢＧを５％消費する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15528</PointerOffset>
+      <JapaneseText>タッチダウン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15532</PointerOffset>
+      <JapaneseText>空中にいる間に&lt;icon:40&gt;59)&lt;icon:40&gt;59)と入力すると瞬時に着地できる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15568</PointerOffset>
+      <JapaneseText>ヘッドハンター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15572</PointerOffset>
+      <JapaneseText>敵に対して弓攻撃の気絶属性技で
+気絶させる確率が３０％増加する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15608</PointerOffset>
+      <JapaneseText>リカバリング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15612</PointerOffset>
+      <JapaneseText>ダウン着地の前に &lt;icon:40&gt;50) ボタンを押すと空中で体勢を立て直し
+再度行動が可能な状態になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15648</PointerOffset>
+      <JapaneseText>ノーマルステップ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15652</PointerOffset>
+      <JapaneseText>全てのステップが、敵を追従しない真横への動きとなる。
+これは、スキル「Ａアクション」の挙動も抑制する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15688</PointerOffset>
+      <JapaneseText>ロールステップ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15692</PointerOffset>
+      <JapaneseText>エイミングステップをターゲットの反対側へ
+ワープするステップに変化する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15728</PointerOffset>
+      <JapaneseText>Ａアクション</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15732</PointerOffset>
+      <JapaneseText>二段ジャンプと
+空中の敵を追いかけるステップが出来るようになる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15768</PointerOffset>
+      <JapaneseText>ヘヴィショット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15772</PointerOffset>
+      <JapaneseText>攻撃した際に敵の仰け反り時間が少しアップする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15808</PointerOffset>
+      <JapaneseText>チキンラン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>85</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15812</PointerOffset>
+      <JapaneseText>逃走までの時間が１秒短縮される</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15848</PointerOffset>
+      <JapaneseText>オールチェック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15852</PointerOffset>
+      <JapaneseText>一枚のスペクタクルズで全ての敵を調べることが出来る</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15888</PointerOffset>
+      <JapaneseText>プッシュガード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15892</PointerOffset>
+      <JapaneseText>物理防御中に &lt;icon:40&gt;50) ボタンを連打することで回数に応じて
+発動確率が上昇し、発動時は敵を弾き返す</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15928</PointerOffset>
+      <JapaneseText>ヘヴィウェイト１</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>91</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15932</PointerOffset>
+      <JapaneseText>身体が重くなり吹き飛びにくくなる。（ヘヴィウェイト２と重複可）
+スキルを外さない限りあらゆる回復手段を使っても消すことが出来ない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>92</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15968</PointerOffset>
+      <JapaneseText>ヘヴィウェイト２</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>93</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15972</PointerOffset>
+      <JapaneseText>身体が重くなり吹き飛びにくくなる。（ヘヴィウェイト１と重複可）
+スキルを外さない限りあらゆる回復手段を使っても消すことは出来ない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>94</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16008</PointerOffset>
+      <JapaneseText>ガーディングスキル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>95</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16012</PointerOffset>
+      <JapaneseText>敵の攻撃を連続でガードした時にガードクラッシュされにくくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>96</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16048</PointerOffset>
+      <JapaneseText>マジックガード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>97</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16052</PointerOffset>
+      <JapaneseText> &lt;icon:40&gt;50) ＋ &lt;icon:40&gt;59) でマジックガードを使え、術ダメージが１／４になる。　
+押し続けるとＥＢＧを消費しつつ持続、１０％以下で消滅する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>98</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16088</PointerOffset>
+      <JapaneseText>マジックウェルガード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>99</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16092</PointerOffset>
+      <JapaneseText>マジックガード時の消費ＥＢＧを半分にする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>100</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16128</PointerOffset>
+      <JapaneseText>エンデューロ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>101</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16132</PointerOffset>
+      <JapaneseText>ダメージを受けた際の仰け反り時間が半減する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>102</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16168</PointerOffset>
+      <JapaneseText>グローリー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>103</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16172</PointerOffset>
+      <JapaneseText>地に足がついている状態でのみ、全ての攻撃に対して仰け反らなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>104</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16208</PointerOffset>
+      <JapaneseText>リコール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>105</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16212</PointerOffset>
+      <JapaneseText>戦闘不能になった際に１０％の確率で自動復活する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>106</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16248</PointerOffset>
+      <JapaneseText>ラッキーコール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>107</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16252</PointerOffset>
+      <JapaneseText>戦闘不能になった際に幸運値が９０以上あれば１０％の確率で自動
+復活する。確率は９０を超えた幸運値１に対して１％ずつアップする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>108</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16288</PointerOffset>
+      <JapaneseText>Ｂクリティカルレイジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>109</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16292</PointerOffset>
+      <JapaneseText>オーバーブレイブ状態の際にクリティカルが発生しやすくなる。　
+ただし、あらゆるＥＢＧの増加量が１/２になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>110</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16328</PointerOffset>
+      <JapaneseText>Ｂクールマインド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>111</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16332</PointerOffset>
+      <JapaneseText>オーバーブレイブ状態の際にあらゆるＥＢＧの増加が
+１０％増加する。ただし、全ステータスが２０％減少する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>112</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16368</PointerOffset>
+      <JapaneseText>Ｂコントロール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>113</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16372</PointerOffset>
+      <JapaneseText>オーバーブレイブ中にアップする行動速度を５０％和らげる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>114</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16408</PointerOffset>
+      <JapaneseText>ＢオーバーボーナスＨ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>115</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16412</PointerOffset>
+      <JapaneseText>オーバーキルで敵を撃破すると、
+HPが５０％回復する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16448</PointerOffset>
+      <JapaneseText>ＢオーバーボーナスＩ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16452</PointerOffset>
+      <JapaneseText>オーバーキル開始からコンボ数を＋１０以上増やした後に
+戦闘に勝利すると、リザルトでレアアイテムドロップ率が２倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16488</PointerOffset>
+      <JapaneseText>ＢオーバーボーナスＧ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16492</PointerOffset>
+      <JapaneseText>オーバーキル開始からコンボ数を＋１０以上増やした後に
+戦闘に勝利すると、リザルトで取得グレードが２倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16528</PointerOffset>
+      <JapaneseText>エンドレスパレード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16532</PointerOffset>
+      <JapaneseText>オーバーキル開始からコンボ数を＋１０以上増やすと
+オーバーブレイブ終了直後、ＥＢＧが５０％の状態になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16568</PointerOffset>
+      <JapaneseText>カウンターアタック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>123</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16572</PointerOffset>
+      <JapaneseText>物理防御中に &lt;icon:40&gt;50) ボタンを連打することで回数に応じて
+発動確率が上昇し、発動時、敵に即座に反撃する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>124</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16608</PointerOffset>
+      <JapaneseText>Ｂチェインセンス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>125</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16612</PointerOffset>
+      <JapaneseText>オーバーブレイブ中に特技・奥義を自由に連携できる様になる。
+ただし、同名特技同士は連携出来ない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>126</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16648</PointerOffset>
+      <JapaneseText>スペルエンド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>127</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16652</PointerOffset>
+      <JapaneseText>術発動後の硬直時間を半減する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>128</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16688</PointerOffset>
+      <JapaneseText>グレイス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>129</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16692</PointerOffset>
+      <JapaneseText>詠唱中にダメージを受けても、仰け反らなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>130</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16728</PointerOffset>
+      <JapaneseText>炎属性武器</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>131</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16732</PointerOffset>
+      <JapaneseText>武器を使っての攻撃に炎属性が付与される</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>132</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16768</PointerOffset>
+      <JapaneseText>水属性武器</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>133</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16772</PointerOffset>
+      <JapaneseText>武器を使っての攻撃に水属性が付与される</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>134</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16808</PointerOffset>
+      <JapaneseText>風属性武器</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>135</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16812</PointerOffset>
+      <JapaneseText>武器を使っての攻撃に風属性が付与される</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>136</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16848</PointerOffset>
+      <JapaneseText>地属性武器</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>137</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16852</PointerOffset>
+      <JapaneseText>武器を使っての攻撃に地属性が付与される</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>138</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16888</PointerOffset>
+      <JapaneseText>光属性武器</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>139</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16892</PointerOffset>
+      <JapaneseText>武器を使っての攻撃に光属性が付与される</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>140</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16928</PointerOffset>
+      <JapaneseText>闇属性武器</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>141</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16932</PointerOffset>
+      <JapaneseText>武器を使っての攻撃に闇属性が付与される</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>142</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16968</PointerOffset>
+      <JapaneseText>雷属性武器</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>143</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16972</PointerOffset>
+      <JapaneseText>武器を使っての攻撃に雷属性が付与される</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>144</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17008</PointerOffset>
+      <JapaneseText>炎属性付与（時間）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>145</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17012</PointerOffset>
+      <JapaneseText>武器を使っての攻撃に炎属性が付与される。
+効果時間は使用者のレベルによって変化する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>146</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17048</PointerOffset>
+      <JapaneseText>水属性付与（時間）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>147</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17052</PointerOffset>
+      <JapaneseText>武器を使っての攻撃に水属性が付与される。
+効果時間は使用者のレベルによって変化する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>148</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17088</PointerOffset>
+      <JapaneseText>風属性付与（時間）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>149</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17092</PointerOffset>
+      <JapaneseText>武器を使っての攻撃に風属性が付与される。
+効果時間は使用者のレベルによって変化する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>150</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17128</PointerOffset>
+      <JapaneseText>地属性付与（時間）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>151</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17132</PointerOffset>
+      <JapaneseText>武器を使っての攻撃に地属性が付与される。
+効果時間は使用者のレベルによって変化する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>152</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17168</PointerOffset>
+      <JapaneseText>光属性付与（時間）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>153</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17172</PointerOffset>
+      <JapaneseText>武器を使っての攻撃に光属性が付与される。
+効果時間は使用者のレベルによって変化する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>154</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17208</PointerOffset>
+      <JapaneseText>闇属性付与（時間）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>155</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17212</PointerOffset>
+      <JapaneseText>武器を使っての攻撃に闇属性が付与される。
+効果時間は使用者のレベルによって変化する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>156</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17248</PointerOffset>
+      <JapaneseText>雷属性付与（時間）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>157</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17252</PointerOffset>
+      <JapaneseText>武器を使っての攻撃に雷属性が付与される。
+効果時間は使用者のレベルによって変化する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>158</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17288</PointerOffset>
+      <JapaneseText>火属性耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>159</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17292</PointerOffset>
+      <JapaneseText>火属性攻撃のダメージを５０％軽減する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>160</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17328</PointerOffset>
+      <JapaneseText>水属性耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>161</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17332</PointerOffset>
+      <JapaneseText>水属性攻撃のダメージを５０％軽減する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>162</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17368</PointerOffset>
+      <JapaneseText>風属性耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>163</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17372</PointerOffset>
+      <JapaneseText>風属性攻撃のダメージを５０％軽減する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>164</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17408</PointerOffset>
+      <JapaneseText>地属性耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>165</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17412</PointerOffset>
+      <JapaneseText>地属性攻撃のダメージを５０％軽減する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>166</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17448</PointerOffset>
+      <JapaneseText>光属性耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>167</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17452</PointerOffset>
+      <JapaneseText>光属性攻撃のダメージを５０％軽減する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>168</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17488</PointerOffset>
+      <JapaneseText>闇属性耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>169</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17492</PointerOffset>
+      <JapaneseText>闇属性攻撃のダメージを５０％軽減する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>170</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17528</PointerOffset>
+      <JapaneseText>雷属性耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>171</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17532</PointerOffset>
+      <JapaneseText>雷属性攻撃のダメージを５０％軽減する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>172</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17568</PointerOffset>
+      <JapaneseText>複数属性耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>173</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17572</PointerOffset>
+      <JapaneseText>闇属性攻撃のダメージを７０％軽減
+火水地風属性攻撃のダメージを２０％軽減する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>174</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17608</PointerOffset>
+      <JapaneseText>火属性抵抗</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>175</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17612</PointerOffset>
+      <JapaneseText>火属性攻撃のダメージを３０％の確率で無効化する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>176</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17648</PointerOffset>
+      <JapaneseText>水属性抵抗</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>177</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17652</PointerOffset>
+      <JapaneseText>水属性攻撃のダメージを３０％の確率で無効化する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>178</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17688</PointerOffset>
+      <JapaneseText>風属性抵抗</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>179</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17692</PointerOffset>
+      <JapaneseText>風属性攻撃のダメージを３０％の確率で無効化する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>180</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17728</PointerOffset>
+      <JapaneseText>地属性抵抗</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>181</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17732</PointerOffset>
+      <JapaneseText>地属性攻撃のダメージを３０％の確率で無効化する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>182</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17768</PointerOffset>
+      <JapaneseText>光属性抵抗</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>183</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17772</PointerOffset>
+      <JapaneseText>光属性攻撃のダメージを３０％の確率で無効化する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>184</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17808</PointerOffset>
+      <JapaneseText>闇属性抵抗</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>185</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17812</PointerOffset>
+      <JapaneseText>闇属性攻撃のダメージを３０％の確率で無効化する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>186</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17848</PointerOffset>
+      <JapaneseText>雷属性抵抗</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>187</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17852</PointerOffset>
+      <JapaneseText>雷属性攻撃のダメージを３０％の確率で無効化する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>188</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17888</PointerOffset>
+      <JapaneseText>ＥＢＧエコノミー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>189</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17892</PointerOffset>
+      <JapaneseText>術技によるＥＢＧ消費量を３０％軽減する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>190</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17928</PointerOffset>
+      <JapaneseText>熱毒耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>191</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17932</PointerOffset>
+      <JapaneseText>熱毒にかからなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>192</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17968</PointerOffset>
+      <JapaneseText>麻痺耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>193</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17972</PointerOffset>
+      <JapaneseText>麻痺にかからなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>194</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18008</PointerOffset>
+      <JapaneseText>石化耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>195</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18012</PointerOffset>
+      <JapaneseText>石化にかからなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>196</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18048</PointerOffset>
+      <JapaneseText>睡眠耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>197</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18052</PointerOffset>
+      <JapaneseText>睡眠にかからなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>198</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18088</PointerOffset>
+      <JapaneseText>沈黙耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>199</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18092</PointerOffset>
+      <JapaneseText>沈黙にかからなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>200</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18128</PointerOffset>
+      <JapaneseText>暗闇耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>201</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18132</PointerOffset>
+      <JapaneseText>暗闇にかからなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>202</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18168</PointerOffset>
+      <JapaneseText>全状態異常耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>203</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18172</PointerOffset>
+      <JapaneseText>全状態異常にかからなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>204</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18208</PointerOffset>
+      <JapaneseText>全状態異常軽減</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>205</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18212</PointerOffset>
+      <JapaneseText>全状態異常持続時間を半分にする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>206</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18248</PointerOffset>
+      <JapaneseText>全状態変化耐性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>207</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18252</PointerOffset>
+      <JapaneseText>全状態変化にかからなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>208</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18288</PointerOffset>
+      <JapaneseText>全状態変化軽減</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>209</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18292</PointerOffset>
+      <JapaneseText>全状態変化持続時間を半分にする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>210</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18328</PointerOffset>
+      <JapaneseText>ＨＰアブソーブ（小）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>211</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18332</PointerOffset>
+      <JapaneseText>与えたダメージの１％のＨＰを回復する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>212</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18368</PointerOffset>
+      <JapaneseText>ＨＰアブソーブ（大）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>213</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18372</PointerOffset>
+      <JapaneseText>与えたダメージの３％のＨＰを回復する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>214</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18408</PointerOffset>
+      <JapaneseText>ＥＢＧボーナス（小）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>215</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18412</PointerOffset>
+      <JapaneseText>攻撃によって増加したＥＢＧに＋１０％のＥＢＧを上乗せする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>216</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18448</PointerOffset>
+      <JapaneseText>ＥＢＧボーナス（大）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>217</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18452</PointerOffset>
+      <JapaneseText>攻撃によって増加したＥＢＧに＋２０％のＥＢＧを上乗せする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>218</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18488</PointerOffset>
+      <JapaneseText>ＨＰリジェネ（小）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>219</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18492</PointerOffset>
+      <JapaneseText>５秒に１回、最大ＨＰの１％が自動で回復する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>220</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18528</PointerOffset>
+      <JapaneseText>ＨＰリジェネ（大）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>221</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18532</PointerOffset>
+      <JapaneseText>２.５秒に１回、最大ＨＰの１％が自動で回復する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>222</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18568</PointerOffset>
+      <JapaneseText>ＥＢＧリジェネ（小）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>223</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18572</PointerOffset>
+      <JapaneseText>５秒に１回、最大ＥＢＧの１％が自動で回復する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>224</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18608</PointerOffset>
+      <JapaneseText>ＥＢＧリジェネ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>225</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18612</PointerOffset>
+      <JapaneseText>２.５秒に１回、最大ＥＢＧの１％が自動で回復する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>226</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18648</PointerOffset>
+      <JapaneseText>ピヨハンスペック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>227</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18652</PointerOffset>
+      <JapaneseText>気絶発生時、気絶時間が半分になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>228</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18688</PointerOffset>
+      <JapaneseText>ハピネスドロップ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>229</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18692</PointerOffset>
+      <JapaneseText>戦闘終了後にレアアイテムをドロップする確率が２倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>230</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18728</PointerOffset>
+      <JapaneseText>クールマインド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>231</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18732</PointerOffset>
+      <JapaneseText>術技で消費するＥＢＧを１５％軽減する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>232</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18768</PointerOffset>
+      <JapaneseText>アンチＴＢ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>233</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18772</PointerOffset>
+      <JapaneseText>トラクタービームの効果を受けなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>234</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18808</PointerOffset>
+      <JapaneseText>悪魔との契約</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>235</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18812</PointerOffset>
+      <JapaneseText>戦闘終了後の獲得経験値が２倍となり
+戦闘中に通常技しか使えなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>236</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18848</PointerOffset>
+      <JapaneseText>クリティカルレイジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>237</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18852</PointerOffset>
+      <JapaneseText>クリティカルが少し発生しやすくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>238</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18888</PointerOffset>
+      <JapaneseText>スリーピィスラスト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>239</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18892</PointerOffset>
+      <JapaneseText>「物理」属性の攻撃に１０％の確率で「睡眠」の状態異常を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>240</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18928</PointerOffset>
+      <JapaneseText>パラライスラスト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>241</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18932</PointerOffset>
+      <JapaneseText>「斬」属性の攻撃に１０％の確率で「麻痺」の状態異常を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>242</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18968</PointerOffset>
+      <JapaneseText>パララィブロウ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>243</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18972</PointerOffset>
+      <JapaneseText>「殴」属性の攻撃に１０％の確率で「麻痺」の状態異常を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>244</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19008</PointerOffset>
+      <JapaneseText>ストーンブロウ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>245</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19012</PointerOffset>
+      <JapaneseText>「殴」属性の攻撃に１０％の確率で「石化」の状態異常を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>246</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19048</PointerOffset>
+      <JapaneseText>ディレイショット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>247</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19052</PointerOffset>
+      <JapaneseText>「射」属性の攻撃に１０％の確率で「敏捷低下」の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>248</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19088</PointerOffset>
+      <JapaneseText>ドレインショット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>249</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19092</PointerOffset>
+      <JapaneseText>「射」属性の攻撃を当てた際に与えたダメージの１％を
+自身のＨＰに還元する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>250</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19128</PointerOffset>
+      <JapaneseText>ポイズンスペル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>251</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19132</PointerOffset>
+      <JapaneseText>「火」属性の攻撃に１０％の確率で「熱毒」の状態異常を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>252</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19168</PointerOffset>
+      <JapaneseText>シャープスペル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>253</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19172</PointerOffset>
+      <JapaneseText>「水」属性の攻撃に１０％の確率で
+「ＥＢＧ消費量１０％軽減」の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>254</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19208</PointerOffset>
+      <JapaneseText>ウィンドスペル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>255</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19212</PointerOffset>
+      <JapaneseText>「風」属性の攻撃に１０％の確率で「詠唱＋５」の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>256</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19248</PointerOffset>
+      <JapaneseText>ストップスペル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>257</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19252</PointerOffset>
+      <JapaneseText>「地」属性の攻撃に１０％の確率で「停止」の状態異常を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>258</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19288</PointerOffset>
+      <JapaneseText>サンダースペル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>259</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19292</PointerOffset>
+      <JapaneseText>「雷」属性の攻撃に１０％の確率で「麻痺」の状態異常を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>260</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19328</PointerOffset>
+      <JapaneseText>リジェネスペル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>261</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19332</PointerOffset>
+      <JapaneseText>「光」属性の回復術に１０％の確率で「加護」の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>262</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19368</PointerOffset>
+      <JapaneseText>シャドウスペル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>263</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19372</PointerOffset>
+      <JapaneseText>「闇」属性の攻撃に１０％の確率で「暗闇」の状態異常を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>264</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19408</PointerOffset>
+      <JapaneseText>ファイアサポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>265</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19412</PointerOffset>
+      <JapaneseText>「火」攻撃属性付与の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>266</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19448</PointerOffset>
+      <JapaneseText>アクアサポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>267</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19452</PointerOffset>
+      <JapaneseText>「水」攻撃属性付与の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>268</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19488</PointerOffset>
+      <JapaneseText>ウィンドサポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>269</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19492</PointerOffset>
+      <JapaneseText>「風」攻撃属性付与の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>270</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19528</PointerOffset>
+      <JapaneseText>ガイアサポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>271</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19532</PointerOffset>
+      <JapaneseText>「地」攻撃属性付与の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>272</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19568</PointerOffset>
+      <JapaneseText>サンダーサポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>273</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19572</PointerOffset>
+      <JapaneseText>「雷」攻撃属性付与の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>274</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19608</PointerOffset>
+      <JapaneseText>ライトサポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>275</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19612</PointerOffset>
+      <JapaneseText>「光」攻撃属性付与の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>276</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19648</PointerOffset>
+      <JapaneseText>ダークサポート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>277</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19652</PointerOffset>
+      <JapaneseText>「闇」攻撃属性付与の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>278</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19688</PointerOffset>
+      <JapaneseText>ファイアコート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>279</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19692</PointerOffset>
+      <JapaneseText>「火」耐性変化の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>280</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19728</PointerOffset>
+      <JapaneseText>アクアコート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>281</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19732</PointerOffset>
+      <JapaneseText>「水」耐性変化の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>282</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19768</PointerOffset>
+      <JapaneseText>ウィンドコート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>283</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19772</PointerOffset>
+      <JapaneseText>「風」耐性変化の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>284</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19808</PointerOffset>
+      <JapaneseText>ガイアコート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>285</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19812</PointerOffset>
+      <JapaneseText>「地」耐性変化の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>286</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19848</PointerOffset>
+      <JapaneseText>サンダーコート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>287</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19852</PointerOffset>
+      <JapaneseText>「雷」耐性変化の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>288</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19888</PointerOffset>
+      <JapaneseText>ライトコート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>289</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19892</PointerOffset>
+      <JapaneseText>「光」耐性変化の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>290</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19928</PointerOffset>
+      <JapaneseText>ダークコート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>291</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19932</PointerOffset>
+      <JapaneseText>「闇」耐性変化の状態変化を与える</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>292</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19968</PointerOffset>
+      <JapaneseText>デモノイドコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>293</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19972</PointerOffset>
+      <JapaneseText>「亜人」に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>294</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20008</PointerOffset>
+      <JapaneseText>ビーストマンコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>295</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20012</PointerOffset>
+      <JapaneseText>「獣人」に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>296</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20048</PointerOffset>
+      <JapaneseText>エレメントコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>297</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20052</PointerOffset>
+      <JapaneseText>「精霊」に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>298</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20088</PointerOffset>
+      <JapaneseText>レプタイルコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>299</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20092</PointerOffset>
+      <JapaneseText>「爬虫類」に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>300</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20128</PointerOffset>
+      <JapaneseText>アンデッドコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>301</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20132</PointerOffset>
+      <JapaneseText>「不死者」に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>302</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20168</PointerOffset>
+      <JapaneseText>イージーキャッチ１５</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>303</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20172</PointerOffset>
+      <JapaneseText>アクセサリ専用スキル：捕獲確率＋１５％</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>304</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20208</PointerOffset>
+      <JapaneseText>イージーキャッチ３０</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>305</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20212</PointerOffset>
+      <JapaneseText>アクセサリ専用スキル：捕獲確率＋３０％</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>306</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20248</PointerOffset>
+      <JapaneseText>イージーキャッチ４５</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>307</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20252</PointerOffset>
+      <JapaneseText>アクセサリ専用スキル：捕獲確率＋４５％</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>308</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20288</PointerOffset>
+      <JapaneseText>イージーキャッチ６０</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>309</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20292</PointerOffset>
+      <JapaneseText>アクセサリ専用スキル：捕獲確率＋６０％</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>310</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20328</PointerOffset>
+      <JapaneseText>イージーキャッチＭ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>311</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20332</PointerOffset>
+      <JapaneseText>アクセサリ専用スキル：捕獲確率＋１００％</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>312</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20372,20412,20452</PointerOffset>
+      <JapaneseText>戦闘終了時に１０％の確率で取得ＥＸＰが１０％増加する
+（スキル効果はパーティで１つのみ発揮）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>313</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20492,20532,20572</PointerOffset>
+      <JapaneseText>戦闘終了時に１０％の確率で取得ガルドが１０％増加する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>314</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20612</PointerOffset>
+      <JapaneseText>戦闘終了時に取得ガルドが５０％増加する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>315</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20652,20692,20732,20772</PointerOffset>
+      <JapaneseText>戦闘終了時に１０％の確率で取得ＣＰが１０％増加する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>316</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20808,20848,20888,20928,20968,21008,21048</PointerOffset>
+      <JapaneseText>クリティカルブレイク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>317</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20812,20852,20892,20932,20972,21012,21052</PointerOffset>
+      <JapaneseText>ガードしている敵を攻撃した際にガードブレイクさせやすくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>318</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21088,21168,21368,21408,21448,21488,21528,21568</PointerOffset>
+      <JapaneseText>グッドジョブ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>319</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21092,21172,21372,21412,21452,21492,21532,21572</PointerOffset>
+      <JapaneseText>アイテムを使用した際の硬直時間が３０％減少する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>320</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21128,21848,21888,21928,21968,22008,22048,22088,22128,22168</PointerOffset>
+      <JapaneseText>ウェルガード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>321</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21132,21852,21892,21932,21972,22012,22052,22092,22132,22172</PointerOffset>
+      <JapaneseText>ガード時のダメージ軽減率が１０％増加する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>322</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21208,24568,24608,24648</PointerOffset>
+      <JapaneseText>ガーディアン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>323</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21212,24572,24612,24652</PointerOffset>
+      <JapaneseText>味方のガード時のダメージが１０％減少、自分は１０％増加。
+複数持つキャラがいる時パーティトップに近い一人が効果を発動</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>324</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21248,21288,21328</PointerOffset>
+      <JapaneseText>パワーストレンジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>325</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21252,21292,21332</PointerOffset>
+      <JapaneseText>飛び道具系の通常技が２回ヒットするまで消滅しないようになる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>326</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21608,21648,21688,21728,21768,21808</PointerOffset>
+      <JapaneseText>ラッキーアイテム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>327</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21612,21652,21692,21732,21772,21812</PointerOffset>
+      <JapaneseText>アイテム使用した際に１０％の確率で
+使用したアイテムを消費しない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>328</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22208,22248,22288,22328,22368,22408,22448,22488,22528</PointerOffset>
+      <JapaneseText>イミュニティ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>329</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22212,22252,22292,22332,22372,22412,22452,22492,22532</PointerOffset>
+      <JapaneseText>あらゆる状態異常になる確率が１０％減少する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>330</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22568,22608,22648,22688,22728,22768,22808,22848</PointerOffset>
+      <JapaneseText>クラッシュステップ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>331</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22572,22612,22652,22692,22732,22772,22812,22852</PointerOffset>
+      <JapaneseText>前進ステップ系行動に攻撃判定が付く。
+与えるダメージは１固定。敵をガードブレイクさせやすくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>332</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22888,22928,22968,23008,23048,23088,23128,23168,23208,23248,23288</PointerOffset>
+      <JapaneseText>スタンディングガード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>333</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22892,22932,22972,23012,23052,23092,23132,23172,23212,23252,23292</PointerOffset>
+      <JapaneseText>起き上がり後に＋１秒間鋼体の効果を得る</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>334</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23328,23368,23408,23448,23488,23528,23568,23608,23648</PointerOffset>
+      <JapaneseText>パリィ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>335</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23332,23372,23412,23452,23492,23532,23572,23612,23652</PointerOffset>
+      <JapaneseText>物攻からのダメージが１０％の確率で１になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>336</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23688,23728,23768,23808,23848,23888,23928,23968,24008,24048</PointerOffset>
+      <JapaneseText>マジックパリィ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>337</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23692,23732,23772,23812,23852,23892,23932,23972,24012,24052</PointerOffset>
+      <JapaneseText>術攻からのダメージが１０％の確率で１になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>338</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24088,24128,24168,24208,24248,24288,24328</PointerOffset>
+      <JapaneseText>ステップアウェイ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>339</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24092,24132,24172,24212,24252,24292,24332</PointerOffset>
+      <JapaneseText>バックステップ中に攻撃を受けても仰け反らなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>340</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24368,24408,24448,24488,24528</PointerOffset>
+      <JapaneseText>Ａアーマー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>341</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24372,24412,24452,24492,24532</PointerOffset>
+      <JapaneseText>ジャンプ中に攻撃を受けても仰け反らなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>342</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25088,25128,25168,25208,25248</PointerOffset>
+      <JapaneseText>クリティカルリカバー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>343</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25092,25132,25172,25212,25252</PointerOffset>
+      <JapaneseText>クリティカルダメージを与えた際に
+ＨＰが１〜５％ランダムで回復する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>344</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25288,25328,25368</PointerOffset>
+      <JapaneseText>ヒールサプライ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>345</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25292,25332,25372</PointerOffset>
+      <JapaneseText>治癒術で仲間を回復させた際に
+自身も１〜５％ランダムで回復する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>346</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25408,25448,25488,25528,25568,25608</PointerOffset>
+      <JapaneseText>サポートエターナル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>347</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25412,25452,25492,25532,25572,25612</PointerOffset>
+      <JapaneseText>自分の使った状態変化の効果時間が１０％の確率で
+戦闘が終了するまで続く</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>348</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25648,25688</PointerOffset>
+      <JapaneseText>ヒーリングアーツ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>349</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25652,25692</PointerOffset>
+      <JapaneseText>法術を使用した際に１０％の確率でＥＢＧを全く消費しない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>350</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25728,25768,25808,25848,25888,25928,25968,26008,26048,26088</PointerOffset>
+      <JapaneseText>ルーズレスソウル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>351</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25732,25772,25812,25852,25892,25932,25972,26012,26052,26092</PointerOffset>
+      <JapaneseText>ダウンした際に最大ＥＢＧの５〜１５％回復する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>352</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26128,26168,26208,26248,26288,26328,26368,26408</PointerOffset>
+      <JapaneseText>スピリットアブソート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>353</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26132,26172,26212,26252,26292,26332,26372,26412</PointerOffset>
+      <JapaneseText>術ダメージを受けた際に１０％の確率で自分のＥＢＧが回復する。
+ＥＢＧの回復量は受けた術のＥＢＧ消費量となる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>354</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26448,26488,26528,26568,26608,26648,26688</PointerOffset>
+      <JapaneseText>ホーリィソウル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>355</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26452,26492,26532,26572,26612,26652,26692</PointerOffset>
+      <JapaneseText>戦闘不能から復活した際に
+どんな復活手段であってもＨＰが完全回復する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>356</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26728,26768,26808,26848,26888,26928,26968,27008,27048,27088</PointerOffset>
+      <JapaneseText>Ｂボディ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>357</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26732,26772,26812,26852,26892,26932,26972,27012,27052,27092</PointerOffset>
+      <JapaneseText>オーバーブレイブ中に攻撃を受けても
+５０％の確率で仰け反らなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>358</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27128,27168,27208,27248</PointerOffset>
+      <JapaneseText>Ｂコンセントレート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>359</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27132,27172,27212,27252</PointerOffset>
+      <JapaneseText>オーバーブレイブ中に気絶状態にならなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>360</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27288,27328,27368,27408,27448,27488</PointerOffset>
+      <JapaneseText>エンドラッキー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>361</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27292,27332,27372,27412,27452,27492</PointerOffset>
+      <JapaneseText>術発動時に３０％の確率で発動後の硬直時間が無くなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>362</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27528,27568,27608,27648,27688,27728</PointerOffset>
+      <JapaneseText>エクステンドスペル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>363</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27532,27572</PointerOffset>
+      <JapaneseText>詠唱が完了してもボタンを押し続けることで、
+ＥＢＧが増加する。２倍以上のＥＢＧを溜められない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>364</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27612,27652,27692,27732</PointerOffset>
+      <JapaneseText>詠唱が完了してもボタンを押し続けることで、
+術性能をアップする。２倍以上のＥＢＧを溜められない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>365</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27768,27808,27848,27888,27928,27968,28008</PointerOffset>
+      <JapaneseText>ガーディングキャスト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>366</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27772,27812,27852,27892,27932,27972,28012</PointerOffset>
+      <JapaneseText>詠唱中に攻撃を受けても３０％の確率で仰け反らなくなる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>367</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28048,28088,28128,28168,28208</PointerOffset>
+      <JapaneseText>熱毒効果武器</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>368</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28052,28092,28132,28172,28212</PointerOffset>
+      <JapaneseText>武器を使っての攻撃に３％の確率で熱毒効果が付与される</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>369</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28248,28288,28328,28368,28408,28448,28488,28528,28568</PointerOffset>
+      <JapaneseText>熱毒軽減</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>370</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28252,28292,28332,28372,28412,28452,28492,28532,28572</PointerOffset>
+      <JapaneseText>熱毒持続時間を半分にする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>371</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28608,28648,28688,28728,28768,28808,28848,28888,28928,28968</PointerOffset>
+      <JapaneseText>麻痺軽減</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>372</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28612,28652,28692,28732,28772,28812,28852,28892,28932,28972</PointerOffset>
+      <JapaneseText>麻痺持続時間を半分にする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>373</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29008,29048,29088,29128,29168,29208,29248,29288,29328,29368,29408,29448,29488</PointerOffset>
+      <JapaneseText>石化軽減</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>374</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29012,29052,29092,29132,29172,29212,29252,29292,29332,29372,29412,29452,29492</PointerOffset>
+      <JapaneseText>石化持続時間を半分にする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>375</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29528,29568,29608,29648,29688,29728,29768,29808,29848,29888,29928,29968</PointerOffset>
+      <JapaneseText>睡眠軽減</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>376</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29532,29572,29612,29652,29692,29732,29772,29812,29852,29892,29932,29972</PointerOffset>
+      <JapaneseText>睡眠持続時間を半分にする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>377</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30008,30048,30088,30128,30168,30208,30248,30288</PointerOffset>
+      <JapaneseText>封印軽減</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>378</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30012,30052,30092,30132,30172,30212,30252,30292</PointerOffset>
+      <JapaneseText>封印持続時間を半分にする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>379</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30328,30368,30408,30448,30488,30528,30568,30608,30648,30688,30728,30768,30808,30848,30888</PointerOffset>
+      <JapaneseText>暗闇軽減</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>380</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30332,30372,30412,30452,30492,30532,30572,30612,30652,30692,30732,30772,30812,30852,30892</PointerOffset>
+      <JapaneseText>暗闇持続時間を半分にする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>381</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30928,30968,31008</PointerOffset>
+      <JapaneseText>ウェルプッシュ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>382</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30932,30972,31012</PointerOffset>
+      <JapaneseText>プッシュガードの発動確率が１.２倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>383</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31048,31088,31128</PointerOffset>
+      <JapaneseText>スカイコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>384</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31052,31092,31132</PointerOffset>
+      <JapaneseText>空の敵に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>385</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31168,31208,31248,31288</PointerOffset>
+      <JapaneseText>デモンズコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>386</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31172,31212,31252,31292</PointerOffset>
+      <JapaneseText>悪魔系に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>387</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31328,31368,31408</PointerOffset>
+      <JapaneseText>アニマルコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>388</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31332,31372,31412</PointerOffset>
+      <JapaneseText>「獣」に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>389</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31448,31488,31528</PointerOffset>
+      <JapaneseText>インセクトコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>390</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31452,31492,31532</PointerOffset>
+      <JapaneseText>「昆虫類」に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>391</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31568,31608</PointerOffset>
+      <JapaneseText>コンポーズコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>392</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31572,31612</PointerOffset>
+      <JapaneseText>「合成生物」に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>393</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31648,31688</PointerOffset>
+      <JapaneseText>プラントコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>394</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31652,31692</PointerOffset>
+      <JapaneseText>「植物」に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>395</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31728,31768</PointerOffset>
+      <JapaneseText>アクアコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>396</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31732,31772</PointerOffset>
+      <JapaneseText>「水棲生物」に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>397</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31808,31848</PointerOffset>
+      <JapaneseText>ヒューマンコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>398</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31812,31852</PointerOffset>
+      <JapaneseText>「人型」に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>399</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31888,31928</PointerOffset>
+      <JapaneseText>スライムコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>400</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31892,31932</PointerOffset>
+      <JapaneseText>「不定形」に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>401</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31968,32008,32048</PointerOffset>
+      <JapaneseText>ミネラルコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>402</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31972,32012,32052</PointerOffset>
+      <JapaneseText>「無機物」に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>403</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32088,32128</PointerOffset>
+      <JapaneseText>ドラゴンコンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>404</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32092,32132</PointerOffset>
+      <JapaneseText>「竜族」に対して物理ダメージが１.５倍になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>405</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32168</PointerOffset>
+      <JapaneseText>ＥＢＧエコノミーF</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>406</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32172</PointerOffset>
+      <JapaneseText>術技によるＥＢＧ消費量を２０％軽減する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>407</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32208</PointerOffset>
+      <JapaneseText>ＥＢＧエコノミーE</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>408</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32212</PointerOffset>
+      <JapaneseText>術技によるＥＢＧ消費量を１０％軽減する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>409</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32248</PointerOffset>
+      <JapaneseText>ＥＢＧエコノミーT</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>410</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>

@@ -46,10 +46,14 @@ class Fps4():
 
             self.files = []
 
+            pos = f_header.tell()
+            f_header.seek(0x1C)
+            self.first_offset = f_header.read_uint32()
+            f_header.seek(pos)
 
-            if self.offset == 0x0:
-                self.pack_file = self.pack_fps4_type1
+            self.pack_file = self.pack_fps4_type1
 
+            if self.first_offset > 0:
                 if self.block_size == 0x2C:
                     self.read_more = True
                     self.extract_type1_fps4(f_header=f_header)
@@ -61,6 +65,7 @@ class Fps4():
             else:
                 self.pack_file = self.pack_fps4_type1
                 self.extract_type2_fps4(f_header=f_header)
+
     #Type 2 = Header with File offset
     def extract_type2_fps4(self, f_header:FileIO):
 

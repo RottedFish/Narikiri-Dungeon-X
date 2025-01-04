@@ -39,6 +39,7 @@ def bytes_to_text(src: FileIO, offset: int = -1) -> (str, bytes):
         src.seek(offset, 0)
     buffer = []
     while True:
+        #print(hex(src.tell()))
         b = src.read(1)
 
         if b == b"\x00": break
@@ -46,14 +47,6 @@ def bytes_to_text(src: FileIO, offset: int = -1) -> (str, bytes):
 
         b = ord(b)
         buffer.append(b)
-
-        # Custom Encoded Text
-        #if (0x80 <= b <= 0x9F) or (0xE0 <= b <= 0xEA):
-        #    v  = src.read_uint8()
-        #    c = (b << 8) | v
-        #    buffer.append(v)
-        #    finalText += chars.get(c, "{%02X}{%02X}" % (c >> 8, c & 0xFF))
-        #    continue
 
         # Linebreak
         if b == 0xA:
@@ -82,12 +75,12 @@ def bytes_to_text(src: FileIO, offset: int = -1) -> (str, bytes):
             continue
 
         # cp932 text
-        #if 0xA0 < b < 0xE0:
-        #    finalText += struct.pack("B", b).decode("cp932")
-        #    continue
+        if 0xA0 < b < 0xE0:
+            finalText += struct.pack("B", b).decode("cp932")
+            continue
 
-        # Colors
-        elif b == 0x1:
+        # Colors and Icons
+        elif b in [0x1, 0xB]:
             b_v = src.read(1)
             tag_name = jsonTblTags['TAGS'].get(b)
             parameter = int.from_bytes(b_v, "big")
@@ -100,15 +93,16 @@ def bytes_to_text(src: FileIO, offset: int = -1) -> (str, bytes):
             continue
 
         # Name / Button / Unknown1
-        elif b in [0x4, 0x5, 0xB]:
+        elif b in [0x4, 0x5]:
             tag_name = jsonTblTags['TAGS'].get(b)
-            b_v = src.read(1)
 
-            if ord(src.read(1) )== 0x28:
-                tag_name = jsonTblTags['TAGS'].get(b)
+            next_b = src.peek(1)
+            if ord(next_b) == 0x28:
+                b = src.read(2)
                 buffer.append(0x28)
 
-                b_v = b''
+                b_value = b''
+                b_v = src.read(1)
                 while b_v != b'\x29':
                     b_v = src.read(1)
                     b_value += b_v
@@ -141,7 +135,8 @@ def bytes_to_text(src: FileIO, offset: int = -1) -> (str, bytes):
                 finalText += chars[hex_int]
 
             else:
-                finalText += "{%02X}" % ord(hex_bytes)
+                finalText += "{%02X}" % ord(src.read(1))
+                finalText += "{%02X}" % ord(src.read(1))
 
     return finalText, bytes(buffer)
 

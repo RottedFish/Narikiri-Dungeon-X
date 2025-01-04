@@ -168,6 +168,7 @@ if __name__ == "__main__":
     if args.action == "extract":
 
         if args.file_type == "Menu":
+            tales_instance.extract_archives()
             tales_instance.extract_all_menu(keep_translations=True)
 
         elif args.file_type == "Iso":
@@ -187,4 +188,5 @@ if __name__ == "__main__":
             #tales_instance.extract_all_sysdata()
             tales_instance.extract_field()
             tales_instance.extract_all_story_sb(args.replace)
+            tales_instance.extract_archives()
             tales_instance.extract_all_menu(args.replace)

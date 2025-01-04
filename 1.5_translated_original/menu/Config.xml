@@ -1,0 +1,137 @@
+<MenuText>
+  <Strings>
+    <Section>Config1</Section>
+    <Entry>
+      <PointerOffset>8</PointerOffset>
+      <JapaneseText>項目名だみー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20</PointerOffset>
+      <JapaneseText>２０文字入ります。２０文字入りますよー！
+２０文字入ります。２０文字入りますよー！
+２０文字入ります。２０文字入りますよー！
+２０文字入ります。２０文字入りますよー！
+２０文字入ります。２０文字入りますよー！
+２０文字入ります。２０文字入りますよー！
+２０文字入ります。２０文字入りますよー！
+２０文字入ります。２０文字入りますよー！
+２０文字入ります。２０文字入りますよー！
+２０文字入ります。２０文字入りますよー！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32</PointerOffset>
+      <JapaneseText>２０文字入ります。２０文字入りますよー！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44</PointerOffset>
+      <JapaneseText>#define STR_BTN_CIRCLE "&lt;icon:1&gt;" //!&lt; ○
+#define STR_BTN_CROSS "&lt;icon:2&gt;" //!&lt; ×
+#define STR_BTN_TRI "&lt;icon:3&gt;" //!&lt; △
+#define STR_BTN_SQUARE "&lt;icon:4&gt;" //!&lt; □
+#define STR_BTN_L "&lt;icon:5&gt;" //!&lt; L
+#define STR_BTN_R "&lt;icon:6&gt;" //!&lt; R
+#define STR_BTN_SELECT "&lt;icon:7&gt;" //!&lt; SELECT
+#define STR_BTN_START "&lt;icon:8&gt;" //!&lt; START
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>56</PointerOffset>
+      <JapaneseText>//
+#define STR_BTN_PAD "&lt;icon:16&gt;" //!&lt; 十字キー
+#define STR_BTN_PAD_U "&lt;icon:17&gt;" //!&lt; 十字キー↑
+#define STR_BTN_PAD_D "&lt;icon:18&gt;" //!&lt; 十字キー↓
+#define STR_BTN_PAD_L "&lt;icon:19&gt;" //!&lt; 十字キー←
+#define STR_BTN_PAD_R "&lt;icon:20&gt;" //!&lt; 十字キー→
+#define STR_BTN_PAD_LR "&lt;icon:21&gt;" //!&lt; 十字キー⇔
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68</PointerOffset>
+      <JapaneseText>//
+#define STR_BTN_STICK "&lt;icon:32&gt;" //!&lt; スティック
+#define STR_BTN_STICK_U "&lt;icon:33&gt;" //!&lt; スティック↑
+#define STR_BTN_STICK_D "&lt;icon:34&gt;" //!&lt; スティック↓
+#define STR_BTN_STICK_R "&lt;icon:35&gt;" //!&lt; スティック→
+#define STR_BTN_STICK_L "&lt;icon:36&gt;" //!&lt; スティック←</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Config2</Section>
+    <Entry>
+      <PointerOffset>96</PointerOffset>
+      <JapaneseText>【基本操作】
+&lt;icon:1&gt;：決定ボタン
+物を調べる、人と話す、選択肢の決定、
+会話を進める等、次へ進む為のボタンです。
+&lt;icon:2&gt;：キャンセルボタン
+前の画面に戻る、会話の早送り、
+&lt;icon:3&gt;：メニューボタン
+各種データの確認、機能のカスタマイズ、
+戦闘を行なう為の準備ができる画面を開く
+ことができます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>108</PointerOffset>
+      <JapaneseText>【特殊操作１】
+&lt;icon:4&gt;：ソーサラーリング
+貴重品「ソーサラーリング」を入手すると
+正面に一発の炎を飛ばせます。
+仕掛けを動かす、敵シンボルと戦闘する等、
+様々な用途があります。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>120</PointerOffset>
+      <JapaneseText>【特殊操作２】
+&lt;icon:3&gt;：メッセージのスキップ
+イベント会話中に押すことで、実行の確認
+をした後、そのイベントをスキップします。
+
+戦闘内でのチュートリアルも押し続けると
+その間、高速でメッセージが流れます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>132,144</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>
