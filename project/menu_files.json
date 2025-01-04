@@ -474,5 +474,124 @@
             "pointers_end": 2262316,
             "style": "P"
         }]
+	},
+	{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_TECHNIQUE_NAME_DATA/bt_technique_name_data.dat",
+		"friendly_name": "Artes",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
+		[
+		{
+			"section":					"Artes",
+			"pointers_start":			8,
+			"pointers_end":				45967,
+			"style":					"PP24",
+		}]
+	},
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_ITEM_DATA/bt_item_data.dat",
+		"friendly_name": "Items",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
+		[
+		{
+			"section":					"Items",
+			"pointers_start":			8,
+			"pointers_end":				57363,
+			"style":					"P56PP16",
+		}]
+	},
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_STRATEGY_DATA/bt_strategy_data.dat",
+		"friendly_name": "Strategy",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
+		[
+		{
+			"section":					"Strategy",
+			"pointers_start":			8,
+			"pointers_end":				40139,
+			"style":					"PP56",
+		}]
+	},
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_SKILL_DATA/bt_skill_data.dat",
+		"friendly_name": "Skills",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
+		[
+		{
+			"section":					"Skills",
+			"pointers_start":			8,
+			"pointers_end":				32251,
+			"style":					"PP32",
+		}]
+	},
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_SHOP_DATA/bt_shop_data.dat",
+		"friendly_name": "Shop",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
+		[
+		{
+			"section":					"Shop",
+			"pointers_start":			8,
+			"pointers_end":				4723,
+			"style":					"P120",
+		}]
+	},
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_HELP_DATA/bt_help_data.dat",
+		"friendly_name": "Help",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
+		[
+		{
+			"section":					"Help",
+			"pointers_start":			12,
+			"pointers_end":				867,
+			"style":					"PP8",
+		}]
+	},
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_MAP_DATA/bt_map_data.dat",
+		"friendly_name": "Map",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
+		[
+		{
+			"section":					"Map",
+			"pointers_start":			8,
+			"pointers_end":				2531,
+			"style":					"P120",
+		}]
+	},
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_MEMO_DATA/bt_memo_data.dat",
+		"friendly_name": "Config",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
+		[
+		{
+			"section":					"Config1",
+			"pointers_start":			8,
+			"pointers_end":				71,
+			"style":					"P8",
+		},
+		{
+			"section":					"Config2",
+			"pointers_start":			96,
+			"pointers_end":				147,
+			"style":					"P8",
+		}
+		]
 	}
 ]
