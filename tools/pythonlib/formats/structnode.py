@@ -1,5 +1,5 @@
 from .FileIO import FileIO
-from .text_toh import text_to_bytes, bytes_to_text
+from .text_ndx import text_to_bytes, bytes_to_text
 import struct
 class Bubble:
 

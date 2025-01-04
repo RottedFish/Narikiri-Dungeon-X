@@ -184,6 +184,14 @@ class Pak:
 
         return out
 
+    def replace_tss(self, tss_data:bytes):
+
+        for file in self.files:
+            if file.data[0:3] == b'TSS':
+                file.data = tss_data
+                break
+
+
     def __getitem__(self, item):
         return self.files[item]
 

@@ -154,7 +154,7 @@ if __name__ == "__main__":
             tales_instance.pack_all_skits()
 
         elif args.file_type == "Story":
-            tales_instance.pack_all_story()
+            tales_instance.pack_all_story_sb()
 
         elif args.file_type == "All":
             print(args.iso.resolve())
@@ -178,9 +178,13 @@ if __name__ == "__main__":
             tales_instance.extract_all_skits(args.replace)
 
         elif args.file_type == "Story":
-            tales_instance.extract_all_story(args.replace)
+            tales_instance.extract_all_story_sb(keep_translations=False)
 
         elif args.file_type == "All":
             tales_instance.extract_iso(Path(args.iso.resolve()))
             tales_instance.extract_main_archive()
-            tales_instance.extract_all_story(args.replace)
+            #tales_instance.extract_all_map(args.replace)
+            #tales_instance.extract_all_sysdata()
+            tales_instance.extract_field()
+            tales_instance.extract_all_story_sb(args.replace)
+            tales_instance.extract_all_menu(args.replace)

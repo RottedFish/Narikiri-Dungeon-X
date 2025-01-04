@@ -14,8 +14,10 @@ from pythonlib.formats.FileIO import FileIO
 from pythonlib.formats.fps4 import Fps4
 from pythonlib.formats.tss import Tss
 from pythonlib.formats.pak import Pak
-from pythonlib.formats.text_toh import text_to_bytes, bytes_to_text
+from pythonlib.formats.map import extract_tss_from_map
+from pythonlib.formats.text_ndx import text_to_bytes, bytes_to_text
 from pythonlib.formats.cab import extract_cab_file
+from pythonlib.formats.sysdata import extract_sys_cab, extract_lvl1, extract_lvl2
 import re
 from itertools import chain
 import io
@@ -200,10 +202,7 @@ class ToolsNDX():
 
         for entry in tqdm(menu_json, desc='Extracting Menu Files'):
 
-            if entry["friendly_name"] == "Arm9" or entry["friendly_name"].startswith("Overlay"):
-                file_path = self.paths["extracted_files"] / entry["file_path"]
-            else:
-                file_path = self.paths["original_files"] / entry["file_path"]
+            file_path = self.paths["original_files"] / entry["file_path"]
 
             with FileIO(file_path, "rb") as f:
                 xml_data = self.extract_menu_file(entry, f, keep_translations)
@@ -266,15 +265,120 @@ class ToolsNDX():
             stdout=subprocess.DEVNULL
             )
 
-    def extract_all_story(self, keep_translations=False):
-        print("Extracting Story")
+    def extract_all_story_sb(self, keep_translations=False):
+        print("Extracting Story and SB files")
         cab_path = self.paths['extracted_files'] / 'All' / 'map' / 'pack'
 
         for cab_file in cab_path.iterdir():
 
-            if 'ep_' in cab_file.name or 'sb_' in cab_file.name:
-                extract_cab_file(cab_file, cab_path)
-                self.extract_pak(cab_path / cab_file.stem / f'{cab_file.stem}.dat', 3)
+            if ('ep_' in cab_file.name or 'sb_' in cab_file.name) and cab_file.suffix == '.cab':
+                extract_cab_file(cab_file, cab_path / f'cab_{cab_file.stem}')
+                self.extract_pak(cab_path / f'cab_{cab_file.stem}' / f'{cab_file.stem}.dat', 3)
+                self.extract_tss(cab_path / f'cab_{cab_file.stem}' / f'pak_{cab_file.stem}' / f'{cab_file.stem}.tss',
+                                 'story',
+                                 keep_translations)
+
+    def pack_all_story_sb(self):
+        print("Recreating Story files...")
+
+        #Identify XMLs that has translations and copy relevant files
+        files = ['ep_000_010']
+        cab_path = self.paths['extracted_files'] / 'All' / 'map' / 'pack'
+
+        for file in files:
+
+            #Load original Pak file
+            original_pak = Pak.from_path(cab_path / f'cab_{file}' / f'{file}.dat', 3)
+
+            #Replace Tss file
+            original_tss = Tss(path=cab_path / f'cab_{file}' / f'pak_{file}' / f'{file}.tss',
+                      list_status_insertion=self.list_status_insertion)
+
+            destination_path = self.paths['temp_files'] / 'All' / 'map' /'pack' / f'cab_{file}' / f'pak_{file}' / f'{file}.tss'
+            xml_path = self.paths['story_xml'] / f'{file}.xml'
+            original_tss.pack_tss_file(destination_path=destination_path ,
+                              xml_path=xml_path)
+
+            original_pak.replace_tss(tss.data)
+
+            #Copy new Pak file
+
+
+            #Recreate cab file in final destination
+
+
+
+        out_path = self.paths["temp_files"] / "DAT" / "SCPK"
+        out_path.mkdir(parents=True, exist_ok=True)
+        xml_path = self.paths["story_xml"]
+        scpk_path = self.paths["extracted_files"] / "DAT" / "SCPK"
+
+        in_list = []
+        if self.changed_only:
+            for item in porcelain.status(self.get_repo_fixed()).unstaged:  # type: ignore
+                item_path = Path(item.decode("utf-8"))
+                if item_path.parent.name == "story":
+                    in_list.append(scpk_path / item_path.with_suffix(".scpk").name)
+            if len(in_list) == 0:
+                print("No changed files to insert...")
+                return
+        else:
+            in_list = list(scpk_path.glob("*.scpk"))
+
+        for file in (pbar := tqdm(in_list)):
+            pbar.set_description_str(file.name)
+            curr_scpk = Scpk.from_path(file)
+            old_rsce = Theirsce(curr_scpk.rsce)
+            new_rsce = self.get_new_theirsce(old_rsce, xml_path / file.with_suffix(".xml").name)
+            new_rsce.seek(0)
+            curr_scpk.rsce = new_rsce.read()
+
+            with open(out_path / file.name, "wb") as f:
+                f.write(curr_scpk.to_bytes())
+    def extract_tss(self, tss_file:Path, file_type:str, keep_translations=False):
+        tss_obj = Tss(path=tss_file, list_status_insertion=self.list_status_insertion)
+
+        if (len(tss_obj.struct_dict) > 0) or (len(tss_obj.string_list) > 0):
+            original_path = self.paths[f'{file_type}_original'] / tss_file.with_suffix('.xml').name
+            translated_path = self.paths[f'{file_type}_xml'] / tss_file.with_suffix('.xml').name
+            tss_obj.extract_to_xml(original_path= original_path,
+                                       translated_path=translated_path,
+                                       keep_translations=keep_translations)
+
+    def extract_all_map(self, keep_translations=False):
+        print("Extracting Map files")
+        cab_path = self.paths['extracted_files'] / 'All' / 'map'
+
+        (cab_path / 'map_extracted').mkdir(parents=True, exist_ok=True)
+        for cab_file in cab_path.iterdir():
+            if cab_file.parent.stem == 'map' and cab_file.is_file() and cab_file.suffix == '.bin' and 'field' not in cab_file.name:
+                extract_cab_file(cab_file, cab_path / 'map_extracted' / f'cab_{cab_file.stem}')
+                extract_tss_from_map(cab_path / 'map_extracted' / f'cab_{cab_file.stem}' / f'{cab_file.stem}.dat')
+
+    def extract_field(self):
+        print("Extracting Field.bin")
+        cab_path = self.paths['extracted_files'] / 'All' / 'map'
+        field_folder = cab_path / 'field_extracted'
+        extract_cab_file(cab_path / 'field.bin', field_folder / 'cab_field')
+
+
+        size = os.path.getsize(field_folder / 'cab_field' / 'field.dat')
+
+        with open(field_folder / 'cab_field' / 'field.dat', 'rb') as field:
+            field.seek(0x94)
+            tss_offset = struct.unpack('<I', field.read(4))[0]
+
+            field.seek(tss_offset)
+            tss_data = field.read(size - tss_offset)
+            with open(field_folder / 'cab_field' / 'field.tss', 'wb') as tss:
+                tss.write(tss_data)
+
+    def extract_all_sysdata(self):
+        print("Extracting Sysdata files")
+        sysdata_path = self.paths['extracted_files'] / 'All' / 'sysdata'
+        extract_sys_cab(sysdata_path)
+        extract_lvl1(sysdata_path)
+        extract_lvl2(sysdata_path)
 
     def extract_pak(self, file_path:Path, format:int):
         try:
@@ -286,10 +390,13 @@ class ToolsNDX():
         else:
             for file in pak.files:
 
+                ext = '.bin'
                 if file.data[0:3] == b'TSS':
-                    with open(file_path.parent / f'{file_path.stem}.tss', 'wb') as f:
-                        f.write(file.data)
-                    break
+                    ext = '.tss'
+
+                (file_path.parent / f'pak_{file_path.stem}').mkdir(parents=True, exist_ok=True)
+                with open(file_path.parent / f'pak_{file_path.stem}' / f'{file_path.stem}{ext}', 'wb') as f:
+                    f.write(file.data)
 
 
     def extract_menu_file(self, file_def, f: FileIO, keep_translations=False) -> bytes:

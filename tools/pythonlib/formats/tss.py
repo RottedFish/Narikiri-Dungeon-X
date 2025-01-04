@@ -5,6 +5,7 @@ from .FileIO import FileIO
 from .structnode import StructNode, Speaker, Bubble
 import os
 from pathlib import Path
+from .text_ndx import bytes_to_text, text_to_bytes
 import re
 import io
 import lxml.etree as etree
@@ -13,9 +14,9 @@ import subprocess
 from itertools import groupby
 
 bytecode_dict = {
-    "Story": [b'\x0E\x10\x00\x0C\x04', b'\x00\x10\x00\x0C\x04'],
+    "Story": [b'\x18\x00\x0C\x04'],
     "NPC": [b'\x40\x00\x0C\x04', b'\x0E\x00\x00\x82\x02'],
-    "Misc": [b'\x00\x00\x00\x82\x02', b'\x01\x00\x00\x82\x02', b'\x00\xA3\x04']
+    "Misc": [b'\x00\x00\x82\x02']
 }
 
 
@@ -41,31 +42,25 @@ class Tss():
         )
 
         with FileIO(path) as tss_f:
-
+            self.data = tss_f.read()
             tss_f.read(12)
-            self.strings_offset = struct.unpack('<I', tss_f.read(4))[0]
-            tss_f.read(4)
-
-            self.create_struct_nodes(tss_f)
-    def extract_all_pointers(self, f):
+            self.strings_offset = struct.unpack('<I', self.data[12:16])[0]
+            self.create_struct_nodes()
+    def extract_all_pointers(self):
 
         self.id = 1
         for section, bytecode_list in bytecode_dict.items():
             for bytecode in bytecode_list:
                 regex = re.compile(bytecode)
-                f.seek(0)
-                data = f.read()
 
-                for match_obj in regex.finditer(data):
+                for match_obj in regex.finditer(self.data):
                     offset = match_obj.start()
                     pointer_offset = offset + len(bytecode)
 
-
-                    f.seek(pointer_offset, 0)
-                    text_offset = struct.unpack('<H', f.read(2))[0] + self.strings_offset
+                    text_offset = struct.unpack('<H', self.data[pointer_offset:(pointer_offset+2)])[0] + self.strings_offset
                     struct_node = StructNode(id=self.id, pointer_offset=pointer_offset,
                                               text_offset=text_offset,
-                                              tss=f, strings_offset=self.strings_offset, file_size=self.file_size,
+                                              tss=FileIO(io.BytesIO(self.data)), strings_offset=self.strings_offset, file_size=self.file_size,
                                            section=section)
                     self.speaker_id = struct_node.add_speaker_entry(self.speaker_dict, self.speaker_id)
                     self.struct_dict[pointer_offset] = struct_node
@@ -73,18 +68,16 @@ class Tss():
 
 
 
-    def create_struct_nodes(self, f_tss:FileIO):
+    def create_struct_nodes(self):
+        self.extract_all_pointers()
 
 
-        self.extract_all_pointers(f_tss)
-
-
-    def find_struct_speaker(self, f:FileIO, pointer_offset:int):
+    def find_struct_speaker(self, pointer_offset:int):
         struct_found = [struct_entry for pointer_offset, struct_entry in self.struct_dict.items() if struct_entry.pointer_offset == pointer_offset]
 
         if len(struct_found) > 0:
             text_offset = struct_found[0].speaker.text_offset
-            jap_text = self.bytes_to_text(f, text_offset)
+            jap_text = bytes_to_text(FileIO(io.BytesIO(self.data)), text_offset)
             return jap_text
         else:
             return 'Variable'
@@ -142,14 +135,15 @@ class Tss():
     def add_speaker_nodes(self):
         speakers = self.root.find('Speakers')
 
-        for speaker_id, speaker_node in self.speaker_dict.items():
-            entry_node = etree.SubElement(speakers, "Entry")
-            etree.SubElement(entry_node, "PointerOffset")
-            etree.SubElement(entry_node, "JapaneseText").text = speaker_node.jap_text
-            etree.SubElement(entry_node, "EnglishText")
-            etree.SubElement(entry_node, "Notes")
-            etree.SubElement(entry_node, "Id").text = str(speaker_id)
-            etree.SubElement(entry_node, "Status").text = 'To Do'
+        if speakers is not None:
+            for speaker_id, speaker_node in self.speaker_dict.items():
+                entry_node = etree.SubElement(speakers, "Entry")
+                etree.SubElement(entry_node, "PointerOffset")
+                etree.SubElement(entry_node, "JapaneseText").text = speaker_node.jap_text
+                etree.SubElement(entry_node, "EnglishText")
+                etree.SubElement(entry_node, "Notes")
+                etree.SubElement(entry_node, "Id").text = str(speaker_id)
+                etree.SubElement(entry_node, "Status").text = 'To Do'
 
     def create_entry(self, struct_node:StructNode, bubble:Bubble, subid=None):
 
@@ -226,11 +220,9 @@ class Tss():
         translated_speakers = {int(entry.find('Id').text):entry for entry in root_translated.findall('Speakers/Entry')
                               if entry.find("Status").text in ['Proofread', 'Edited', 'Done']}
         translated_entries = {(int(entry.find('PointerOffset').text),
-                               int(entry.find("SubId").text),
                                int(entry.find("BubbleId").text)):entry for entry in root_translated.findall('Strings/Entry')
                             if entry.find("Status").text in ['Proofread', 'Edited', 'Done']}
         original_entries = {(int(entry.find('PointerOffset').text),
-                               int(entry.find("SubId").text),
                                int(entry.find("BubbleId").text)): entry for entry in
                               root_original.findall('Strings/Entry')}
 
@@ -251,7 +243,7 @@ class Tss():
         original_entries_translated = {(pointer_offset, sub_id, bubble_id):node for (pointer_offset, sub_id, bubble_id), node in original_entries.items()
                                        if (pointer_offset, sub_id, bubble_id) in translated_entries.keys()}
         for (pointer_offset, sub_id, bubble_id), main_entry in original_entries_translated.items():
-            translated_entry = translated_entries[(pointer_offset, sub_id, bubble_id)]
+            translated_entry = translated_entries[(pointer_offset, bubble_id)]
 
             main_entry.find("EnglishText").text = translated_entry.find('EnglishText').text
             main_entry.find("Status").text = translated_entry.find('Status').text
@@ -267,26 +259,22 @@ class Tss():
 
     def pack_tss_file(self, destination_path:Path, xml_path:Path):
 
+        destination_path.parent.mkdir(parents=True, exist_ok=True)
+        tss = io.BytesIO(self.data)
+        tree = etree.parse(xml_path)
+        self.root = tree.getroot()
 
+        start_offset = self.get_starting_offset()
+        tss.seek(start_offset, 0)
+        self.parse_write_speakers(tss)
+        self.parse_xml_infos()
 
-        # Grab the Tss file inside the folder
-        with FileIO(destination_path, 'rb') as original_tss:
-            data = original_tss.read()
-            tss = io.BytesIO(data)
-            tree = etree.parse(xml_path)
-            self.root = tree.getroot()
+        #Insert all nodes
+        [node.pack_node(tss, self.speaker_dict) for pointer_offset, node in self.struct_dict.items()]
 
-            start_offset = self.get_starting_offset()
-            tss.seek(start_offset, 0)
-            self.parse_write_speakers(tss)
-            self.parse_xml_infos()
-
-            #Insert all nodes
-            [node.pack_node(tss, self.speaker_dict) for pointer_offset, node in self.struct_dict.items()]
-
-            #Update TSS
-            with FileIO(destination_path, 'wb') as f:
-               f.write(tss.getvalue())
+        #Update TSS
+        with FileIO(destination_path, 'wb') as f:
+           f.write(tss.getvalue())
 
     def get_starting_offset(self):
         speaker_offset = min([ele.speaker.text_offset for pointer_offset, ele in self.struct_dict.items() if ele.speaker.text_offset > 0], default=None)

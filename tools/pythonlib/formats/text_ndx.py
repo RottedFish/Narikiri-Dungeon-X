@@ -11,8 +11,14 @@ HEX_TAG = r"(\{[0-9A-F]{2}\})"
 PRINTABLE_CHARS = "".join(
             (string.digits, string.ascii_letters, string.punctuation, " ")
         )
+
+weird_kanjies = {
+    0xFAB1: "﨑"
+}
+
+
 jsonTblTags = dict()
-with open('../Tales-of-Hearts-DS/Project/tbl_all.json') as f:
+with open('../Narikiri-Dungeon-X/Project/tbl_all.json') as f:
     jsonraw = json.loads(f.read(), encoding="utf-8")
     for k, v in jsonraw.items():
         jsonTblTags[k] = {int(k2, 16): v2 for k2, v2 in v.items()}
@@ -24,18 +30,6 @@ for k, v in jsonTblTags.items():
     else:
         ijsonTblTags[k] = {v2: hex(k2).replace('0x', '').upper() for k2, v2 in v.items()}
 iTags = {v2.upper(): k2 for k2, v2 in jsonTblTags['TAGS'].items()}
-
-letter_values = {}
-letter_path = '../Tales-of-Hearts-DS/Project/letter_values.txt'
-try:
-    with open(letter_path, 'r',encoding='utf-8') as file:
-        for line in file:
-            letter, value = line.strip().split()
-            letter_values[letter] = int(value)
-except FileNotFoundError:
-    print(f"Error: File '{letter_path}' not found.")
-except ValueError:
-    print(f"Error: Invalid format in file '{letter_path}'.")
 
 def bytes_to_text(src: FileIO, offset: int = -1) -> (str, bytes):
     finalText = ""
@@ -53,26 +47,15 @@ def bytes_to_text(src: FileIO, offset: int = -1) -> (str, bytes):
         b = ord(b)
         buffer.append(b)
 
-        # Button
-        if b == 0x81:
-            next_b = src.read(1)
-            if ord(next_b) in jsonTblTags['BUTTON'].keys():
-                finalText += f"<{jsonTblTags['BUTTON'].get(ord(next_b))}>"
-                buffer.append(ord(next_b))
-                continue
-            else:
-                src.seek(src.tell( ) -1 ,0)
-
-
-
         # Custom Encoded Text
-        if (0x80 <= b <= 0x9F) or (0xE0 <= b <= 0xEA):
-            v  = src.read_uint8()
-            c = (b << 8) | v
-            buffer.append(v)
-            finalText += chars.get(c, "{%02X}{%02X}" % (c >> 8, c & 0xFF))
-            continue
+        #if (0x80 <= b <= 0x9F) or (0xE0 <= b <= 0xEA):
+        #    v  = src.read_uint8()
+        #    c = (b << 8) | v
+        #    buffer.append(v)
+        #    finalText += chars.get(c, "{%02X}{%02X}" % (c >> 8, c & 0xFF))
+        #    continue
 
+        # Linebreak
         if b == 0xA:
             finalText += ("\n")
             continue
@@ -87,7 +70,6 @@ def bytes_to_text(src: FileIO, offset: int = -1) -> (str, bytes):
 
             buffer.extend(list(val.encode("cp932")))
             buffer.append(0x29)
-
             val += ">"
             val = val.replace('(', '<')
 
@@ -100,14 +82,27 @@ def bytes_to_text(src: FileIO, offset: int = -1) -> (str, bytes):
             continue
 
         # cp932 text
-        if 0xA0 < b < 0xE0:
-            finalText += struct.pack("B", b).decode("cp932")
+        #if 0xA0 < b < 0xE0:
+        #    finalText += struct.pack("B", b).decode("cp932")
+        #    continue
+
+        # Colors
+        elif b == 0x1:
+            b_v = src.read(1)
+            tag_name = jsonTblTags['TAGS'].get(b)
+            parameter = int.from_bytes(b_v, "big")
+            tag_param = jsonTblTags.get(tag_name.upper(), {}).get(parameter, None)
+
+            if tag_param is not None:
+                finalText += f"<{tag_param}>"
+            else:
+                finalText += f"<{tag_name}:{parameter}>"
             continue
 
-
-
-        if b in [0x3, 0x4, 0xB]:
-            b_value = b''
+        # Name / Button / Unknown1
+        elif b in [0x4, 0x5, 0xB]:
+            tag_name = jsonTblTags['TAGS'].get(b)
+            b_v = src.read(1)
 
             if ord(src.read(1) )== 0x28:
                 tag_name = jsonTblTags['TAGS'].get(b)
@@ -131,12 +126,22 @@ def bytes_to_text(src: FileIO, offset: int = -1) -> (str, bytes):
 
                 continue
 
-        if b == 0xC:
-
+        # Bubble
+        elif b == 0xC:
             finalText += "<Bubble>"
             continue
 
-        finalText += "{%02X}" % b
+        # TBL text
+        else:
+            src.seek(src.tell()-1)
+            hex_bytes = src.read(2)
+            hex_int = int.from_bytes(hex_bytes, 'big')
+
+            if hex_int in chars.keys():
+                finalText += chars[hex_int]
+
+            else:
+                finalText += "{%02X}" % ord(hex_bytes)
 
     return finalText, bytes(buffer)
 
