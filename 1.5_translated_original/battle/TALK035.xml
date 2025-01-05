@@ -54,6 +54,7 @@
     <Section>Text</Section>
     <Entry>
       <PointerOffset>4</PointerOffset>
+      <VoiceId>VBE01_36_01</VoiceId>
       <JapaneseText>グオオオォォォォォ！！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -63,6 +64,7 @@
     </Entry>
     <Entry>
       <PointerOffset>20</PointerOffset>
+      <VoiceId>VBE01_36_02</VoiceId>
       <JapaneseText>よくわかんねーけど、
 こいつを倒さなきゃいけない気がする</JapaneseText>
       <EnglishText/>
@@ -73,6 +75,7 @@
     </Entry>
     <Entry>
       <PointerOffset>36</PointerOffset>
+      <VoiceId>VBE01_36_03</VoiceId>
       <JapaneseText>そうなの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -82,6 +85,7 @@
     </Entry>
     <Entry>
       <PointerOffset>52</PointerOffset>
+      <VoiceId>VBE01_36_04</VoiceId>
       <JapaneseText>だったら、
 ちゃっちゃとやっつけるぞ</JapaneseText>
       <EnglishText/>
@@ -92,6 +96,7 @@
     </Entry>
     <Entry>
       <PointerOffset>68</PointerOffset>
+      <VoiceId>VBE01_36_05</VoiceId>
       <JapaneseText>よし！ だったら、
 さっさと終わらせちゃお！</JapaneseText>
       <EnglishText/>
@@ -102,6 +107,7 @@
     </Entry>
     <Entry>
       <PointerOffset>84</PointerOffset>
+      <VoiceId>VBE01_36_06</VoiceId>
       <JapaneseText>だったらここで倒そう、慎重にね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -111,6 +117,7 @@
     </Entry>
     <Entry>
       <PointerOffset>100</PointerOffset>
+      <VoiceId>VBE01_36_07</VoiceId>
       <JapaneseText>行くぜ……！</JapaneseText>
       <EnglishText/>
       <Notes/>

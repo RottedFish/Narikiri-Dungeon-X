@@ -22,6 +22,7 @@
     <Section>Text</Section>
     <Entry>
       <PointerOffset>4</PointerOffset>
+      <VoiceId>VBE01_31_01</VoiceId>
       <JapaneseText>わざわざ滅ぼされに来たか、
 よかろう……</JapaneseText>
       <EnglishText/>
@@ -32,6 +33,7 @@
     </Entry>
     <Entry>
       <PointerOffset>20</PointerOffset>
+      <VoiceId>VBE01_31_02</VoiceId>
       <JapaneseText>もうやめて…やめてよ……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -41,6 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset>36</PointerOffset>
+      <VoiceId>VBE01_31_03</VoiceId>
       <JapaneseText>そうはいかぬ。ここで朽ち果てよ！</JapaneseText>
       <EnglishText/>
       <Notes/>

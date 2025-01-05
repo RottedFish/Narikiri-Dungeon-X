@@ -38,6 +38,7 @@
     <Section>Text</Section>
     <Entry>
       <PointerOffset>4</PointerOffset>
+      <VoiceId>VBE01_01_01</VoiceId>
       <JapaneseText>うぉ！
 なんかかっこいー！</JapaneseText>
       <EnglishText/>
@@ -48,6 +49,7 @@
     </Entry>
     <Entry>
       <PointerOffset>20</PointerOffset>
+      <VoiceId>VBE01_01_02</VoiceId>
       <JapaneseText>クルル〜！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -57,6 +59,7 @@
     </Entry>
     <Entry>
       <PointerOffset>36</PointerOffset>
+      <VoiceId>VBE01_01_03</VoiceId>
       <JapaneseText>でしょでしょ？
 ちょっと自信あるのよねー</JapaneseText>
       <EnglishText/>
@@ -67,6 +70,7 @@
     </Entry>
     <Entry>
       <PointerOffset>52</PointerOffset>
+      <VoiceId>VBE01_01_04</VoiceId>
       <JapaneseText>ふたりとも！　敵だよ？</JapaneseText>
       <EnglishText/>
       <Notes/>

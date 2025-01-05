@@ -38,6 +38,7 @@
     <Section>Text</Section>
     <Entry>
       <PointerOffset>4</PointerOffset>
+      <VoiceId>VBE01_45_01</VoiceId>
       <JapaneseText>何度やっても泣いて帰るだけだ、
 やめておけ</JapaneseText>
       <EnglishText/>
@@ -48,6 +49,7 @@
     </Entry>
     <Entry>
       <PointerOffset>20</PointerOffset>
+      <VoiceId>VBE01_45_02</VoiceId>
       <JapaneseText>今度はそっちが泣く番だぞ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -57,6 +59,7 @@
     </Entry>
     <Entry>
       <PointerOffset>36</PointerOffset>
+      <VoiceId>VBE01_45_03</VoiceId>
       <JapaneseText>言ってるでしょ、
 あなたたちは私たちに勝てない</JapaneseText>
       <EnglishText/>
@@ -67,6 +70,7 @@
     </Entry>
     <Entry>
       <PointerOffset>52</PointerOffset>
+      <VoiceId>VBE01_45_04</VoiceId>
       <JapaneseText>勝てるまで、何度だって戦う！</JapaneseText>
       <EnglishText/>
       <Notes/>
