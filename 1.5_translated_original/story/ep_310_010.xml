@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -75,7 +75,7 @@
     <Entry>
       <PointerOffset>259332</PointerOffset>
       <VoiceId>VSM_310_010_002</VoiceId>
-      <JapaneseText>そう、LE)たちが
+      <JapaneseText>そう、&lt;Cless&gt;たちが
 最後にダオスと戦った場所</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -146,7 +146,7 @@
     <Entry>
       <PointerOffset>260220</PointerOffset>
       <VoiceId>VSM_310_010_004</VoiceId>
-      <JapaneseText>IO)……</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>

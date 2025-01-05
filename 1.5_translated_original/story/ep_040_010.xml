@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -268,7 +268,7 @@
       <PointerOffset>260772</PointerOffset>
       <VoiceId>VSM_040_010_008</VoiceId>
       <JapaneseText>行こうって、きみ、
-LA)さん家の場所、
+&lt;Claus&gt;さん家の場所、
 知らないでしょ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -408,7 +408,7 @@ LA)さん家の場所、
     <Entry>
       <PointerOffset>262228</PointerOffset>
       <VoiceId>VSM_040_010_013</VoiceId>
-      <JapaneseText>そんなにIO)、
+      <JapaneseText>そんなに&lt;Dio&gt;、
 嬉しいのかな？
 その英雄？　に会うのが</JapaneseText>
       <EnglishText/>
@@ -444,7 +444,7 @@ LA)さん家の場所、
     <Entry>
       <PointerOffset>262472</PointerOffset>
       <VoiceId>VSM_040_010_014</VoiceId>
-      <JapaneseText>IO)は昔から、
+      <JapaneseText>&lt;Dio&gt;は昔から、
 そういうお話好きだったから</JapaneseText>
       <EnglishText/>
       <Notes/>

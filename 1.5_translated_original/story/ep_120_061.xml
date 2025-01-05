@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ST)</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)＆EL)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;＆&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -167,7 +167,7 @@
     <Entry>
       <PointerOffset>280660</PointerOffset>
       <VoiceId>VSM_120_060_032</VoiceId>
-      <JapaneseText>IO)！　EL)！</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;！　&lt;Mel&gt;！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -667,7 +667,7 @@
       <PointerOffset>285628</PointerOffset>
       <VoiceId>VSM_120_060_048</VoiceId>
       <JapaneseText>平気、です、
-ST)さん……</JapaneseText>
+&lt;Chester&gt;さん……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>

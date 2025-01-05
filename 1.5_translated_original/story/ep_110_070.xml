@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ST)</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -59,7 +59,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>8</Id>
@@ -500,8 +500,8 @@
     <Entry>
       <PointerOffset>265736</PointerOffset>
       <VoiceId>VSM_110_070_015</VoiceId>
-      <JapaneseText>さてと。なんだっけ、LE)と
-IN)に会いに来たんだったか</JapaneseText>
+      <JapaneseText>さてと。なんだっけ、&lt;Cless&gt;と
+&lt;Mint&gt;に会いに来たんだったか</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -619,7 +619,7 @@ IN)に会いに来たんだったか</JapaneseText>
     <Entry>
       <PointerOffset>269324</PointerOffset>
       <VoiceId>VSM_110_070_019</VoiceId>
-      <JapaneseText>でもST)さんも
+      <JapaneseText>でも&lt;Chester&gt;さんも
 忙しいんじゃねーの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -655,7 +655,7 @@ IN)に会いに来たんだったか</JapaneseText>
       <PointerOffset>269520</PointerOffset>
       <VoiceId>VSM_110_070_021</VoiceId>
       <JapaneseText>……ああ、オレは
-LE)やIN)とは
+&lt;Cless&gt;や&lt;Mint&gt;とは
 違うんだ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1096,7 +1096,7 @@ LE)やIN)とは
       <PointerOffset>275088</PointerOffset>
       <VoiceId>VSM_110_070_037</VoiceId>
       <JapaneseText>い、いいんですか、
-ST)さん</JapaneseText>
+&lt;Chester&gt;さん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>
@@ -1247,7 +1247,7 @@ ST)さん</JapaneseText>
       <PointerOffset>276148</PointerOffset>
       <VoiceId>VSM_110_070_042</VoiceId>
       <JapaneseText>わかった！　よろしくな、
-ST)</JapaneseText>
+&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>8</SpeakerId>

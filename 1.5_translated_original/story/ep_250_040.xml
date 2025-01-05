@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>RC)</JapaneseText>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -151,7 +151,7 @@
     <Entry>
       <PointerOffset>280292</PointerOffset>
       <VoiceId>VSM_250_040_004</VoiceId>
-      <JapaneseText>行こう、IO)！</JapaneseText>
+      <JapaneseText>行こう、&lt;Dio&gt;！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -667,7 +667,7 @@
     <Entry>
       <PointerOffset>285884</PointerOffset>
       <VoiceId>VSM_250_040_042</VoiceId>
-      <JapaneseText>IO)、EL)。
+      <JapaneseText>&lt;Dio&gt;、&lt;Mel&gt;。
 助けがほしかったら、
 いつでも呼んで</JapaneseText>
       <EnglishText/>
@@ -681,7 +681,7 @@
     <Entry>
       <PointerOffset>285884</PointerOffset>
       <VoiceId>VSM_250_040_043</VoiceId>
-      <JapaneseText>“絶世の美女魔女RC)と
+      <JapaneseText>“絶世の美女魔女&lt;Arche&gt;と
 その仲間たち”はいつでも
 君たちの味方だからね</JapaneseText>
       <EnglishText/>

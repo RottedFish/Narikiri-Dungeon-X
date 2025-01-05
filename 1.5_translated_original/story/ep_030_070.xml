@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -108,7 +108,7 @@
     <Entry>
       <PointerOffset>259056</PointerOffset>
       <VoiceId>VSM_030_070_003</VoiceId>
-      <JapaneseText>……っとと。なんだよ、EL)？</JapaneseText>
+      <JapaneseText>……っとと。なんだよ、&lt;Mel&gt;？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -512,7 +512,7 @@
     <Entry>
       <PointerOffset>265736</PointerOffset>
       <VoiceId>VSM_030_070_024</VoiceId>
-      <JapaneseText>RC)さん、
+      <JapaneseText>&lt;Arche&gt;さん、
 &lt;Red&gt;ユークリッド村&lt;White&gt;って
 言ってたよね</JapaneseText>
       <EnglishText/>

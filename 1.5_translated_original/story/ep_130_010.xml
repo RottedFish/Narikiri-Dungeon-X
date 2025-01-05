@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ST)</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LE)</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -59,7 +59,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>8</Id>
@@ -114,7 +114,7 @@
     <Entry>
       <PointerOffset>260424</PointerOffset>
       <VoiceId>VSM_130_010_002</VoiceId>
-      <JapaneseText>LE)！</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -255,7 +255,7 @@
       <PointerOffset>262356</PointerOffset>
       <VoiceId>VSM_130_010_006</VoiceId>
       <JapaneseText>グリッド……？
-ST)んちにいる
+&lt;Chester&gt;んちにいる
 子どもか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -469,7 +469,7 @@ ST)んちにいる
     <Entry>
       <PointerOffset>265416</PointerOffset>
       <VoiceId>VSM_130_010_014</VoiceId>
-      <JapaneseText>大体、IN)とも
+      <JapaneseText>大体、&lt;Mint&gt;とも
 ろくに会ってないんだろ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -539,7 +539,7 @@ ST)んちにいる
     <Entry>
       <PointerOffset>266388</PointerOffset>
       <VoiceId>VSM_130_010_020</VoiceId>
-      <JapaneseText>すみません！　LE)さん、
+      <JapaneseText>すみません！　&lt;Cless&gt;さん、
 ちょっといいですか！？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -723,7 +723,7 @@ ST)んちにいる
     <Entry>
       <PointerOffset>269656</PointerOffset>
       <VoiceId>VSM_130_010_026</VoiceId>
-      <JapaneseText>LE)さんとIN)さんって
+      <JapaneseText>&lt;Cless&gt;さんと&lt;Mint&gt;さんって
 ……恋人なのかな？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -865,7 +865,7 @@ ST)んちにいる
       <PointerOffset>270988</PointerOffset>
       <VoiceId>VSM_130_010_030</VoiceId>
       <JapaneseText>ね、わたしたちで
-LE)さんたちを
+&lt;Cless&gt;さんたちを
 会わせてあげらんないかな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1040,7 +1040,7 @@ LE)さんたちを
     <Entry>
       <PointerOffset>272428</PointerOffset>
       <VoiceId>VSM_130_010_042</VoiceId>
-      <JapaneseText>ね、とにかくIN)さんに
+      <JapaneseText>ね、とにかく&lt;Mint&gt;さんに
 会いに行ってみない？</JapaneseText>
       <EnglishText/>
       <Notes/>

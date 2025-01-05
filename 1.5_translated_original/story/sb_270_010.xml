@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>RC)</JapaneseText>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ST)</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IN)</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -274,7 +274,7 @@
     </Entry>
     <Entry>
       <PointerOffset>285432</PointerOffset>
-      <JapaneseText>チ、ST)さん……！</JapaneseText>
+      <JapaneseText>チ、&lt;Chester&gt;さん……！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -377,7 +377,7 @@
     <Entry>
       <PointerOffset>287572</PointerOffset>
       <JapaneseText>うわっ！
-なぁ、RC)！
+なぁ、&lt;Arche&gt;！
 あ、あれ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -478,7 +478,7 @@
     </Entry>
     <Entry>
       <PointerOffset>289024</PointerOffset>
-      <JapaneseText>ちょいちょいEL)ちゃん。
+      <JapaneseText>ちょいちょい&lt;Mel&gt;ちゃん。
 お姉さんといいことしない？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -546,7 +546,7 @@
     <Entry>
       <PointerOffset>291144</PointerOffset>
       <JapaneseText>あ、なんだよ、
-ズルイぞ、EL)だけ！</JapaneseText>
+ズルイぞ、&lt;Mel&gt;だけ！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -681,7 +681,7 @@
     </Entry>
     <Entry>
       <PointerOffset>293564</PointerOffset>
-      <JapaneseText>じゃ、EL)ちゃん</JapaneseText>
+      <JapaneseText>じゃ、&lt;Mel&gt;ちゃん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -747,7 +747,7 @@
     </Entry>
     <Entry>
       <PointerOffset>294168</PointerOffset>
-      <JapaneseText>そそ。EL)ちゃんは
+      <JapaneseText>そそ。&lt;Mel&gt;ちゃんは
 なかなか素養ありそうだから</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -760,7 +760,7 @@
     <Entry>
       <PointerOffset>294168</PointerOffset>
       <JapaneseText>あたしの素敵魔術を
-EL)ちゃんに伝授しようと
+&lt;Mel&gt;ちゃんに伝授しようと
 思ってさ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1178,7 +1178,7 @@ EL)ちゃんに伝授しようと
     </Entry>
     <Entry>
       <PointerOffset>300064</PointerOffset>
-      <JapaneseText>……さすがEL)ちゃん……
+      <JapaneseText>……さすが&lt;Mel&gt;ちゃん……
 あたしに教えられるすべて、
 あなたに伝えた……</JapaneseText>
       <EnglishText/>

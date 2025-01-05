@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -136,7 +136,7 @@
     <Entry>
       <PointerOffset>260660</PointerOffset>
       <VoiceId>VSM_280_050_004</VoiceId>
-      <JapaneseText>IO)、大丈夫？</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;、大丈夫？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -252,7 +252,7 @@
     <Entry>
       <PointerOffset>261824</PointerOffset>
       <VoiceId>VSM_280_050_008</VoiceId>
-      <JapaneseText>IO)！</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>

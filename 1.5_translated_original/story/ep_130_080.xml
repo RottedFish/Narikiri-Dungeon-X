@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LE)</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IN)</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -63,7 +63,7 @@
     <Entry>
       <PointerOffset>258556</PointerOffset>
       <VoiceId>VSM_130_080_000</VoiceId>
-      <JapaneseText>LE)さんも、IN)さんも……</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;さんも、&lt;Mint&gt;さんも……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -283,7 +283,7 @@
     <Entry>
       <PointerOffset>262256</PointerOffset>
       <VoiceId>VSM_130_080_009</VoiceId>
-      <JapaneseText>あ、LE)さん、IN)さん</JapaneseText>
+      <JapaneseText>あ、&lt;Cless&gt;さん、&lt;Mint&gt;さん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -448,7 +448,7 @@
     <Entry>
       <PointerOffset>263428</PointerOffset>
       <VoiceId>VSM_130_080_015</VoiceId>
-      <JapaneseText>IO)も。
+      <JapaneseText>&lt;Dio&gt;も。
 ありがとう</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -484,7 +484,7 @@
       <PointerOffset>263624</PointerOffset>
       <VoiceId>VSM_130_080_016</VoiceId>
       <JapaneseText>オレ……
-あんまうまくLE)さんの
+あんまうまく&lt;Cless&gt;さんの
 代わり、できなかった</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -497,7 +497,7 @@
     <Entry>
       <PointerOffset>263624</PointerOffset>
       <VoiceId>VSM_130_080_017</VoiceId>
-      <JapaneseText>LE)さんの
+      <JapaneseText>&lt;Cless&gt;さんの
 役に立ちたかったのに</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -581,7 +581,7 @@
     <Entry>
       <PointerOffset>264616</PointerOffset>
       <VoiceId>VSM_130_080_020</VoiceId>
-      <JapaneseText>私もLE)さんと
+      <JapaneseText>私も&lt;Cless&gt;さんと
 一緒に行きます</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -616,7 +616,7 @@
     <Entry>
       <PointerOffset>264860</PointerOffset>
       <VoiceId>VSM_130_080_021</VoiceId>
-      <JapaneseText>IN)、君は……</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;、君は……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -768,7 +768,7 @@
     <Entry>
       <PointerOffset>265708</PointerOffset>
       <VoiceId>VSM_130_080_026</VoiceId>
-      <JapaneseText>LE)さんのそばで
+      <JapaneseText>&lt;Cless&gt;さんのそばで
 戦いたいから</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -871,7 +871,7 @@
     <Entry>
       <PointerOffset>267288</PointerOffset>
       <VoiceId>VSM_130_080_029</VoiceId>
-      <JapaneseText>IO)、突然、
+      <JapaneseText>&lt;Dio&gt;、突然、
 何を言い出すの！？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -906,8 +906,8 @@
     <Entry>
       <PointerOffset>267652</PointerOffset>
       <VoiceId>VSM_130_080_030</VoiceId>
-      <JapaneseText>EL)はちゃんと
-IN)さんの代わりできたのに、
+      <JapaneseText>&lt;Mel&gt;はちゃんと
+&lt;Mint&gt;さんの代わりできたのに、
 オレ、ダメだったから……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -921,7 +921,7 @@ IN)さんの代わりできたのに、
       <PointerOffset>267652</PointerOffset>
       <VoiceId>VSM_130_080_031</VoiceId>
       <JapaneseText>オレ、ちゃんと、
-LE)さんの力になりたい！</JapaneseText>
+&lt;Cless&gt;さんの力になりたい！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -1205,7 +1205,7 @@ LE)さんの力になりたい！</JapaneseText>
       <PointerOffset>270608</PointerOffset>
       <VoiceId>VSM_130_080_041</VoiceId>
       <JapaneseText>わたしも行きます。
-IO)ひとりじゃ
+&lt;Dio&gt;ひとりじゃ
 心配すぎるから</JapaneseText>
       <EnglishText/>
       <Notes/>

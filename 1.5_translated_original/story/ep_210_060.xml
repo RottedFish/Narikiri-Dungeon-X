@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UZ)</JapaneseText>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -123,7 +123,7 @@
     <Entry>
       <PointerOffset>259192</PointerOffset>
       <VoiceId>VSM_210_060_003</VoiceId>
-      <JapaneseText>IO)！？　EL)！？</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;！？　&lt;Mel&gt;！？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -446,7 +446,7 @@
     <Entry>
       <PointerOffset>265408</PointerOffset>
       <VoiceId>VSM_210_060_015</VoiceId>
-      <JapaneseText>IO)ー！　EL)ー！！
+      <JapaneseText>&lt;Dio&gt;ー！　&lt;Mel&gt;ー！！
 どこ〜！？</JapaneseText>
       <EnglishText/>
       <Notes/>

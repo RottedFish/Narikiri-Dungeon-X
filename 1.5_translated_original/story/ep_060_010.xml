@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LA)</JapaneseText>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
@@ -241,7 +241,7 @@
     <Entry>
       <PointerOffset>284144</PointerOffset>
       <VoiceId>VSM_060_010_008</VoiceId>
-      <JapaneseText>……ND_P)！？</JapaneseText>
+      <JapaneseText>……&lt;Rody&gt;！？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>
@@ -275,7 +275,7 @@
     <Entry>
       <PointerOffset>284728</PointerOffset>
       <VoiceId>VSM_060_010_009</VoiceId>
-      <JapaneseText>LA)！？</JapaneseText>
+      <JapaneseText>&lt;Claus&gt;！？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -380,7 +380,7 @@
       <PointerOffset>285740</PointerOffset>
       <VoiceId>VSM_060_010_012</VoiceId>
       <JapaneseText>何？
-LA)さんの知ってるヤツ？</JapaneseText>
+&lt;Claus&gt;さんの知ってるヤツ？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -486,7 +486,7 @@ LA)さんの知ってるヤツ？</JapaneseText>
     <Entry>
       <PointerOffset>287404</PointerOffset>
       <VoiceId>VSM_060_010_015</VoiceId>
-      <JapaneseText>ND)・Ｅ・
+      <JapaneseText>&lt;Rondoline&gt;・Ｅ・
 エッフェンベルグだよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1056,7 +1056,7 @@ LA)さんの知ってるヤツ？</JapaneseText>
     <Entry>
       <PointerOffset>293816</PointerOffset>
       <VoiceId>VSM_060_010_037</VoiceId>
-      <JapaneseText>EL)です。
+      <JapaneseText>&lt;Mel&gt;です。
 よろしくお願いします。
 ロンデ、ロンデロ……</JapaneseText>
       <EnglishText/>
@@ -1092,7 +1092,7 @@ LA)さんの知ってるヤツ？</JapaneseText>
     <Entry>
       <PointerOffset>294236</PointerOffset>
       <VoiceId>VSM_060_010_038</VoiceId>
-      <JapaneseText>フフッ、ND_P)でいいよ。
+      <JapaneseText>フフッ、&lt;Rody&gt;でいいよ。
 よろしく</JapaneseText>
       <EnglishText/>
       <Notes/>

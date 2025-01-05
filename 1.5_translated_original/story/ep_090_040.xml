@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LA)</JapaneseText>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -281,7 +281,7 @@
     <Entry>
       <PointerOffset>282700</PointerOffset>
       <VoiceId>VSM_090_040_012</VoiceId>
-      <JapaneseText>待て、ND_P)！</JapaneseText>
+      <JapaneseText>待て、&lt;Rody&gt;！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -350,7 +350,7 @@
       <PointerOffset>283552</PointerOffset>
       <VoiceId>VSM_090_040_015</VoiceId>
       <JapaneseText>ダオスって……
-LA)さんたちが
+&lt;Claus&gt;さんたちが
 倒したんだろ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -469,7 +469,7 @@ LA)さんたちが
     <Entry>
       <PointerOffset>284520</PointerOffset>
       <VoiceId>VSM_090_040_019</VoiceId>
-      <JapaneseText>ND_P)も、みんなと一緒で
+      <JapaneseText>&lt;Rody&gt;も、みんなと一緒で
 世界を守るために
 戦いたかったんじゃねーのか？</JapaneseText>
       <EnglishText/>
@@ -613,7 +613,7 @@ LA)さんたちが
       <PointerOffset>285432</PointerOffset>
       <VoiceId>VSM_090_040_025</VoiceId>
       <JapaneseText>そうだな。
-EL)……帰ろう</JapaneseText>
+&lt;Mel&gt;……帰ろう</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>

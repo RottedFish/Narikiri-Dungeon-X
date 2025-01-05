@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -81,7 +81,7 @@
     <Entry>
       <PointerOffset>259544</PointerOffset>
       <VoiceId>VSM_300_080_002</VoiceId>
-      <JapaneseText>どうしたの？　EL)ちゃん</JapaneseText>
+      <JapaneseText>どうしたの？　&lt;Mel&gt;ちゃん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -115,7 +115,7 @@
     <Entry>
       <PointerOffset>259724</PointerOffset>
       <VoiceId>VSM_300_080_003</VoiceId>
-      <JapaneseText>ND_P)さん、
+      <JapaneseText>&lt;Rody&gt;さん、
 やっぱりわたしたちのこと、
 許せないですか？</JapaneseText>
       <EnglishText/>
@@ -301,7 +301,7 @@
     <Entry>
       <PointerOffset>261172</PointerOffset>
       <VoiceId>VSM_300_080_009</VoiceId>
-      <JapaneseText>EL)ちゃん、カワイイ。
+      <JapaneseText>&lt;Mel&gt;ちゃん、カワイイ。
 食べちゃっていい？∀</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -447,7 +447,7 @@
       <PointerOffset>262092</PointerOffset>
       <VoiceId>VSM_300_080_015</VoiceId>
       <JapaneseText>でも、そっちの方が
-ダオスにも、ND_P)さんにも
+ダオスにも、&lt;Rody&gt;さんにも
 幸せだったと思います</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -530,7 +530,7 @@
     <Entry>
       <PointerOffset>262644</PointerOffset>
       <VoiceId>VSM_300_080_018</VoiceId>
-      <JapaneseText>ND_P)さん、
+      <JapaneseText>&lt;Rody&gt;さん、
 そんなにダオスを……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -615,7 +615,7 @@
       <PointerOffset>263900</PointerOffset>
       <VoiceId>VSM_300_080_021</VoiceId>
       <JapaneseText>よろしくお願いします、
-ND_P)さん</JapaneseText>
+&lt;Rody&gt;さん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -683,7 +683,7 @@ ND_P)さん</JapaneseText>
     <Entry>
       <PointerOffset>264792</PointerOffset>
       <VoiceId>VSM_300_080_023</VoiceId>
-      <JapaneseText>……よろしくね……ND_P)</JapaneseText>
+      <JapaneseText>……よろしくね……&lt;Rody&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>

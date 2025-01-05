@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LE)</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IN)</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
@@ -59,7 +59,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>8</Id>
@@ -393,7 +393,7 @@
     <Entry>
       <PointerOffset>262068</PointerOffset>
       <VoiceId>VSM_140_050_032</VoiceId>
-      <JapaneseText>LE)さん……わたしたちは
+      <JapaneseText>&lt;Cless&gt;さん……わたしたちは
 &lt;Red&gt;スルト深林&lt;White&gt;へ行った方が
 いいのではないでしょうか？</JapaneseText>
       <EnglishText/>
@@ -822,7 +822,7 @@
       <PointerOffset>265704</PointerOffset>
       <VoiceId>VSM_140_050_046</VoiceId>
       <JapaneseText>行こうぜ……！
-LE)さんたちの後を追おう</JapaneseText>
+&lt;Cless&gt;さんたちの後を追おう</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>7</SpeakerId>
@@ -856,7 +856,7 @@ LE)さんたちの後を追おう</JapaneseText>
     <Entry>
       <PointerOffset>266156</PointerOffset>
       <VoiceId>VSM_140_050_047</VoiceId>
-      <JapaneseText>……IO)、
+      <JapaneseText>……&lt;Dio&gt;、
 もう平気なの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -926,7 +926,7 @@ LE)さんたちの後を追おう</JapaneseText>
     <Entry>
       <PointerOffset>266616</PointerOffset>
       <VoiceId>VSM_140_050_049</VoiceId>
-      <JapaneseText>どうしたの、IO)</JapaneseText>
+      <JapaneseText>どうしたの、&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>6</SpeakerId>

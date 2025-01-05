@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
@@ -328,7 +328,7 @@
       <PointerOffset>266736</PointerOffset>
       <VoiceId>VSM_320_060_019</VoiceId>
       <JapaneseText>……あのふたりは
-IO)くんとEL)ちゃんだった</JapaneseText>
+&lt;Dio&gt;くんと&lt;Mel&gt;ちゃんだった</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>
@@ -825,7 +825,7 @@ IO)くんとEL)ちゃんだった</JapaneseText>
     <Entry>
       <PointerOffset>271980</PointerOffset>
       <VoiceId>VSM_320_060_037</VoiceId>
-      <JapaneseText>あ、UL)……！</JapaneseText>
+      <JapaneseText>あ、&lt;Couleur&gt;……！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>

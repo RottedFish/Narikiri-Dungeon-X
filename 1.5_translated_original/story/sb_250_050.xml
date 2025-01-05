@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LE)</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ST)</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IN)</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
@@ -103,7 +103,7 @@
     </Entry>
     <Entry>
       <PointerOffset>259940</PointerOffset>
-      <JapaneseText>遅いぞ、IO)！</JapaneseText>
+      <JapaneseText>遅いぞ、&lt;Dio&gt;！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -137,7 +137,7 @@
     <Entry>
       <PointerOffset>260136</PointerOffset>
       <JapaneseText>だ、だって……
-LE)さん、早すぎ……</JapaneseText>
+&lt;Cless&gt;さん、早すぎ……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -271,7 +271,7 @@ LE)さん、早すぎ……</JapaneseText>
     </Entry>
     <Entry>
       <PointerOffset>260988</PointerOffset>
-      <JapaneseText>LE)さんは、
+      <JapaneseText>&lt;Cless&gt;さんは、
 体力ありますから……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -384,7 +384,7 @@ LE)さん、早すぎ……</JapaneseText>
     </Entry>
     <Entry>
       <PointerOffset>262528</PointerOffset>
-      <JapaneseText>IO)って
+      <JapaneseText>&lt;Dio&gt;って
 本当、負けず嫌い
 なんだかラ……</JapaneseText>
       <EnglishText/>
@@ -486,7 +486,7 @@ LE)さん、早すぎ……</JapaneseText>
     </Entry>
     <Entry>
       <PointerOffset>264840</PointerOffset>
-      <JapaneseText>やったな、IO)</JapaneseText>
+      <JapaneseText>やったな、&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -652,7 +652,7 @@ LE)さん、早すぎ……</JapaneseText>
     </Entry>
     <Entry>
       <PointerOffset>266388</PointerOffset>
-      <JapaneseText>ありがとう、LE)さん</JapaneseText>
+      <JapaneseText>ありがとう、&lt;Cless&gt;さん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -754,7 +754,7 @@ LE)さん、早すぎ……</JapaneseText>
     <Entry>
       <PointerOffset>267364</PointerOffset>
       <JapaneseText>顔色ひとつ変わってない、
-LE)さんのほうが
+&lt;Cless&gt;さんのほうが
 スゴイよ……</JapaneseText>
       <EnglishText/>
       <Notes/>

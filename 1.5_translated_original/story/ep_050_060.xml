@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -551,7 +551,7 @@
       <PointerOffset>265980</PointerOffset>
       <VoiceId>VSM_050_060_027</VoiceId>
       <JapaneseText>&lt;Red&gt;ユークリッド村&lt;White&gt;でお会いした、
-LA)さんのお友達、
+&lt;Claus&gt;さんのお友達、
 ですよね？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -827,7 +827,7 @@ LA)さんのお友達、
     <Entry>
       <PointerOffset>267336</PointerOffset>
       <VoiceId>VSM_050_060_035</VoiceId>
-      <JapaneseText>LA)さんに
+      <JapaneseText>&lt;Claus&gt;さんに
 会わなかったか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -862,7 +862,7 @@ LA)さんのお友達、
     <Entry>
       <PointerOffset>267476</PointerOffset>
       <VoiceId>VSM_050_060_036Z</VoiceId>
-      <JapaneseText>え？　LA)が
+      <JapaneseText>え？　&lt;Claus&gt;が
 来てるのかい？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -967,7 +967,7 @@ LA)さんのお友達、
     <Entry>
       <PointerOffset>268176</PointerOffset>
       <VoiceId>VSM_050_060_039Z</VoiceId>
-      <JapaneseText>LA)！</JapaneseText>
+      <JapaneseText>&lt;Claus&gt;！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>

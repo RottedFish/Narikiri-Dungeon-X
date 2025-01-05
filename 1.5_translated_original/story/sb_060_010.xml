@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)＆EL)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;＆&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LE)</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -375,7 +375,7 @@
     </Entry>
     <Entry>
       <PointerOffset>262948</PointerOffset>
-      <JapaneseText>おや、LE)さん、
+      <JapaneseText>おや、&lt;Cless&gt;さん、
 おかえりなさい</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -572,7 +572,7 @@
     </Entry>
     <Entry>
       <PointerOffset>263932</PointerOffset>
-      <JapaneseText>ね、LE)さん</JapaneseText>
+      <JapaneseText>ね、&lt;Cless&gt;さん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>

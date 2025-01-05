@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LA)</JapaneseText>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -379,9 +379,9 @@
     <Entry>
       <PointerOffset>263856</PointerOffset>
       <VoiceId>VSM_070_020_018</VoiceId>
-      <JapaneseText>IO)は
+      <JapaneseText>&lt;Dio&gt;は
 がんばってんだね。
-EL)とあの子のために</JapaneseText>
+&lt;Mel&gt;とあの子のために</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>

@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -88,7 +88,7 @@
     </Entry>
     <Entry>
       <PointerOffset>279244</PointerOffset>
-      <JapaneseText>もう、IO)ったら……
+      <JapaneseText>もう、&lt;Dio&gt;ったら……
 あっ……わたしも……
 日記帳忘れた……</JapaneseText>
       <EnglishText/>
@@ -767,8 +767,8 @@
     </Entry>
     <Entry>
       <PointerOffset>289504</PointerOffset>
-      <JapaneseText>IO)くん、
-EL)ちゃん……！</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;くん、
+&lt;Mel&gt;ちゃん……！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -880,7 +880,7 @@ EL)ちゃん……！</JapaneseText>
     </Entry>
     <Entry>
       <PointerOffset>292200</PointerOffset>
-      <JapaneseText>ND_P)、
+      <JapaneseText>&lt;Rody&gt;、
 どうしたんだ……？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1115,7 +1115,7 @@ EL)ちゃん……！</JapaneseText>
     </Entry>
     <Entry>
       <PointerOffset>294672</PointerOffset>
-      <JapaneseText>あ、ND_P)、
+      <JapaneseText>あ、&lt;Rody&gt;、
 置いてかないで！</JapaneseText>
       <EnglishText/>
       <Notes/>

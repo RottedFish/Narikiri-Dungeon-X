@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LA)</JapaneseText>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -425,7 +425,7 @@
       <PointerOffset>284084</PointerOffset>
       <VoiceId>VSM_050_040_013</VoiceId>
       <JapaneseText>もしかして、ミラルドさん、
-LA)さんにもう一度、
+&lt;Claus&gt;さんにもう一度、
 研究をがんばってもらいたくて……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -878,7 +878,7 @@ LA)さんにもう一度、
     <Entry>
       <PointerOffset>287600</PointerOffset>
       <VoiceId>VSM_050_040_033</VoiceId>
-      <JapaneseText>LA)。
+      <JapaneseText>&lt;Claus&gt;。
 私は好きでここにいるのよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1055,7 +1055,7 @@ LA)さんにもう一度、
     <Entry>
       <PointerOffset>288488</PointerOffset>
       <VoiceId>VSM_050_040_042</VoiceId>
-      <JapaneseText>LA)……</JapaneseText>
+      <JapaneseText>&lt;Claus&gt;……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>
@@ -1276,7 +1276,7 @@ LA)さんにもう一度、
     <Entry>
       <PointerOffset>291000</PointerOffset>
       <VoiceId>VSM_050_040_049</VoiceId>
-      <JapaneseText>ちょっと、IO)……！</JapaneseText>
+      <JapaneseText>ちょっと、&lt;Dio&gt;……！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -1737,7 +1737,7 @@ LA)さんにもう一度、
       <PointerOffset>295288</PointerOffset>
       <VoiceId>VSM_050_040_066</VoiceId>
       <JapaneseText>それから、
-私のことはLA)でいい</JapaneseText>
+私のことは&lt;Claus&gt;でいい</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>

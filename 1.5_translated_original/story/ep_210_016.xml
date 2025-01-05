@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UZ)</JapaneseText>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -136,7 +136,7 @@
       <PointerOffset>259368</PointerOffset>
       <VoiceId>VSM_210_015_042</VoiceId>
       <JapaneseText>動物と意思疎通できるという
-この道具の特性が、UL)さんの
+この道具の特性が、&lt;Couleur&gt;さんの
 持つ何かに反応した、としか</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -149,7 +149,7 @@
     <Entry>
       <PointerOffset>259368</PointerOffset>
       <VoiceId>VSM_210_015_043</VoiceId>
-      <JapaneseText>あるいは、ずっとUL)さんと
+      <JapaneseText>あるいは、ずっと&lt;Couleur&gt;さんと
 旅してきたおふたりだからこそ、
 その姿になれるのかもしれません</JapaneseText>
       <EnglishText/>

@@ -24,7 +24,7 @@ import io
 from tqdm import tqdm
 import struct
 
-from tools.pythonlib.formats.talk_data import TalkData
+from pythonlib.formats.talk_data import TalkData
 
 
 class ToolsNDX():

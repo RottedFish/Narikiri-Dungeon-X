@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -159,7 +159,7 @@
     <Entry>
       <PointerOffset>259916</PointerOffset>
       <VoiceId>VSM_040_030_008Z</VoiceId>
-      <JapaneseText>おや、LA)に客人か？</JapaneseText>
+      <JapaneseText>おや、&lt;Claus&gt;に客人か？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -208,7 +208,7 @@
       <PointerOffset>260700</PointerOffset>
       <VoiceId>VSM_040_030_010</VoiceId>
       <JapaneseText>はい、あの……わたしたち、
-精霊のことでLA)さんに
+精霊のことで&lt;Claus&gt;さんに
 相談があって……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -277,7 +277,7 @@
     <Entry>
       <PointerOffset>261432</PointerOffset>
       <VoiceId>VSM_040_030_012</VoiceId>
-      <JapaneseText>ちょっと、IO)、
+      <JapaneseText>ちょっと、&lt;Dio&gt;、
 失礼でしょ……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -516,7 +516,7 @@
     <Entry>
       <PointerOffset>263384</PointerOffset>
       <VoiceId>VSM_040_030_022Z</VoiceId>
-      <JapaneseText>ところで、LA)に何を
+      <JapaneseText>ところで、&lt;Claus&gt;に何を
 相談したいんだい？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -802,7 +802,7 @@
       <PointerOffset>268636</PointerOffset>
       <VoiceId>VSM_040_030_033</VoiceId>
       <JapaneseText>でも、だからって
-LA)さんのあんな言い方……
+&lt;Claus&gt;さんのあんな言い方……
 ないと、思う……</JapaneseText>
       <EnglishText/>
       <Notes/>

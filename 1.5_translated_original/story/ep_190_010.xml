@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -222,7 +222,7 @@
     <Entry>
       <PointerOffset>282248</PointerOffset>
       <VoiceId>VSM_190_010_006</VoiceId>
-      <JapaneseText>UL)のヤツも
+      <JapaneseText>&lt;Couleur&gt;のヤツも
 どこ行ったんだろ……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -663,7 +663,7 @@
     <Entry>
       <PointerOffset>288936</PointerOffset>
       <VoiceId>VSM_190_010_021</VoiceId>
-      <JapaneseText>ND_P)さん！</JapaneseText>
+      <JapaneseText>&lt;Rody&gt;さん！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>

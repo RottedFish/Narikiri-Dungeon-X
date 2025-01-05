@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UZ)</JapaneseText>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -89,7 +89,7 @@
     <Entry>
       <PointerOffset>262304</PointerOffset>
       <VoiceId>VSM_210_070_002</VoiceId>
-      <JapaneseText>EL)、そこにいるの？</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;、そこにいるの？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -157,7 +157,7 @@
     <Entry>
       <PointerOffset>262640</PointerOffset>
       <VoiceId>VSM_210_070_004</VoiceId>
-      <JapaneseText>IO)も！？
+      <JapaneseText>&lt;Dio&gt;も！？
 真っ暗で見えないよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -260,7 +260,7 @@
     <Entry>
       <PointerOffset>265256</PointerOffset>
       <VoiceId>VSM_210_070_007</VoiceId>
-      <JapaneseText>私は藤林UZ)と申します</JapaneseText>
+      <JapaneseText>私は藤林&lt;Suzu&gt;と申します</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -273,7 +273,7 @@
       <PointerOffset>265256</PointerOffset>
       <VoiceId>VSM_210_070_008</VoiceId>
       <JapaneseText>以前、あなたと契約した
-LA)さんの知り合いです</JapaneseText>
+&lt;Claus&gt;さんの知り合いです</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -307,7 +307,7 @@ LA)さんの知り合いです</JapaneseText>
     <Entry>
       <PointerOffset>265460</PointerOffset>
       <VoiceId>VSM_210_070_009</VoiceId>
-      <JapaneseText>我・知る・LA)</JapaneseText>
+      <JapaneseText>我・知る・&lt;Claus&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>

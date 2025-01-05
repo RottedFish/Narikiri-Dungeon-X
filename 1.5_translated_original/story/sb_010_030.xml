@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LA)</JapaneseText>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -62,7 +62,7 @@
     <Section>Story</Section>
     <Entry>
       <PointerOffset>258700</PointerOffset>
-      <JapaneseText>LA)さん……</JapaneseText>
+      <JapaneseText>&lt;Claus&gt;さん……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -532,7 +532,7 @@
     </Entry>
     <Entry>
       <PointerOffset>264484</PointerOffset>
-      <JapaneseText>オレとEL)だって、
+      <JapaneseText>オレと&lt;Mel&gt;だって、
 ケンカばっかだぜ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -568,7 +568,7 @@
       <PointerOffset>264728</PointerOffset>
       <JapaneseText>だって、ひとこと、言わずには
 いられないことばっかり
-IO)がやるからでしょ？</JapaneseText>
+&lt;Dio&gt;がやるからでしょ？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>6</SpeakerId>

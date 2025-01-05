@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LE)</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IN)</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
@@ -59,7 +59,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ST)</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>8</Id>
@@ -470,7 +470,7 @@
       <VoiceId>VSM_160_010_014</VoiceId>
       <JapaneseText>はい。
 ありがとうございます、
-LE)さん</JapaneseText>
+&lt;Cless&gt;さん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -504,7 +504,7 @@ LE)さん</JapaneseText>
     <Entry>
       <PointerOffset>295664</PointerOffset>
       <VoiceId>VSM_160_010_015</VoiceId>
-      <JapaneseText>……IO)も</JapaneseText>
+      <JapaneseText>……&lt;Dio&gt;も</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -572,7 +572,7 @@ LE)さん</JapaneseText>
     <Entry>
       <PointerOffset>296572</PointerOffset>
       <VoiceId>VSM_160_010_017</VoiceId>
-      <JapaneseText>ST)さん！</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;さん！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>7</SpeakerId>
@@ -723,7 +723,7 @@ LE)さん</JapaneseText>
     <Entry>
       <PointerOffset>299224</PointerOffset>
       <VoiceId>VSM_160_010_022</VoiceId>
-      <JapaneseText>ありがとう、ST)。
+      <JapaneseText>ありがとう、&lt;Chester&gt;。
 あの魔物たちは
 この森の奥から来てるんだ</JapaneseText>
       <EnglishText/>
@@ -934,7 +934,7 @@ LE)さん</JapaneseText>
     <Entry>
       <PointerOffset>300696</PointerOffset>
       <VoiceId>VSM_160_010_028</VoiceId>
-      <JapaneseText>IO)……なんか変だよ。
+      <JapaneseText>&lt;Dio&gt;……なんか変だよ。
 &lt;Red&gt;ヴァルハラ&lt;White&gt;の時かラ……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1176,7 +1176,7 @@ LE)さん</JapaneseText>
       <PointerOffset>302004</PointerOffset>
       <VoiceId>VSM_160_010_035</VoiceId>
       <JapaneseText>バジルって……
-LA)さんの友達の……</JapaneseText>
+&lt;Claus&gt;さんの友達の……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -1244,7 +1244,7 @@ LA)さんの友達の……</JapaneseText>
     <Entry>
       <PointerOffset>302340</PointerOffset>
       <VoiceId>VSM_160_010_037</VoiceId>
-      <JapaneseText>だから、IO)、
+      <JapaneseText>だから、&lt;Dio&gt;、
 なんか様子が
 変だったんでしょ？</JapaneseText>
       <EnglishText/>
@@ -1293,7 +1293,7 @@ LA)さんの友達の……</JapaneseText>
     <Entry>
       <PointerOffset>302836</PointerOffset>
       <VoiceId>VSM_160_010_039</VoiceId>
-      <JapaneseText>行こうぜ、LE)さん</JapaneseText>
+      <JapaneseText>行こうぜ、&lt;Cless&gt;さん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>

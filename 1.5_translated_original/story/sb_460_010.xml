@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LE)</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -89,7 +89,7 @@
     <Entry>
       <PointerOffset>260272</PointerOffset>
       <JapaneseText>&lt;Red&gt;トーティス村&lt;White&gt;、
-LE)さんたちが住んでる村だぜ？</JapaneseText>
+&lt;Cless&gt;さんたちが住んでる村だぜ？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -506,7 +506,7 @@ LE)さんたちが住んでる村だぜ？</JapaneseText>
     </Entry>
     <Entry>
       <PointerOffset>263224</PointerOffset>
-      <JapaneseText>ND_P)さん、精霊の森に
+      <JapaneseText>&lt;Rody&gt;さん、精霊の森に
 住んでたって言ってましたね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -632,7 +632,7 @@ LE)さんたちが住んでる村だぜ？</JapaneseText>
     <Entry>
       <PointerOffset>263960</PointerOffset>
       <JapaneseText>……どうしたんですか？
-ND_P)さん</JapaneseText>
+&lt;Rody&gt;さん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>

@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LA)</JapaneseText>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -1002,7 +1002,7 @@
       <PointerOffset>267872</PointerOffset>
       <VoiceId>VSM_080_050_032Z</VoiceId>
       <JapaneseText>だから、
-がんばれよ、IO)！</JapaneseText>
+がんばれよ、&lt;Dio&gt;！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -1083,7 +1083,7 @@
     <Entry>
       <PointerOffset>269040</PointerOffset>
       <VoiceId>VSM_080_050_035Z</VoiceId>
-      <JapaneseText>でも、LA)もまた
+      <JapaneseText>でも、&lt;Claus&gt;もまた
 やる気になってくれたし、
 研究も進展すると思う。</JapaneseText>
       <EnglishText/>
@@ -1200,7 +1200,7 @@
     <Entry>
       <PointerOffset>270328</PointerOffset>
       <VoiceId>VSM_080_050_039</VoiceId>
-      <JapaneseText>ND_P)、何をやってるんだ？</JapaneseText>
+      <JapaneseText>&lt;Rody&gt;、何をやってるんだ？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>
@@ -1608,7 +1608,7 @@
     <Entry>
       <PointerOffset>275524</PointerOffset>
       <VoiceId>VSM_080_050_052Z</VoiceId>
-      <JapaneseText>LA)、
+      <JapaneseText>&lt;Claus&gt;、
 約束、忘れないでくれよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1678,7 +1678,7 @@
       <PointerOffset>276116</PointerOffset>
       <VoiceId>VSM_080_050_054</VoiceId>
       <JapaneseText>うぉし、
-IO)くん、EL)ちゃん、
+&lt;Dio&gt;くん、&lt;Mel&gt;ちゃん、
 精霊さんに会いに行こうぜ</JapaneseText>
       <EnglishText/>
       <Notes/>

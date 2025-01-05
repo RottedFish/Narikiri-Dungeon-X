@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IN)</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -106,7 +106,7 @@
     <Entry>
       <PointerOffset>278788</PointerOffset>
       <VoiceId>VSM_130_020_002</VoiceId>
-      <JapaneseText>あれが、IN)さん？</JapaneseText>
+      <JapaneseText>あれが、&lt;Mint&gt;さん？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -176,7 +176,7 @@
       <VoiceId>VSM_130_020_010</VoiceId>
       <JapaneseText>それでね、
 聞いてくださいよ、
-IN)様</JapaneseText>
+&lt;Mint&gt;様</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -375,7 +375,7 @@ IN)様</JapaneseText>
       <PointerOffset>281004</PointerOffset>
       <VoiceId>VSM_130_020_018</VoiceId>
       <JapaneseText>いつも私の悩み聞いてくれて、
-ありがとうございます、IN)様</JapaneseText>
+ありがとうございます、&lt;Mint&gt;様</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -525,7 +525,7 @@ IN)様</JapaneseText>
     <Entry>
       <PointerOffset>282384</PointerOffset>
       <VoiceId>VSM_130_020_023</VoiceId>
-      <JapaneseText>さすがIN)様だわ。
+      <JapaneseText>さすが&lt;Mint&gt;様だわ。
 すっきりした</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -678,7 +678,7 @@ IN)様</JapaneseText>
     <Entry>
       <PointerOffset>285216</PointerOffset>
       <VoiceId>VSM_130_020_028</VoiceId>
-      <JapaneseText>LE)さんが
+      <JapaneseText>&lt;Cless&gt;さんが
 帰ってきたので
 お知らせにきたんです</JapaneseText>
       <EnglishText/>
@@ -714,7 +714,7 @@ IN)様</JapaneseText>
     <Entry>
       <PointerOffset>285532</PointerOffset>
       <VoiceId>VSM_130_020_029</VoiceId>
-      <JapaneseText>LE)さんが……！？</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;さんが……！？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>
@@ -854,8 +854,8 @@ IN)様</JapaneseText>
     <Entry>
       <PointerOffset>288040</PointerOffset>
       <VoiceId>VSM_130_020_034</VoiceId>
-      <JapaneseText>でも、IN)さんは
-LE)さんに
+      <JapaneseText>でも、&lt;Mint&gt;さんは
+&lt;Cless&gt;さんに
 会いたいんですよね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -891,7 +891,7 @@ LE)さんに
       <PointerOffset>288180</PointerOffset>
       <VoiceId>VSM_130_020_036</VoiceId>
       <JapaneseText>いいんです、
-LE)さんはわかって
+&lt;Cless&gt;さんはわかって
 くださってますし……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1020,7 +1020,7 @@ LE)さんはわかって
     <Entry>
       <PointerOffset>289772</PointerOffset>
       <VoiceId>VSM_130_020_043</VoiceId>
-      <JapaneseText>私だってLE)さんには
+      <JapaneseText>私だって&lt;Cless&gt;さんには
 会いたいです。でも……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1125,7 +1125,7 @@ LE)さんはわかって
     <Entry>
       <PointerOffset>291796</PointerOffset>
       <VoiceId>VSM_130_020_046</VoiceId>
-      <JapaneseText>あ〜〜〜い、EL)EL)〜〜、
+      <JapaneseText>あ〜〜〜い、&lt;Mel&gt;&lt;Mel&gt;〜〜、
 おらのこと呼んだべか∀</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1194,7 +1194,7 @@ LE)さんはわかって
     <Entry>
       <PointerOffset>292232</PointerOffset>
       <VoiceId>VSM_130_020_048</VoiceId>
-      <JapaneseText>かわいいEL)EL)が
+      <JapaneseText>かわいい&lt;Mel&gt;&lt;Mel&gt;が
 今度はどんなかわえぇ〜
 服着るんだべや？</JapaneseText>
       <EnglishText/>
@@ -1380,7 +1380,7 @@ LE)さんはわかって
     <Entry>
       <PointerOffset>297376</PointerOffset>
       <VoiceId>VSM_130_020_054</VoiceId>
-      <JapaneseText>でも、LE)さんも
+      <JapaneseText>でも、&lt;Cless&gt;さんも
 お忙しいでしょうし……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1450,7 +1450,7 @@ LE)さんはわかって
     <Entry>
       <PointerOffset>298376</PointerOffset>
       <VoiceId>VSM_130_020_056</VoiceId>
-      <JapaneseText>あっ！　ちょっとIO)！
+      <JapaneseText>あっ！　ちょっと&lt;Dio&gt;！
 待って！</JapaneseText>
       <EnglishText/>
       <Notes/>

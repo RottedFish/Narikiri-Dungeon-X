@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -89,7 +89,7 @@
     <Entry>
       <PointerOffset>283160</PointerOffset>
       <VoiceId>VSM_330_010_050</VoiceId>
-      <JapaneseText>大丈夫、EL)ちゃん！</JapaneseText>
+      <JapaneseText>大丈夫、&lt;Mel&gt;ちゃん！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -171,7 +171,7 @@
     <Entry>
       <PointerOffset>286008</PointerOffset>
       <VoiceId>VSM_330_010_053</VoiceId>
-      <JapaneseText>エトとEL)は
+      <JapaneseText>エトと&lt;Mel&gt;は
 オレが守る……！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -230,7 +230,7 @@
     <Entry>
       <PointerOffset>286892</PointerOffset>
       <VoiceId>VSM_330_010_056</VoiceId>
-      <JapaneseText>IO)ひとりになんて……
+      <JapaneseText>&lt;Dio&gt;ひとりになんて……
 任せておけないもん</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -299,7 +299,7 @@
     <Entry>
       <PointerOffset>291384</PointerOffset>
       <VoiceId>VSM_330_010_058</VoiceId>
-      <JapaneseText>UL)、おまえ……</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;、おまえ……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>

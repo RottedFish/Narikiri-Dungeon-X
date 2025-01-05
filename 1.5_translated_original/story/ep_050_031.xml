@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)＆EL)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;＆&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -827,7 +827,7 @@
       <PointerOffset>289072</PointerOffset>
       <VoiceId>VSM_050_030_048</VoiceId>
       <JapaneseText>あ、ありがとうございます！
-ほら、IO)……</JapaneseText>
+ほら、&lt;Dio&gt;……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -1164,7 +1164,7 @@
       <PointerOffset>293420</PointerOffset>
       <VoiceId>VSM_050_030_061</VoiceId>
       <JapaneseText>とりあえず、
-LA)さんのところへ
+&lt;Claus&gt;さんのところへ
 連れて帰ろうよ</JapaneseText>
       <EnglishText/>
       <Notes/>

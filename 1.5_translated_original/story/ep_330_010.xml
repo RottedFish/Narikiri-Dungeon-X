@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)＆EL)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;＆&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -98,7 +98,7 @@
     <Entry>
       <PointerOffset>284504</PointerOffset>
       <VoiceId>VSM_330_010_003</VoiceId>
-      <JapaneseText>UL)？
+      <JapaneseText>&lt;Couleur&gt;？
 どこ行くんだ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -169,7 +169,7 @@
     <Entry>
       <PointerOffset>286864</PointerOffset>
       <VoiceId>VSM_330_010_005</VoiceId>
-      <JapaneseText>UL)……？</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;……？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -204,7 +204,7 @@
       <PointerOffset>287020</PointerOffset>
       <VoiceId>VSM_330_010_006</VoiceId>
       <JapaneseText>まさか……
-UL)がノルンさん……？</JapaneseText>
+&lt;Couleur&gt;がノルンさん……？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -1077,7 +1077,7 @@ UL)がノルンさん……？</JapaneseText>
     <Entry>
       <PointerOffset>295448</PointerOffset>
       <VoiceId>VSM_330_010_036</VoiceId>
-      <JapaneseText>IO)とEL)の、
+      <JapaneseText>&lt;Dio&gt;と&lt;Mel&gt;の、
 未来……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1249,7 +1249,7 @@ UL)がノルンさん……？</JapaneseText>
     <Entry>
       <PointerOffset>300988</PointerOffset>
       <VoiceId>VSM_330_010_041</VoiceId>
-      <JapaneseText>EL)、
+      <JapaneseText>&lt;Mel&gt;、
 エトを取り戻すぞ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1366,7 +1366,7 @@ UL)がノルンさん……？</JapaneseText>
     <Entry>
       <PointerOffset>302740</PointerOffset>
       <VoiceId>VSM_330_010_045</VoiceId>
-      <JapaneseText>……IO)とEL)を
+      <JapaneseText>……&lt;Dio&gt;と&lt;Mel&gt;を
 バカにするな！</JapaneseText>
       <EnglishText/>
       <Notes/>

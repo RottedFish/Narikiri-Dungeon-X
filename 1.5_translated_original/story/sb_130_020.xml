@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LE)</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)＆EL)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;＆&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LE)＆アルベルト</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;＆アルベルト</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
@@ -738,7 +738,7 @@
     </Entry>
     <Entry>
       <PointerOffset>263772</PointerOffset>
-      <JapaneseText>すみません。LE)さん。
+      <JapaneseText>すみません。&lt;Cless&gt;さん。
 手伝ってもらっちゃって</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -774,7 +774,7 @@
       <PointerOffset>263912</PointerOffset>
       <JapaneseText>ああ、そうそう。
 社長さんから、
-EL)ちゃんにお礼だよ</JapaneseText>
+&lt;Mel&gt;ちゃんにお礼だよ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -822,7 +822,7 @@ EL)ちゃんにお礼だよ</JapaneseText>
       <PointerOffset>264052</PointerOffset>
       <JapaneseText>でも、お礼だなんて。
 わたし今回何もしてないのに。
-それならLE)さんのほうが……</JapaneseText>
+それなら&lt;Cless&gt;さんのほうが……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>

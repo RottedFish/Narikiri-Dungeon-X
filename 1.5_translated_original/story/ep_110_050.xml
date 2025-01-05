@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -47,7 +47,7 @@
     <Entry>
       <PointerOffset>258308</PointerOffset>
       <VoiceId>VSM_110_050_000</VoiceId>
-      <JapaneseText>LE)さんが帰ってくるまで
+      <JapaneseText>&lt;Cless&gt;さんが帰ってくるまで
 待ってみるか……？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -759,7 +759,7 @@
     <Entry>
       <PointerOffset>265764</PointerOffset>
       <VoiceId>VSM_110_050_023</VoiceId>
-      <JapaneseText>オレら、LE)さんに
+      <JapaneseText>オレら、&lt;Cless&gt;さんに
 会いに来たんだ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -794,7 +794,7 @@
     <Entry>
       <PointerOffset>265904</PointerOffset>
       <VoiceId>VSM_110_050_024</VoiceId>
-      <JapaneseText>LE)に？　そうか、悪いな。
+      <JapaneseText>&lt;Cless&gt;に？　そうか、悪いな。
 あいつ、今、
 &lt;Red&gt;ヴァルハラ&lt;White&gt;に行ってて……</JapaneseText>
       <EnglishText/>
@@ -924,7 +924,7 @@
     <Entry>
       <PointerOffset>266792</PointerOffset>
       <VoiceId>VSM_110_050_029</VoiceId>
-      <JapaneseText>……IN)さんにも
+      <JapaneseText>……&lt;Mint&gt;さんにも
 会えないし</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -959,7 +959,7 @@
     <Entry>
       <PointerOffset>267100</PointerOffset>
       <VoiceId>VSM_110_050_030</VoiceId>
-      <JapaneseText>ああ、IN)も忙しいしなぁ</JapaneseText>
+      <JapaneseText>ああ、&lt;Mint&gt;も忙しいしなぁ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>

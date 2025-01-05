@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LE)</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IN)</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -254,7 +254,7 @@
     <Entry>
       <PointerOffset>260012</PointerOffset>
       <VoiceId>VSM_130_060_010</VoiceId>
-      <JapaneseText>LE)さん……？</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;さん……？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -351,7 +351,7 @@
     <Entry>
       <PointerOffset>260476</PointerOffset>
       <VoiceId>VSM_130_060_014</VoiceId>
-      <JapaneseText>……LE)さんは、
+      <JapaneseText>……&lt;Cless&gt;さんは、
 英雄として、人々のために
 がんばってます</JapaneseText>
       <EnglishText/>
@@ -401,7 +401,7 @@
     <Entry>
       <PointerOffset>261552</PointerOffset>
       <VoiceId>VSM_130_060_016</VoiceId>
-      <JapaneseText>何言ってるんだ、IN)</JapaneseText>
+      <JapaneseText>何言ってるんだ、&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -498,7 +498,7 @@
     <Entry>
       <PointerOffset>262280</PointerOffset>
       <VoiceId>VSM_130_060_023</VoiceId>
-      <JapaneseText>IN)……</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -532,7 +532,7 @@
     <Entry>
       <PointerOffset>262420</PointerOffset>
       <VoiceId>VSM_130_060_024</VoiceId>
-      <JapaneseText>LE)さんの
+      <JapaneseText>&lt;Cless&gt;さんの
 心ひとつだって……
 私には治せない……</JapaneseText>
       <EnglishText/>
@@ -603,7 +603,7 @@
     <Entry>
       <PointerOffset>263160</PointerOffset>
       <VoiceId>VSM_130_060_026</VoiceId>
-      <JapaneseText>LE)さん……</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;さん……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -673,7 +673,7 @@
       <PointerOffset>263608</PointerOffset>
       <VoiceId>VSM_130_060_028</VoiceId>
       <JapaneseText>どこへだって……
-LE)さんと一緒なら
+&lt;Cless&gt;さんと一緒なら
 ……私は平気ですよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -708,7 +708,7 @@ LE)さんと一緒なら
     <Entry>
       <PointerOffset>263872</PointerOffset>
       <VoiceId>VSM_130_060_029</VoiceId>
-      <JapaneseText>IN)……</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>

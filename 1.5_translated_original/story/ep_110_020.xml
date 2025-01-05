@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -74,7 +74,7 @@
     <Entry>
       <PointerOffset>259228</PointerOffset>
       <VoiceId>VSM_110_020_002</VoiceId>
-      <JapaneseText>LA)さんの
+      <JapaneseText>&lt;Claus&gt;さんの
 住んでた&lt;Red&gt;ユークリッド&lt;White&gt;も、
 こういう感じだったでしょ</JapaneseText>
       <EnglishText/>
@@ -110,9 +110,9 @@
     <Entry>
       <PointerOffset>259700</PointerOffset>
       <VoiceId>VSM_110_020_003</VoiceId>
-      <JapaneseText>LA)さんも確かに
+      <JapaneseText>&lt;Claus&gt;さんも確かに
 時空戦士だけど、
-LE)は違うんだぜ</JapaneseText>
+&lt;Cless&gt;は違うんだぜ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -180,7 +180,7 @@ LE)は違うんだぜ</JapaneseText>
     <Entry>
       <PointerOffset>260364</PointerOffset>
       <VoiceId>VSM_110_020_005</VoiceId>
-      <JapaneseText>LE)は
+      <JapaneseText>&lt;Cless&gt;は
 時空戦士の
 筆頭剣士なんだぞ！</JapaneseText>
       <EnglishText/>
@@ -304,7 +304,7 @@ LE)は違うんだぜ</JapaneseText>
     <Entry>
       <PointerOffset>261640</PointerOffset>
       <VoiceId>VSM_110_020_015</VoiceId>
-      <JapaneseText>LE)さんを探すんでしょ</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;さんを探すんでしょ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>

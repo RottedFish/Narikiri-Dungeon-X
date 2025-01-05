@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -184,8 +184,8 @@
       <PointerOffset>279632</PointerOffset>
       <VoiceId>VSM_300_070_004</VoiceId>
       <JapaneseText>ディオス、メルティアって
-IO)くんと、
-EL)ちゃんのこと……</JapaneseText>
+&lt;Dio&gt;くんと、
+&lt;Mel&gt;ちゃんのこと……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -748,7 +748,7 @@ EL)ちゃんのこと……</JapaneseText>
       <PointerOffset>286432</PointerOffset>
       <VoiceId>VSM_300_070_022</VoiceId>
       <JapaneseText>あ……逃げた……！
-IO)、EL)、
+&lt;Dio&gt;、&lt;Mel&gt;、
 追わないと……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1042,7 +1042,7 @@ IO)、EL)、
       <PointerOffset>290040</PointerOffset>
       <VoiceId>VSM_300_070_031</VoiceId>
       <JapaneseText>ね？　いいでしょ？
-ND_P)さん</JapaneseText>
+&lt;Rody&gt;さん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>

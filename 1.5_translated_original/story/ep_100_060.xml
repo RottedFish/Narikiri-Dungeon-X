@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)＆EL)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;＆&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -165,7 +165,7 @@
     <Entry>
       <PointerOffset>285768</PointerOffset>
       <VoiceId>VSM_100_060_005</VoiceId>
-      <JapaneseText>ありがと、UL)</JapaneseText>
+      <JapaneseText>ありがと、&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -301,7 +301,7 @@
     <Entry>
       <PointerOffset>290592</PointerOffset>
       <VoiceId>VSM_100_060_010</VoiceId>
-      <JapaneseText>UL)！</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>
@@ -577,7 +577,7 @@
       <PointerOffset>297620</PointerOffset>
       <VoiceId>VSM_100_060_019</VoiceId>
       <JapaneseText>お久しぶりですね、エトス。
-そして、IO)、EL)</JapaneseText>
+そして、&lt;Dio&gt;、&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>8</SpeakerId>
@@ -1282,7 +1282,7 @@
     <Entry>
       <PointerOffset>305176</PointerOffset>
       <VoiceId>VSM_100_060_055</VoiceId>
-      <JapaneseText>時空戦士RC)・クラインから
+      <JapaneseText>時空戦士&lt;Arche&gt;・クラインから
 預かってきました</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1737,7 +1737,7 @@
       <PointerOffset>308488</PointerOffset>
       <VoiceId>VSM_100_060_072</VoiceId>
       <JapaneseText>そこに時空戦士の筆頭騎士だった
-LE)・アルベインが住んでいます</JapaneseText>
+&lt;Cless&gt;・アルベインが住んでいます</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>8</SpeakerId>
@@ -1771,7 +1771,7 @@ LE)・アルベインが住んでいます</JapaneseText>
     <Entry>
       <PointerOffset>308832</PointerOffset>
       <VoiceId>VSM_100_060_073</VoiceId>
-      <JapaneseText>LE)って、あの！？</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;って、あの！？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -1957,7 +1957,7 @@ LE)・アルベインが住んでいます</JapaneseText>
     <Entry>
       <PointerOffset>312968</PointerOffset>
       <VoiceId>VSM_100_060_079</VoiceId>
-      <JapaneseText>UL)、平気？</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;、平気？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>

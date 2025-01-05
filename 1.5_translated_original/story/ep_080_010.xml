@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LA)</JapaneseText>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -132,7 +132,7 @@
     <Entry>
       <PointerOffset>261516</PointerOffset>
       <VoiceId>VSM_080_010_003Z</VoiceId>
-      <JapaneseText>なんだ、LA)も。
+      <JapaneseText>なんだ、&lt;Claus&gt;も。
 僕に会いたくなったのか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -339,7 +339,7 @@
     <Entry>
       <PointerOffset>263676</PointerOffset>
       <VoiceId>VSM_080_010_013Z</VoiceId>
-      <JapaneseText>そうだな、LA)は
+      <JapaneseText>そうだな、&lt;Claus&gt;は
 王国のお歴々の心証も
 よくないだろうし</JapaneseText>
       <EnglishText/>
@@ -448,7 +448,7 @@
       <VoiceId>VSM_080_010_016Z</VoiceId>
       <JapaneseText>その代わり。
 僕の研究を手伝う件、
-よろしくな、LA)</JapaneseText>
+よろしくな、&lt;Claus&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>

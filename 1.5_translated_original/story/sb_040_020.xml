@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -448,7 +448,7 @@
     <Entry>
       <PointerOffset>266164</PointerOffset>
       <JapaneseText>ファぁあっ！
-IO)が倒れたよっ！</JapaneseText>
+&lt;Dio&gt;が倒れたよっ！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -781,7 +781,7 @@ IO)が倒れたよっ！</JapaneseText>
     </Entry>
     <Entry>
       <PointerOffset>269196</PointerOffset>
-      <JapaneseText>あ、UL)、待ってよ！</JapaneseText>
+      <JapaneseText>あ、&lt;Couleur&gt;、待ってよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>

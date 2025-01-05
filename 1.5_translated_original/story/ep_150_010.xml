@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LE)</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IN)</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
@@ -71,7 +71,7 @@
     <Entry>
       <PointerOffset>279224</PointerOffset>
       <VoiceId>VSM_150_010_001</VoiceId>
-      <JapaneseText>LE)さん！</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;さん！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -1009,7 +1009,7 @@
     <Entry>
       <PointerOffset>300508</PointerOffset>
       <VoiceId>VSM_150_010_029</VoiceId>
-      <JapaneseText>違うよ、IO)……！
+      <JapaneseText>違うよ、&lt;Dio&gt;……！
 ぼくがぶつかったかラ……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1231,7 +1231,7 @@
       <PointerOffset>303608</PointerOffset>
       <VoiceId>VSM_150_010_036</VoiceId>
       <JapaneseText>そ、そうだよな……
-行こう、EL)</JapaneseText>
+行こう、&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>

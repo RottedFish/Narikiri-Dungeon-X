@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -47,7 +47,7 @@
     <Entry>
       <PointerOffset>279160</PointerOffset>
       <VoiceId>VSM_310_075_001</VoiceId>
-      <JapaneseText>ND_P)、どうしたの？</JapaneseText>
+      <JapaneseText>&lt;Rody&gt;、どうしたの？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -770,7 +770,7 @@
       <VoiceId>VSM_310_075_030</VoiceId>
       <JapaneseText>あの双子とともに
 来るのならば、来い、
-ND)</JapaneseText>
+&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>

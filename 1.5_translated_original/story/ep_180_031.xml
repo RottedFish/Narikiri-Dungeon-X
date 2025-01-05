@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ST)</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LE)</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IN)</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -224,7 +224,7 @@
     <Entry>
       <PointerOffset>260852</PointerOffset>
       <VoiceId>VSM_180_030_013</VoiceId>
-      <JapaneseText>オレにはND_P)がダオスと
+      <JapaneseText>オレには&lt;Rody&gt;がダオスと
 会わずにすんで、ほっと
 してるふうにも見えるぜ</JapaneseText>
       <EnglishText/>
@@ -541,7 +541,7 @@
       <PointerOffset>265204</PointerOffset>
       <VoiceId>VSM_180_030_024</VoiceId>
       <JapaneseText>私も……
-LE)さんと同じです</JapaneseText>
+&lt;Cless&gt;さんと同じです</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>
@@ -708,7 +708,7 @@ LE)さんと同じです</JapaneseText>
     <Entry>
       <PointerOffset>267808</PointerOffset>
       <VoiceId>VSM_180_030_030</VoiceId>
-      <JapaneseText>LE)さんも？</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;さんも？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -812,7 +812,7 @@ LE)さんと同じです</JapaneseText>
     <Entry>
       <PointerOffset>268612</PointerOffset>
       <VoiceId>VSM_180_030_033</VoiceId>
-      <JapaneseText>まったく、LE)もIN)も
+      <JapaneseText>まったく、&lt;Cless&gt;も&lt;Mint&gt;も
 真面目すぎるぜ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -860,8 +860,8 @@ LE)さんと同じです</JapaneseText>
     <Entry>
       <PointerOffset>269384</PointerOffset>
       <VoiceId>VSM_180_030_035</VoiceId>
-      <JapaneseText>オレ……LE)さんも
-IN)さんもがんばって
+      <JapaneseText>オレ……&lt;Cless&gt;さんも
+&lt;Mint&gt;さんもがんばって
 『英雄』やらなくてもいいと思う</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -896,7 +896,7 @@ IN)さんもがんばって
     <Entry>
       <PointerOffset>269992</PointerOffset>
       <VoiceId>VSM_180_030_036</VoiceId>
-      <JapaneseText>IO)……</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -1015,7 +1015,7 @@ IN)さんもがんばって
     <Entry>
       <PointerOffset>271292</PointerOffset>
       <VoiceId>VSM_180_030_040</VoiceId>
-      <JapaneseText>IO)は自然体のままの
+      <JapaneseText>&lt;Dio&gt;は自然体のままの
 ふたりでも十分魅力的って
 言いたいんだよね？</JapaneseText>
       <EnglishText/>
@@ -1254,7 +1254,7 @@ IN)さんもがんばって
       <PointerOffset>277828</PointerOffset>
       <VoiceId>VSM_180_030_048</VoiceId>
       <JapaneseText>あ！　オ、オレ、なんか
-LE)さんに
+&lt;Cless&gt;さんに
 偉そうなこと言っちゃった？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1289,8 +1289,8 @@ LE)さんに
     <Entry>
       <PointerOffset>278848</PointerOffset>
       <VoiceId>VSM_180_030_049</VoiceId>
-      <JapaneseText>いや、ありがとう、IO)。
-EL)も、それにST)も</JapaneseText>
+      <JapaneseText>いや、ありがとう、&lt;Dio&gt;。
+&lt;Mel&gt;も、それに&lt;Chester&gt;も</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>

@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ND)</JapaneseText>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -151,7 +151,7 @@
       <PointerOffset>261668</PointerOffset>
       <VoiceId>VSM_270_020_005</VoiceId>
       <JapaneseText>あの……
-ND_P)さん……</JapaneseText>
+&lt;Rody&gt;さん……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -492,7 +492,7 @@ ND_P)さん……</JapaneseText>
       <PointerOffset>264180</PointerOffset>
       <VoiceId>VSM_270_020_019</VoiceId>
       <JapaneseText>え、じゃあ、
-LE)さんたちのせいで
+&lt;Cless&gt;さんたちのせいで
 ダオスの故郷が……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -596,7 +596,7 @@ LE)さんたちのせいで
     <Entry>
       <PointerOffset>265140</PointerOffset>
       <VoiceId>VSM_270_020_022</VoiceId>
-      <JapaneseText>でも！　LE)さんたちが、
+      <JapaneseText>でも！　&lt;Cless&gt;さんたちが、
 悪いってわけじゃない</JapaneseText>
       <EnglishText/>
       <Notes/>

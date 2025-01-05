@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -176,7 +176,7 @@
     <Entry>
       <PointerOffset>262048</PointerOffset>
       <VoiceId>VSM_080_060_005</VoiceId>
-      <JapaneseText>……ねぇ、IO)</JapaneseText>
+      <JapaneseText>……ねぇ、&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -560,7 +560,7 @@
     <Entry>
       <PointerOffset>265508</PointerOffset>
       <VoiceId>VSM_080_060_021</VoiceId>
-      <JapaneseText>……EL)、
+      <JapaneseText>……&lt;Mel&gt;、
 不安に思うことなんてないよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -657,7 +657,7 @@
     <Entry>
       <PointerOffset>267372</PointerOffset>
       <VoiceId>VSM_080_060_025</VoiceId>
-      <JapaneseText>IO)も。今の忘れて。
+      <JapaneseText>&lt;Dio&gt;も。今の忘れて。
 さぁ、行こう</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -693,7 +693,7 @@
       <PointerOffset>268044</PointerOffset>
       <VoiceId>VSM_080_060_026</VoiceId>
       <JapaneseText>ずっと不安だったんだよ、
-EL)は</JapaneseText>
+&lt;Mel&gt;は</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -742,7 +742,7 @@ EL)は</JapaneseText>
       <PointerOffset>268864</PointerOffset>
       <VoiceId>VSM_080_060_030</VoiceId>
       <JapaneseText>無理して、
-EL)も来ることない。
+&lt;Mel&gt;も来ることない。
 エトだって……</JapaneseText>
       <EnglishText/>
       <Notes/>

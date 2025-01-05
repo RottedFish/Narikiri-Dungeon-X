@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>RC)</JapaneseText>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -337,7 +337,7 @@
       <VoiceId>VSM_030_060_023</VoiceId>
       <JapaneseText>明るい薔薇色（ブライトローズ）？
 あたしの名前は
-RC)・クライン</JapaneseText>
+&lt;Arche&gt;・クライン</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -371,7 +371,7 @@ RC)・クライン</JapaneseText>
     <Entry>
       <PointerOffset>282648</PointerOffset>
       <VoiceId>VSM_030_060_024</VoiceId>
-      <JapaneseText>RC)……って……</JapaneseText>
+      <JapaneseText>&lt;Arche&gt;……って……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -686,7 +686,7 @@ RC)・クライン</JapaneseText>
     <Entry>
       <PointerOffset>286332</PointerOffset>
       <VoiceId>VSM_030_060_033</VoiceId>
-      <JapaneseText>その、RC)さんは
+      <JapaneseText>その、&lt;Arche&gt;さんは
 &lt;Red&gt;ヴァルハラ&lt;White&gt;のこと、
 知らないんですね？</JapaneseText>
       <EnglishText/>
@@ -792,7 +792,7 @@ RC)・クライン</JapaneseText>
     <Entry>
       <PointerOffset>287168</PointerOffset>
       <VoiceId>VSM_030_060_036</VoiceId>
-      <JapaneseText>EL)……</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>
@@ -1001,7 +1001,7 @@ RC)・クライン</JapaneseText>
       <PointerOffset>289400</PointerOffset>
       <VoiceId>VSM_030_060_048</VoiceId>
       <JapaneseText>ま、でも餅は餅屋って言うしぃ、
-LA)に聞いてくれば？</JapaneseText>
+&lt;Claus&gt;に聞いてくれば？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -1035,8 +1035,8 @@ LA)に聞いてくれば？</JapaneseText>
     <Entry>
       <PointerOffset>289612</PointerOffset>
       <VoiceId>VSM_030_060_049</VoiceId>
-      <JapaneseText>LA)？　それって……
-LA)・Ｆ・レスター博士？</JapaneseText>
+      <JapaneseText>&lt;Claus&gt;？　それって……
+&lt;Claus&gt;・Ｆ・レスター博士？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -1386,7 +1386,7 @@ LA)・Ｆ・レスター博士？</JapaneseText>
     <Entry>
       <PointerOffset>293300</PointerOffset>
       <VoiceId>VSM_030_060_065</VoiceId>
-      <JapaneseText>そうそう、LA)は、
+      <JapaneseText>そうそう、&lt;Claus&gt;は、
 &lt;Red&gt;ユークリッド&lt;White&gt;って村に
 いるからね〜</JapaneseText>
       <EnglishText/>
@@ -1423,7 +1423,7 @@ LA)・Ｆ・レスター博士？</JapaneseText>
       <PointerOffset>293496</PointerOffset>
       <VoiceId>VSM_030_060_062</VoiceId>
       <JapaneseText>ありがとう……ございます。
-RC)さん</JapaneseText>
+&lt;Arche&gt;さん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -1593,7 +1593,7 @@ RC)さん</JapaneseText>
     <Entry>
       <PointerOffset>296088</PointerOffset>
       <VoiceId>VSM_030_060_068</VoiceId>
-      <JapaneseText>ありがとうございます、RC)</JapaneseText>
+      <JapaneseText>ありがとうございます、&lt;Arche&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>6</SpeakerId>

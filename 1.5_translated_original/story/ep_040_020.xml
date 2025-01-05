@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LA)</JapaneseText>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -240,7 +240,7 @@
       <PointerOffset>265480</PointerOffset>
       <VoiceId>VSM_040_020_007</VoiceId>
       <JapaneseText>あなたが
-LA)さん、ですか？</JapaneseText>
+&lt;Claus&gt;さん、ですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -322,7 +322,7 @@ LA)さん、ですか？</JapaneseText>
       <PointerOffset>265760</PointerOffset>
       <VoiceId>VSM_040_020_010</VoiceId>
       <JapaneseText>実は魔術の暴走を止めるために
-LA)さんに
+&lt;Claus&gt;さんに
 会いに来たんです</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -500,7 +500,7 @@ LA)さんに
       <PointerOffset>267172</PointerOffset>
       <VoiceId>VSM_040_020_017</VoiceId>
       <JapaneseText>残念だったな、
-LA)・Ｆ・レスターが、
+&lt;Claus&gt;・Ｆ・レスターが、
 こんな人間で</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -892,7 +892,7 @@ LA)・Ｆ・レスターが、
     <Entry>
       <PointerOffset>270292</PointerOffset>
       <VoiceId>VSM_040_020_030</VoiceId>
-      <JapaneseText>行こ、IO)</JapaneseText>
+      <JapaneseText>行こ、&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -926,7 +926,7 @@ LA)・Ｆ・レスターが、
     <Entry>
       <PointerOffset>270944</PointerOffset>
       <VoiceId>VSM_040_020_031</VoiceId>
-      <JapaneseText>え？　ちょっ、EL)？</JapaneseText>
+      <JapaneseText>え？　ちょっ、&lt;Mel&gt;？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>

@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -73,7 +73,7 @@
     <Entry>
       <PointerOffset>258940</PointerOffset>
       <VoiceId>VSM_170_020_001</VoiceId>
-      <JapaneseText>どうすんの、EL)</JapaneseText>
+      <JapaneseText>どうすんの、&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -212,7 +212,7 @@
     <Entry>
       <PointerOffset>260288</PointerOffset>
       <VoiceId>VSM_170_020_005</VoiceId>
-      <JapaneseText>エトとUL)とで、
+      <JapaneseText>エトと&lt;Couleur&gt;とで、
 &lt;Red&gt;モーリア坑道&lt;White&gt;か……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -247,7 +247,7 @@
     <Entry>
       <PointerOffset>260428</PointerOffset>
       <VoiceId>VSM_170_020_006</VoiceId>
-      <JapaneseText>やっぱりIO)が
+      <JapaneseText>やっぱり&lt;Dio&gt;が
 いた方がいいよね。
 男の子だもの</JapaneseText>
       <EnglishText/>
@@ -283,7 +283,7 @@
     <Entry>
       <PointerOffset>260728</PointerOffset>
       <VoiceId>VSM_170_020_007</VoiceId>
-      <JapaneseText>IO)なんかいなくても
+      <JapaneseText>&lt;Dio&gt;なんかいなくても
 ……平気だよ……うん……</JapaneseText>
       <EnglishText/>
       <Notes/>

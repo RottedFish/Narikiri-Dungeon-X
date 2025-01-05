@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -430,7 +430,7 @@
     <Entry>
       <PointerOffset>264884</PointerOffset>
       <VoiceId>VSM_020_030_012</VoiceId>
-      <JapaneseText>あ、IO)！</JapaneseText>
+      <JapaneseText>あ、&lt;Dio&gt;！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -464,7 +464,7 @@
     <Entry>
       <PointerOffset>265444</PointerOffset>
       <VoiceId>VSM_020_030_013</VoiceId>
-      <JapaneseText>EL)も……！</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;も……！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -498,7 +498,7 @@
     <Entry>
       <PointerOffset>265688</PointerOffset>
       <VoiceId>VSM_020_030_014</VoiceId>
-      <JapaneseText>IO)を止めなきゃ。
+      <JapaneseText>&lt;Dio&gt;を止めなきゃ。
 エトは逃げて！</JapaneseText>
       <EnglishText/>
       <Notes/>

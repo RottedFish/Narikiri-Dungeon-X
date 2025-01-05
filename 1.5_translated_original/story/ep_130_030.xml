@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>LE)</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -74,8 +74,8 @@
     <Entry>
       <PointerOffset>258660</PointerOffset>
       <VoiceId>VSM_130_030_002</VoiceId>
-      <JapaneseText>LE)さん！
-IN)さんに会いに
+      <JapaneseText>&lt;Cless&gt;さん！
+&lt;Mint&gt;さんに会いに
 行ってやれよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -110,7 +110,7 @@ IN)さんに会いに
     <Entry>
       <PointerOffset>258956</PointerOffset>
       <VoiceId>VSM_130_030_003</VoiceId>
-      <JapaneseText>IO)……！
+      <JapaneseText>&lt;Dio&gt;……！
 もう少し言い方ってもんが
 あるでしょ</JapaneseText>
       <EnglishText/>
@@ -180,7 +180,7 @@ IN)さんに会いに
     <Entry>
       <PointerOffset>259668</PointerOffset>
       <VoiceId>VSM_130_030_005</VoiceId>
-      <JapaneseText>IN)さんが
+      <JapaneseText>&lt;Mint&gt;さんが
 会いたがってるんだ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -215,7 +215,7 @@ IN)さんに会いに
     <Entry>
       <PointerOffset>259920</PointerOffset>
       <VoiceId>VSM_130_030_006</VoiceId>
-      <JapaneseText>IN)が……？</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;が……？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>

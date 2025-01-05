@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>UL)</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -62,7 +62,7 @@
     <Section>Story</Section>
     <Entry>
       <PointerOffset>259164</PointerOffset>
-      <JapaneseText>IO)、平気だった？</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;、平気だった？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -163,7 +163,7 @@
     </Entry>
     <Entry>
       <PointerOffset>259624</PointerOffset>
-      <JapaneseText>そういうEL)は……
+      <JapaneseText>そういう&lt;Mel&gt;は……
 大丈夫なの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -484,7 +484,7 @@
     <Entry>
       <PointerOffset>261732</PointerOffset>
       <JapaneseText>困ってる人が
-EL)の発見で、
+&lt;Mel&gt;の発見で、
 助かったんだかラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -553,7 +553,7 @@ EL)の発見で、
     </Entry>
     <Entry>
       <PointerOffset>262244</PointerOffset>
-      <JapaneseText>EL)は完全主義だね。
+      <JapaneseText>&lt;Mel&gt;は完全主義だね。
 それより……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -802,7 +802,7 @@ EL)の発見で、
     </Entry>
     <Entry>
       <PointerOffset>263800</PointerOffset>
-      <JapaneseText>……IO)が
+      <JapaneseText>……&lt;Dio&gt;が
 回復したら、行こ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1110,7 +1110,7 @@ EL)の発見で、
     </Entry>
     <Entry>
       <PointerOffset>266616</PointerOffset>
-      <JapaneseText>メ、EL)、
+      <JapaneseText>メ、&lt;Mel&gt;、
 目がコワいぞ……</JapaneseText>
       <EnglishText/>
       <Notes/>

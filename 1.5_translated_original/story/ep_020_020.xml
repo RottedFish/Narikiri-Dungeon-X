@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>EL)</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>IO)</JapaneseText>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -196,7 +196,7 @@
     <Entry>
       <PointerOffset>259752</PointerOffset>
       <VoiceId>VSM_020_020_005</VoiceId>
-      <JapaneseText>IO)。
+      <JapaneseText>&lt;Dio&gt;。
 アルベルトさんでしょ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -231,7 +231,7 @@
     <Entry>
       <PointerOffset>260172</PointerOffset>
       <VoiceId>VSM_020_020_006</VoiceId>
-      <JapaneseText>おーおーほほ、さすがはEL)EL)だ。
+      <JapaneseText>おーおーほほ、さすがは&lt;Mel&gt;&lt;Mel&gt;だ。
 おらのことをよーぐわがっでる。
 優しい娘っ子だなや〜</JapaneseText>
       <EnglishText/>
@@ -267,7 +267,7 @@
     <Entry>
       <PointerOffset>260748</PointerOffset>
       <VoiceId>VSM_020_020_007</VoiceId>
-      <JapaneseText>EL)EL)って……</JapaneseText>
+      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;って……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -301,7 +301,7 @@
     <Entry>
       <PointerOffset>260944</PointerOffset>
       <VoiceId>VSM_020_020_008</VoiceId>
-      <JapaneseText>そんなEL)EL)のために、
+      <JapaneseText>そんな&lt;Mel&gt;&lt;Mel&gt;のために、
 ここはおらが買い物の仕方、
 手取り足取り教えてやるだーよ</JapaneseText>
       <EnglishText/>
@@ -497,7 +497,7 @@
       <PointerOffset>263672</PointerOffset>
       <VoiceId>VSM_020_020_017</VoiceId>
       <JapaneseText>方向キーの左右で欲しい個数を
-決めるだよ。んで、)で
+決めるだよ。んで、&lt;icon:40&gt;1)で
 買ってやればいいだ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -759,7 +759,7 @@
       <PointerOffset>267960</PointerOffset>
       <VoiceId>VSM_020_020_026</VoiceId>
       <JapaneseText>メニューのライブラリを開けば、
-EL)EL)が書いたメモが
+&lt;Mel&gt;&lt;Mel&gt;が書いたメモが
 いつでも見られるだ</JapaneseText>
       <EnglishText/>
       <Notes/>
