@@ -24,6 +24,7 @@ import io
 from tqdm import tqdm
 import struct
 
+from tools.pythonlib.formats.talk_data import TalkData
 
 
 class ToolsNDX():
@@ -224,14 +225,10 @@ class ToolsNDX():
     def extract_text_talk(self):
         fps4_path = self.paths['extracted_files'] / 'All' / 'battle' / 'data' / 'BT_DATA' / 'BT_TEXT_TALK_DATA'
         copy_path = self.paths['temp_files'] / 'All' / 'battle' / 'data' / 'BT_DATA' / 'BT_TEXT_TALK_DATA'
-        fps4 = Fps4(detail_path= fps4_path / 'bt_text_talk_data.dat',
-                    header_path= fps4_path / 'bt_text_talk_data.dat')
-        fps4.extract_files(destination_path=fps4_path / 'BT_TEXT_TALK_DATA', copy_path=copy_path,
-                           decompressed=False)
+        talk = TalkData(fps4_path / 'bt_text_talk_data.dat')
+        talk.extract_fps4(destination_path= fps4_path / 'BT_TEXT_TALK_DATA', copy_path=copy_path)
+        talk.extract_all_talk(xml_path=self.paths['battle_original'])
 
-        #for cab_file in (fps4_path / 'BT_DATA').iterdir():
-        #    extract_cab_file(cab_file, fps4_path / 'BT_DATA' / cab_file.stem)
-            #self.extract_pak(cab_path / f'cab_{cab_file.stem}' / f'{cab_file.stem}.dat', 3)
 
     def extract_bt_data(self):
 

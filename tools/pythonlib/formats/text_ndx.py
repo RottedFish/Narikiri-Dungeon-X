@@ -98,11 +98,11 @@ def bytes_to_text(src: FileIO, offset: int = -1) -> (str, bytes):
 
             next_b = src.peek(1)
             if ord(next_b) == 0x28:
-                b = src.read(2)
                 buffer.append(0x28)
+                src.read(1)
 
                 b_value = b''
-                b_v = src.read(1)
+                b_v = b''
                 while b_v != b'\x29':
                     b_v = src.read(1)
                     b_value += b_v

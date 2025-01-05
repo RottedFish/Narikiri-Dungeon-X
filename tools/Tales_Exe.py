@@ -169,7 +169,7 @@ if __name__ == "__main__":
 
         if args.file_type == "Menu":
             tales_instance.extract_archives()
-            tales_instance.extract_all_menu(keep_translations=True)
+            tales_instance.extract_all_menu(args.replace)
 
         elif args.file_type == "Iso":
             tales_instance.extract_iso(Path(args.iso.resolve()))

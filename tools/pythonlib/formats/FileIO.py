@@ -11,7 +11,7 @@ class FileIO(object):
         self._isBitesIO = False
         if type(path) is bytes:
             self.path = None
-            self.f = path # type: ignore
+            self.f = BytesIO(path) # type: ignore
             self.is_memory_file = True
         elif type(path) is BytesIO:
             self.path = None
