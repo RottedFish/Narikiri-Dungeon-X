@@ -25,6 +25,7 @@ from tqdm import tqdm
 import struct
 
 from pythonlib.formats.talk_data import TalkData
+from pythonlib.formats.character_data import CharacterData
 
 
 class ToolsNDX():
@@ -221,6 +222,14 @@ class ToolsNDX():
     def extract_archives(self):
         self.extract_bt_data()
         self.extract_text_talk()
+        self.extract_bt_character_data()
+        
+    def extract_bt_character_data(self):
+        fps4_path = self.paths['extracted_files'] / 'All' / 'battle' / 'data' / 'BT_DATA' / 'BT_CHARACTER_DATA'
+        copy_path = self.paths['temp_files'] / 'All' / 'battle' / 'data' / 'BT_DATA' / 'BT_CHARACTER_DATA'
+        character = CharacterData(fps4_path / 'bt_character_data.dat')
+        character.extract_fps4(destination_path= fps4_path / 'BT_CHARACTER_DATA', copy_path=copy_path)
+        character.extract_all_character(xml_path=self.paths['character_original'])    
 
     def extract_text_talk(self):
         fps4_path = self.paths['extracted_files'] / 'All' / 'battle' / 'data' / 'BT_DATA' / 'BT_TEXT_TALK_DATA'
