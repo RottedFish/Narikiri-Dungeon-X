@@ -593,5 +593,26 @@
 			"style":					"P8",
 		}
 		]
-	}
+	},
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_COSTUME_DATA/bt_costume_data.dat",
+		"friendly_name": "Costume",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
+		[
+		{
+			"section":					"Costume1",
+			"pointers_start":			8,
+			"pointers_end":				0x85EF,
+			"style":					"PP400",
+		},
+		{
+			"section":					"Costume2",
+			"pointers_start":			0xC440,
+			"pointers_end":				0xD7AF,
+			"style":					"PP544",
+		}
+		]
+	}	
 ]

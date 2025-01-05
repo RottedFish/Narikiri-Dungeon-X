@@ -103,6 +103,7 @@ class TalkData:
         for pointer_offset, voice_id, speaker, text in entries:
             entry_node = etree.SubElement(strings, "Entry")
             etree.SubElement(entry_node, "PointerOffset").text = str(pointer_offset)
+            etree.SubElement(entry_node, "VoiceId").text = voice_id
             etree.SubElement(entry_node, "JapaneseText").text = text
             etree.SubElement(entry_node, "EnglishText")
             etree.SubElement(entry_node, "Notes")
