@@ -3526,7 +3526,7 @@ directions. Extends to Phantom Embrace.</EnglishText>
     <Entry>
       <PointerOffset>14984,7944</PointerOffset>
       <JapaneseText>断空槍</JapaneseText>
-      <EnglishText>Judgement Spear</EnglishText>
+      <EnglishText>Severing Spear</EnglishText>
       <Notes/>
       <Id>990</Id>
       <Status>Editing</Status>
@@ -6262,7 +6262,7 @@ creating a damaging shockwave.</EnglishText>
       <PointerOffset>15592,14536</PointerOffset>
       <JapaneseText>裂走天翔撃</JapaneseText>
       <EnglishText>Goring Ascent</EnglishText>
-      <Notes>Rretranslated as Goring Ascent considering you hit the enemy up into the air.</Notes>
+      <Notes>Retranslated as Goring Ascent considering you hit the enemy up into the air.</Notes>
       <Id>1305</Id>
       <Status>Editing</Status>
     </Entry>
@@ -6396,10 +6396,10 @@ behind a trail of dust.</EnglishText>
     <Entry>
       <PointerOffset>7816,14856</PointerOffset>
       <JapaneseText>魔神剣・翔牙</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Soaring Demon Fang</EnglishText>
       <Notes/>
       <Id>1320</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7820,14860</PointerOffset>
@@ -6492,10 +6492,10 @@ behind a trail of dust.</EnglishText>
     <Entry>
       <PointerOffset>7880,15112</PointerOffset>
       <JapaneseText>臥竜滅閃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Flash Dragon</EnglishText>
       <Notes/>
       <Id>1331</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7884,15116</PointerOffset>
@@ -6509,7 +6509,7 @@ behind a trail of dust.</EnglishText>
     <Entry>
       <PointerOffset>15144</PointerOffset>
       <JapaneseText>裂駆閃・堅装</JapaneseText>
-      <EnglishText>Ramming Barrier</EnglishText>
+      <EnglishText>Armor Pierce</EnglishText>
       <Notes/>
       <Id>1333</Id>
       <Status>Editing</Status>
@@ -6759,7 +6759,7 @@ barrier. Effect: P.DEF↑</EnglishText>
     <Entry>
       <PointerOffset>15720</PointerOffset>
       <JapaneseText>氷爆旋風牙</JapaneseText>
-      <EnglishText>Glacial Fang Blast</EnglishText>
+      <EnglishText>Freezing Storm</EnglishText>
       <Notes/>
       <Id>1362</Id>
       <Status>Editing</Status>
@@ -13349,10 +13349,10 @@ Effect: Instant Movement.</EnglishText>
     <Entry>
       <PointerOffset>41832,45384,41896</PointerOffset>
       <JapaneseText>瞬・共鳴壁</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reflection Guard</EnglishText>
       <Notes/>
       <Id>2122</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41928</PointerOffset>
@@ -14577,10 +14577,10 @@ Extend Effect: Restore 90% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>43496,45320</PointerOffset>
       <JapaneseText>堅招来</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Refine</EnglishText>
       <Notes/>
       <Id>2266</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43500,45324</PointerOffset>
