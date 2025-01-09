@@ -33,21 +33,22 @@
       <VoiceId>VBE01_46_01</VoiceId>
       <JapaneseText>これもオレたちに与えられた
 試練ってんなら</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So this is part of the trial too.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20</PointerOffset>
       <VoiceId>VBE01_46_02</VoiceId>
       <JapaneseText>わたしたちは乗り越えてみせる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then we'll surpass this like we've done with
+everything until now!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>36</PointerOffset>
@@ -55,11 +56,12 @@
       <JapaneseText>試練……もはや、そのような甘い言葉で
 済ませられるものではありません、
 来なさい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To surpass the trial... Don't you dare mince such
+words so lightly. Come!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

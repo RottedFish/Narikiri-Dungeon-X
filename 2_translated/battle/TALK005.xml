@@ -48,61 +48,62 @@
       <PointerOffset>4</PointerOffset>
       <VoiceId>VBE01_05_01</VoiceId>
       <JapaneseText>準備はよろしいですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you properly prepared?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20</PointerOffset>
       <VoiceId>VBE01_05_02</VoiceId>
       <JapaneseText>スカートで浮くのってアブなくないか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Isn't it kind of dangerous to fly around wearing
+skirts?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>36</PointerOffset>
       <VoiceId>VBE01_05_03</VoiceId>
       <JapaneseText>バカ！　まじめにやってよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I&lt;Dio&gt;t! Try to act serious for once!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52</PointerOffset>
       <VoiceId>VBE01_05_04</VoiceId>
       <JapaneseText>&lt;Claus&gt;、手加減はしませんよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;, don't hold back.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>68</PointerOffset>
       <VoiceId>VBE01_05_05</VoiceId>
       <JapaneseText>あぁ……分かっている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, I know!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>84</PointerOffset>
       <VoiceId>VBE01_05_06</VoiceId>
       <JapaneseText>ほら、ちゃっちゃと済ませちゃお</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ok! Let's get this finished with quickly!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

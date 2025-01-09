@@ -32,31 +32,31 @@
       <PointerOffset>4</PointerOffset>
       <VoiceId>VBE01_12_01</VoiceId>
       <JapaneseText>さぁ、かかってくるのじゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ready yourselves!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20</PointerOffset>
       <VoiceId>VBE01_12_02</VoiceId>
       <JapaneseText>い、言われなくても……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You don't need to say it.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>36</PointerOffset>
       <VoiceId>VBE01_12_03</VoiceId>
       <JapaneseText>&lt;Dio&gt;、がんばろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, do your best!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

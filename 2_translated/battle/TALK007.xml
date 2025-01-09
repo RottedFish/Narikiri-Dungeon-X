@@ -24,21 +24,21 @@
       <PointerOffset>4</PointerOffset>
       <VoiceId>VBE01_07_01</VoiceId>
       <JapaneseText>エト！　今助けるから！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eto! We're going to help you right now!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20</PointerOffset>
       <VoiceId>VBE01_07_02</VoiceId>
       <JapaneseText>にゃろー！　エトを放せ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Damn you! Give us Eto back!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

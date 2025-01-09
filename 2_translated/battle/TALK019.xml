@@ -32,42 +32,43 @@
       <PointerOffset>4</PointerOffset>
       <VoiceId>VBE01_20_01</VoiceId>
       <JapaneseText>本気で来ても構いませんよ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>I expect you to fight to your earnest.</EnglishText>
+      <Notes>I would change to "I expect you to fight earnestly", but I'll leave it to the proofreaders to decide.</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>20</PointerOffset>
       <VoiceId>VBE01_20_02</VoiceId>
       <JapaneseText>言われなくても、全力で行くって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Woulda done my worst even if you didn't say that!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>36</PointerOffset>
       <VoiceId>VBE01_20_03</VoiceId>
       <JapaneseText>ためらってなんていられないよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We won't hesitate to attack!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52</PointerOffset>
       <VoiceId>VBE01_20_04</VoiceId>
       <JapaneseText>それなら……
 私も遠慮なしで戦いましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In that case... I shall follow suit and hold
+no quarter.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

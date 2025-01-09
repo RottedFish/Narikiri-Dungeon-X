@@ -40,42 +40,42 @@
       <PointerOffset>4</PointerOffset>
       <VoiceId>VBE01_44_01</VoiceId>
       <JapaneseText>本気で勝つつもりでいるのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you really think you can win?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20</PointerOffset>
       <VoiceId>VBE01_44_02</VoiceId>
       <JapaneseText>最高のジョークね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's the ultimate joke.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>36</PointerOffset>
       <VoiceId>VBE01_44_03</VoiceId>
       <JapaneseText>ジョークかどうかは
 やってみないとわからないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you think that why aren't you laughing?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>52</PointerOffset>
       <VoiceId>VBE01_44_04</VoiceId>
       <JapaneseText>きっと笑ってられなくなるぞ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's see who the joke here is!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
 </SceneText>
