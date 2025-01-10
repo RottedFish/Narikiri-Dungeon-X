@@ -935,10 +935,10 @@ Thrust your weapon at the enemy.</EnglishText>
     <Entry>
       <PointerOffset>424,2472</PointerOffset>
       <JapaneseText>通・水平射撃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Horizontal Shot</EnglishText>
       <Notes/>
       <Id>703</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>2476</PointerOffset>
@@ -1847,7 +1847,7 @@ Attack the enemy with a series of Artes.</EnglishText>
     <Entry>
       <PointerOffset>4232</PointerOffset>
       <JapaneseText>幻影・紅破弾</JapaneseText>
-      <EnglishText>Phantom Barrage</EnglishText>
+      <EnglishText>Scarlet Ghost</EnglishText>
       <Notes/>
       <Id>804</Id>
       <Status>Editing</Status>
@@ -1909,7 +1909,7 @@ burn your foes to ashes.</EnglishText>
     <Entry>
       <PointerOffset>4392</PointerOffset>
       <JapaneseText>散時雨</JapaneseText>
-      <EnglishText>Scattering Storm</EnglishText>
+      <EnglishText>Rainfall</EnglishText>
       <Notes/>
       <Id>811</Id>
       <Status>Editing</Status>
@@ -1947,8 +1947,8 @@ sky.</EnglishText>
     <Entry>
       <PointerOffset>4488</PointerOffset>
       <JapaneseText>虎乱襲</JapaneseText>
-      <EnglishText>Ravaging Tiger</EnglishText>
-      <Notes/>
+      <EnglishText>Tiger Blitz</EnglishText>
+      <Notes>Normally Ravaging Tiger, but I think it's a reference to Kite from .Hack. Need to double check</Notes>
       <Id>815</Id>
       <Status>Editing</Status>
     </Entry>
@@ -2111,7 +2111,7 @@ an instant. Extends to Sonic Return.</EnglishText>
     <Entry>
       <PointerOffset>4904</PointerOffset>
       <JapaneseText>秋沙雨・一閃</JapaneseText>
-      <EnglishText>Shining Sword Rain</EnglishText>
+      <EnglishText>Flashing Sword Rain</EnglishText>
       <Notes/>
       <Id>833</Id>
       <Status>Editing</Status>
@@ -2158,8 +2158,8 @@ stabbing attacks.</EnglishText>
       <PointerOffset>5004</PointerOffset>
       <JapaneseText>（カゲツレンザン・テン）特技
 円を描く太刀筋により相手を真上へ三度斬り払う剣技</JapaneseText>
-      <EnglishText>(Ten Kagetsurenzan) With three circular swings
-of your blade, push the enemy into the air.</EnglishText>
+      <EnglishText>With three circular swings of your blade,
+push the enemy into the air.</EnglishText>
       <Notes/>
       <Id>838</Id>
       <Status>Editing</Status>
@@ -2193,7 +2193,7 @@ a flash of lightning from the heavens.</EnglishText>
     <Entry>
       <PointerOffset>5096</PointerOffset>
       <JapaneseText>海蓮刃・時雨</JapaneseText>
-      <EnglishText>Scattering Edge</EnglishText>
+      <EnglishText>Corsair Rainfall</EnglishText>
       <Notes/>
       <Id>842</Id>
       <Status>Editing</Status>
@@ -2202,8 +2202,8 @@ a flash of lightning from the heavens.</EnglishText>
       <PointerOffset>5100</PointerOffset>
       <JapaneseText>（カイレンジン・シグレ）奥義
 水の斬撃により、敵を引き寄せ、滅多切りにする剣技</JapaneseText>
-      <EnglishText>Arcane: An arte that combines Marine Edge
-and Scattering Storm.</EnglishText>
+      <EnglishText>Arcane: An arte that combines Corsair Blade
+and Rainfall.</EnglishText>
       <Notes/>
       <Id>843</Id>
       <Status>Editing</Status>
@@ -2221,7 +2221,7 @@ slash of water.</EnglishText>
     <Entry>
       <PointerOffset>5160</PointerOffset>
       <JapaneseText>海蓮刃</JapaneseText>
-      <EnglishText>Marine Edge</EnglishText>
+      <EnglishText>Corsair Blade</EnglishText>
       <Notes/>
       <Id>845</Id>
       <Status>Editing</Status>
@@ -2328,7 +2328,7 @@ shred them to pieces with dark slashes.</EnglishText>
     <Entry>
       <PointerOffset>7656,5416</PointerOffset>
       <JapaneseText>狼影牙</JapaneseText>
-      <EnglishText>Phantom Fang</EnglishText>
+      <EnglishText>Shadow Wolf</EnglishText>
       <Notes/>
       <Id>857</Id>
       <Status>Editing</Status>
@@ -2336,7 +2336,7 @@ shred them to pieces with dark slashes.</EnglishText>
     <Entry>
       <PointerOffset>5448</PointerOffset>
       <JapaneseText>狼影牙・天</JapaneseText>
-      <EnglishText>Divine Phantom Fang</EnglishText>
+      <EnglishText>Wolven Ambush</EnglishText>
       <Notes/>
       <Id>858</Id>
       <Status>Editing</Status>
@@ -3402,10 +3402,10 @@ slash them down.</EnglishText>
       <JapaneseText>（ヒレンザン）特技　追加技『飛連双閃』
 斬りつけた後、斬り上げる忍術</JapaneseText>
       <EnglishText>A ninjutsu arte that slashes down then up.
-Extends into Dreadchain.</EnglishText>
+Extends into Dreadflash.</EnglishText>
       <Notes>May need to revise extension arte - based off Judas' arte Dreadfall and Hirensousen</Notes>
       <Id>976</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5228,7628</PointerOffset>
@@ -3429,7 +3429,7 @@ with darkness.</EnglishText>
     <Entry>
       <PointerOffset>7688</PointerOffset>
       <JapaneseText>鳶鷹</JapaneseText>
-      <EnglishText>Hawk Kite</EnglishText>
+      <EnglishText>Flying Hawk</EnglishText>
       <Notes/>
       <Id>979</Id>
       <Status>Editing</Status>
@@ -3508,7 +3508,7 @@ directions. Extends to Phantom Embrace.</EnglishText>
     <Entry>
       <PointerOffset>7912</PointerOffset>
       <JapaneseText>影縫</JapaneseText>
-      <EnglishText>Shadow Thrust</EnglishText>
+      <EnglishText>Shadow Thread</EnglishText>
       <Notes/>
       <Id>988</Id>
       <Status>Editing</Status>
@@ -3517,7 +3517,7 @@ directions. Extends to Phantom Embrace.</EnglishText>
       <PointerOffset>7916</PointerOffset>
       <JapaneseText>（カゲヌイ）特技　追加技『御影砕』　効果：敏捷↓
 敵の影に武器を刺し、行動を封じる忍術</JapaneseText>
-      <EnglishText>（カゲヌイ）Additional Arte: 『御影砕』　効果：敏捷↓
+      <EnglishText>（カゲヌイ）Additional Arte: 『Shadow Crush』　効果：敏捷↓
 敵の影に武器を刺し、行動を封じる忍術</EnglishText>
       <Notes/>
       <Id>989</Id>
@@ -3690,7 +3690,7 @@ assault your enemy.</EnglishText>
     <Entry>
       <PointerOffset>8264</PointerOffset>
       <JapaneseText>疾風迅雷</JapaneseText>
-      <EnglishText>Sonic Lightning</EnglishText>
+      <EnglishText>Thundering Gale</EnglishText>
       <Notes/>
       <Id>1009</Id>
       <Status>Editing</Status>
@@ -4864,10 +4864,10 @@ hurricane. Extends to Rising Gale.</EnglishText>
     <Entry>
       <PointerOffset>15464,11272</PointerOffset>
       <JapaneseText>魔王絶炎煌</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Devil's Inferno</EnglishText>
       <Notes/>
       <Id>1144</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11276</PointerOffset>
@@ -5158,7 +5158,7 @@ hurricane. Extends to Rising Gale.</EnglishText>
     <Entry>
       <PointerOffset>12072</PointerOffset>
       <JapaneseText>スパイトスナッパー</JapaneseText>
-      <EnglishText>Spite Snapper</EnglishText>
+      <EnglishText>Dizzy Slinger</EnglishText>
       <Notes/>
       <Id>1178</Id>
       <Status>Editing</Status>
@@ -5201,10 +5201,10 @@ hurricane. Extends to Rising Gale.</EnglishText>
     <Entry>
       <PointerOffset>9352,12168</PointerOffset>
       <JapaneseText>ピックガルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Pick Gald</EnglishText>
       <Notes/>
       <Id>1183</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12204</PointerOffset>
@@ -6193,10 +6193,10 @@ creating a damaging shockwave.</EnglishText>
     <Entry>
       <PointerOffset>15688,14408</PointerOffset>
       <JapaneseText>滅殺旋風牙</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Falling Storm</EnglishText>
       <Notes/>
       <Id>1297</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14412</PointerOffset>
@@ -6244,10 +6244,10 @@ creating a damaging shockwave.</EnglishText>
     <Entry>
       <PointerOffset>15656,14504</PointerOffset>
       <JapaneseText>烈風爆雷陣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cyclonic Thunder</EnglishText>
       <Notes/>
       <Id>1303</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14508</PointerOffset>
@@ -6305,7 +6305,7 @@ after striking your enemy.</EnglishText>
     <Entry>
       <PointerOffset>14664</PointerOffset>
       <JapaneseText>爆・魔神剣</JapaneseText>
-      <EnglishText>Demon Burst</EnglishText>
+      <EnglishText>Explosive Demon Fang</EnglishText>
       <Notes/>
       <Id>1310</Id>
       <Status>Editing</Status>
@@ -6457,7 +6457,7 @@ behind a trail of dust.</EnglishText>
     <Entry>
       <PointerOffset>15048</PointerOffset>
       <JapaneseText>地塵招</JapaneseText>
-      <EnglishText>Chijinshou</EnglishText>
+      <EnglishText>Dust Storm</EnglishText>
       <Notes/>
       <Id>1327</Id>
       <Status>Editing</Status>
@@ -6466,11 +6466,11 @@ behind a trail of dust.</EnglishText>
       <PointerOffset>15052</PointerOffset>
       <JapaneseText>（チジンショウ）特技　効果：暗闇　追加技『地塵穿甲』
 武器を思い切り地面に叩きつけ、粉塵を吹き上げる戦技</JapaneseText>
-      <EnglishText>（チジンショウ）Additional Dark Arte: "Chijinsenkou"
+      <EnglishText>Additional Dark Arte: "Dust Pierce"
 武器を思い切り地面に叩きつけ、粉塵を吹き上げる戦技</EnglishText>
       <Notes/>
       <Id>1328</Id>
-      <Status>Editing</Status>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>15080</PointerOffset>
@@ -6492,7 +6492,7 @@ behind a trail of dust.</EnglishText>
     <Entry>
       <PointerOffset>7880,15112</PointerOffset>
       <JapaneseText>臥竜滅閃</JapaneseText>
-      <EnglishText>Flash Dragon</EnglishText>
+      <EnglishText>Flashing Dragon</EnglishText>
       <Notes/>
       <Id>1331</Id>
       <Status>Editing</Status>
@@ -6698,10 +6698,10 @@ barrier. Effect: P.DEF↑</EnglishText>
     <Entry>
       <PointerOffset>14568,15560</PointerOffset>
       <JapaneseText>迅雷瞬迅殺</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thunder Gale</EnglishText>
       <Notes/>
       <Id>1355</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14572,15564</PointerOffset>
@@ -7184,7 +7184,7 @@ shoot at them with exploding bullets.</EnglishText>
     <Entry>
       <PointerOffset>16648</PointerOffset>
       <JapaneseText>グランドクランチ</JapaneseText>
-      <EnglishText>Large Crunch</EnglishText>
+      <EnglishText>Grand Crunch</EnglishText>
       <Notes/>
       <Id>1411</Id>
       <Status>Editing</Status>
@@ -7236,7 +7236,7 @@ shoot at them with exploding bullets.</EnglishText>
     <Entry>
       <PointerOffset>16776</PointerOffset>
       <JapaneseText>レッグアスパイラ</JapaneseText>
-      <EnglishText>Reggua Spiral</EnglishText>
+      <EnglishText>Leg Spiral</EnglishText>
       <Notes/>
       <Id>1417</Id>
       <Status>Editing</Status>
@@ -7315,7 +7315,7 @@ power of ice.</EnglishText>
     <Entry>
       <PointerOffset>16936</PointerOffset>
       <JapaneseText>星覇</JapaneseText>
-      <EnglishText>Star Supremacy</EnglishText>
+      <EnglishText>Celestial Conqueror</EnglishText>
       <Notes/>
       <Id>1426</Id>
       <Status>Editing</Status>
@@ -7579,7 +7579,7 @@ shoot the enemy twice. Extend: Add a shot.</EnglishText>
     <Entry>
       <PointerOffset>17512</PointerOffset>
       <JapaneseText>魔人滅殺弾</JapaneseText>
-      <EnglishText>Demonic Flash</EnglishText>
+      <EnglishText>Demonic Bullet</EnglishText>
       <Notes/>
       <Id>1456</Id>
       <Status>Editing</Status>
@@ -13332,10 +13332,10 @@ Effect: Instant Movement.</EnglishText>
     <Entry>
       <PointerOffset>41864,45352,41800</PointerOffset>
       <JapaneseText>瞬・鋼体装</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Iron Guard</EnglishText>
       <Notes/>
       <Id>2120</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45356,41868,41804</PointerOffset>
@@ -13543,10 +13543,10 @@ bullets. Effect: Decrease reload time.</EnglishText>
     <Entry>
       <PointerOffset>42440</PointerOffset>
       <JapaneseText>双咎連翔破</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Twin Transgression</EnglishText>
       <Notes/>
       <Id>2145</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42444</PointerOffset>
@@ -14603,10 +14603,10 @@ Extend Effect: Restore 90% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>42280,45416,45448</PointerOffset>
       <JapaneseText>天駆澄想刃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aetherial Drive</EnglishText>
       <Notes/>
       <Id>2269</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42284,45420,45452</PointerOffset>
@@ -14620,10 +14620,10 @@ Extend Effect: Restore 90% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>42312,45512,45480</PointerOffset>
       <JapaneseText>ファイナルブロー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Final Blow</EnglishText>
       <Notes/>
       <Id>2271</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42728,45704,42824,43176,45672</PointerOffset>
