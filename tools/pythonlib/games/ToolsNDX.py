@@ -26,6 +26,7 @@ import struct
 
 from pythonlib.formats.talk_data import TalkData
 from pythonlib.formats.character_data import CharacterData
+from pythonlib.formats.townname import Townname
 
 
 class ToolsNDX():
@@ -251,6 +252,22 @@ class ToolsNDX():
         for cab_file in (fps4_path / 'BT_DATA').iterdir():
             extract_cab_file(cab_file, fps4_path / 'BT_DATA' / cab_file.stem)
             #self.extract_pak(fps4_path / 'BT_DATA' / cab_file.stem / f'{cab_file.stem}.dat', 3)
+    
+    def extract_townname(self):
+        fps4_path = self.paths['extracted_files'] / 'All' / 'map' / 'data'
+        copy_path = self.paths['temp_files'] / 'All' / 'map' / 'data'
+        fps4 = Fps4(detail_path=fps4_path / 'townname.dat',
+                    header_path=fps4_path / 'townname.b')
+        fps4.extract_files(destination_path=fps4_path / 'townname', copy_path=copy_path,
+                           decompressed=False) 
+        print(f"Extracted townname files to: {fps4_path / 'townname'}")                   
+        # Convert extracted .gim files to .png
+        input_folder = fps4_path / 'townname'  # Folder where files are extracted
+        townname = Townname()
+        townname.convert_gim_to_png(input_folder)                           
+
+
+        
     def extract_main_archive(self):
         order = {}
         order['order'] = []

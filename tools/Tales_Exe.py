@@ -31,10 +31,10 @@ def get_arguments(argv=None):
     sp_extract.add_argument(
         "-ft",
         "--file_type",
-        choices=["Iso", "Menu", "Story", "Skits", "All"],
+        choices=["Iso", "Menu", "Story", "Skits", "Map", "Graphic", "All"],
         required=True,
         metavar="file_type",
-        help="(Required) - Options: Iso, Menu, Story, Skits, All",
+        help="(Required) - Options: Iso, Menu, Story, Skits, Map, Graphic, All",
     )
 
     sp_extract.add_argument(
@@ -71,10 +71,10 @@ def get_arguments(argv=None):
     sp_insert.add_argument(
         "-ft",
         "--file_type",
-        choices=["Iso", "Main", "Menu", "Story", "Skits", "All", "Asm"],
+        choices=["Iso", "Main", "Menu", "Story", "Skits", "Map", "Graphic", "All", "Asm"],
         required=True,
         metavar="file_type",
-        help="(Required) - Options: Iso, Init, Main, Elf, Story, Skits, All, Asm",
+        help="(Required) - Options: Iso, Init, Main, Elf, Story, Skits, Map, Graphic, All, Asm",
     )
 
     sp_insert.add_argument(
@@ -180,6 +180,12 @@ if __name__ == "__main__":
 
         elif args.file_type == "Story":
             tales_instance.extract_all_story_sb(keep_translations=False)
+            
+        elif args.file_type == "Map":
+            tales_instance.extract_all_map(args.replace)
+            
+        elif args.file_type == "Graphic":
+            tales_instance.extract_townname()
 
         elif args.file_type == "All":
             tales_instance.extract_iso(Path(args.iso.resolve()))
