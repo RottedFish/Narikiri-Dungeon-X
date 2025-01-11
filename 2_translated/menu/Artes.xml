@@ -2408,7 +2408,7 @@ then strike. Extends into Rending Revelation.</EnglishText>
     <Entry>
       <PointerOffset>5672</PointerOffset>
       <JapaneseText>抜砕牙</JapaneseText>
-      <EnglishText>Hidden Fang</EnglishText>
+      <EnglishText>Crush Fang</EnglishText>
       <Notes/>
       <Id>866</Id>
       <Status>Editing</Status>
@@ -4762,19 +4762,19 @@ finishing with a single ice cold stab.</EnglishText>
     <Entry>
       <PointerOffset>12616,10952</PointerOffset>
       <JapaneseText>衝華</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Luster</EnglishText>
       <Notes/>
       <Id>1132</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12620,10956</PointerOffset>
       <JapaneseText>（ショウカ）特技　追加技『衝華無散』
 気を込めた渾身の体当たりによって敵を弾き飛ばす拳技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Extends to Luster Scatter</EnglishText>
       <Notes/>
       <Id>1133</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10728,10984</PointerOffset>
@@ -5030,10 +5030,10 @@ hurricane. Extends to Rising Gale.</EnglishText>
     <Entry>
       <PointerOffset>9896,11816</PointerOffset>
       <JapaneseText>キャストアシャドウ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shadow Cast</EnglishText>
       <Notes/>
       <Id>1163</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11820</PointerOffset>
@@ -5064,7 +5064,7 @@ hurricane. Extends to Rising Gale.</EnglishText>
     <Entry>
       <PointerOffset>11880</PointerOffset>
       <JapaneseText>ブラストサーキット</JapaneseText>
-      <EnglishText>Circuit Blast</EnglishText>
+      <EnglishText>Blast Circuit</EnglishText>
       <Notes/>
       <Id>1167</Id>
       <Status>Editing</Status>
@@ -5306,7 +5306,7 @@ releases it, creating a mini-explosion.</EnglishText>
     <Entry>
       <PointerOffset>12456</PointerOffset>
       <JapaneseText>烈鋼・重牙弾</JapaneseText>
-      <EnglishText>Metallic Fury</EnglishText>
+      <EnglishText>Steel Talons</EnglishText>
       <Notes/>
       <Id>1195</Id>
       <Status>Editing</Status>
@@ -5360,10 +5360,10 @@ Extend: Adds a second punch.</EnglishText>
       <PointerOffset>12556</PointerOffset>
       <JapaneseText>（コウケン）特技　追加技『烈鋼重拳』
 気を纏わせ瞬間的に鋼のような硬さを得る拳技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Extends to Steel Breaker</EnglishText>
       <Notes/>
       <Id>1201</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12584</PointerOffset>
@@ -5506,10 +5506,10 @@ Extend: Adds a second punch.</EnglishText>
     <Entry>
       <PointerOffset>5864,12936</PointerOffset>
       <JapaneseText>飛燕連脚</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Swallow Dance</EnglishText>
       <Notes/>
       <Id>1218</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12940</PointerOffset>
@@ -5585,7 +5585,7 @@ Extend: Adds a second punch.</EnglishText>
     <Entry>
       <PointerOffset>13128</PointerOffset>
       <JapaneseText>破甲</JapaneseText>
-      <EnglishText>Penetration</EnglishText>
+      <EnglishText>Helm Breaker</EnglishText>
       <Notes/>
       <Id>1227</Id>
       <Status>Editing</Status>
@@ -5788,7 +5788,7 @@ with a fist hard enough to shatter a rock.</EnglishText>
     <Entry>
       <PointerOffset>13544</PointerOffset>
       <JapaneseText>蹂走ランドリッパー</JapaneseText>
-      <EnglishText>Juusou Land Ripper</EnglishText>
+      <EnglishText>Trampling Land-Ripper</EnglishText>
       <Notes/>
       <Id>1250</Id>
       <Status>Editing</Status>
@@ -6527,7 +6527,7 @@ barrier. Effect: P.DEF↑</EnglishText>
     <Entry>
       <PointerOffset>15208</PointerOffset>
       <JapaneseText>ショットランス</JapaneseText>
-      <EnglishText>Run Shot</EnglishText>
+      <EnglishText>Shooting Lance</EnglishText>
       <Notes/>
       <Id>1335</Id>
       <Status>Editing</Status>
@@ -6629,7 +6629,7 @@ barrier. Effect: P.DEF↑</EnglishText>
     <Entry>
       <PointerOffset>15400</PointerOffset>
       <JapaneseText>アトミックランス</JapaneseText>
-      <EnglishText>Atomic Clance</EnglishText>
+      <EnglishText>Atomic Lance</EnglishText>
       <Notes/>
       <Id>1347</Id>
       <Status>Editing</Status>
@@ -6777,7 +6777,7 @@ to summon an explosive blast of water.</EnglishText>
     <Entry>
       <PointerOffset>15752</PointerOffset>
       <JapaneseText>ボアピヨ破斬</JapaneseText>
-      <EnglishText>Boapiyohazan</EnglishText>
+      <EnglishText>Boar Peepit Blade</EnglishText>
       <Notes/>
       <Id>1364</Id>
       <Status>Editing</Status>
@@ -6794,7 +6794,7 @@ to summon an explosive blast of water.</EnglishText>
     <Entry>
       <PointerOffset>15784</PointerOffset>
       <JapaneseText>ピヨ破斬</JapaneseText>
-      <EnglishText>Piyohazan</EnglishText>
+      <EnglishText>Peepit Blade</EnglishText>
       <Notes/>
       <Id>1366</Id>
       <Status>Editing</Status>
@@ -6820,7 +6820,7 @@ to summon an explosive blast of water.</EnglishText>
     <Entry>
       <PointerOffset>15848</PointerOffset>
       <JapaneseText>ボア戦吼</JapaneseText>
-      <EnglishText>Boasenkou</EnglishText>
+      <EnglishText>Boar Squeal</EnglishText>
       <Notes/>
       <Id>1369</Id>
       <Status>Editing</Status>
@@ -6829,7 +6829,7 @@ to summon an explosive blast of water.</EnglishText>
       <PointerOffset>15852</PointerOffset>
       <JapaneseText>（ボアセンコウ）特技　追加技『猛進ボア戦吼』
 魔物「ラジアータボア」を呼び出し、突進攻撃を行わせる召喚技</JapaneseText>
-      <EnglishText>（ボアセンコウ）Additional Arte: 『猛進ボア戦吼』
+      <EnglishText>（ボアセンコウ）Additional Arte: 『Boar Squeal Stampede』
 魔物「ラジアータボア」を呼び出し、突進攻撃を行わせる召喚技</EnglishText>
       <Notes/>
       <Id>1370</Id>
@@ -6847,7 +6847,7 @@ to summon an explosive blast of water.</EnglishText>
     <Entry>
       <PointerOffset>15912</PointerOffset>
       <JapaneseText>風迅バニー</JapaneseText>
-      <EnglishText>Fuujinbani</EnglishText>
+      <EnglishText>Hurricane Bunny</EnglishText>
       <Notes/>
       <Id>1372</Id>
       <Status>Editing</Status>
@@ -6864,7 +6864,7 @@ to summon an explosive blast of water.</EnglishText>
     <Entry>
       <PointerOffset>15944</PointerOffset>
       <JapaneseText>アルカウサーブレス</JapaneseText>
-      <EnglishText>Arukausa Breath</EnglishText>
+      <EnglishText>Alkausaur Breath</EnglishText>
       <Notes/>
       <Id>1374</Id>
       <Status>Editing</Status>
@@ -6881,10 +6881,10 @@ to summon an explosive blast of water.</EnglishText>
     <Entry>
       <PointerOffset>15976</PointerOffset>
       <JapaneseText>爆炎ファイガ</JapaneseText>
-      <EnglishText>Bakuenfaiga</EnglishText>
-      <Notes/>
+      <EnglishText>Hell Figa</EnglishText>
+      <Notes>Need to check what this arte does</Notes>
       <Id>1376</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>15980</PointerOffset>
@@ -6898,7 +6898,7 @@ to summon an explosive blast of water.</EnglishText>
     <Entry>
       <PointerOffset>16008</PointerOffset>
       <JapaneseText>クラムパーニュ</JapaneseText>
-      <EnglishText>Clam Panyu</EnglishText>
+      <EnglishText>Clampagne</EnglishText>
       <Notes/>
       <Id>1378</Id>
       <Status>Editing</Status>
@@ -6915,7 +6915,7 @@ to summon an explosive blast of water.</EnglishText>
     <Entry>
       <PointerOffset>16040</PointerOffset>
       <JapaneseText>クラムパニュオン</JapaneseText>
-      <EnglishText>Clam Panyuon</EnglishText>
+      <EnglishText>Clampanion</EnglishText>
       <Notes/>
       <Id>1380</Id>
       <Status>Editing</Status>
@@ -6932,7 +6932,7 @@ to summon an explosive blast of water.</EnglishText>
     <Entry>
       <PointerOffset>16072</PointerOffset>
       <JapaneseText>ロックブラスト</JapaneseText>
-      <EnglishText>Rock Blast</EnglishText>
+      <EnglishText>Roc Blast</EnglishText>
       <Notes/>
       <Id>1382</Id>
       <Status>Editing</Status>
@@ -6949,7 +6949,7 @@ to summon an explosive blast of water.</EnglishText>
     <Entry>
       <PointerOffset>16104</PointerOffset>
       <JapaneseText>ハイロックブラスト</JapaneseText>
-      <EnglishText>High Rock Blast</EnglishText>
+      <EnglishText>High Roc Blast</EnglishText>
       <Notes/>
       <Id>1384</Id>
       <Status>Editing</Status>
@@ -6975,7 +6975,7 @@ to summon an explosive blast of water.</EnglishText>
     <Entry>
       <PointerOffset>16168</PointerOffset>
       <JapaneseText>プチプリハンマー</JapaneseText>
-      <EnglishText>Puchipuri Hammer</EnglishText>
+      <EnglishText>Petit Hammer</EnglishText>
       <Notes/>
       <Id>1387</Id>
       <Status>Editing</Status>
@@ -7253,7 +7253,7 @@ shoot at them with exploding bullets.</EnglishText>
     <Entry>
       <PointerOffset>16808</PointerOffset>
       <JapaneseText>紅蓮・天</JapaneseText>
-      <EnglishText>Crimson Martens</EnglishText>
+      <EnglishText>Heaven Pyre</EnglishText>
       <Notes/>
       <Id>1419</Id>
       <Status>Editing</Status>
@@ -7396,7 +7396,7 @@ rain down on foes. Effect: Stun.</EnglishText>
     <Entry>
       <PointerOffset>17128</PointerOffset>
       <JapaneseText>魔夜</JapaneseText>
-      <EnglishText>Twilight</EnglishText>
+      <EnglishText>Evil Night</EnglishText>
       <Notes/>
       <Id>1435</Id>
       <Status>Editing</Status>
@@ -7449,7 +7449,7 @@ arrows made of light at the enemy below.</EnglishText>
     <Entry>
       <PointerOffset>17256</PointerOffset>
       <JapaneseText>飛竜</JapaneseText>
-      <EnglishText>Winged Dragon</EnglishText>
+      <EnglishText>Dragon's Flight</EnglishText>
       <Notes/>
       <Id>1441</Id>
       <Status>Editing</Status>
@@ -7458,7 +7458,7 @@ arrows made of light at the enemy below.</EnglishText>
       <PointerOffset>17260</PointerOffset>
       <JapaneseText>（ヒリュウ）特技　追加技『飛竜連屠』
 敵に飛び掛り、蹴りつける闘弓技</JapaneseText>
-      <EnglishText>（ヒリュウ）Additional Arte: 『飛竜連屠』
+      <EnglishText>（ヒリュウ）Additional Arte: 『Dragon's Descent』
 敵に飛び掛り、蹴りつける闘弓技</EnglishText>
       <Notes/>
       <Id>1442</Id>
@@ -7701,7 +7701,7 @@ the enemies in front of you.</EnglishText>
     <Entry>
       <PointerOffset>17736</PointerOffset>
       <JapaneseText>雷斬衝</JapaneseText>
-      <EnglishText>Storm Slash</EnglishText>
+      <EnglishText>Lightning Strike</EnglishText>
       <Notes/>
       <Id>1470</Id>
       <Status>Editing</Status>
@@ -7719,7 +7719,7 @@ slash. Extend Effect: Add a second slash.</EnglishText>
     <Entry>
       <PointerOffset>17768</PointerOffset>
       <JapaneseText>砕氷刃</JapaneseText>
-      <EnglishText>Ice Breaker</EnglishText>
+      <EnglishText>Frost Breaker</EnglishText>
       <Notes/>
       <Id>1472</Id>
       <Status>Editing</Status>
@@ -7737,7 +7737,7 @@ enemy in the form of an X.</EnglishText>
     <Entry>
       <PointerOffset>17832</PointerOffset>
       <JapaneseText>風牙絶咬</JapaneseText>
-      <EnglishText>Zephyr Fang</EnglishText>
+      <EnglishText>Gale Maw</EnglishText>
       <Notes/>
       <Id>1474</Id>
       <Status>Editing</Status>
@@ -7781,7 +7781,7 @@ enemy along the way.</EnglishText>
     <Entry>
       <PointerOffset>17928</PointerOffset>
       <JapaneseText>幻魔衝裂破</JapaneseText>
-      <EnglishText>Phantom Fury</EnglishText>
+      <EnglishText>Diabolic Rage</EnglishText>
       <Notes/>
       <Id>1479</Id>
       <Status>Editing</Status>
@@ -7911,7 +7911,7 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>18184</PointerOffset>
       <JapaneseText>爆火猛崔襲</JapaneseText>
-      <EnglishText>Volcanic Rage</EnglishText>
+      <EnglishText>Explosive Rush</EnglishText>
       <Notes/>
       <Id>1494</Id>
       <Status>Editing</Status>
@@ -7928,7 +7928,7 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>18216</PointerOffset>
       <JapaneseText>封殺連涛衝</JapaneseText>
-      <EnglishText>Fatal Rush</EnglishText>
+      <EnglishText>Terminal Expulsion</EnglishText>
       <Notes/>
       <Id>1496</Id>
       <Status>Editing</Status>
@@ -7996,7 +7996,7 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>18344</PointerOffset>
       <JapaneseText>カニアッパー</JapaneseText>
-      <EnglishText>Crab Upper</EnglishText>
+      <EnglishText>Crabby Upper</EnglishText>
       <Notes/>
       <Id>1504</Id>
       <Status>Editing</Status>
@@ -8013,7 +8013,7 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>18376</PointerOffset>
       <JapaneseText>カニタックル</JapaneseText>
-      <EnglishText>Crab Tackle</EnglishText>
+      <EnglishText>Crabby Tackle</EnglishText>
       <Notes/>
       <Id>1506</Id>
       <Status>Editing</Status>
@@ -12699,7 +12699,7 @@ Extend: Revive from KO with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>40456</PointerOffset>
       <JapaneseText>ジェストーナ</JapaneseText>
-      <EnglishText>Justona</EnglishText>
+      <EnglishText>Jestorna</EnglishText>
       <Notes/>
       <Id>2047</Id>
       <Status>Editing</Status>
@@ -12707,7 +12707,7 @@ Extend: Revive from KO with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>40460</PointerOffset>
       <JapaneseText>ジェストーナを召喚する</JapaneseText>
-      <EnglishText>Summons Justona.</EnglishText>
+      <EnglishText>Summons Jestorna.</EnglishText>
       <Notes/>
       <Id>2048</Id>
       <Status>Editing</Status>
@@ -13746,7 +13746,7 @@ enemies with a breath of poison.</EnglishText>
     <Entry>
       <PointerOffset>42984</PointerOffset>
       <JapaneseText>獣破轟衝斬</JapaneseText>
-      <EnglishText>Roaring Beast Edge</EnglishText>
+      <EnglishText>Stampede Strike</EnglishText>
       <Notes/>
       <Id>2168</Id>
       <Status>Editing</Status>
@@ -13823,10 +13823,10 @@ with a massive sword slash.</EnglishText>
     <Entry>
       <PointerOffset>43016,43240</PointerOffset>
       <JapaneseText>三爪炎痕</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Flaming Claw</EnglishText>
       <Notes/>
       <Id>2177</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42248,43272</PointerOffset>
