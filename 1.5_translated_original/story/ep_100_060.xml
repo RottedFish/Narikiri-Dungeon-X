@@ -28,10 +28,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -120,12 +120,12 @@
       <PointerOffset>285768</PointerOffset>
       <VoiceId>VSM_100_060_005</VoiceId>
       <JapaneseText>ありがと、&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thanks, &lt;Couleur&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286064</PointerOffset>
@@ -164,12 +164,12 @@
       <PointerOffset>290592</PointerOffset>
       <VoiceId>VSM_100_060_010</VoiceId>
       <JapaneseText>&lt;Couleur&gt;！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293972</PointerOffset>
@@ -574,12 +574,13 @@ Maxwell. </EnglishText>
       <VoiceId>VSM_100_060_055</VoiceId>
       <JapaneseText>時空戦士&lt;Arche&gt;・クラインから
 預かってきました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Eternal Hero &lt;Arche&gt; Klein has prepared this for your 
+journey. </EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305316</PointerOffset>
@@ -776,23 +777,23 @@ from Euclid village and you'll find the village of Toltus. </EnglishText>
       <VoiceId>VSM_100_060_072</VoiceId>
       <JapaneseText>そこに時空戦士の筆頭騎士だった
 &lt;Cless&gt;・アルベインが住んでいます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There you'll meet the Eternal Hero swordsman &lt;Cless&gt; Albane. </EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>43</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308832</PointerOffset>
       <VoiceId>VSM_100_060_073</VoiceId>
       <JapaneseText>&lt;Cless&gt;って、あの！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll meet...&lt;Cless&gt;!? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>44</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309296</PointerOffset>
@@ -859,12 +860,12 @@ Toltus. </EnglishText>
       <PointerOffset>312968</PointerOffset>
       <VoiceId>VSM_100_060_079</VoiceId>
       <JapaneseText>&lt;Couleur&gt;、平気？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;, are you ok? </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>49</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313340</PointerOffset>

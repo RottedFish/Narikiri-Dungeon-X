@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -57,12 +57,12 @@
       <VoiceId>VSM_190_040_001</VoiceId>
       <JapaneseText>そう言えば、
 &lt;Rody&gt;はなんでいんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh yeah. What are you doing here, anyways, Rody? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259692</PointerOffset>
@@ -141,12 +141,13 @@ after Dhaos? </EnglishText>
       <VoiceId>VSM_190_040_008</VoiceId>
       <JapaneseText>それで、私は昔なじみの
 &lt;Suzu&gt;ちゃんのお家にご厄介に</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's why I went to bother my old pal's &lt;Suzu&gt; and barged 
+her house. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261244</PointerOffset>
@@ -177,12 +178,12 @@ after Dhaos? </EnglishText>
       <VoiceId>VSM_190_040_011</VoiceId>
       <JapaneseText>&lt;Suzu&gt;ちゃんに道具借りたから、
 これで直せるかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>With &lt;Suzu&gt;'s tools we might be able to fix Mister Oz up. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262544</PointerOffset>

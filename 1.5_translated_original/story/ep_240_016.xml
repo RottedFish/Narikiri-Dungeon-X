@@ -20,18 +20,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -60,10 +60,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Arche&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -76,10 +76,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -170,12 +170,12 @@ different time here? </EnglishText>
       <VoiceId>VSM_240_010_104</VoiceId>
       <JapaneseText>&lt;Rody&gt;……
 気がすんだか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey Rody...everything ok? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286072</PointerOffset>
@@ -313,12 +313,12 @@ true...All they said... </EnglishText>
       <JapaneseText>そっか……
 &lt;Rody&gt;さん、
 ダオスのこと……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see...Miss Rody and Dhaos... </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288720</PointerOffset>
@@ -549,12 +549,12 @@ about time we returned to our own eras. </EnglishText>
       <VoiceId>VSM_240_010_134</VoiceId>
       <JapaneseText>&lt;Rody&gt;はどうすんだ。
 またダオスを……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So what now, Rody? I mean Dhaos... </EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302372</PointerOffset>
@@ -612,12 +612,12 @@ honest. So I might try to track him down with normal means. </EnglishText>
       <VoiceId>VSM_240_010_139</VoiceId>
       <JapaneseText>&lt;Arche&gt;、元気でな。
 寂しくて、泣くなよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's been nice &lt;Arche&gt;... If you get sad...don't cry, kay? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305452</PointerOffset>

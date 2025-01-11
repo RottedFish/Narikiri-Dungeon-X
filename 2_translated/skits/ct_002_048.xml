@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37120,37360,38204,39612,40468,41472</PointerOffset>
-      <JapaneseText>&lt;MIN&gt;</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37528,37892,38552,39176,39972,40084,40972</PointerOffset>
-      <JapaneseText>&lt;CLE&gt;</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -27,61 +27,51 @@
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>37360</PointerOffset>
       <VoiceId>&lt;VCT_002_048_002&gt;</VoiceId>
-      <JapaneseText>&lt;CST&gt;さんのお家の整理を
+      <JapaneseText>&lt;Chester&gt;さんのお家の整理を
 お手伝いしてる時に見たものに似てるんですが……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>37528</PointerOffset>
       <VoiceId>&lt;VCT_002_048_003&gt;</VoiceId>
-      <JapaneseText>きっと、&lt;CST&gt;が
+      <JapaneseText>きっと、&lt;Chester&gt;が
 彼にあげたんだろう</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>37892</PointerOffset>
       <VoiceId>&lt;VCT_002_048_004&gt;</VoiceId>
-      <JapaneseText>あれは……&lt;CST&gt;が
+      <JapaneseText>あれは……&lt;Chester&gt;が
 アミィのために作ったものだよ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>38204</PointerOffset>
       <VoiceId>&lt;VCT_002_048_005&gt;</VoiceId>
-      <JapaneseText>&lt;CST&gt;さん……あの子たちと
+      <JapaneseText>&lt;Chester&gt;さん……あの子たちと
 アミィさんを重ねて見ていたのでしょうか</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -92,9 +82,7 @@
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -105,9 +93,7 @@
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -117,9 +103,7 @@
       <EnglishText/>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -129,9 +113,7 @@
       <EnglishText/>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -141,35 +123,29 @@
       <EnglishText/>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>40468</PointerOffset>
       <VoiceId>&lt;VCT_002_048_011&gt;</VoiceId>
-      <JapaneseText>&lt;CST&gt;さんを傷つけたくない……
-&lt;CLE&gt;さんは優しいんですね。でも……</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;さんを傷つけたくない……
+&lt;Cless&gt;さんは優しいんですね。でも……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>40972</PointerOffset>
       <VoiceId>&lt;VCT_002_048_012&gt;</VoiceId>
-      <JapaneseText>わかってるよ、&lt;MIN&gt;。
+      <JapaneseText>わかってるよ、&lt;Mint&gt;。
 正直に言うのも……優しさだよね</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -179,9 +155,7 @@
       <EnglishText/>
       <Notes/>
       <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
   </Strings>

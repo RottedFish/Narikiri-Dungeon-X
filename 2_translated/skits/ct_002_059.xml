@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37208,39400</PointerOffset>
-      <JapaneseText>&lt;CLE&gt;</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37464,38040,38796,39288,39724,40260,41744</PointerOffset>
-      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <JapaneseText>&lt;Rondolinet&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37872,38376,38964,39892,42588</PointerOffset>
-      <JapaneseText>&lt;CST&gt;</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset>41216</PointerOffset>
-      <JapaneseText>&lt;CLE&gt;＆&lt;CST&gt;</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;＆&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -41,184 +41,154 @@
       <VoiceId>&lt;VCT_002_059_001&gt;</VoiceId>
       <JapaneseText>そもそも、見物って何の見物に来たんだい、
 こんな何もない廃墟にさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To begin with, what king of sightseeing were you exactly planning to come here for? These are nothing but ruins, after all.</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37464</PointerOffset>
       <VoiceId>&lt;VCT_002_059_002&gt;</VoiceId>
       <JapaneseText>私、歴史建造物とか見て
 歩くのが趣味なんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, I'm pretty interested in whatever historical evidence I can find here! Simple as that!</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37872</PointerOffset>
       <VoiceId>&lt;VCT_002_059_003&gt;</VoiceId>
       <JapaneseText>そんなの初耳だぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>First time hearing you say you like history.</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38040</PointerOffset>
       <VoiceId>&lt;VCT_002_059_004&gt;</VoiceId>
       <JapaneseText>私も初知りだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>First time I found out myself!</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38376</PointerOffset>
       <VoiceId>&lt;VCT_002_059_005&gt;</VoiceId>
       <JapaneseText>……で？　本当は何しに来たんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Really? ...Tell us the truth, why are you here?</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38796</PointerOffset>
       <VoiceId>&lt;VCT_002_059_006&gt;</VoiceId>
       <JapaneseText>例えば……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For example...</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38964</PointerOffset>
       <VoiceId>&lt;VCT_002_059_007&gt;</VoiceId>
       <JapaneseText>例えば？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For example...?</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39288</PointerOffset>
       <VoiceId>&lt;VCT_002_059_008&gt;</VoiceId>
       <JapaneseText>逆に〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>On the other hand...</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39400</PointerOffset>
       <VoiceId>&lt;VCT_002_059_009&gt;</VoiceId>
       <JapaneseText>逆に？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>On the other hand?</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39724</PointerOffset>
       <VoiceId>&lt;VCT_002_059_010&gt;</VoiceId>
       <JapaneseText>もしかしたら……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But maybe...</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39892</PointerOffset>
       <VoiceId>&lt;VCT_002_059_011&gt;</VoiceId>
       <JapaneseText>なんで、そんなに言いたくないんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's all this playing around the bush speak!?</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40260</PointerOffset>
       <VoiceId>&lt;VCT_002_059_012&gt;</VoiceId>
       <JapaneseText>ミステリアスな女は魅力的だって
 言うからね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystery is part of a woman's charm, you know!</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41216</PointerOffset>
       <VoiceId>&lt;VCT_002_059_013&gt;</VoiceId>
       <JapaneseText>はぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh...</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>0</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41744</PointerOffset>
       <VoiceId>&lt;VCT_002_059_015&gt;</VoiceId>
       <JapaneseText>ため息つくと、
 幸せが逃げちゃうよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Such a happy-sounding sigh you both have!</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <StructId>14</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42588</PointerOffset>
       <VoiceId>&lt;VCT_002_059_016&gt;</VoiceId>
       <JapaneseText>誰だよ、ため息つかせてんのは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who are you? Who can think a sigh can be happy..!?</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <StructId>15</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -54,12 +54,12 @@
       <JapaneseText>&lt;Cless&gt;さん！
 &lt;Mint&gt;さんに会いに
 行ってやれよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mister &lt;Cless&gt;! You need to go see &lt;Mint&gt; right now! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>258956</PointerOffset>
@@ -90,23 +90,23 @@
       <VoiceId>VSM_130_030_005</VoiceId>
       <JapaneseText>&lt;Mint&gt;さんが
 会いたがってるんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Because you have to meet &lt;Mint&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259920</PointerOffset>
       <VoiceId>VSM_130_030_006</VoiceId>
       <JapaneseText>&lt;Mint&gt;が……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;, you say? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260856</PointerOffset>

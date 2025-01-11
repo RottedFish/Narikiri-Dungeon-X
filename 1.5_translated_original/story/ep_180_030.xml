@@ -12,10 +12,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -74,12 +74,12 @@
       <VoiceId>VSM_180_030_004</VoiceId>
       <JapaneseText>ちょ、ちょっと
 &lt;Rody&gt;……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>H-hold on, Rody! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262368</PointerOffset>

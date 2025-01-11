@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -164,12 +164,13 @@ nothing to worry about there, right? </EnglishText>
       <JapaneseText>&lt;Cless&gt;さんたちは
 『魔王』を倒した
 『英雄』だって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As Mister &lt;Cless&gt; and company defeated the "Demon King" they 
+became "Heroes." </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261200</PointerOffset>
@@ -213,7 +214,7 @@ nothing to worry about there, right? </EnglishText>
       <VoiceId>VSM_140_020_015</VoiceId>
       <JapaneseText>魔科学って
 前に聞いたよな！？</JapaneseText>
-      <EnglishText>Magitechnology!? We've heard that before back with &lt;KLA&gt;! </EnglishText>
+      <EnglishText>Magitechnology!? We've heard that before back with &lt;Clauss&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -331,7 +332,7 @@ crimes. </EnglishText>
       <VoiceId>VSM_140_020_024</VoiceId>
       <JapaneseText>わたし、魔術を
 暴走させてしまったんです</JapaneseText>
-      <EnglishText>Mister &lt;CLE&gt;...It's my fault that magic has gone rampant... </EnglishText>
+      <EnglishText>Mister &lt;Cless&gt;...It's my fault that magic has gone rampant... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>

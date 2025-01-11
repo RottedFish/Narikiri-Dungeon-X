@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>38100,40312,42524,44048</PointerOffset>
-      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <JapaneseText>&lt;Rondolinet&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -23,103 +23,87 @@
     <Entry>
       <PointerOffset>37160</PointerOffset>
       <VoiceId>&lt;VCT_003_106_001&gt;</VoiceId>
-      <JapaneseText>うぅ……、ズルイ、ズルイだ、&lt;RND_P&gt;たん……。
+      <JapaneseText>うぅ……、ズルイ、ズルイだ、&lt;Rody&gt;たん……。
 おらを置いてけぼりにして</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How horrible...How cruel of this world, Miss &lt;Rody&gt;! I was left behind!</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38100</PointerOffset>
       <VoiceId>&lt;VCT_003_106_002&gt;</VoiceId>
       <JapaneseText>え、私？　何かしたっけ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh? What do you mean?</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38644</PointerOffset>
       <VoiceId>&lt;VCT_003_106_003&gt;</VoiceId>
       <JapaneseText>おらよりも先に、&lt;MEL&gt;&lt;MEL&gt;に呼び捨てにされただ！
 これをズルイと言わずして、なんと言うだーよ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You've levelled up your relationship with &lt;MEL&gt;-&lt;MEL&gt; faster than me! She is now calling you without honorifics! That's cruelty, I'm telling you!</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40312</PointerOffset>
       <VoiceId>&lt;VCT_003_106_004&gt;</VoiceId>
       <JapaneseText>あれ？　そうだっけ？
 そんだけ、距離感が縮まったってことかな〜？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh just that little thingy? We just became a little closer that's all~?</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41012</PointerOffset>
       <VoiceId>&lt;VCT_003_106_005&gt;</VoiceId>
       <JapaneseText>おらも、もっと&lt;MEL&gt;&lt;MEL&gt;と距離を縮めてーだ！
 早く呼び捨てにされたり、あだ名で呼んでほしいだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to be the closerest with &lt;MEL&gt;-&lt;MEL&gt;! I want her to drop the "Mister"! I want her to come up with a nickname!</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42524</PointerOffset>
       <VoiceId>&lt;VCT_003_106_006&gt;</VoiceId>
       <JapaneseText>あだ名？　例えばどんなのがいいの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A nickname? For example?</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43048</PointerOffset>
       <VoiceId>&lt;VCT_003_106_007&gt;</VoiceId>
       <JapaneseText>そら、『アルちゃん』とか『アルベっち』とか？
 あとは、『アルルン』なんてのもいいなー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's see, how about "Al" or "Alby"~? Oh, oh "Aberber" is good too!</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44048</PointerOffset>
       <VoiceId>&lt;VCT_003_106_008&gt;</VoiceId>
       <JapaneseText>ざんね〜ん、一生無理！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Too bad~! You won't get there in a lifetime, buddy!</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

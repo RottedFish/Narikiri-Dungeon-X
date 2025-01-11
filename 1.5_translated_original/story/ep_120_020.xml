@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -76,24 +76,24 @@
       <VoiceId>VSM_120_020_002</VoiceId>
       <JapaneseText>&lt;Arche&gt;の奴に
 会ったんだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Did you bump into that brat &lt;Arche&gt; by chance? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261692</PointerOffset>
       <VoiceId>VSM_120_020_003</VoiceId>
       <JapaneseText>&lt;Arche&gt;さん？
 あ、ええ、会いました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mrs. &lt;Arche&gt;? Yes, we met her. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261832</PointerOffset>
@@ -224,23 +224,23 @@ followed by sad moments... What was up with that? </EnglishText>
       <JapaneseText>うん。
 あ、そうだ、
 &lt;Rody&gt;にも会ったぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes. Oh also we met with Rody too. </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263864</PointerOffset>
       <VoiceId>VSM_120_020_015</VoiceId>
       <JapaneseText>&lt;Rody&gt;に？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>With Rody? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>264004</PointerOffset>

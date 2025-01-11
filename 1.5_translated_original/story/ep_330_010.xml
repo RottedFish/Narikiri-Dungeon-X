@@ -77,12 +77,12 @@
       <VoiceId>VSM_330_010_003</VoiceId>
       <JapaneseText>&lt;Couleur&gt;？
 どこ行くんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;? Where are you going? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285248</PointerOffset>
@@ -101,24 +101,24 @@
       <PointerOffset>286864</PointerOffset>
       <VoiceId>VSM_330_010_005</VoiceId>
       <JapaneseText>&lt;Couleur&gt;……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;...? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287020</PointerOffset>
       <VoiceId>VSM_330_010_006</VoiceId>
       <JapaneseText>まさか……
 &lt;Couleur&gt;がノルンさん……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No way...&lt;Couleur&gt; was Miss Norn...? </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287912</PointerOffset>

@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset>40040</PointerOffset>
-      <JapaneseText>&lt;KUL&gt;</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -41,152 +41,128 @@
       <VoiceId>&lt;VCT_002_054_001&gt;</VoiceId>
       <JapaneseText>エトはどうして自分のことを
 妖精だなんて思ってたんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eto, how did you know at first you were a fairy?</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37432</PointerOffset>
       <VoiceId>&lt;VCT_002_054_002&gt;</VoiceId>
       <JapaneseText>ちっちゃな子どもがぼくのこと、
 妖精だって言ってたかラ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When I was very small they told me I was a fairy...I think?</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37876</PointerOffset>
       <VoiceId>&lt;VCT_002_054_003&gt;</VoiceId>
       <JapaneseText>それだけ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's it...?</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38124</PointerOffset>
       <VoiceId>&lt;VCT_002_054_004&gt;</VoiceId>
       <JapaneseText>変な人に捕まった時も、
 ぼくのこと妖精だって言ってた人いたシ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They also told me to hide away from weird people since some would like to catch fairies for their own purposes.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38624</PointerOffset>
       <VoiceId>&lt;VCT_002_054_005&gt;</VoiceId>
       <JapaneseText>捕まってたって……
 んなことあったのか！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>B-being caught!? There are people who do that!?</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39196</PointerOffset>
       <VoiceId>&lt;VCT_002_054_006&gt;</VoiceId>
       <JapaneseText>うん……それに魔物と一緒に踊ってたら、足跡が
 妖精の輪とか言って大騒ぎされたこともあるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes... There was a time I danced with some small monsters. The footprints I left made rumors of fairies appear and researchers were in an uproar.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39928</PointerOffset>
       <VoiceId>&lt;VCT_002_054_007&gt;</VoiceId>
       <JapaneseText>それ、前読んだ本に書いてた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I read in a book something about fairies' importance but I never thought it was this big...</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40040</PointerOffset>
       <VoiceId>&lt;VCT_002_054_008&gt;</VoiceId>
       <JapaneseText>クルル〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kururu~</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>14</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40352</PointerOffset>
       <VoiceId>&lt;VCT_002_054_009&gt;</VoiceId>
       <JapaneseText>エネルギー核にされて、古代遺産の妖精兵器が
 蘇ったこともあるかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Apparently in ancient times they'd harvest the energy we fairies have to forge incredibly strong Fairy Weapons.</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41060</PointerOffset>
       <VoiceId>&lt;VCT_002_054_010&gt;</VoiceId>
       <JapaneseText>妖精兵器って……なんかスゴそう……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fairy Weapons!? How could they be so cruel...!?</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41384</PointerOffset>
       <VoiceId>&lt;VCT_002_054_011&gt;</VoiceId>
       <JapaneseText>なんだよ、やっぱエト、
 妖精じゃねーのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But that doesn't answer...Is Eto a fairy or not?</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41700</PointerOffset>
       <VoiceId>&lt;VCT_002_054_012&gt;</VoiceId>
       <JapaneseText>それよりもわたしたちの知らない
 エトの過去が次々と明らかになってるんだけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I feel like the more we think about it the less we know about Eto's past...</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

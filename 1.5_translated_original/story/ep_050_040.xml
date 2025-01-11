@@ -44,10 +44,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -675,7 +675,7 @@ another way we can go about this. </EnglishText>
       <JapaneseText>&lt;Red&gt;ヴァルハラ&lt;White&gt;の
 バジルという学者なら
 何か知ってるかもしれない</JapaneseText>
-      <EnglishText>You could come into contact with Valhalla's rese&lt;ARC&gt;r, 
+      <EnglishText>You could come into contact with Valhalla's rese&lt;Arche&gt;r, 
 Basil. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>

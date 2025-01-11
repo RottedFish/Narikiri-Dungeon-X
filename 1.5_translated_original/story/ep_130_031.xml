@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -57,12 +57,13 @@
       <JapaneseText>約束どおりに、
 オレに手伝い任せて
 &lt;Mint&gt;さんに会いにいけよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now you can leave the work to me and meet with &lt;Mint&gt;. A 
+promise is a promise! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>258488</PointerOffset>

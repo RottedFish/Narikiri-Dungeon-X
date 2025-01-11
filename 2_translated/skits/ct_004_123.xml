@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset>41164,42348</PointerOffset>
-      <JapaneseText>&lt;KUL&gt;</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -43,9 +43,7 @@
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -56,9 +54,7 @@
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -68,9 +64,7 @@
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -81,9 +75,7 @@
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -93,21 +85,17 @@
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>40772</PointerOffset>
       <VoiceId>&lt;VCT_004_123_006&gt;</VoiceId>
-      <JapaneseText>&lt;KUL&gt;は喜んでんぜ？</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;は喜んでんぜ？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -117,21 +105,17 @@
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>14</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>41844</PointerOffset>
       <VoiceId>&lt;VCT_004_123_008&gt;</VoiceId>
-      <JapaneseText>&lt;CLE&gt;さんも良いって言ってくれたし、ほら！</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;さんも良いって言ってくれたし、ほら！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -141,9 +125,7 @@
       <EnglishText/>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>14</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -154,9 +136,7 @@
       <EnglishText/>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -166,9 +146,7 @@
       <EnglishText/>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -178,9 +156,7 @@
       <EnglishText/>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -190,9 +166,7 @@
       <EnglishText/>
       <Notes/>
       <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -202,9 +176,7 @@
       <EnglishText/>
       <Notes/>
       <Id>14</Id>
-      <StructId>14</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -214,9 +186,7 @@
       <EnglishText/>
       <Notes/>
       <Id>15</Id>
-      <StructId>15</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -226,9 +196,7 @@
       <EnglishText/>
       <Notes/>
       <Id>16</Id>
-      <StructId>16</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -239,9 +207,7 @@
       <EnglishText/>
       <Notes/>
       <Id>17</Id>
-      <StructId>17</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
   </Strings>

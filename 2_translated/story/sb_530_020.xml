@@ -1,0 +1,200 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>三つ子の少女</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>三つ子の女の子</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>三つ子の女子</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>260100</PointerOffset>
+      <JapaneseText>ふふふ、私たちの注文を
+とりに来たのですか？面白いです。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260240</PointerOffset>
+      <JapaneseText>わたしたちの中で
+本当のことを言っているのは一人だけ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260380</PointerOffset>
+      <JapaneseText>正しい注文を取れるのか、勝負です！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260604</PointerOffset>
+      <JapaneseText>いや、普通に注文しろよ……
+お前ら含めて、全員損するだけだぞ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260744</PointerOffset>
+      <JapaneseText>人生遊びが必要なのです！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260884</PointerOffset>
+      <JapaneseText>こんな世知辛い世の中だからこそ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261024</PointerOffset>
+      <JapaneseText>だから、こちらもガマンして
+楽しい空間を演出するのです！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261220</PointerOffset>
+      <JapaneseText>……なあ、
+こいつらひっぱたいてもいいか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261416</PointerOffset>
+      <JapaneseText>ちょ、ちょっと&lt;Dio&gt;！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261660</PointerOffset>
+      <JapaneseText>……わかった。わたしに任せて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261800</PointerOffset>
+      <JapaneseText>かかってきなさいなのです！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261940</PointerOffset>
+      <JapaneseText>負けません！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262080</PointerOffset>
+      <JapaneseText>お腹が空きました……
+早くしてください</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

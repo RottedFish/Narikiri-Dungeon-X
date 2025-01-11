@@ -41,7 +41,7 @@
       <VoiceId>VSM_110_020_001</VoiceId>
       <JapaneseText>マジで、こんなイナカに
 英雄が住んでんのか？</JapaneseText>
-      <EnglishText>Are you telling me the great hero &lt;CLE&gt; lives here, out in 
+      <EnglishText>Are you telling me the great hero &lt;Cless&gt; lives here, out in 
 the sticks? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -92,12 +92,12 @@ the sticks? </EnglishText>
       <JapaneseText>&lt;Cless&gt;は
 時空戦士の
 筆頭剣士なんだぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt; is the Eternal Heroes' leading swordsman! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260364</PointerOffset>
@@ -167,12 +167,12 @@ of Knights. His great efforts spread through the entire world! </EnglishText>
       <PointerOffset>261640</PointerOffset>
       <VoiceId>VSM_110_020_015</VoiceId>
       <JapaneseText>&lt;Cless&gt;さんを探すんでしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We should go search &lt;Cless&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262288</PointerOffset>

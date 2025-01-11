@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37376,38228</PointerOffset>
-      <JapaneseText>&lt;CST&gt;</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37664,38584,40016,40340</PointerOffset>
-      <JapaneseText>&lt;CLE&gt;</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset>38696,39016</PointerOffset>
-      <JapaneseText>&lt;MIN&gt;</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset>39380</PointerOffset>
-      <JapaneseText>&lt;KLA&gt;</JapaneseText>
+      <JapaneseText>&lt;Clauss&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -41,116 +41,98 @@
       <VoiceId>&lt;VCT_003_097_001&gt;</VoiceId>
       <JapaneseText>そっか……&lt;DIO&gt;と&lt;MEL&gt;が魔科学兵器使わなきゃ、
 ダオスはアセリアに来てなかったんだな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see... So it was &lt;DIO&gt; and &lt;MEL&gt; who used the Mana Cannon... And it's their fault Dhaos came to Aselia...</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37664</PointerOffset>
       <VoiceId>&lt;VCT_003_097_002&gt;</VoiceId>
       <JapaneseText>……ダオス戦役もなかったし、
 父さんや母さん、アミィも生きてた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...If that hadn't happened we wouldn't have had to fight against Dhaos...And mom, father and Ami would be alive...</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38228</PointerOffset>
       <VoiceId>&lt;VCT_003_097_003&gt;</VoiceId>
       <JapaneseText>オレは別にアミィのこと、
 あいつらのせいなんて……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now that you mention it, it's their fault Ami ended up like that...!</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38584</PointerOffset>
       <VoiceId>&lt;VCT_003_097_004&gt;</VoiceId>
       <JapaneseText>わかってるよ。何かのせいに
 しだしたらきりがないんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I understand...But it is all too easy to pin the blame on someone...</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38696</PointerOffset>
       <VoiceId>&lt;VCT_003_097_005&gt;</VoiceId>
       <JapaneseText>ふたりが魔科学兵器に関係したのも
 戦争があったせい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Those two were forced to fire the Mana Cannon due to the war, too...</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39016</PointerOffset>
       <VoiceId>&lt;VCT_003_097_006&gt;</VoiceId>
       <JapaneseText>……その先はもう私たちが知っている
 お話じゃなくなってきます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...But we don't know anything else beyond that point...</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39380</PointerOffset>
       <VoiceId>&lt;VCT_003_097_007&gt;</VoiceId>
       <JapaneseText>そうなったら、運命そのものを
 憎まなければいけなくなる、か</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Pondering about it, one can't help but blame it is what the whimsy of fate has in store for us.</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40016</PointerOffset>
       <VoiceId>&lt;VCT_003_097_008&gt;</VoiceId>
       <JapaneseText>運命、か……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fate, huh...?</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40340</PointerOffset>
       <VoiceId>&lt;VCT_003_097_009&gt;</VoiceId>
       <JapaneseText>でも、その運命が僕たちみんなを
 こうして引き合わせてくれた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But it is up to us as people to adjust and overcome our fates.</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

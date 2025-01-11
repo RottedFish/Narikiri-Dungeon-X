@@ -28,10 +28,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -103,12 +103,13 @@
       <VoiceId>VSM_210_040_005</VoiceId>
       <JapaneseText>んじゃあ、ひと休み。
 &lt;Suzu&gt;ちゃん、アイス食べるか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All right then, let's take a break. &lt;Suzu&gt;, wanna eat some 
+ice cream? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260916</PointerOffset>

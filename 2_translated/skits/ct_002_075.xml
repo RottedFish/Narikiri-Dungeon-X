@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37208,37756,38616,40312,41364,41636</PointerOffset>
-      <JapaneseText>&lt;KLA&gt;</JapaneseText>
+      <JapaneseText>&lt;Clauss&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -33,184 +33,154 @@
       <VoiceId>&lt;VCT_002_075_001&gt;</VoiceId>
       <JapaneseText>そう言えば、君たちがいなくなった後、
 バジルのところで少し研究を手伝っていたんだが</JapaneseText>
-      <EnglishText/>
+      <EnglishText>By the way, ever since you kids left I've got some work done with Basil on his research.</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37576</PointerOffset>
       <VoiceId>&lt;VCT_002_075_002&gt;</VoiceId>
       <JapaneseText>バジルさんの……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mister Basil's research...!?</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37756</PointerOffset>
       <VoiceId>&lt;VCT_002_075_003&gt;</VoiceId>
       <JapaneseText>ん？　どうした？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mmm? What of it?</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37992</PointerOffset>
       <VoiceId>&lt;VCT_002_075_004&gt;</VoiceId>
       <JapaneseText>えっと……その……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Err, how can I say this...</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38304</PointerOffset>
       <VoiceId>&lt;VCT_002_075_005&gt;</VoiceId>
       <JapaneseText>なんでもありません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's nothing.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38616</PointerOffset>
       <VoiceId>&lt;VCT_002_075_006&gt;</VoiceId>
       <JapaneseText>……そうか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Right.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39520</PointerOffset>
       <VoiceId>&lt;VCT_002_075_007&gt;</VoiceId>
       <JapaneseText>ヘンなこと言わない方がいいよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's better if we don't talk about these things, I think...</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39700</PointerOffset>
       <VoiceId>&lt;VCT_002_075_008&gt;</VoiceId>
-      <JapaneseText>でもさ、&lt;KLA&gt;さんに言って
+      <JapaneseText>でもさ、&lt;Clauss&gt;さんに言って
 止めてもらえれば……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But if what Mister &lt;Clauss&gt; said is true and if we stop the research...!</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40144</PointerOffset>
       <VoiceId>&lt;VCT_002_075_009&gt;</VoiceId>
       <JapaneseText>でもわたしたち……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, but we...</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40312</PointerOffset>
       <VoiceId>&lt;VCT_002_075_010&gt;</VoiceId>
       <JapaneseText>バジルの身に何かあったんだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If there's something up with Basil just say it out loud.</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40948</PointerOffset>
       <VoiceId>&lt;VCT_002_075_011&gt;</VoiceId>
       <JapaneseText>え！　い、いや、その……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wha? Er, nevermind...</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41364</PointerOffset>
       <VoiceId>&lt;VCT_002_075_012&gt;</VoiceId>
       <JapaneseText>……何があったのかはわからないが、
 それが運命ならば、ヤツも潔く受け止めるだろう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I'm not sure whatever he's up to. However, if this is something destined to happen then nothing will stop his convictions.</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41636</PointerOffset>
       <VoiceId>&lt;VCT_002_075_013&gt;</VoiceId>
       <JapaneseText>だから、私もこれ以上、深くは聞かない。
 それでいいだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is why I'd rather not hear about it. Is that ok with you two?</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42320</PointerOffset>
       <VoiceId>&lt;VCT_002_075_014&gt;</VoiceId>
       <JapaneseText>え……あ、はい……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I...I guess...</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <StructId>14</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42908</PointerOffset>
       <VoiceId>&lt;VCT_002_075_015&gt;</VoiceId>
-      <JapaneseText>……大人だな、&lt;KLA&gt;さん……</JapaneseText>
-      <EnglishText/>
+      <JapaneseText>……大人だな、&lt;Clauss&gt;さん……</JapaneseText>
+      <EnglishText>...You really are an adult, Mister &lt;Clauss&gt;...</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <StructId>15</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

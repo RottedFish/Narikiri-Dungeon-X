@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37208,37936,38416,39188,40992,42344</PointerOffset>
-      <JapaneseText>&lt;SUZ&gt;</JapaneseText>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -33,177 +33,149 @@
       <VoiceId>&lt;VCT_002_065_001&gt;</VoiceId>
       <JapaneseText>改めてお詫びします。
 申し訳ありませんでした</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please excuse the offenses caused. I am deeply sorry for our incompetence.</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>20</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37568</PointerOffset>
       <VoiceId>&lt;VCT_002_065_002&gt;</VoiceId>
       <JapaneseText>もういいって。
 大変だったのはわかるからさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's fine! We know you are in some deep mess right now.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37936</PointerOffset>
       <VoiceId>&lt;VCT_002_065_003&gt;</VoiceId>
       <JapaneseText>いえ……私たちは、一族の者がダオスに洗脳された
 汚名をそそぎ、名誉回復のため精進してきました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You do not comprehend... In Dhaos's war many of our Ninja scouts were brainwashed to do his bidding. The entire world has seen us in a different light ever since.</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>20</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38416</PointerOffset>
       <VoiceId>&lt;VCT_002_065_004&gt;</VoiceId>
       <JapaneseText>……私は、その功を
 少し焦りすぎたのかもしれません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I must do everything in my power as the chief of my people to restore our honor...</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>20</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38648</PointerOffset>
       <VoiceId>&lt;VCT_002_065_005&gt;</VoiceId>
       <JapaneseText>そうだったんだ。ダオス戦役の時の……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's right that happened during Dhaos's war...</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39188</PointerOffset>
       <VoiceId>&lt;VCT_002_065_006&gt;</VoiceId>
       <JapaneseText>いけませんね……世界がこんな時に、
 一族のためなんて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We still seem to fail to move on from that terrible time...The world, its idea, the ninja scouts...</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>20</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39556</PointerOffset>
       <VoiceId>&lt;VCT_002_065_007&gt;</VoiceId>
       <JapaneseText>……そんなことないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Doesn't need to be like that, y'know?</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39892</PointerOffset>
       <VoiceId>&lt;VCT_002_065_008&gt;</VoiceId>
       <JapaneseText>世界を守りたいっても、それって
 自分の周りが大事だからなんだよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Look at me, I'm totally going to save the world. But I only focus on one thing</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40664</PointerOffset>
       <VoiceId>&lt;VCT_002_065_009&gt;</VoiceId>
-      <JapaneseText>だからさ、&lt;SUZ&gt;ちゃんの一族のためっての
+      <JapaneseText>だからさ、&lt;Suzu&gt;ちゃんの一族のためっての
 わかるぜ、オレ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I understand your problems &lt;Suzu&gt;. You just don't need to overthink it and will do fine.</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40992</PointerOffset>
       <VoiceId>&lt;VCT_002_065_010&gt;</VoiceId>
       <JapaneseText>&lt;DIO&gt;さん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;DIO&gt;...</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>20</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41104</PointerOffset>
       <VoiceId>&lt;VCT_002_065_011&gt;</VoiceId>
       <JapaneseText>オレだって、オレの住むとこなくなんの
 ヤだから戦うんだもんな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For instance now I just focus on not losing any more people dear to me and where I love living. That's all.</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41548</PointerOffset>
       <VoiceId>&lt;VCT_002_065_012&gt;</VoiceId>
       <JapaneseText>ほら、行こうぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All right, let's go!</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42152</PointerOffset>
       <VoiceId>&lt;VCT_002_065_013&gt;</VoiceId>
       <JapaneseText>……そっか、&lt;DIO&gt;……
 バジルさんのことをまだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;DIO&gt;...You're still hurt about Mister Basil...</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42344</PointerOffset>
       <VoiceId>&lt;VCT_002_065_014&gt;</VoiceId>
       <JapaneseText>…………？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...?</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <StructId>14</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>20</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

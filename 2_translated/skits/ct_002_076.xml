@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset>40060,44452,47132</PointerOffset>
-      <JapaneseText>&lt;CLE&gt;</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset>40996,43748</PointerOffset>
-      <JapaneseText>&lt;ARC&gt;</JapaneseText>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset>42092,52824</PointerOffset>
-      <JapaneseText>&lt;CST&gt;</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <PointerOffset>45176</PointerOffset>
-      <JapaneseText>&lt;KLA&gt;</JapaneseText>
+      <JapaneseText>&lt;Clauss&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
@@ -59,7 +59,7 @@
     </Entry>
     <Entry>
       <PointerOffset>45972</PointerOffset>
-      <JapaneseText>&lt;MIN&gt;</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>8</Id>
@@ -67,7 +67,7 @@
     </Entry>
     <Entry>
       <PointerOffset>46304</PointerOffset>
-      <JapaneseText>&lt;SUZ&gt;</JapaneseText>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>9</Id>
@@ -75,7 +75,7 @@
     </Entry>
     <Entry>
       <PointerOffset>47244,51984</PointerOffset>
-      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <JapaneseText>&lt;Rondolinet&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>10</Id>
@@ -89,275 +89,231 @@
       <VoiceId>&lt;VCT_002_076_001&gt;</VoiceId>
       <JapaneseText>はっ……今気付いたんだけど、
 なんか今オレらすげーこと経験してねーか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh! I've just noticed it now but man, it sure is awesome!</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38888</PointerOffset>
       <VoiceId>&lt;VCT_002_076_002&gt;</VoiceId>
       <JapaneseText>すごい、こと？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh? Awesome?</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39196</PointerOffset>
       <VoiceId>&lt;VCT_002_076_003&gt;</VoiceId>
       <JapaneseText>時空戦士全員と一緒に旅してるんだぜ。
 これってすごいことだよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All of the Eternal Heroes are here and they're traveling with us! This just can't get more awesome!</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40060</PointerOffset>
       <VoiceId>&lt;VCT_002_076_004&gt;</VoiceId>
       <JapaneseText>僕たちはずっとみんなで
 一緒に旅してたからそうでもないけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, I've travelled with everyone for so long the feeling isn't quite the same. However...</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40172</PointerOffset>
       <VoiceId>&lt;VCT_002_076_005&gt;</VoiceId>
       <JapaneseText>でもそう言われてみると、感動が、
 心の奥から少しずつ湧いてくる気がするね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However, even if those are your words I can sense a deep feeling of nostalgia welling up.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40996</PointerOffset>
       <VoiceId>&lt;VCT_002_076_006&gt;</VoiceId>
-      <JapaneseText>ユニット『美女魔女&lt;ARC&gt;とその仲間たちと
+      <JapaneseText>ユニット『美女魔女&lt;Arche&gt;とその仲間たちと
 小さな英雄たち』だね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We're unit "Pretty Magical Soldier &lt;Arche&gt; Starring Friends And Smaller Heroes"!</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>15</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42092</PointerOffset>
       <VoiceId>&lt;VCT_002_076_007&gt;</VoiceId>
       <JapaneseText>異議あり！！　アホか、おまえは！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>OBJECTION!! You are a dunce!</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>6</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43748</PointerOffset>
       <VoiceId>&lt;VCT_002_076_008&gt;</VoiceId>
       <JapaneseText>アホとは何よ、アホとは！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who you calling a dunce, you idiot?</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>15</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44452</PointerOffset>
       <VoiceId>&lt;VCT_002_076_009&gt;</VoiceId>
       <JapaneseText>でも、びしっと決まるチーム名みたいなのが
 ほしいよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, thinking about it we could use a team name!</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45176</PointerOffset>
       <VoiceId>&lt;VCT_002_076_010&gt;</VoiceId>
       <JapaneseText>チーム名ね……ま、私は何でもいいが</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A team name, huh? To be honest, anything is ok with me.</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>7</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45972</PointerOffset>
       <VoiceId>&lt;VCT_002_076_011&gt;</VoiceId>
       <JapaneseText>『時空戦士』ではいけませんか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So we're not the "Eternal Heroes"?</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>8</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46304</PointerOffset>
       <VoiceId>&lt;VCT_002_076_012&gt;</VoiceId>
       <JapaneseText>時間を移動していない私も
 時空戦士でいいのでしょうか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Technically speaking, I have never travelled through time. Therefore the implication we are a group full of time-travelers given by that name is incorrect.</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>9</SpeakerId>
-      <UnknownPointer>20</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47132</PointerOffset>
       <VoiceId>&lt;VCT_002_076_013&gt;</VoiceId>
       <JapaneseText>そう言えばそうだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's true, now that you mention it.</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47244</PointerOffset>
       <VoiceId>&lt;VCT_002_076_014&gt;</VoiceId>
       <JapaneseText>それじゃあ、ここはその双子ちゃんに
 決めてもらおうじゃないの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then what if we let the wonder twins decide?</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <StructId>14</StructId>
       <SpeakerId>10</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48256</PointerOffset>
       <VoiceId>&lt;VCT_002_076_015&gt;</VoiceId>
       <JapaneseText>え？　わ、わたしたちにですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y-you mean us?</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <StructId>15</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48860</PointerOffset>
       <VoiceId>&lt;VCT_002_076_016&gt;</VoiceId>
       <JapaneseText>オレら、勇気凛々胸いっぱい団だ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Super Spirited Soldiers Filled With Awesome!</EnglishText>
       <Notes/>
       <Id>16</Id>
-      <StructId>16</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49476</PointerOffset>
       <VoiceId>&lt;VCT_002_076_017&gt;</VoiceId>
       <JapaneseText>それじゃダメだよ、名乗りをあげるときに、
 ずばっと言いやすくないと！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That won't work! No one can say that name at all!</EnglishText>
       <Notes/>
       <Id>17</Id>
-      <StructId>17</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50300</PointerOffset>
       <VoiceId>&lt;VCT_002_076_018&gt;</VoiceId>
       <JapaneseText>それじゃあ、どんなのにするんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, good point. So you got any ideas?</EnglishText>
       <Notes/>
       <Id>18</Id>
-      <StructId>18</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50608</PointerOffset>
       <VoiceId>&lt;VCT_002_076_019&gt;</VoiceId>
       <JapaneseText>え、えっと……
 フェアリー☆サークル、とか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>H-how about "Fairy☆Circle"!</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <StructId>19</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>51752</PointerOffset>
       <VoiceId>&lt;VCT_002_076_020&gt;</VoiceId>
       <JapaneseText>なんだよ、サークルって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What? How does that even apply!?</EnglishText>
       <Notes/>
       <Id>20</Id>
-      <StructId>20</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>51984</PointerOffset>
       <VoiceId>&lt;VCT_002_076_021&gt;</VoiceId>
       <JapaneseText>んじゃあ、次の会議まで
 決めておくこと！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Uhm! Well, in that case let's adjourn this meeting for now. This will be decided in the next group meeting!</EnglishText>
       <Notes/>
       <Id>21</Id>
-      <StructId>21</StructId>
       <SpeakerId>10</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52824</PointerOffset>
       <VoiceId>&lt;VCT_002_076_022&gt;</VoiceId>
       <JapaneseText>……次の会議って何だ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...She's not implying we'll keep doing this, right?</EnglishText>
       <Notes/>
       <Id>22</Id>
-      <StructId>22</StructId>
       <SpeakerId>6</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

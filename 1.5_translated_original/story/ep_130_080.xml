@@ -20,26 +20,26 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -64,12 +64,12 @@
       <PointerOffset>258556</PointerOffset>
       <VoiceId>VSM_130_080_000</VoiceId>
       <JapaneseText>&lt;Cless&gt;さんも、&lt;Mint&gt;さんも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mister &lt;Cless&gt;...Miss &lt;Mint&gt;... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>258556</PointerOffset>
@@ -147,12 +147,12 @@ title. </EnglishText>
       <PointerOffset>262256</PointerOffset>
       <VoiceId>VSM_130_080_009</VoiceId>
       <JapaneseText>あ、&lt;Cless&gt;さん、&lt;Mint&gt;さん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hello there, Mister &lt;Cless&gt; and Miss &lt;Mint&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262256</PointerOffset>
@@ -161,7 +161,7 @@ title. </EnglishText>
 代わりなんて言ってて
 全然役に立てなくて</JapaneseText>
       <EnglishText>I'm sorry... I didn't really make a good replacement for 
-you, Miss &lt;MIN&gt;. </EnglishText>
+you, Miss &lt;Mint&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -234,24 +234,24 @@ small time! </EnglishText>
       <JapaneseText>オレ……
 あんまうまく&lt;Cless&gt;さんの
 代わり、できなかった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I...don't think I really did much to help you. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263624</PointerOffset>
       <VoiceId>VSM_130_080_017</VoiceId>
       <JapaneseText>&lt;Cless&gt;さんの
 役に立ちたかったのに</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wanted to be of use but... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263944</PointerOffset>
@@ -284,23 +284,23 @@ our work to finally strike a conversation. </EnglishText>
       <VoiceId>VSM_130_080_020</VoiceId>
       <JapaneseText>私も&lt;Cless&gt;さんと
 一緒に行きます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to go with you, &lt;Cless&gt;. I want to help you. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>264860</PointerOffset>
       <VoiceId>VSM_130_080_021</VoiceId>
       <JapaneseText>&lt;Mint&gt;、君は……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;, please... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265000</PointerOffset>
@@ -357,12 +357,12 @@ to stay true to my feelings. </EnglishText>
       <VoiceId>VSM_130_080_026</VoiceId>
       <JapaneseText>&lt;Cless&gt;さんのそばで
 戦いたいから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to fight along with you, &lt;Cless&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266080</PointerOffset>
@@ -416,12 +416,12 @@ to stay true to my feelings. </EnglishText>
       <VoiceId>VSM_130_080_031</VoiceId>
       <JapaneseText>オレ、ちゃんと、
 &lt;Cless&gt;さんの力になりたい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to become Mister &lt;Cless&gt;' strength! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>267652</PointerOffset>

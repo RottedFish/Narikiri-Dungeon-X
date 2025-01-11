@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37320,40944</PointerOffset>
-      <JapaneseText>&lt;CST&gt;</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37564,38252,38796,39308,41568</PointerOffset>
-      <JapaneseText>&lt;CLE&gt;</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -33,114 +33,96 @@
       <VoiceId>&lt;VCT_002_062_001&gt;</VoiceId>
       <JapaneseText>それにしても、いつから、誰がオレたちのこと
 『英雄』とか言い出したんだろうな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So who the hell started the whole "hero" naming thing start in the first place?</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37564</PointerOffset>
       <VoiceId>&lt;VCT_002_062_002&gt;</VoiceId>
-      <JapaneseText>さぁ……&lt;KLA&gt;さんたちの時代でダオスを倒した
+      <JapaneseText>さぁ……&lt;Clauss&gt;さんたちの時代でダオスを倒した
 時に僕たちは英雄って呼ばれたみたいだから……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's see... I think they started naming us heroes after the defeat of Dhaos in &lt;Clauss&gt;'s era.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37808</PointerOffset>
       <VoiceId>&lt;VCT_002_062_003&gt;</VoiceId>
-      <JapaneseText>じゃあ、&lt;KLA&gt;さんが
+      <JapaneseText>じゃあ、&lt;Clauss&gt;さんが
 広めたってことか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then &lt;Clauss&gt; was the one to spread the word?</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38252</PointerOffset>
       <VoiceId>&lt;VCT_002_062_004&gt;</VoiceId>
       <JapaneseText>誰が広めたにしても仰々しくて、
 少し戸惑う言葉だね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't think so. Whoever it was they were probably impressed at our feats and spread the word. It got out of hand quickly after...</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38796</PointerOffset>
       <VoiceId>&lt;VCT_002_062_005&gt;</VoiceId>
       <JapaneseText>英雄なんて、
 やっぱり重荷だ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Being a "hero" sometimes really is a burden...</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39308</PointerOffset>
       <VoiceId>&lt;VCT_002_062_006&gt;</VoiceId>
       <JapaneseText>英雄なんて、もうえーゆー（えーよ）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seems like being a hero is all about...being a zero...</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40944</PointerOffset>
       <VoiceId>&lt;VCT_002_062_007&gt;</VoiceId>
-      <JapaneseText>……おい、&lt;CLE&gt;、全部台無しだ</JapaneseText>
-      <EnglishText/>
+      <JapaneseText>……おい、&lt;Cless&gt;、全部台無しだ</JapaneseText>
+      <EnglishText>... Hey &lt;Cless&gt;. That talk fell apart quickly.</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41568</PointerOffset>
       <VoiceId>&lt;VCT_002_062_008&gt;</VoiceId>
       <JapaneseText>何言ってるんだ、僕はこの重い空気を
 なんとかしたくて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you talking about! I was just trying to lighten up the mood—</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42076</PointerOffset>
       <VoiceId>&lt;VCT_002_062_009&gt;</VoiceId>
       <JapaneseText>よけいに空気が重くなってる気がする……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nope. It's confirmed. The mood just got way worse...</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

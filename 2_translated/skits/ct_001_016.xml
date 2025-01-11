@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37368,37964,38744,38912,42688</PointerOffset>
-      <JapaneseText>&lt;KLA&gt;</JapaneseText>
+      <JapaneseText>&lt;Clauss&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset>39588,40964</PointerOffset>
-      <JapaneseText>&lt;KUL&gt;</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -40,151 +40,127 @@
       <PointerOffset>37368</PointerOffset>
       <VoiceId>&lt;VCT_001_016_001&gt;</VoiceId>
       <JapaneseText>君は妖精なのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I recall, you were a fairy, right?</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37480</PointerOffset>
       <VoiceId>&lt;VCT_001_016_002&gt;</VoiceId>
       <JapaneseText>え？　あ、うん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Uh? Oh...err... Yeah...</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37964</PointerOffset>
       <VoiceId>&lt;VCT_001_016_003&gt;</VoiceId>
       <JapaneseText>妖精ってのはラグナロクの時に
 滅びたと聞いたのだが……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>I've heard all fairies died during the Ragnarok...</EnglishText>
+      <Notes>ラグナロク</Notes>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38260</PointerOffset>
       <VoiceId>&lt;VCT_001_016_004&gt;</VoiceId>
       <JapaneseText>ぼくもそんな話、
 聞いたことあるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I heard that too.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38744</PointerOffset>
       <VoiceId>&lt;VCT_001_016_005&gt;</VoiceId>
       <JapaneseText>当の妖精の口から
 そんな言葉を聞くとはな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The power of fairies is said to be very strong.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38912</PointerOffset>
       <VoiceId>&lt;VCT_001_016_006&gt;</VoiceId>
       <JapaneseText>君のような稀少な存在を狙う悪い魔術師もいる。
 気をつけた方がいいぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Your existence could make cruel magicians try to capture you...be very careful.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39152</PointerOffset>
       <VoiceId>&lt;VCT_001_016_007&gt;</VoiceId>
       <JapaneseText>え、う、うん、そうだね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>O-ok... I'll have that in mind—</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39588</PointerOffset>
       <VoiceId>&lt;VCT_001_016_008&gt;</VoiceId>
       <JapaneseText>クルール！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kururu!!</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>14</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40504</PointerOffset>
       <VoiceId>&lt;VCT_001_016_009&gt;</VoiceId>
       <JapaneseText>うわっ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wahh!</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40964</PointerOffset>
       <VoiceId>&lt;VCT_001_016_010&gt;</VoiceId>
       <JapaneseText>クルール！　クルール！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kururu! Kuruuru!!</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>14</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42216</PointerOffset>
       <VoiceId>&lt;VCT_001_016_011&gt;</VoiceId>
-      <JapaneseText>&lt;KUL&gt;、ダメ！
+      <JapaneseText>&lt;Couleur&gt;、ダメ！
 エトにじゃれついちゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;, stop! Don't play with Eto like that!</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42688</PointerOffset>
       <VoiceId>&lt;VCT_001_016_012&gt;</VoiceId>
       <JapaneseText>なるほど、敵は身近にいる、
 というわけか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see. His enemies were closer than I thought...</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

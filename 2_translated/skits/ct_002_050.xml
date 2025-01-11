@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37468,39892,44480</PointerOffset>
-      <JapaneseText>&lt;CLE&gt;</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset>39424,46344</PointerOffset>
-      <JapaneseText>&lt;MIN&gt;</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -49,142 +49,120 @@
       <VoiceId>&lt;VCT_002_050_001&gt;</VoiceId>
       <JapaneseText>『なりきり士』の力って
 不思議だけど、すごいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I admit that however weird it sounds that Roleplayer power really is incredible.</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37844</PointerOffset>
       <VoiceId>&lt;VCT_002_050_002&gt;</VoiceId>
       <JapaneseText>初めはわたしも戸惑いました。
 いつもと全然違う自分になって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>At first it was really weird, honestly, what with always turning into things I'm not.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38012</PointerOffset>
       <VoiceId>&lt;VCT_002_050_003&gt;</VoiceId>
       <JapaneseText>でも、それがだんだん
 気持ちよくなってきて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But I've started to really like it! It's quite fun!</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38572</PointerOffset>
       <VoiceId>&lt;VCT_002_050_004&gt;</VoiceId>
       <JapaneseText>&lt;MEL&gt;&lt;MEL&gt;の恍惚の表情は、何度見てもたまらんだー∀
 それも含めて『なりきり士』の、すんばらしいところだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;MEL&gt;-&lt;MEL&gt;'s face when casting healing spells is so cute! I can't get enough out of it! With so many clothes, the Roleplayer powers have endless possibilities!</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39424</PointerOffset>
       <VoiceId>&lt;VCT_002_050_005&gt;</VoiceId>
       <JapaneseText>私も思いきって、
 いつもと違う自分に変身したいです……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-if I'm allowed to say, I'd like to be something other than myself once in a while.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39892</PointerOffset>
       <VoiceId>&lt;VCT_002_050_006&gt;</VoiceId>
       <JapaneseText>それじゃあ、甘栗を食べるといいよ、
 ヘンシン（天津）だけに……なんて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, let's say you wore an insect suit...You'd BEE something other than yourself once in a while!</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41120</PointerOffset>
       <VoiceId>&lt;VCT_002_050_007&gt;</VoiceId>
       <JapaneseText>……くだらねぇだ、ひらひらマント野郎。
 そしだら、ミーたまも着替えてみるだか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That sucked, Mister Mantle pushover. But I DO agree Miss &lt;Mint&gt;y should change clothes...together with me...</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43396</PointerOffset>
       <VoiceId>&lt;VCT_002_050_008&gt;</VoiceId>
       <JapaneseText>やめろ、このエロダンス！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stop it, you horny piece of wood!</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44480</PointerOffset>
       <VoiceId>&lt;VCT_002_050_009&gt;</VoiceId>
       <JapaneseText>む、無理じゃないかな？
 ほら、サイズが合わないしさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, it's not like switching clothes is impossible! As long as the sizes match---</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45500</PointerOffset>
       <VoiceId>&lt;VCT_002_050_010&gt;</VoiceId>
       <JapaneseText>……そう、ですよね……
-&lt;MIN&gt;さんの胸のサイズじゃ私の衣装は……</JapaneseText>
-      <EnglishText/>
+&lt;Mint&gt;さんの胸のサイズじゃ私の衣装は……</JapaneseText>
+      <EnglishText>...Oh that's right... I can't wear &lt;Mint&gt;'s clothes because I could never fill that chest...</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46344</PointerOffset>
       <VoiceId>&lt;VCT_002_050_011&gt;</VoiceId>
       <JapaneseText>あの……普通に体のサイズの話かと
 思うのですが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Um... I-I'm pretty sure &lt;Cless&gt; meant body size...</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -40,23 +40,23 @@
       <PointerOffset>258488</PointerOffset>
       <VoiceId>VSM_210_030_001</VoiceId>
       <JapaneseText>朝だよ、&lt;Suzu&gt;ちゃん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's morning, &lt;Suzu&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>258628</PointerOffset>
       <VoiceId>VSM_210_030_002</VoiceId>
       <JapaneseText>おはよ、&lt;Suzu&gt;ちゃん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mornin', &lt;Suzu&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259012</PointerOffset>

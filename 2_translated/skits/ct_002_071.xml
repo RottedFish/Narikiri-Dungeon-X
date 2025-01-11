@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37724,39308,41372,42348,42852</PointerOffset>
-      <JapaneseText>&lt;SUZ&gt;</JapaneseText>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -31,143 +31,121 @@
     <Entry>
       <PointerOffset>37208</PointerOffset>
       <VoiceId>&lt;VCT_002_071_001&gt;</VoiceId>
-      <JapaneseText>&lt;SUZ&gt;ちゃん、聞いていいかな？
+      <JapaneseText>&lt;Suzu&gt;ちゃん、聞いていいかな？
 あの仮面のふたりにどんな幻見せられたの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey &lt;Suzu&gt;, do you have a minute? What kind of illusion did that masked couple make you see?</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37724</PointerOffset>
       <VoiceId>&lt;VCT_002_071_002&gt;</VoiceId>
       <JapaneseText>&lt;DIO&gt;さんと&lt;MEL&gt;さん、
 おふたりと暮らす幻です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It was a world where I lived alongside &lt;DIO&gt; and &lt;MEL&gt;.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>20</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38360</PointerOffset>
       <VoiceId>&lt;VCT_002_071_003&gt;</VoiceId>
       <JapaneseText>え？　オレらと？　もしかして、
 オレらにイジメられたりしてたのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Us? Y-you don't mean we were teasing you in your dream, right?</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39308</PointerOffset>
       <VoiceId>&lt;VCT_002_071_004&gt;</VoiceId>
       <JapaneseText>いえ、おふたりと一緒に楽しい日々を
 暮らしていました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Not at all. I was having a lot of fun sharing daily life moments with you two.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>20</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39660</PointerOffset>
       <VoiceId>&lt;VCT_002_071_005&gt;</VoiceId>
       <JapaneseText>なんだよ、もっとヤな幻で
-&lt;SUZ&gt;ちゃん追いつめてっかと思ったぜ</JapaneseText>
-      <EnglishText/>
+&lt;Suzu&gt;ちゃん追いつめてっかと思ったぜ</JapaneseText>
+      <EnglishText>Whaaat? That's it? I really thought you had some nightmare-ish illusion or something.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40364</PointerOffset>
       <VoiceId>&lt;VCT_002_071_006&gt;</VoiceId>
       <JapaneseText>わたしも……ミミズやカエルが降ってきたり、
 アメンボだらけの池に放り込まれたりとか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I thought so too... Like worms and frogs raining down or being thrown into a pit full of poisonous spiders or...</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41040</PointerOffset>
       <VoiceId>&lt;VCT_002_071_007&gt;</VoiceId>
       <JapaneseText>や、やめろよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ok, stop!</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41372</PointerOffset>
       <VoiceId>&lt;VCT_002_071_008&gt;</VoiceId>
       <JapaneseText>……そんな幻なら、
 耐えればいいだけです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Those sound like really simple to bear illusions.</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>20</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41796</PointerOffset>
       <VoiceId>&lt;VCT_002_071_009&gt;</VoiceId>
-      <JapaneseText>そ、そっか？　強いな、&lt;SUZ&gt;ちゃんは</JapaneseText>
-      <EnglishText/>
+      <JapaneseText>そ、そっか？　強いな、&lt;Suzu&gt;ちゃんは</JapaneseText>
+      <EnglishText>Really? Whoa, you're a strong girl &lt;Suzu&gt;!</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42348</PointerOffset>
       <VoiceId>&lt;VCT_002_071_010&gt;</VoiceId>
       <JapaneseText>いえ、むしろ、私を揺るがすのは、
 そうではないもの……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>On the contrary. The fact I could be shaken down and brought to temptation...</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>20</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42852</PointerOffset>
       <VoiceId>&lt;VCT_002_071_011&gt;</VoiceId>
       <JapaneseText>憧れや羨望でしょうか。
 ……まだまだ修行が足りないのです、私は</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It is because of my yearnings and jealousy. I still have much to learn as a ninja and as a person.</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>20</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

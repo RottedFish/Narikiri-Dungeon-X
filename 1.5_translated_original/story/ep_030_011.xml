@@ -44,10 +44,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -240,12 +240,12 @@ a name for you... </EnglishText>
       <VoiceId>VSM_030_010_031</VoiceId>
       <JapaneseText>&lt;Couleur&gt;だね。
 よろしく、&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt; it is then. Nice to meet you &lt;Couleur&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>267052</PointerOffset>

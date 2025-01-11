@@ -12,10 +12,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Arche&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -312,12 +312,13 @@ wrong. </EnglishText>
       <JapaneseText>“絶世の美女魔女&lt;Arche&gt;と
 その仲間たち”はいつでも
 君たちの味方だからね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can always ask help from "Pretty Magical Soldier &lt;Arche&gt; 
+Starring Uninteresting Extras." </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

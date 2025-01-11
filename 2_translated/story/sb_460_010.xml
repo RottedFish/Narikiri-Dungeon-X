@@ -1,0 +1,371 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>259136</PointerOffset>
+      <JapaneseText>あれ……？
+ここって……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260272</PointerOffset>
+      <JapaneseText>&lt;Red&gt;トーティス村&lt;White&gt;、
+&lt;Cless&gt;さんたちが住んでる村だぜ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260468</PointerOffset>
+      <JapaneseText>前に来てたっけ……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260720</PointerOffset>
+      <JapaneseText>さぁ……それはオレらに
+聞かれても……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261716</PointerOffset>
+      <JapaneseText>&lt;Red&gt;トーティス村&lt;White&gt;、
+僕の生まれ育った村だよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261912</PointerOffset>
+      <JapaneseText>前に来たことって
+あったっけ……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262052</PointerOffset>
+      <JapaneseText>ダオスと戦った時に一度、
+来てるかもしれないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262052</PointerOffset>
+      <JapaneseText>あ、でもあれは、
+ミゲールの町かもしれないな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262232</PointerOffset>
+      <JapaneseText>なんか前に来たような……
+見覚えがあるんだよね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262372</PointerOffset>
+      <JapaneseText>んじゃあ、やっぱ
+来たことがあるんじゃね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262512</PointerOffset>
+      <JapaneseText>でも、来た覚えがないんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262708</PointerOffset>
+      <JapaneseText>……よくわからないです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262904</PointerOffset>
+      <JapaneseText>ゴメンゴメン、
+もしかしたら、小さい時に
+来てるかもしれないな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263084</PointerOffset>
+      <JapaneseText>そう言えば、精霊の森って
+この近くだっけ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263224</PointerOffset>
+      <JapaneseText>&lt;Rody&gt;さん、精霊の森に
+住んでたって言ってましたね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263364</PointerOffset>
+      <JapaneseText>うん、その時に父さんに
+連れてこられたのかもね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263616</PointerOffset>
+      <JapaneseText>でも……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263616</PointerOffset>
+      <JapaneseText>さっきから心臓が
+どきどきしてる……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263616</PointerOffset>
+      <JapaneseText>なんだろう、
+この不安感……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>3</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263960</PointerOffset>
+      <JapaneseText>……どうしたんですか？
+&lt;Rody&gt;さん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264204</PointerOffset>
+      <JapaneseText>ううん、この村って
+のどかでいいところだなって</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>18</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264344</PointerOffset>
+      <JapaneseText>そうですね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>19</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264344</PointerOffset>
+      <JapaneseText>こんな村に住んでみるのも
+悪くないかも</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>19</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264868</PointerOffset>
+      <JapaneseText>きみには&lt;Red&gt;エトスハウス&lt;White&gt;が
+あるでしょ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>20</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265112</PointerOffset>
+      <JapaneseText>そうだけど</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>21</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265252</PointerOffset>
+      <JapaneseText>そうだ、&lt;Red&gt;エトスハウス&lt;White&gt;を
+ここに持ってくりゃ
+いいんじゃねーの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>22</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265552</PointerOffset>
+      <JapaneseText>むちゃくちゃ言わないで</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>23</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266316</PointerOffset>
+      <JapaneseText>……確かに
+いいところだけど……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>24</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266316</PointerOffset>
+      <JapaneseText>私にはあまり
+いい思い出のないとこ
+なのかもな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>24</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

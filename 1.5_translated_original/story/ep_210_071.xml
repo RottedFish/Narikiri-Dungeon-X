@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -299,12 +299,12 @@ time! </EnglishText>
       <VoiceId>VSM_210_070_047</VoiceId>
       <JapaneseText>オレさ……
 &lt;Suzu&gt;ちゃん手伝うよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I want to help &lt;Suzu&gt; with her fight. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269716</PointerOffset>

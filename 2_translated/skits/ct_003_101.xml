@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37264,39408,41028,42452,43504,44792,45576</PointerOffset>
-      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <JapaneseText>&lt;Rondolinet&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -32,198 +32,166 @@
       <PointerOffset>37264</PointerOffset>
       <VoiceId>&lt;VCT_003_101_001&gt;</VoiceId>
       <JapaneseText>……そうだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's RIGHT!</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38252</PointerOffset>
       <VoiceId>&lt;VCT_003_101_002&gt;</VoiceId>
       <JapaneseText>うぉっ！　びっくりした！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whoa, what's that out of nowhere!?</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38812</PointerOffset>
       <VoiceId>&lt;VCT_003_101_003&gt;</VoiceId>
       <JapaneseText>と、突然、大きな声、
 出さないでください……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>P-please don't raise your voice like that so suddenly...</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39408</PointerOffset>
       <VoiceId>&lt;VCT_003_101_004&gt;</VoiceId>
       <JapaneseText>ダオスにした話を
 ひとつ思い出したんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've remembered another thing about Dhaos...</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40064</PointerOffset>
       <VoiceId>&lt;VCT_003_101_005&gt;</VoiceId>
       <JapaneseText>なんだ、そんなこと……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, now what?</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40388</PointerOffset>
       <VoiceId>&lt;VCT_003_101_006&gt;</VoiceId>
       <JapaneseText>どんな話したんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What did you remember?</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41028</PointerOffset>
       <VoiceId>&lt;VCT_003_101_007&gt;</VoiceId>
       <JapaneseText>一度、ダオスに料理を作ってあげようと思って、
 好きなものを聞いたことがあったんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>One time Dhaos tried cooking for me and it was surprisingly really tasty.</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41488</PointerOffset>
       <VoiceId>&lt;VCT_003_101_008&gt;</VoiceId>
       <JapaneseText>ダオスってもの食うんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos...can cook?</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41784</PointerOffset>
       <VoiceId>&lt;VCT_003_101_009&gt;</VoiceId>
       <JapaneseText>当たり前でしょ。それで？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, duh...! And then?</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42452</PointerOffset>
       <VoiceId>&lt;VCT_003_101_010&gt;</VoiceId>
       <JapaneseText>アイツがなかなか話さないから、ずっと私が自分の
 好きな食べ物の話して終わったっていう色気のない話</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Since he wasn't talking at all I mentioned all the foods I liked. But that didn't really spark any conversation.</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43232</PointerOffset>
       <VoiceId>&lt;VCT_003_101_011&gt;</VoiceId>
       <JapaneseText>なんだ、それで終わりなのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So it just ends like that?</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43504</PointerOffset>
       <VoiceId>&lt;VCT_003_101_012&gt;</VoiceId>
       <JapaneseText>ううん。しょうがないから、
 あれこれたくさん作って持ってったよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes. Well, sort of. Since it couldn't be helped I decided to prepare a lot of things myself for him.</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44492</PointerOffset>
       <VoiceId>&lt;VCT_003_101_013&gt;</VoiceId>
       <JapaneseText>ダオスはそれを食べたんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And Dhaos ate anything?</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44792</PointerOffset>
       <VoiceId>&lt;VCT_003_101_014&gt;</VoiceId>
       <JapaneseText>うん、たくさん持ってったのにひとつ残らずね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes! He ate every single meal I made for him with glee.</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <StructId>14</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45304</PointerOffset>
       <VoiceId>&lt;VCT_003_101_015&gt;</VoiceId>
       <JapaneseText>へぇ……よかったじゃないですか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haah! Isn't that a nice memory?</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <StructId>15</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45576</PointerOffset>
       <VoiceId>&lt;VCT_003_101_016&gt;</VoiceId>
       <JapaneseText>そうだね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, it is a fond memory indeed.</EnglishText>
       <Notes/>
       <Id>16</Id>
-      <StructId>16</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

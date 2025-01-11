@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37660,42936</PointerOffset>
-      <JapaneseText>&lt;CLE&gt;</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset>40644,42560</PointerOffset>
-      <JapaneseText>&lt;CST&gt;</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset>41788</PointerOffset>
-      <JapaneseText>&lt;MIN&gt;</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -48,177 +48,149 @@
       <PointerOffset>37468</PointerOffset>
       <VoiceId>&lt;VCT_002_056_001&gt;</VoiceId>
       <JapaneseText>……どうしてバジルさんが悪いヤツらに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why would Mister Basil become a bad person...?</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37660</PointerOffset>
       <VoiceId>&lt;VCT_002_056_002&gt;</VoiceId>
       <JapaneseText>そのバジルって人は
 君の知り合いなのかい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is this Basil person some sort of acquaintance?</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38024</PointerOffset>
       <VoiceId>&lt;VCT_002_056_003&gt;</VoiceId>
       <JapaneseText>ああ。変わり者だったけど、熱い人だった。
 人殺しするヤツと仲間になる人とは違うのに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We met him in the past. It was just a while, but he was really kind to people. He's the type of person to help people in need, not hurt them...</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38612</PointerOffset>
       <VoiceId>&lt;VCT_002_056_004&gt;</VoiceId>
       <JapaneseText>まだバジルさんかどうか
 わかんないんでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We still can't be too sure if it's him or not, right?</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39112</PointerOffset>
       <VoiceId>&lt;VCT_002_056_005&gt;</VoiceId>
       <JapaneseText>あ……う、うん……
 そうだけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I....guess...</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39564</PointerOffset>
       <VoiceId>&lt;VCT_002_056_006&gt;</VoiceId>
       <JapaneseText>だったら、信じようよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You have to believe in him, &lt;DIO&gt;!</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39796</PointerOffset>
       <VoiceId>&lt;VCT_002_056_007&gt;</VoiceId>
       <JapaneseText>そ、そうだな……うん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>R-right...yes...</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40644</PointerOffset>
       <VoiceId>&lt;VCT_002_056_008&gt;</VoiceId>
       <JapaneseText>&lt;MEL&gt;、そのバジルってヤツの顔見たんだよな？
 それなのにわからないって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;MEL&gt;, you seen Basil's face, right? Then I don't understand why you go and say stuff like that...?</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41124</PointerOffset>
       <VoiceId>&lt;VCT_002_056_009&gt;</VoiceId>
       <JapaneseText>……なんか、&lt;DIO&gt;見てたら、
 ああ言わなきゃって思って……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>... Back then I was actually worried about &lt;DIO&gt;'s wounds, so I was looking directly at him.</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41480</PointerOffset>
       <VoiceId>&lt;VCT_002_056_010&gt;</VoiceId>
       <JapaneseText>それに見間違いってこともありますから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's some room for misunderstanding, I think.</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41788</PointerOffset>
       <VoiceId>&lt;VCT_002_056_011&gt;</VoiceId>
       <JapaneseText>……&lt;MEL&gt;ちゃんは
 &lt;DIO&gt;くんのお姉さんなんですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...&lt;MEL&gt;, you really are the big sister of the two!</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42220</PointerOffset>
       <VoiceId>&lt;VCT_002_056_012&gt;</VoiceId>
       <JapaneseText>いつもはオレが兄貴だって
 &lt;DIO&gt;に言われてますけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Uh, don't say that near him. He insists he's the big brother.</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42560</PointerOffset>
       <VoiceId>&lt;VCT_002_056_013&gt;</VoiceId>
       <JapaneseText>兄弟って……いいよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Brother and sister...just as it should be!</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42936</PointerOffset>
       <VoiceId>&lt;VCT_002_056_014&gt;</VoiceId>
       <JapaneseText>……ああ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Of course.</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <StructId>14</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

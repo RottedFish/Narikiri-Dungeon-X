@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset>39860</PointerOffset>
-      <JapaneseText>&lt;KUL&gt;</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -49,153 +49,129 @@
       <VoiceId>&lt;VCT_001_034_001&gt;</VoiceId>
       <JapaneseText>熱砂の洞窟と違って
 ここは水が多くて涼しげだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Unlike the Cave of Burning Sand here there's a lot of water. It's pretty refreshing.</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37872</PointerOffset>
       <VoiceId>&lt;VCT_001_034_002&gt;</VoiceId>
       <JapaneseText>でも、気をつけて、慎重に進も。
 すぐに水に浸かっちゃうから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Still, be careful! We have to walk carefully or else we'll slip!</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38568</PointerOffset>
       <VoiceId>&lt;VCT_001_034_003&gt;</VoiceId>
       <JapaneseText>少し水浴びるくらいいいだろ、
 な？　な？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A little bath should be ok. Right, right?</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39860</PointerOffset>
       <VoiceId>&lt;VCT_001_034_004&gt;</VoiceId>
       <JapaneseText>クッルール！　クッルール！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kururu! Kururu!</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>14</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40820</PointerOffset>
       <VoiceId>&lt;VCT_001_034_005&gt;</VoiceId>
       <JapaneseText>だはーさっきは、炎で、今度は水だか？　なんなんだーよ！
 炎も水もおらの大敵だで。扱いが悪すぎだど！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Waah! First fire, now WATER? What is this nonsense!? Water and fire are my worst enemies! Stop trying to kill me at once!</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43324</PointerOffset>
       <VoiceId>&lt;VCT_001_034_006&gt;</VoiceId>
       <JapaneseText>ごめんなさい、アルベルトさん。
 私たち、どうしても行かなければいけないんです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm so sorry, Mister Albert. Regrettably, there's nothing we can do about it...</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43744</PointerOffset>
       <VoiceId>&lt;VCT_001_034_007&gt;</VoiceId>
       <JapaneseText>別に謝ることねって。
 こいつが勝手に、ひよってるだけだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't care if we slip, anyways. I'll be perfectly fine without him.</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44436</PointerOffset>
       <VoiceId>&lt;VCT_001_034_008&gt;</VoiceId>
       <JapaneseText>あ〜〜〜あ〜〜〜、おらがいなくなったら
 一番困るのは誰だ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, no! If I wasn't here who'd be the on the losing end?</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45228</PointerOffset>
       <VoiceId>&lt;VCT_001_034_009&gt;</VoiceId>
       <JapaneseText>おらが水浸しになったら、服がびっしょびっしょで
 困るのは誰だー！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I fall to the water and all the costumes get ruined, who'll have problems?</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46364</PointerOffset>
       <VoiceId>&lt;VCT_001_034_010&gt;</VoiceId>
       <JapaneseText>へー、そーらみれ、ざまぁみれ！
 おらのありがたみを、思い知るがいいだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heh, that's right, punk! You should be glad for me being here! Remember it!</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47624</PointerOffset>
       <VoiceId>&lt;VCT_001_034_011&gt;</VoiceId>
       <JapaneseText>はい、&lt;DIO&gt;の負け</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert 1, &lt;DIO&gt; 0.</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48112</PointerOffset>
       <VoiceId>&lt;VCT_001_034_012&gt;</VoiceId>
       <JapaneseText>くっ……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Damn...</EnglishText>
+      <Notes>wasnt in kevassa's script, I deepLed it - kevan</Notes>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

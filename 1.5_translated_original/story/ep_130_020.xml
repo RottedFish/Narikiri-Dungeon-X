@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -84,12 +84,12 @@
       <PointerOffset>278788</PointerOffset>
       <VoiceId>VSM_130_020_002</VoiceId>
       <JapaneseText>あれが、&lt;Mint&gt;さん？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that girl &lt;Mint&gt;? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278928</PointerOffset>
@@ -108,12 +108,12 @@
       <JapaneseText>それでね、
 聞いてくださいよ、
 &lt;Mint&gt;様</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You won't believe what happened next, Miss &lt;Mint&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279068</PointerOffset>
@@ -192,12 +192,13 @@ my house as if it was his! </EnglishText>
       <VoiceId>VSM_130_020_018</VoiceId>
       <JapaneseText>いつも私の悩み聞いてくれて、
 ありがとうございます、&lt;Mint&gt;様</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You always listen to my troubles. Thank you very much Miss 
+&lt;Mint&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281200</PointerOffset>
@@ -251,12 +252,12 @@ a while. </EnglishText>
       <VoiceId>VSM_130_020_023</VoiceId>
       <JapaneseText>さすが&lt;Mint&gt;様だわ。
 すっきりした</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Amazing, Ms &lt;Mint&gt;! I feel completely new! </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283484</PointerOffset>
@@ -312,23 +313,24 @@ a while. </EnglishText>
       <JapaneseText>&lt;Cless&gt;さんが
 帰ってきたので
 お知らせにきたんです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We wanted to notify you that Mister &lt;Cless&gt; has returned to 
+the village. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285532</PointerOffset>
       <VoiceId>VSM_130_020_029</VoiceId>
       <JapaneseText>&lt;Cless&gt;さんが……！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;!? </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287336</PointerOffset>
@@ -374,12 +376,12 @@ assistance. </EnglishText>
       <JapaneseText>でも、&lt;Mint&gt;さんは
 &lt;Cless&gt;さんに
 会いたいんですよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But Miss &lt;Mint&gt; and Mister &lt;Cless&gt; want to see each other! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288180</PointerOffset>
@@ -387,12 +389,12 @@ assistance. </EnglishText>
       <JapaneseText>いいんです、
 &lt;Cless&gt;さんはわかって
 くださってますし……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's okay. &lt;Cless&gt; will understand. </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288552</PointerOffset>
@@ -445,12 +447,12 @@ assistance. </EnglishText>
       <VoiceId>VSM_130_020_043</VoiceId>
       <JapaneseText>私だって&lt;Cless&gt;さんには
 会いたいです。でも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I...I really do want to see him...But... </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>26</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>290088</PointerOffset>
@@ -574,12 +576,12 @@ assistance. </EnglishText>
       <VoiceId>VSM_130_020_054</VoiceId>
       <JapaneseText>でも、&lt;Cless&gt;さんも
 お忙しいでしょうし……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But &lt;Cless&gt; is also very busy... </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>36</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297572</PointerOffset>

@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset>39120,41752</PointerOffset>
-      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <JapaneseText>&lt;Rondolinet&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -41,102 +41,86 @@
       <VoiceId>&lt;VCT_002_073_001&gt;</VoiceId>
       <JapaneseText>きみたち、ぼくがいない間、
 大丈夫だった？　泣いてない？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>While I was away...were you kids ok? You've not been crying, have you?</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37944</PointerOffset>
       <VoiceId>&lt;VCT_002_073_002&gt;</VoiceId>
       <JapaneseText>泣いてないって。
 オレらは赤ん坊じゃないんだぞ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nah, haven't cried a tiny bit. I'm not a baby anymore, you know?</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38456</PointerOffset>
       <VoiceId>&lt;VCT_002_073_003&gt;</VoiceId>
       <JapaneseText>そうだよ、ちょっと心細かったけど、
-&lt;RND_P&gt;さんや&lt;SUZ&gt;ちゃんのおかげで平気だったよ？</JapaneseText>
-      <EnglishText/>
+&lt;Rody&gt;さんや&lt;Suzu&gt;ちゃんのおかげで平気だったよ？</JapaneseText>
+      <EnglishText>We've been fine. It was a bit lonely but thanks to &lt;Rody&gt; and &lt;Suzu&gt; everything was just fine.</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39120</PointerOffset>
       <VoiceId>&lt;VCT_002_073_004&gt;</VoiceId>
       <JapaneseText>なんのなんの。
 &lt;MEL&gt;ちゃんはちょっと涙目だったけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, really? From where I'm looking from you seemed to be holding a river of tears all this time.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39808</PointerOffset>
       <VoiceId>&lt;VCT_002_073_005&gt;</VoiceId>
       <JapaneseText>あれは眠くてアクビしたからですっ！
 な、泣いてないもん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>T-those were just yawn tears because I was so tired! I'm telling you, I didn't cry!</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40508</PointerOffset>
       <VoiceId>&lt;VCT_002_073_006&gt;</VoiceId>
       <JapaneseText>そっか……ぼくがいなかったせいで
 夜も眠れない寂しい想いしたんだね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's right... You poor thing must have been drowning in worries because I wasn't there. It's all my fault you couldn't get proper sleep.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41428</PointerOffset>
       <VoiceId>&lt;VCT_002_073_007&gt;</VoiceId>
       <JapaneseText>あ……そ、そうじゃなくて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>N-not at all!</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41752</PointerOffset>
       <VoiceId>&lt;VCT_002_073_008&gt;</VoiceId>
       <JapaneseText>相変わらずの心配性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As always worrying for all of us, huh?</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

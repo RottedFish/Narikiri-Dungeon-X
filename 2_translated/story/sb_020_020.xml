@@ -1,0 +1,531 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>258412</PointerOffset>
+      <JapaneseText>あ……ここだ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>258552</PointerOffset>
+      <JapaneseText>どーしたんだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>258692</PointerOffset>
+      <JapaneseText>ぼくがね、昔、
+たくさん悪さしたって
+言ったでしょ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>258692</PointerOffset>
+      <JapaneseText>ここもそこのひとつ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>258692</PointerOffset>
+      <JapaneseText>ここに建ってた家を
+壊しちゃったんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>3</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259000</PointerOffset>
+      <JapaneseText>そっか……
+でも、どうして……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259140</PointerOffset>
+      <JapaneseText>すごくイヤだったんだ、
+自分が精霊だってこと</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259280</PointerOffset>
+      <JapaneseText>精霊さんでもそんなこと
+思ったりすんだね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259420</PointerOffset>
+      <JapaneseText>他の精霊はたぶん
+そんなふうに思わないよ、
+きっと</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259420</PointerOffset>
+      <JapaneseText>イフリートもウンディーネも、
+みんな元から自然界にいたのを
+精霊王が引き出し精霊にした</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259560</PointerOffset>
+      <JapaneseText>精霊王……オリジン？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259700</PointerOffset>
+      <JapaneseText>そう。だからもっと
+超然としてる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259700</PointerOffset>
+      <JapaneseText>でもぼくは違う。
+瘴気の中から
+新しく作られたんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259840</PointerOffset>
+      <JapaneseText>瘴気って、
+魔界のやつだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260084</PointerOffset>
+      <JapaneseText>そう。プルートが言ってたよね、
+昔、一回、この世界が
+魔界になったことがあるって</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260084</PointerOffset>
+      <JapaneseText>あの時に、ね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260224</PointerOffset>
+      <JapaneseText>そうなんだ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260364</PointerOffset>
+      <JapaneseText>暗くて
+もやもやしたところって
+その瘴気の中だったんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260504</PointerOffset>
+      <JapaneseText>……新しく作られた
+『音』を司る精霊、
+グラムロック、それがぼく</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260504</PointerOffset>
+      <JapaneseText>なんで、ぼくは何のために
+生まれたんだろう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260504</PointerOffset>
+      <JapaneseText>精霊なんかに
+生まれたんだろうって
+悲しかった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>3</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260504</PointerOffset>
+      <JapaneseText>他の精霊たちはそんなこと、
+疑問に思ってないから、
+誰も答えはくれない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>4</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260644</PointerOffset>
+      <JapaneseText>エトちゃんを作った
+オリジンに聞けばよかったのに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260888</PointerOffset>
+      <JapaneseText>オリジンもぼくを作った後、
+姿を見せなくなったかラ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260888</PointerOffset>
+      <JapaneseText>……だから、ぼく、
+ちょっと荒れてたんだ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261168</PointerOffset>
+      <JapaneseText>誰かに……自分の存在を
+知ってもらいたくって……
+だっけ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261308</PointerOffset>
+      <JapaneseText>うん……それと、
+オリジンに
+出てきてほしくて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>18</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261308</PointerOffset>
+      <JapaneseText>オリジンは出てきたけど、
+一緒にぼくの記憶も消した……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>18</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261720</PointerOffset>
+      <JapaneseText>でも、ようやくわかったよ、
+ぼくがどうして精霊だったか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>19</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261720</PointerOffset>
+      <JapaneseText>きみたちを守るため。
+あの暴走を止めて、
+きみたちの助けをするため</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>19</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262008</PointerOffset>
+      <JapaneseText>ええっ、『音』を司る精霊が、
+それだけでいいのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>20</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262252</PointerOffset>
+      <JapaneseText>それ『だけ』じゃないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>21</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262252</PointerOffset>
+      <JapaneseText>ぼくにとっては、
+それはとても大切なこと……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>21</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262392</PointerOffset>
+      <JapaneseText>でも……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>22</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262392</PointerOffset>
+      <JapaneseText>……そうだね。うん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>22</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262888</PointerOffset>
+      <JapaneseText>えっ！　ちょ、ちょっと
+何だよ、それ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>23</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263132</PointerOffset>
+      <JapaneseText>いいの。ほら、行くよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>24</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263616</PointerOffset>
+      <JapaneseText>ひとりで勝手に
+納得すんなよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>25</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264248</PointerOffset>
+      <JapaneseText>いい子だね、&lt;Mel&gt;ちゃん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>26</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264388</PointerOffset>
+      <JapaneseText>&lt;Dio&gt;もいい子だよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>27</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264892</PointerOffset>
+      <JapaneseText>いい子たちに
+出会えたんだね、エトちゃんは</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>28</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265032</PointerOffset>
+      <JapaneseText>うん……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>29</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265032</PointerOffset>
+      <JapaneseText>……何のために、生まれたか
+なんて、わからくていいよ、
+……うん……今は、まだ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>29</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265264</PointerOffset>
+      <JapaneseText>そっか……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>30</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

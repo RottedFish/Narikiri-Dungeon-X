@@ -32,114 +32,96 @@
       <PointerOffset>37208</PointerOffset>
       <VoiceId>&lt;VCT_001_002_001&gt;</VoiceId>
       <JapaneseText>ヴァルハラか。なつかしいな〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I really missed Valhalla!</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37528</PointerOffset>
       <VoiceId>&lt;VCT_001_002_002&gt;</VoiceId>
       <JapaneseText>前来たのは……
 仲間探してた時だったっけ…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Last time I came here...was when I was looking for my friends...</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37932</PointerOffset>
       <VoiceId>&lt;VCT_001_002_003&gt;</VoiceId>
       <JapaneseText>……エトはまたいつか、
 旅立っちゃうの……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eto... would you want to go again?</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38772</PointerOffset>
       <VoiceId>&lt;VCT_001_002_004&gt;</VoiceId>
       <JapaneseText>仲間を探して？　うふふ、きみたちを
 ほってどこかに行けるはずないでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To look for my companions? Hahahaha, do you think I would ever abandon you?</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39668</PointerOffset>
       <VoiceId>&lt;VCT_001_002_005&gt;</VoiceId>
       <JapaneseText>本当に？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>D-do you mean that just now?</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39964</PointerOffset>
       <VoiceId>&lt;VCT_001_002_006&gt;</VoiceId>
       <JapaneseText>ずっと一緒だよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll always be together!</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40264</PointerOffset>
       <VoiceId>&lt;VCT_001_002_007&gt;</VoiceId>
       <JapaneseText>マジで、&lt;MEL&gt;って
 エトには甘えん坊だな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh no! Eto and &lt;MEL&gt; got all softy and corny!</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41288</PointerOffset>
       <VoiceId>&lt;VCT_001_002_008&gt;</VoiceId>
       <JapaneseText>&lt;DIO&gt;もでしょ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Y-you moved too!</EnglishText>
+      <Notes>what</Notes>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>41996</PointerOffset>
       <VoiceId>&lt;VCT_001_002_009&gt;</VoiceId>
       <JapaneseText>……だってね……きみたちがいれば
 他に仲間なんて必要ないかラ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...That's because... now you are my irreplaceable friends...</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

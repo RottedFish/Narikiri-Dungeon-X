@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37572,38052,38524,39032,39380,40820,41324</PointerOffset>
-      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <JapaneseText>&lt;Rondolinet&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -23,141 +23,119 @@
     <Entry>
       <PointerOffset>37120</PointerOffset>
       <VoiceId>&lt;VCT_003_089_001&gt;</VoiceId>
-      <JapaneseText>&lt;RND_P&gt;さんの指輪、便利ですよね。
+      <JapaneseText>&lt;Rody&gt;さんの指輪、便利ですよね。
 おしゃれと実用が兼ねられてて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Miss &lt;Rody&gt;'s ring sure is useful! Not to mention a nice-looking accessory! That's an all-in-one package!</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37572</PointerOffset>
       <VoiceId>&lt;VCT_003_089_002&gt;</VoiceId>
       <JapaneseText>そうね、便利って言えば
 便利だけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now that you bring it up, sure it's useful but it's not what it's for...</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37804</PointerOffset>
       <VoiceId>&lt;VCT_003_089_003&gt;</VoiceId>
       <JapaneseText>……だけど？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why's that?</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38052</PointerOffset>
       <VoiceId>&lt;VCT_003_089_004&gt;</VoiceId>
       <JapaneseText>指輪は指輪だからこそ、
 意味があると思うんだよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This ring's meaning holds as much value just by being a regular ring.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38372</PointerOffset>
       <VoiceId>&lt;VCT_003_089_005&gt;</VoiceId>
       <JapaneseText>？？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh?</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38524</PointerOffset>
       <VoiceId>&lt;VCT_003_089_006&gt;</VoiceId>
       <JapaneseText>こういうものは、キレイなだけで
 充分な意味があんの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There are always a lot of other pretty things to wear. But this is unique.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39032</PointerOffset>
       <VoiceId>&lt;VCT_003_089_007&gt;</VoiceId>
       <JapaneseText>余計な価値をつけたことで、
 指輪は指輪じゃなくなった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you overvalue a ring too much, it stops being a ring and its original value is lost.</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39380</PointerOffset>
       <VoiceId>&lt;VCT_003_089_008&gt;</VoiceId>
       <JapaneseText>&lt;MEL&gt;ちゃんにはまだわかんないかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you understand, &lt;MEL&gt;?</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39660</PointerOffset>
       <VoiceId>&lt;VCT_003_089_009&gt;</VoiceId>
       <JapaneseText>うーん……わかりません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you understand, &lt;MEL&gt;?</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40820</PointerOffset>
       <VoiceId>&lt;VCT_003_089_010&gt;</VoiceId>
       <JapaneseText>もし、こんな力が指輪になかったら、
 ダオスを追いかけることもなかったし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then again...if I didn't have this ring's power I wouldn't be able to chase after Dhaos...</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41324</PointerOffset>
       <VoiceId>&lt;VCT_003_089_011&gt;</VoiceId>
       <JapaneseText>私はダオスのやってることを知らないまま、彼の
 思い出をこの指輪とともに抱いて生きていた……か</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't know yet if I want to take him down, but with this ring those memories will always be alive inside of me...</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

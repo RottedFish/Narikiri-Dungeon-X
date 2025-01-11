@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset>41796</PointerOffset>
-      <JapaneseText>&lt;KUL&gt;</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -41,164 +41,138 @@
       <VoiceId>&lt;VCT_001_035_001&gt;</VoiceId>
       <JapaneseText>精霊を集めるだけじゃ
 ダメだったなんて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even after collecting all the Spirits...it was useless...</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37660</PointerOffset>
       <VoiceId>&lt;VCT_001_035_002&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37772</PointerOffset>
       <VoiceId>&lt;VCT_001_035_003&gt;</VoiceId>
       <JapaneseText>力のある術者を探せばいいだけだよ、
 ほら、精霊たちも言ってたシ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll have enough power after we find the Lord of the Four Elements. The Spirits said so, remember?</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38356</PointerOffset>
       <VoiceId>&lt;VCT_001_035_004&gt;</VoiceId>
       <JapaneseText>でも、精霊の力を使える人なんて
 いないんじゃないのかな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But what if we can't find that person and we can't control the Spirits?</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39120</PointerOffset>
       <VoiceId>&lt;VCT_001_035_005&gt;</VoiceId>
       <JapaneseText>あ〜っ！　なんでどうして、
 そう後ろ向きなんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Damn it! Why are you ALWAYS depressed when things get tough?</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39896</PointerOffset>
       <VoiceId>&lt;VCT_001_035_006&gt;</VoiceId>
       <JapaneseText>今のオレらは外の世界を知ったし
 いろんなとこに行けんだぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We have the entire world to search for him. Do you think there's somewhere we can't go?</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40316</PointerOffset>
       <VoiceId>&lt;VCT_001_035_007&gt;</VoiceId>
       <JapaneseText>それに『なりきり士』だし、
 時空戦士とも知り合いになれた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Also, we are Roleplayer and we know the Eternal Heroes.</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41060</PointerOffset>
       <VoiceId>&lt;VCT_001_035_008&gt;</VoiceId>
       <JapaneseText>こんなすげーこと続いてんだ、
 案外、簡単にいい方法見つかるって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We've done awesome things already! This looks like it'll be easy as cake!</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41796</PointerOffset>
       <VoiceId>&lt;VCT_001_035_009&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kururu!</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>14</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42300</PointerOffset>
       <VoiceId>&lt;VCT_001_035_010&gt;</VoiceId>
       <JapaneseText>&lt;DIO&gt;……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;DIO&gt;...</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42468</PointerOffset>
       <VoiceId>&lt;VCT_001_035_011&gt;</VoiceId>
       <JapaneseText>な？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah?</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42636</PointerOffset>
       <VoiceId>&lt;VCT_001_035_012&gt;</VoiceId>
       <JapaneseText>……どうして、そんな楽観的なの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Why are you such a Polly Positive?</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43248</PointerOffset>
       <VoiceId>&lt;VCT_001_035_013&gt;</VoiceId>
       <JapaneseText>なんだよ、せっかく励まして
 やってんのにそりゃねーだろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What!? Here I am, trying to cheer you up and all you do is answer with negativity...</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

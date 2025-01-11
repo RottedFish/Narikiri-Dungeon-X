@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37880</PointerOffset>
-      <JapaneseText>&lt;KUL&gt;</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -41,113 +41,95 @@
       <VoiceId>&lt;VCT_003_091_001&gt;</VoiceId>
       <JapaneseText>さっきのダオス、前に会った時と
 違った気がしたの……わたしだけ、かな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That Dhaos we met a while ago...he felt very different from the Dhaos we knew. It's probably just my imagination...</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37636</PointerOffset>
       <VoiceId>&lt;VCT_003_091_002&gt;</VoiceId>
       <JapaneseText>あ、ぼくもそう思った</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Actually...I had that feeling too...</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37880</PointerOffset>
       <VoiceId>&lt;VCT_003_091_003&gt;</VoiceId>
       <JapaneseText>クルッ、クルール！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuru! Kururu!</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>14</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38200</PointerOffset>
       <VoiceId>&lt;VCT_003_091_004&gt;</VoiceId>
       <JapaneseText>あれ、そっか？
 オレ、気付かなかった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, really? I felt nothing like that...</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38640</PointerOffset>
       <VoiceId>&lt;VCT_003_091_005&gt;</VoiceId>
       <JapaneseText>前に比べてダオスの影が
 薄かったでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Didn't the Dhaos we met just now have a pretty thin shadow?</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39088</PointerOffset>
       <VoiceId>&lt;VCT_003_091_006&gt;</VoiceId>
       <JapaneseText>え？　そうだったか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Really?</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39452</PointerOffset>
       <VoiceId>&lt;VCT_003_091_007&gt;</VoiceId>
       <JapaneseText>観察力が足りないよ、&lt;DIO&gt;は。
 ね、&lt;MEL&gt;？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Really &lt;DIO&gt;, you need to observe your surroundings more. Don't you think, &lt;MEL&gt;?</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40180</PointerOffset>
       <VoiceId>&lt;VCT_003_091_008&gt;</VoiceId>
       <JapaneseText>あ、え、ええっと……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Uh, this might sound crazy...</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40480</PointerOffset>
       <VoiceId>&lt;VCT_003_091_009&gt;</VoiceId>
       <JapaneseText>……前みたいに匂いがしなかった……
 なんて言って、わかってもらえる、かな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I think he had no smell, either...I say that but I can't really understand what it means...</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

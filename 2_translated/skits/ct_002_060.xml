@@ -23,76 +23,64 @@
     <Entry>
       <PointerOffset>37308</PointerOffset>
       <VoiceId>&lt;VCT_002_060_001&gt;</VoiceId>
-      <JapaneseText>&lt;RND_P&gt;のフニャフニャ、
+      <JapaneseText>&lt;Rody&gt;のフニャフニャ、
 やわらかいのが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rody&gt;'s bouncing things were so soft...</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37576</PointerOffset>
       <VoiceId>&lt;VCT_002_060_002&gt;</VoiceId>
       <JapaneseText>……何、ぽーっとしてるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...What are you daydreaming for?</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37728</PointerOffset>
       <VoiceId>&lt;VCT_002_060_003&gt;</VoiceId>
       <JapaneseText>………………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ooh...</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38720</PointerOffset>
       <VoiceId>&lt;VCT_002_060_004&gt;</VoiceId>
       <JapaneseText>いちっ……何すんだよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ow! Hey what did I do now!?</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39308</PointerOffset>
       <VoiceId>&lt;VCT_002_060_005&gt;</VoiceId>
       <JapaneseText>ぼーっとしてたら、危ないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Keep daydreaming and it could be dangerous.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39596</PointerOffset>
       <VoiceId>&lt;VCT_002_060_006&gt;</VoiceId>
       <JapaneseText>だからって殴るかよ、
 このゴツゴツ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You are just mad because yours are plain!</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37568,40496</PointerOffset>
-      <JapaneseText>&lt;CLE&gt;</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37680,39400</PointerOffset>
-      <JapaneseText>&lt;KLA&gt;</JapaneseText>
+      <JapaneseText>&lt;Clauss&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset>38380,42152,44524</PointerOffset>
-      <JapaneseText>&lt;ARC&gt;</JapaneseText>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset>40140,41700</PointerOffset>
-      <JapaneseText>&lt;MIN&gt;</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset>40608</PointerOffset>
-      <JapaneseText>&lt;SUZ&gt;</JapaneseText>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <PointerOffset>43844,45704</PointerOffset>
-      <JapaneseText>&lt;CST&gt;</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -57,153 +57,129 @@
       <VoiceId>&lt;VCT_002_078_001&gt;</VoiceId>
       <JapaneseText>またこうやってみんなと旅が出来るなんて
 思ってもなかったよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I never thought we'd be able to journey together like this anymore.</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37680</PointerOffset>
       <VoiceId>&lt;VCT_002_078_002&gt;</VoiceId>
       <JapaneseText>同じ目的に向かった者同士が、再び別の目的に
 向かって集まり、力を合わせるというのがいいな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Travelling together for the same reason yet being called for a different reason than our previous travel. It's good we're able to join forces once again.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38380</PointerOffset>
       <VoiceId>&lt;VCT_002_078_003&gt;</VoiceId>
-      <JapaneseText>&lt;KLA&gt;、おっさんくさーい</JapaneseText>
-      <EnglishText/>
+      <JapaneseText>&lt;Clauss&gt;、おっさんくさーい</JapaneseText>
+      <EnglishText>&lt;Clauss&gt; try to hold the grandpa talk in.</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>15</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39400</PointerOffset>
       <VoiceId>&lt;VCT_002_078_004&gt;</VoiceId>
       <JapaneseText>おっさんくさいだと？
 私はまだ２９だ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who's a grandpa!? I'm just 29!</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40140</PointerOffset>
       <VoiceId>&lt;VCT_002_078_005&gt;</VoiceId>
       <JapaneseText>久しぶりに会ったのですから、
 ケンカはやめた方がいいかと……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm overjoyed we are all together but please don't fight...</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40496</PointerOffset>
       <VoiceId>&lt;VCT_002_078_006&gt;</VoiceId>
       <JapaneseText>相変わらずだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seems everyone's the same.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40608</PointerOffset>
       <VoiceId>&lt;VCT_002_078_007&gt;</VoiceId>
-      <JapaneseText>&lt;CST&gt;さんは
+      <JapaneseText>&lt;Chester&gt;さんは
 どうしたのですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;, what is on your mind?</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>20</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41700</PointerOffset>
       <VoiceId>&lt;VCT_002_078_008&gt;</VoiceId>
-      <JapaneseText>&lt;ARC&gt;さんと久しぶりに会うので
+      <JapaneseText>&lt;Arche&gt;さんと久しぶりに会うので
 照れているのでは……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He's been looking forward to meeting with &lt;Arche&gt; for so long, maybe he's shy?</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42152</PointerOffset>
       <VoiceId>&lt;VCT_002_078_009&gt;</VoiceId>
       <JapaneseText>チェ・ス・ター∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>CHE-S-TER~!</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>15</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43844</PointerOffset>
       <VoiceId>&lt;VCT_002_078_010&gt;</VoiceId>
       <JapaneseText>や、やめろ、なんだよ、
 おまえ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cut it out, you!</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>6</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44524</PointerOffset>
       <VoiceId>&lt;VCT_002_078_011&gt;</VoiceId>
       <JapaneseText>いいじゃん、いいじゃん、
 久しぶりなんだし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh it's ok! You've been missing me, haven't you?</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>15</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45704</PointerOffset>
       <VoiceId>&lt;VCT_002_078_012&gt;</VoiceId>
       <JapaneseText>な、なんだよ、おまえ、２００年経って
 なんか性格変わってねーか！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-what's up with you? 200 years passed by and you've not changed one bit!?</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>6</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

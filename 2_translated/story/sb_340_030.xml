@@ -1,0 +1,1206 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>白熱する司会</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>260696</PointerOffset>
+      <JapaneseText>さぁあっ！
+今日もやって来た来た！
+やって来た！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260696</PointerOffset>
+      <JapaneseText>挑戦者もここまで来た！
+命知らずのヤツが来たぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260956</PointerOffset>
+      <JapaneseText>挑戦者は&lt;Dio&gt;！　１３歳！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260956</PointerOffset>
+      <JapaneseText>ここは誰も彼も命懸け！
+学校のお遊戯広場じゃないぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261096</PointerOffset>
+      <JapaneseText>オレだって、
+命懸けで戦うぜ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261236</PointerOffset>
+      <JapaneseText>勢いだけでは勝てないぞ！
+やられてへこんで挫折しろ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261424</PointerOffset>
+      <JapaneseText>挑戦者は&lt;Mel&gt;！
+１３歳の女の子！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261424</PointerOffset>
+      <JapaneseText>泣いても喚いても、
+もうここからは
+逃げられないぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261564</PointerOffset>
+      <JapaneseText>逃げたりなんてしません！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261704</PointerOffset>
+      <JapaneseText>泣きたくても逃げたくても、
+死んでからでは泣けないし、
+逃げられないぞ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261892</PointerOffset>
+      <JapaneseText>挑戦者は&lt;Rondoline&gt;・Ｅ・
+エッフェンベルグ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261892</PointerOffset>
+      <JapaneseText>ムダなお色気振りまいて。
+魔物たちは騙せないぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262032</PointerOffset>
+      <JapaneseText>余計なお世話。
+さっさと戦い始めよ♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262172</PointerOffset>
+      <JapaneseText>いいだろう、いいだろう、
+その不敵さの鼻っ柱、
+折ってみせよう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262360</PointerOffset>
+      <JapaneseText>挑戦者は&lt;Couleur&gt;！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262360</PointerOffset>
+      <JapaneseText>ただの動物が
+人間様に勝とうとは
+片腹痛い！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262500</PointerOffset>
+      <JapaneseText>クルール！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262640</PointerOffset>
+      <JapaneseText>やろうってなら、
+いいだろう！
+人間様のすごさを思い知れ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262828</PointerOffset>
+      <JapaneseText>挑戦者は&lt;Cless&gt;・アルベイン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262828</PointerOffset>
+      <JapaneseText>英雄だろうとなんだろうと、
+誰も甘やかしはしないぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262968</PointerOffset>
+      <JapaneseText>あ、お、お手柔らかに……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263108</PointerOffset>
+      <JapaneseText>お手柔らかにとはご冗談を！
+全力で死ね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263296</PointerOffset>
+      <JapaneseText>挑戦者は&lt;Mint&gt;・アドネード！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263296</PointerOffset>
+      <JapaneseText>ひとりでは何もできない！
+非力な法術師よ！
+もうここから帰れないぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263436</PointerOffset>
+      <JapaneseText>あ、えっと……
+がんばります……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>18</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263576</PointerOffset>
+      <JapaneseText>がんばるだけで敵に勝てたら、
+戦士なんていらない！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>19</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263764</PointerOffset>
+      <JapaneseText>挑戦者は
+&lt;Chester&gt;・バークライト！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>20</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263764</PointerOffset>
+      <JapaneseText>弓矢で後ろからちまちまと
+戦う臆病者が今日ここで、
+華々しく散るのか！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>20</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263904</PointerOffset>
+      <JapaneseText>誰が散るか！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>21</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264044</PointerOffset>
+      <JapaneseText>口先ばかりの勢いが
+証明される時が
+目の前まで迫っているぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>22</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264232</PointerOffset>
+      <JapaneseText>挑戦者は&lt;Arche&gt;・クライン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>23</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264232</PointerOffset>
+      <JapaneseText>本当は年増のくせに若作り！
+いい歳して若いつもりか！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>23</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264372</PointerOffset>
+      <JapaneseText>ひ、ひどいっ！
+ケンカ売ってんの！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>24</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264512</PointerOffset>
+      <JapaneseText>その怒り、存分に魔物に
+ぶつけて、ぶつけて、
+ぶつけ返されるといいっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>25</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264700</PointerOffset>
+      <JapaneseText>挑戦者は&lt;Claus&gt;・Ｆ・
+レスター！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>26</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264700</PointerOffset>
+      <JapaneseText>酒びたりの毎日で、体は
+ボロボロ、召喚術もボロボロ、
+そんなので勝つつもりか！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>26</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264840</PointerOffset>
+      <JapaneseText>ま、やるだけやるさ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Id>27</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264980</PointerOffset>
+      <JapaneseText>おっさんくさい！
+ボロボロに敗北して、
+その老いを体感しろ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>28</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265168</PointerOffset>
+      <JapaneseText>挑戦者は藤林&lt;Suzu&gt;！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>29</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265168</PointerOffset>
+      <JapaneseText>子どもだからって
+誰も手加減などしないのが
+この闘技場の非情の掟！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>29</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265308</PointerOffset>
+      <JapaneseText>もちろん。手加減すると、
+あなた方の
+命取りになりますよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>30</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265448</PointerOffset>
+      <JapaneseText>その大言壮語を、
+後の世の笑い話となるだろう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>31</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265596</PointerOffset>
+      <JapaneseText>黄泉路への扉、
+今ここに開く！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>32</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265596</PointerOffset>
+      <JapaneseText>出でよ！　地獄の使者！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>32</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265736</PointerOffset>
+      <JapaneseText>ここがおまえの墓場！
+腐臭とともに風にさらされ、
+魔性のエサとなる！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>33</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265736</PointerOffset>
+      <JapaneseText>絶望の１回戦……
+ゴーーーーー、ファイトッ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>33</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266232</PointerOffset>
+      <JapaneseText>ここは生き残ったか！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>34</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266232</PointerOffset>
+      <JapaneseText>さぁ、次の敵は……
+コイツだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>34</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266372</PointerOffset>
+      <JapaneseText>邪悪なものの息に怯え竦み、
+そして斬り裂かれよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>35</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266372</PointerOffset>
+      <JapaneseText>喪失の２回戦……
+ゴーーーーー、ファイトッ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>35</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266608</PointerOffset>
+      <JapaneseText>見掛け倒しな愚か者！
+去れ、さっさと去れ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>36</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266784</PointerOffset>
+      <JapaneseText>よーしよしよし、ここで
+簡単に贄となっては、
+困るというもの！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>37</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266784</PointerOffset>
+      <JapaneseText>さぁ、次の敵は……
+コイツだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>37</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266924</PointerOffset>
+      <JapaneseText>もっと傷つけ！
+血汗を流せ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>38</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266924</PointerOffset>
+      <JapaneseText>残虐の３回戦……
+ゴーーーーー、ファイトッ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>38</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267160</PointerOffset>
+      <JapaneseText>つまらぬ結末！
+あっけない結末！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>39</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267160</PointerOffset>
+      <JapaneseText>もはや、ここには、
+貴様の居場所はない！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>39</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267336</PointerOffset>
+      <JapaneseText>見た目の勝ちが
+真の勝ちだと思うな！
+奢れる者は明日にも滅びる！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>40</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267336</PointerOffset>
+      <JapaneseText>さぁ、次の敵は……
+コイツだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>40</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267476</PointerOffset>
+      <JapaneseText>おまえの最期の刻は
+少しずつ迫ってきている！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>41</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267476</PointerOffset>
+      <JapaneseText>破滅の４回戦……
+ゴーーーーー、ファイトッ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>41</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267712</PointerOffset>
+      <JapaneseText>貴様がここで負けるのは
+最初から決まっていたこと！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>42</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267712</PointerOffset>
+      <JapaneseText>偉大なり！　予定調和！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>42</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267888</PointerOffset>
+      <JapaneseText>その美酒のような勝利に
+一時でも酔いしれるがいい！
+酔いはいつか覚めるのだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>43</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267888</PointerOffset>
+      <JapaneseText>さぁ、次の敵は……
+コイツだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>43</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268028</PointerOffset>
+      <JapaneseText>死の快楽は、知らぬ間に
+貴様の元に訪れる！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>44</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268028</PointerOffset>
+      <JapaneseText>凄絶の５回戦……
+ゴーーーーー、ファイトッ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>44</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268264</PointerOffset>
+      <JapaneseText>慢心こそは死の招待状！
+貴様はここで終わりだぁっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>45</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268440</PointerOffset>
+      <JapaneseText>よくぞ生き残った！
+だが、ここでそれを
+貴様は後悔するのだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>46</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268440</PointerOffset>
+      <JapaneseText>さぁ、次の敵は……
+コイツだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>46</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268580</PointerOffset>
+      <JapaneseText>震えろ！　恐れろ！
+恐怖こそ、衆愚の耳に
+甘美に響く！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>47</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268580</PointerOffset>
+      <JapaneseText>戦慄の６回戦……
+ゴーーーーー、ファイトッ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>47</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268816</PointerOffset>
+      <JapaneseText>貴様はここで終わり！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>48</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268816</PointerOffset>
+      <JapaneseText>静かに目を閉じて、
+死の愉悦に浸るがいい！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>48</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268816</PointerOffset>
+      <JapaneseText>くだらぬ悪あがきは
+ここまでだ！
+ここで堕ちよ、果てよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>48</Id>
+      <BubbleId>3</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268816</PointerOffset>
+      <JapaneseText>さぁ、次の敵は……
+コイツだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>48</Id>
+      <BubbleId>4</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268992</PointerOffset>
+      <JapaneseText>徹底的に息の根を止め、
+冥界の底の底に沈めよう！
+永劫に浮かび上がらぬように！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>49</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268992</PointerOffset>
+      <JapaneseText>醜悪の７回戦……
+ゴーーーーー、ファイトッ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>49</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269228</PointerOffset>
+      <JapaneseText>貴様の断末魔は
+チェロの美音よりも
+美しい！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>50</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269228</PointerOffset>
+      <JapaneseText>その残響を聞きながら、
+この会場からお別れ！
+さらば！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>50</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269404</PointerOffset>
+      <JapaneseText>もはや多くは語らぬ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>51</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269404</PointerOffset>
+      <JapaneseText>さぁ、次の敵は……
+コイツだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>51</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269544</PointerOffset>
+      <JapaneseText>多くのモノを血染めにした
+その罪の重さを味わえ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>52</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269544</PointerOffset>
+      <JapaneseText>非道の８回戦……
+ゴーーーーー、ファイトッ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>52</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269780</PointerOffset>
+      <JapaneseText>ここが貴様の終焉の場所！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>53</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269780</PointerOffset>
+      <JapaneseText>踏み込め、目の前に開いた
+暗き穴へ。それが死神の瞳！
+そこが貴様の魂の行く場所！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>53</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>270544</PointerOffset>
+      <JapaneseText>マ、マジでやばかった……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>54</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>270900</PointerOffset>
+      <JapaneseText>……か、勝ったの……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>55</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>271256</PointerOffset>
+      <JapaneseText>あ、あはは……
+なかなかやるね〜…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>56</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>271612</PointerOffset>
+      <JapaneseText>ク、クルール〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>57</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>271968</PointerOffset>
+      <JapaneseText>なかなかの手ごたえだった……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>58</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>272324</PointerOffset>
+      <JapaneseText>お疲れ様、でした……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>59</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>272680</PointerOffset>
+      <JapaneseText>……手こずらせやがって……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>60</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>273036</PointerOffset>
+      <JapaneseText>もぉ〜……イヤ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>61</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>273392</PointerOffset>
+      <JapaneseText>ふぅ……
+老体には答えるな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Id>62</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>273748</PointerOffset>
+      <JapaneseText>……この経験が
+私を大きくします……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>63</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>273896</PointerOffset>
+      <JapaneseText>この勝利に
+おぞましき快哉を叫べ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>64</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>273896</PointerOffset>
+      <JapaneseText>ここにまた、愚かしき
+血まみれの勇者が誕生した！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>64</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>274652</PointerOffset>
+      <JapaneseText>この敗北は因果応報！
+いつまでも勝てると思うな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>65</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>274652</PointerOffset>
+      <JapaneseText>幸運は去った！
+後、貴様を襲うのは
+怒涛のごとき不幸だ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>65</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

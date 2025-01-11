@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -83,12 +83,12 @@
       <VoiceId>VSM_270_020_005</VoiceId>
       <JapaneseText>あの……
 &lt;Rody&gt;さん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Um, Miss Rody... </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262312</PointerOffset>
@@ -219,12 +219,12 @@ struck him down... </EnglishText>
       <JapaneseText>え、じゃあ、
 &lt;Cless&gt;さんたちのせいで
 ダオスの故郷が……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So thanks to &lt;Cless&gt; and the others his people all... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>264500</PointerOffset>
@@ -254,12 +254,12 @@ struck him down... </EnglishText>
       <VoiceId>VSM_270_020_022</VoiceId>
       <JapaneseText>でも！　&lt;Cless&gt;さんたちが、
 悪いってわけじゃない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But &lt;Cless&gt; and the others aren't bad! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265460</PointerOffset>

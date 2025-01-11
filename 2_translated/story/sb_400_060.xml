@@ -1,0 +1,188 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>マクスウェル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>277780</PointerOffset>
+      <JapaneseText>むむ？　今度はワシに何を
+させようというのじゃ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>279184</PointerOffset>
+      <JapaneseText>威勢のよい子らじゃ。
+このワシとまた戦うと？
+年寄り遣いが荒いのう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>279184</PointerOffset>
+      <JapaneseText>まぁよい、
+やってやろうではないか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>279184</PointerOffset>
+      <JapaneseText>準備はよいぞ、
+いつでもかかってくるのじゃ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>3</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280192</PointerOffset>
+      <JapaneseText>降参降参……
+また強くなったの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280432</PointerOffset>
+      <JapaneseText>マクスウェル！
+オレらに力を貸してくれ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280572</PointerOffset>
+      <JapaneseText>何じゃ、この老体にまだ
+無茶をさせようというのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280572</PointerOffset>
+      <JapaneseText>でも、ま、よかろう。
+そなたらに
+力を貸すとしようかな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280824</PointerOffset>
+      <JapaneseText>我、今、分子の精に
+ねがいたてまつる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280824</PointerOffset>
+      <JapaneseText>指輪の盟約のもと、
+我に精霊を従わせたまえ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280824</PointerOffset>
+      <JapaneseText>我が名は&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>3</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280964</PointerOffset>
+      <JapaneseText>この老いぼれになんでも
+任せるがよい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>281812</PointerOffset>
+      <JapaneseText>残念じゃが、契約の指輪を
+持っていない者とは
+契約できぬ決まりじゃ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>281812</PointerOffset>
+      <JapaneseText>ターコイズを
+探してくるんじゃな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

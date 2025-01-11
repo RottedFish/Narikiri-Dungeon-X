@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37320,38044,39492,40408,42260,42516</PointerOffset>
-      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <JapaneseText>&lt;Rondolinet&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37772,38840,40924,43604</PointerOffset>
-      <JapaneseText>&lt;ARC&gt;</JapaneseText>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset>38196,44012</PointerOffset>
-      <JapaneseText>&lt;KLA&gt;</JapaneseText>
+      <JapaneseText>&lt;Clauss&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset>40084,41592,44736</PointerOffset>
-      <JapaneseText>&lt;CST&gt;</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -41,187 +41,157 @@
       <VoiceId>&lt;VCT_003_103_001&gt;</VoiceId>
       <JapaneseText>ダオス城の中……変わってないな、
 あの時のまんまだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I couldn't see things through to the end back then... Things look the same as then.</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37772</PointerOffset>
       <VoiceId>&lt;VCT_003_103_002&gt;</VoiceId>
       <JapaneseText>ふしぎ空間だからね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a pretty interesting time-space, here.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>15</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38044</PointerOffset>
       <VoiceId>&lt;VCT_003_103_003&gt;</VoiceId>
       <JapaneseText>私の心もあの時のまんま</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My heart is just as shaken as back then, too...</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38196</PointerOffset>
       <VoiceId>&lt;VCT_003_103_004&gt;</VoiceId>
       <JapaneseText>構やしない。初心忘るべからずだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't fill yourself up with concern. Remember your original resolution.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38840</PointerOffset>
       <VoiceId>&lt;VCT_003_103_005&gt;</VoiceId>
-      <JapaneseText>&lt;KLA&gt;、おっさんくさいってば</JapaneseText>
-      <EnglishText/>
+      <JapaneseText>&lt;Clauss&gt;、おっさんくさいってば</JapaneseText>
+      <EnglishText>Always with the old man talk...</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>15</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39492</PointerOffset>
       <VoiceId>&lt;VCT_003_103_006&gt;</VoiceId>
       <JapaneseText>初心とか、そんなんじゃないんだ。
 ダオスと顔合わせるのが怖いだけ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I didn't really have so much resolution as much as I was utterly scared to meet with Dhaos again.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40084</PointerOffset>
       <VoiceId>&lt;VCT_003_103_007&gt;</VoiceId>
       <JapaneseText>だから、ダオス城の場所知ってたのに
 近づかなかったんだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So then why did you enter Dhaos's Castle if you're shaken up?</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40408</PointerOffset>
       <VoiceId>&lt;VCT_003_103_008&gt;</VoiceId>
       <JapaneseText>双子ちゃんに背中を押してもらっちゃった。
 情けないなあ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The twins kinda shoved me inside forcibly. No use cryin' now.</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40924</PointerOffset>
       <VoiceId>&lt;VCT_003_103_009&gt;</VoiceId>
       <JapaneseText>恋する乙女はみんな
 そんなもんよ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That is the way of a young lady in love~!</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>15</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41592</PointerOffset>
       <VoiceId>&lt;VCT_003_103_010&gt;</VoiceId>
       <JapaneseText>ちゃかすなよな、おまえは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're one to poke fun at other people...</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42260</PointerOffset>
       <VoiceId>&lt;VCT_003_103_011&gt;</VoiceId>
       <JapaneseText>いいのいいの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's fine, it's fine~</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42516</PointerOffset>
       <VoiceId>&lt;VCT_003_103_012&gt;</VoiceId>
-      <JapaneseText>でも、&lt;ARC&gt;先輩は、
+      <JapaneseText>でも、&lt;Arche&gt;先輩は、
 いつも積極的じゃないですかぁ∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Isn't &lt;Arche&gt; such an assertive young lady~?</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43604</PointerOffset>
       <VoiceId>&lt;VCT_003_103_013&gt;</VoiceId>
       <JapaneseText>いやーん、そうかなあ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hohohoho, yes I am!</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>15</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44012</PointerOffset>
       <VoiceId>&lt;VCT_003_103_014&gt;</VoiceId>
       <JapaneseText>……『おっさん』には、
-つきあってられないな、&lt;CST&gt;行くぞ</JapaneseText>
-      <EnglishText/>
+つきあってられないな、&lt;Chester&gt;行くぞ</JapaneseText>
+      <EnglishText>Grandpa will leave you two alone. Let's go &lt;Chester&gt;.</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <StructId>14</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44736</PointerOffset>
       <VoiceId>&lt;VCT_003_103_015&gt;</VoiceId>
       <JapaneseText>おい待て、オレはおっさんじゃねーぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey wait! I'm no old man!</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <StructId>15</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

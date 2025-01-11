@@ -12,10 +12,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -136,12 +136,12 @@ only a matter of time until we can break through. </EnglishText>
       <PointerOffset>260712</PointerOffset>
       <VoiceId>VSM_140_040_008</VoiceId>
       <JapaneseText>&lt;Cless&gt;様、お願いします</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sir &lt;Cless&gt;, we'll rely on your support. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260908</PointerOffset>

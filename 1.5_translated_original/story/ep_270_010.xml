@@ -28,10 +28,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -115,12 +115,12 @@
       <VoiceId>VSM_270_010_006</VoiceId>
       <JapaneseText>&lt;Rody&gt;さん？
 どうしてこんなところに？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Miss Rody!? But what are you doing here? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284384</PointerOffset>
@@ -175,12 +175,12 @@ hahaha... </EnglishText>
       <VoiceId>VSM_270_010_011</VoiceId>
       <JapaneseText>もしかして、&lt;Rody&gt;さん、
 まだダオスを……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Could it be you are still looking for Dhaos...? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285364</PointerOffset>
@@ -372,12 +372,12 @@ I think... </EnglishText>
       <VoiceId>VSM_270_010_040</VoiceId>
       <JapaneseText>じゃあ、改めてよろしく、
 &lt;Rody&gt;さん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then...glad to have you back, &lt;Rondolinet&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>289780</PointerOffset>
@@ -396,12 +396,12 @@ I think... </EnglishText>
       <JapaneseText>うん、よろしくね、
 エトちゃんも、
 &lt;Couleur&gt;も</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nice to have you too, Eto and &lt;Couleur&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

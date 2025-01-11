@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37696,40200</PointerOffset>
-      <JapaneseText>&lt;CST&gt;</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -40,116 +40,98 @@
       <PointerOffset>37320</PointerOffset>
       <VoiceId>&lt;VCT_002_041_001&gt;</VoiceId>
       <JapaneseText>ぼく妖精じゃないのかな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems after all, I'm not a fairy...</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37696</PointerOffset>
       <VoiceId>&lt;VCT_002_041_002&gt;</VoiceId>
       <JapaneseText>オレも妖精ってのは
 初めてだからよくわからないな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Honestly, I didn't believe it when you said you were a fairy at first.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37928</PointerOffset>
       <VoiceId>&lt;VCT_002_041_003&gt;</VoiceId>
       <JapaneseText>さっきの子が妖精じゃなかったのかも</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We can't be sure if that small creature just now was a fairy, either...</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38164</PointerOffset>
       <VoiceId>&lt;VCT_002_041_004&gt;</VoiceId>
       <JapaneseText>大体、妖精なんて伝説だけで、誰も見た時ねんだろ？
 本に書いてあったぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Generally fairies are considered stuff from legends. I mean no one has really seen one, have they? I've read that in a book once.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38568</PointerOffset>
       <VoiceId>&lt;VCT_002_041_005&gt;</VoiceId>
       <JapaneseText>人よりちっこくて、羽根が生えてるってしか
 わかんないって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Apart from being small human-like things with wings not much else is known.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39384</PointerOffset>
       <VoiceId>&lt;VCT_002_041_006&gt;</VoiceId>
       <JapaneseText>じゃあ、小さくて羽根があったら、
 全部妖精に当てはまるってこと？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then any creature with small wings is considered a fairy?</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40200</PointerOffset>
       <VoiceId>&lt;VCT_002_041_007&gt;</VoiceId>
       <JapaneseText>それって妖精って結局、
 何なのかわかんないってことだよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To me it sounds we don't know the first thing of what a "fairy" really is.</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40968</PointerOffset>
       <VoiceId>&lt;VCT_002_041_008&gt;</VoiceId>
       <JapaneseText>じゃあ、エトもさっきの子も
 妖精じゃない可能性があるんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then...there's a chance what that creature said was true...</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41372</PointerOffset>
       <VoiceId>&lt;VCT_002_041_009&gt;</VoiceId>
       <JapaneseText>だから、エトが妖精じゃなくても
 何も変わんないって、言ってんだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Still, as I said before, it doesn't really change a thing if Eto is or not a fairy.</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

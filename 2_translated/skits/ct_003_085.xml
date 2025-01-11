@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset>39440</PointerOffset>
-      <JapaneseText>&lt;KUL&gt;</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -41,135 +41,113 @@
       <VoiceId>&lt;VCT_003_085_001&gt;</VoiceId>
       <JapaneseText>もし、家にいたら、
 今頃、お風呂入ってる時間だな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This would be about the time I'd take a bath, if I was just at home...</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37576</PointerOffset>
       <VoiceId>&lt;VCT_003_085_002&gt;</VoiceId>
       <JapaneseText>オレは、本読んでるかも</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And I'd be reading a book.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37952</PointerOffset>
       <VoiceId>&lt;VCT_003_085_003&gt;</VoiceId>
       <JapaneseText>せっかく読みたかったのに、
 あいつらのせいで……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There was a book I really wanted to read, too... But because of these jerks it has to wait...</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38220</PointerOffset>
       <VoiceId>&lt;VCT_003_085_004&gt;</VoiceId>
       <JapaneseText>大丈夫だよ、&lt;DIO&gt;、&lt;MEL&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's ok, &lt;DIO&gt;, &lt;MEL&gt;.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38876</PointerOffset>
       <VoiceId>&lt;VCT_003_085_005&gt;</VoiceId>
       <JapaneseText>明日の今頃はきっと家で、
 ゆっくりしてるはずだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tomorrow I'm sure we'll be hanging over the house and relax a lot.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39328</PointerOffset>
       <VoiceId>&lt;VCT_003_085_006&gt;</VoiceId>
       <JapaneseText>そう、かな……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You think so...?</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39440</PointerOffset>
       <VoiceId>&lt;VCT_003_085_007&gt;</VoiceId>
       <JapaneseText>クルークルル〜？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kururu~?</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>14</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39972</PointerOffset>
       <VoiceId>&lt;VCT_003_085_008&gt;</VoiceId>
       <JapaneseText>うん。そんなふうに想像してごらんよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes. I think tomorrow will be fine.</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40360</PointerOffset>
       <VoiceId>&lt;VCT_003_085_009&gt;</VoiceId>
       <JapaneseText>なんかあっという間だって思わない？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Things like this get resolved in the blink of time, right?</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40932</PointerOffset>
       <VoiceId>&lt;VCT_003_085_010&gt;</VoiceId>
       <JapaneseText>……うん……だな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes! That's the spirit!</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41376</PointerOffset>
       <VoiceId>&lt;VCT_003_085_011&gt;</VoiceId>
       <JapaneseText>行こ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go!</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

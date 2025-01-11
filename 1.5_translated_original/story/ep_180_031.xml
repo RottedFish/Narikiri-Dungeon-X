@@ -20,26 +20,26 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -137,12 +137,13 @@ sends me to a different ti&lt;MEL&gt;ine. </EnglishText>
       <JapaneseText>オレには&lt;Rody&gt;がダオスと
 会わずにすんで、ほっと
 してるふうにも見えるぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I think it's a relief you didn't have to meet the guy in 
+person, all said. </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261048</PointerOffset>
@@ -267,12 +268,12 @@ as I did... it all boils down to revenge for my parents. </EnglishText>
       <VoiceId>VSM_180_030_024</VoiceId>
       <JapaneseText>私も……
 &lt;Cless&gt;さんと同じです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I feel the same as &lt;Cless&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265204</PointerOffset>
@@ -343,12 +344,12 @@ when we don't live up to their expectative... </EnglishText>
       <PointerOffset>267808</PointerOffset>
       <VoiceId>VSM_180_030_030</VoiceId>
       <JapaneseText>&lt;Cless&gt;さんも？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're the same as them? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268108</PointerOffset>
@@ -380,12 +381,13 @@ sorts. To live up I feel I have to help those in need. </EnglishText>
       <VoiceId>VSM_180_030_033</VoiceId>
       <JapaneseText>まったく、&lt;Cless&gt;も&lt;Mint&gt;も
 真面目すぎるぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Damn, you two sure beat your heads for things you can't 
+help, huh? </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268612</PointerOffset>
@@ -406,12 +408,13 @@ from you. </EnglishText>
       <JapaneseText>オレ……&lt;Cless&gt;さんも
 &lt;Mint&gt;さんもがんばって
 『英雄』やらなくてもいいと思う</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I think that... it's okay since Mister &lt;Cless&gt; and Miss &lt;Mint&gt; 
+are trying hard to be "heroes." </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269992</PointerOffset>
@@ -546,7 +549,7 @@ stubborn won't you? </EnglishText>
       <JapaneseText>君はちょい難しく
 考えたほうがいいんじゃない？</JapaneseText>
       <EnglishText>That's quite a fitting comment coming from our thoughtful 
-&lt;CST&gt;, right? </EnglishText>
+&lt;Chester&gt;, right? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>29</Id>
@@ -570,12 +573,13 @@ stubborn won't you? </EnglishText>
       <JapaneseText>あ！　オ、オレ、なんか
 &lt;Cless&gt;さんに
 偉そうなこと言っちゃった？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>U-um. I'm sorry if I offended you Mister &lt;Cless&gt; if I said 
+anything inappropriate. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278848</PointerOffset>

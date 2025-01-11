@@ -25,137 +25,115 @@
       <VoiceId>&lt;VCT_003_111_000&gt;</VoiceId>
       <JapaneseText>オレ、もっと大冒険したかったな、
 命を懸けて世界を救うようなさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This sure has been one big adventure. I never thought we'd put our lives on the line to save the world!</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37656</PointerOffset>
       <VoiceId>&lt;VCT_003_111_001&gt;</VoiceId>
       <JapaneseText>したじゃない、大冒険。時間を行ったり来たりして
-&lt;CLE&gt;さんや&lt;MIN&gt;さん、&lt;CST&gt;さんたちと</JapaneseText>
-      <EnglishText/>
+&lt;Cless&gt;さんや&lt;Mint&gt;さん、&lt;Chester&gt;さんたちと</JapaneseText>
+      <EnglishText>It really has been a great adventure. We travelled through time and met all sorts of people like Mister &lt;Cless&gt;, Miss &lt;Mint&gt;, and Mister &lt;Chester&gt;.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38844</PointerOffset>
       <VoiceId>&lt;VCT_003_111_002&gt;</VoiceId>
       <JapaneseText>わたしには全部、命懸けだったよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All the way through giving the best we got.</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39296</PointerOffset>
       <VoiceId>&lt;VCT_003_111_003&gt;</VoiceId>
       <JapaneseText>そうだよな……うん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, that's right.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39616</PointerOffset>
       <VoiceId>&lt;VCT_003_111_004&gt;</VoiceId>
       <JapaneseText>この旅で世界が救われるとか
 そんなんじゃないけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Though this whole journey wasn't about saving the world.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39888</PointerOffset>
       <VoiceId>&lt;VCT_003_111_005&gt;</VoiceId>
       <JapaneseText>オレら、自分の結論出すために
 ここまで来たんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It was about giving us the chance to find our answer.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40396</PointerOffset>
       <VoiceId>&lt;VCT_003_111_006&gt;</VoiceId>
       <JapaneseText>悲しい結論だけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a sad conclusion, though...</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40572</PointerOffset>
       <VoiceId>&lt;VCT_003_111_007&gt;</VoiceId>
       <JapaneseText>後悔してんのか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>With a bit of regret, yeah.</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40740</PointerOffset>
       <VoiceId>&lt;VCT_003_111_008&gt;</VoiceId>
       <JapaneseText>してるよ、ちょっとだけ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe, but just a little bit.</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41060</PointerOffset>
       <VoiceId>&lt;VCT_003_111_009&gt;</VoiceId>
       <JapaneseText>でも、これが逃げずに向き合った結果。
 自分のやったことに対する相応の決着だから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But all of this started from running away. It's time we face our problems head on.</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41776</PointerOffset>
       <VoiceId>&lt;VCT_003_111_010&gt;</VoiceId>
       <JapaneseText>オレも……おんなじだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I feel the same...</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

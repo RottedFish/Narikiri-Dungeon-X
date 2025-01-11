@@ -12,10 +12,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -102,12 +102,13 @@ Summon Spirit mustn't be too far away! </EnglishText>
       <JapaneseText>もしかして、それくれた人、
 &lt;Rody&gt;さんのこと、
 好きだったんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is it possible...That the person that gave you the ring is 
+someone you like? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260268</PointerOffset>

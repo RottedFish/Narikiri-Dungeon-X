@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset>38804,39540</PointerOffset>
-      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <JapaneseText>&lt;Rondolinet&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -41,115 +41,97 @@
       <VoiceId>&lt;VCT_003_094_001&gt;</VoiceId>
       <JapaneseText>ここでふたつの国が
 戦争をしてたんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So this is where the war between both countries took place...</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37432</PointerOffset>
       <VoiceId>&lt;VCT_003_094_002&gt;</VoiceId>
       <JapaneseText>……なんで人は戦争をするのかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Why do people wage war?</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37600</PointerOffset>
       <VoiceId>&lt;VCT_003_094_003&gt;</VoiceId>
       <JapaneseText>争いが好きだから？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Because we enjoy conflict?</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37832</PointerOffset>
       <VoiceId>&lt;VCT_003_094_004&gt;</VoiceId>
       <JapaneseText>違うよ、大切な何かを
 守るために戦うんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's not really true. War sparks when there are very important things that have to be fought for.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38520</PointerOffset>
       <VoiceId>&lt;VCT_003_094_005&gt;</VoiceId>
-      <JapaneseText>&lt;RND_P&gt;さんは
+      <JapaneseText>&lt;Rody&gt;さんは
 どう思いますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do you think about this, Miss &lt;Rody&gt;?</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38804</PointerOffset>
       <VoiceId>&lt;VCT_003_094_006&gt;</VoiceId>
       <JapaneseText>弱い者は滅び、優秀なものが
 残るのがこの世のならい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The weak are destroyed while the strong remain...That's the one cruel reality of the world.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39540</PointerOffset>
       <VoiceId>&lt;VCT_003_094_007&gt;</VoiceId>
       <JapaneseText>戦って勝った者だけが生き残っていくのが
 生物の本能だから、かな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Only the victors are allowed to leave the battlefield alive. It's in our instinct to fight for our survival. Don't you think?</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39824</PointerOffset>
       <VoiceId>&lt;VCT_003_094_008&gt;</VoiceId>
       <JapaneseText>それじゃあ、みんな仲良くってのは
 自然の法則に反するってことになるよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So you think that to be in good terms with everyone is against the nature of humanity?</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40504</PointerOffset>
       <VoiceId>&lt;VCT_003_094_009&gt;</VoiceId>
       <JapaneseText>例え、そうだとしても……わたしは、
 もっとみんなと仲良くしたいな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That...might be true. After all, we haven't been at peace with everyone we met in this journey...</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

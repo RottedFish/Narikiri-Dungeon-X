@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -279,12 +279,12 @@ their limits to fully control their strength. </EnglishText>
       <VoiceId>VSM_120_060_048</VoiceId>
       <JapaneseText>平気、です、
 &lt;Chester&gt;さん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We're fine, Mister &lt;Chester&gt;.... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285880</PointerOffset>

@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37208,40316,40820</PointerOffset>
-      <JapaneseText>&lt;KLA&gt;</JapaneseText>
+      <JapaneseText>&lt;Clauss&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -33,128 +33,108 @@
       <VoiceId>&lt;VCT_002_083_000&gt;</VoiceId>
       <JapaneseText>しかし、まさかこの地上を
 魔族が支配していたなんてな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All said and done... I can't believe the surface rightfully belongs to the Daemonium...</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37440</PointerOffset>
       <VoiceId>&lt;VCT_002_083_001&gt;</VoiceId>
       <JapaneseText>それってそんなに大変なことか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that a problem?</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37708</PointerOffset>
       <VoiceId>&lt;VCT_002_083_002&gt;</VoiceId>
       <JapaneseText>だって、人間じゃない人たちが世界に
 たくさんいたなんてなんか変な感じがして……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just the thought of a lot of inhuman creatures habiting the world makes me skin crawl...</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38392</PointerOffset>
       <VoiceId>&lt;VCT_002_083_003&gt;</VoiceId>
       <JapaneseText>でも、今は人間がこの世界の一番だけど、
 そうじゃない時代とかもあったんだぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Think of it this way, right now humans are the dominant species in the world. However, in a different era that might not have been the case at all.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38844</PointerOffset>
       <VoiceId>&lt;VCT_002_083_004&gt;</VoiceId>
       <JapaneseText>どういうこと？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? How come?</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39012</PointerOffset>
       <VoiceId>&lt;VCT_002_083_005&gt;</VoiceId>
       <JapaneseText>何億年も前はまだ形のないマナ生物とかが
 海の中にうようよしてただけだし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Millions of years ago when Mana still had no form the sea was swarming with all kinds of different creatures.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39388</PointerOffset>
       <VoiceId>&lt;VCT_002_083_006&gt;</VoiceId>
       <JapaneseText>その後のすっげー長い間は地上を何千メートルもある
 でっけードラゴンが支配してたんだぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>After that they had thousands of years to race who-knows-how-many-thousands of meters to the surface. In that era, maybe giant Dragons were dominating the earth?</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40316</PointerOffset>
       <VoiceId>&lt;VCT_002_083_007&gt;</VoiceId>
       <JapaneseText>だから、例え一時期でも、魔族が世界を
 支配していた時期があってもおかしくない、か……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you follow that line of thought, it isn't unbelievable to imagine at some point the Daemonium denizens were the dominant species...</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40820</PointerOffset>
       <VoiceId>&lt;VCT_002_083_008&gt;</VoiceId>
       <JapaneseText>&lt;DIO&gt;の考え方もある意味、
 正しいとも言えるな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;DIO&gt;'s example is the correct way to think of this situation, I believe.</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40932</PointerOffset>
       <VoiceId>&lt;VCT_002_083_009&gt;</VoiceId>
       <JapaneseText>そう、なのかな……
 わたしはなんか違う気がするんですけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that so...? Still, for some reason I'm not ok with that idea...</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

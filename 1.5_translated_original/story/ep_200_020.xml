@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -56,12 +56,13 @@
       <JapaneseText>ここは……
 &lt;Cless&gt;さんたちに
 初めて会った場所です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is where I met with &lt;Cless&gt; and his travelling party for 
+the first time... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

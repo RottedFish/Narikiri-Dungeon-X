@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37320,38600,38988,39900,40712,42492</PointerOffset>
-      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <JapaneseText>&lt;Rondolinet&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -41,160 +41,134 @@
       <VoiceId>&lt;VCT_003_104_001&gt;</VoiceId>
       <JapaneseText>そっか、だから双子ちゃんは
 魔法が使えたんだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh yeah! So THAT is why you twins can use magic!</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38044</PointerOffset>
       <VoiceId>&lt;VCT_003_104_002&gt;</VoiceId>
-      <JapaneseText>どうしたの、&lt;RND_P&gt;、突然</JapaneseText>
-      <EnglishText/>
+      <JapaneseText>どうしたの、&lt;Rody&gt;、突然</JapaneseText>
+      <EnglishText>What do you mean so suddenly, &lt;Rody&gt;?</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38224</PointerOffset>
       <VoiceId>&lt;VCT_003_104_003&gt;</VoiceId>
       <JapaneseText>オレらが魔法を使えるのは、
 『なりきり士』だからだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We can use magic because of the Roleplayer power.</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38600</PointerOffset>
       <VoiceId>&lt;VCT_003_104_004&gt;</VoiceId>
       <JapaneseText>この地上でマナを紡げるのはエルフだけ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Only elves are able to control the world's Mana.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38988</PointerOffset>
       <VoiceId>&lt;VCT_003_104_005&gt;</VoiceId>
       <JapaneseText>『なりきり士』でも、エルフが
 生まれつき持ってる力まではマネできない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You may be a Roleplayer but that sort of talent is a birthright and near impossible to imitate.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39648</PointerOffset>
       <VoiceId>&lt;VCT_003_104_006&gt;</VoiceId>
       <JapaneseText>それじゃあなんで？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So how come?</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39900</PointerOffset>
       <VoiceId>&lt;VCT_003_104_007&gt;</VoiceId>
       <JapaneseText>君たちがデリス・カーラーン人だから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, you are people from Derris Kharlan.</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40412</PointerOffset>
       <VoiceId>&lt;VCT_003_104_008&gt;</VoiceId>
       <JapaneseText>そ、そんな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Th-that's...</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40712</PointerOffset>
       <VoiceId>&lt;VCT_003_104_009&gt;</VoiceId>
       <JapaneseText>残念？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Deplorable?</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40824</PointerOffset>
       <VoiceId>&lt;VCT_003_104_010&gt;</VoiceId>
       <JapaneseText>残念とかと違くて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, I'm not shameful but...</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41072</PointerOffset>
       <VoiceId>&lt;VCT_003_104_011&gt;</VoiceId>
       <JapaneseText>じゃあ、オレの魔法が&lt;MEL&gt;よりもしょぼいのは
 服装の差じゃなくて、もともとなのかっ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then you mean...&lt;MEL&gt; is better at using magic than me and it has nothing to do with the clothes!?</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42492</PointerOffset>
       <VoiceId>&lt;VCT_003_104_012&gt;</VoiceId>
       <JapaneseText>才能の差？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe a talent difference?</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42804</PointerOffset>
       <VoiceId>&lt;VCT_003_104_013&gt;</VoiceId>
       <JapaneseText>才能の差だよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah definitely a difference in talent!</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

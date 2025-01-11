@@ -28,10 +28,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Arche&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -177,23 +177,23 @@ was lame but it wasn't my intention, ok? </EnglishText>
       <JapaneseText>明るい薔薇色（ブライトローズ）？
 あたしの名前は
 &lt;Arche&gt;・クライン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bright Rose? My name is &lt;Arche&gt; Klein. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282648</PointerOffset>
       <VoiceId>VSM_030_060_024</VoiceId>
       <JapaneseText>&lt;Arche&gt;……って……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;...you say... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283084</PointerOffset>
@@ -201,7 +201,7 @@ was lame but it wasn't my intention, ok? </EnglishText>
       <JapaneseText>えーっ！　もしかして……
 ダオスを倒したっていう……？</JapaneseText>
       <EnglishText>Wait what!? Could it be... that you are
-THE &lt;ARC&gt; that defeated Dhaos...? </EnglishText>
+THE &lt;Arche&gt; that defeated Dhaos...? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -302,12 +302,13 @@ Dhaos 50 years ago! </EnglishText>
       <JapaneseText>その、&lt;Arche&gt;さんは
 &lt;Red&gt;ヴァルハラ&lt;White&gt;のこと、
 知らないんですね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Anyways &lt;Arche&gt;, don't you know anything about
+ what's going on in Valhalla right now? </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286472</PointerOffset>
@@ -446,7 +447,7 @@ visit. Might be kinda hard to talk to them. </EnglishText>
       <JapaneseText>……ってことは、じゃあ
 レスター博士も、
 どっかで生きてんのか？</JapaneseText>
-      <EnglishText>...Are you implying you know where Mister &lt;KLA&gt; lives? </EnglishText>
+      <EnglishText>...Are you implying you know where Mister &lt;Clauss&gt; lives? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
@@ -581,12 +582,12 @@ use this to return to this era. </EnglishText>
       <VoiceId>VSM_030_060_062</VoiceId>
       <JapaneseText>ありがとう……ございます。
 &lt;Arche&gt;さん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you...very much, Miss &lt;Arche&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>38</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293692</PointerOffset>
@@ -636,12 +637,12 @@ use this to return to this era. </EnglishText>
       <PointerOffset>296088</PointerOffset>
       <VoiceId>VSM_030_060_068</VoiceId>
       <JapaneseText>ありがとうございます、&lt;Arche&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you very much, &lt;Arche&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>43</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>296228</PointerOffset>

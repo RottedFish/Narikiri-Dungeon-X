@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset>38528,40940,44616</PointerOffset>
-      <JapaneseText>&lt;CST&gt;</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -27,7 +27,7 @@
     </Entry>
     <Entry>
       <PointerOffset>39444,41604,42800,43996</PointerOffset>
-      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <JapaneseText>&lt;Rondolinet&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <PointerOffset>40724,43480</PointerOffset>
-      <JapaneseText>&lt;ARC&gt;</JapaneseText>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -48,199 +48,167 @@
       <PointerOffset>37468</PointerOffset>
       <VoiceId>&lt;VCT_002_082_001&gt;</VoiceId>
       <JapaneseText>なぁ、乙女のヒミツって何だ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So...what's a feminine secret?</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38028</PointerOffset>
       <VoiceId>&lt;VCT_002_082_002&gt;</VoiceId>
       <JapaneseText>ちょっと黙ってなさい、&lt;DIO&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey that's off limits, &lt;DIO&gt;!</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38528</PointerOffset>
       <VoiceId>&lt;VCT_002_082_003&gt;</VoiceId>
-      <JapaneseText>なぁ、&lt;RND_P&gt;、
+      <JapaneseText>なぁ、&lt;Rody&gt;、
 乙女のヒミツって何だ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, &lt;Rody&gt;...What's a feminine secret?</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39252</PointerOffset>
       <VoiceId>&lt;VCT_002_082_004&gt;</VoiceId>
-      <JapaneseText>&lt;CST&gt;さんまで……</JapaneseText>
-      <EnglishText/>
+      <JapaneseText>&lt;Chester&gt;さんまで……</JapaneseText>
+      <EnglishText>Not you too, Mister &lt;Chester&gt;!</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39444</PointerOffset>
       <VoiceId>&lt;VCT_002_082_005&gt;</VoiceId>
       <JapaneseText>知りたい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, you're dying to know, aren't you?</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40108</PointerOffset>
       <VoiceId>&lt;VCT_002_082_006&gt;</VoiceId>
       <JapaneseText>知りたいってか、
 なんか気になるってか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah I wanna know. It's been bothering me for a while.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40724</PointerOffset>
       <VoiceId>&lt;VCT_002_082_007&gt;</VoiceId>
       <JapaneseText>知りたいの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So. You really do want to know.</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>15</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40940</PointerOffset>
       <VoiceId>&lt;VCT_002_082_008&gt;</VoiceId>
       <JapaneseText>え？　あ、いや……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Uh? Err, I dunno now...</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41604</PointerOffset>
       <VoiceId>&lt;VCT_002_082_009&gt;</VoiceId>
       <JapaneseText>知るといろいろ後戻りできなくなるよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Once you know there's no turning back. Are you ready for a point of no return of how you perceive women?</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42196</PointerOffset>
       <VoiceId>&lt;VCT_002_082_010&gt;</VoiceId>
       <JapaneseText>え？　そ、それってどういうことだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Err, w-what's that supposed to mean...?</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42800</PointerOffset>
       <VoiceId>&lt;VCT_002_082_011&gt;</VoiceId>
       <JapaneseText>なんでヒミツなのかってこと……
 わかってる……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you ready to learn the truth behind the secret...? Do you understand the consequences?</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43480</PointerOffset>
       <VoiceId>&lt;VCT_002_082_012&gt;</VoiceId>
       <JapaneseText>ヒミツは知らないでいた方がいいから、
-ヒミツなのよ。ねぇ、&lt;RND_P&gt;？</JapaneseText>
-      <EnglishText/>
+ヒミツなのよ。ねぇ、&lt;Rody&gt;？</JapaneseText>
+      <EnglishText>Secrets are better left unknown, that's why they are secrets to begin with. Right, &lt;Rody&gt;?</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>15</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43996</PointerOffset>
       <VoiceId>&lt;VCT_002_082_013&gt;</VoiceId>
       <JapaneseText>そうそう……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well said...</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44252</PointerOffset>
       <VoiceId>&lt;VCT_002_082_014&gt;</VoiceId>
       <JapaneseText>オ、オレ、いい……
 知らないままで……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I, uh.... Screw it, I don't want to know...</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <StructId>14</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44616</PointerOffset>
       <VoiceId>&lt;VCT_002_082_015&gt;</VoiceId>
       <JapaneseText>オレ、も……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bailing while I can...</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <StructId>15</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44864</PointerOffset>
       <VoiceId>&lt;VCT_002_082_016&gt;</VoiceId>
       <JapaneseText>……わたしは逆に
 知りたくなっちゃったかも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...To be honest I don't want to know either now...</EnglishText>
       <Notes/>
       <Id>16</Id>
-      <StructId>16</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

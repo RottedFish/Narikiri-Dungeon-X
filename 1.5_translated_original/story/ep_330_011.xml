@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -159,12 +159,12 @@
       <PointerOffset>291384</PointerOffset>
       <VoiceId>VSM_330_010_058</VoiceId>
       <JapaneseText>&lt;Couleur&gt;、おまえ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;...you... </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292264</PointerOffset>

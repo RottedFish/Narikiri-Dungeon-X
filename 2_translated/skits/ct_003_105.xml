@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37844</PointerOffset>
-      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <JapaneseText>&lt;Rondolinet&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -39,114 +39,96 @@
     <Entry>
       <PointerOffset>37332</PointerOffset>
       <VoiceId>&lt;VCT_003_105_001&gt;</VoiceId>
-      <JapaneseText>&lt;RND_P&gt;、
+      <JapaneseText>&lt;Rody&gt;、
 ここちょっと見て……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey &lt;Rody&gt; look at this!</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37844</PointerOffset>
       <VoiceId>&lt;VCT_003_105_002&gt;</VoiceId>
       <JapaneseText>どれどれ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's see...</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38740</PointerOffset>
       <VoiceId>&lt;VCT_003_105_003&gt;</VoiceId>
       <JapaneseText>……&lt;DIO&gt;、大変！
 &lt;MEL&gt;が悪い子になっちゃった！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;DIO&gt;, we have an emergency! &lt;MEL&gt; is becoming a bad kid!</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39516</PointerOffset>
       <VoiceId>&lt;VCT_003_105_004&gt;</VoiceId>
       <JapaneseText>大人の人を呼び捨てにしたんだ！
 今までこんなことなかったのに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She referred to an adult without using an honorific! It's the first time she's ever done such a thing...</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40512</PointerOffset>
       <VoiceId>&lt;VCT_003_105_005&gt;</VoiceId>
       <JapaneseText>いや……あのなぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Uhm...That's, uh...</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40820</PointerOffset>
       <VoiceId>&lt;VCT_003_105_006&gt;</VoiceId>
       <JapaneseText>オレだって
 呼び捨てにしてるぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She refers to me without an honorific, you know.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41264</PointerOffset>
       <VoiceId>&lt;VCT_003_105_007&gt;</VoiceId>
       <JapaneseText>&lt;DIO&gt;はそういう子だもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But you are still a kid!</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41736</PointerOffset>
       <VoiceId>&lt;VCT_003_105_008&gt;</VoiceId>
       <JapaneseText>そういう子って……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Still...a kid...</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41936</PointerOffset>
       <VoiceId>&lt;VCT_003_105_009&gt;</VoiceId>
       <JapaneseText>……『悪い子』って意味か！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...So I AM A BAD KID?!</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

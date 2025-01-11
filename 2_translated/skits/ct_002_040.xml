@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37132,37880,39116,40504,43288,45560</PointerOffset>
-      <JapaneseText>&lt;CST&gt;</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -24,150 +24,126 @@
       <PointerOffset>37132</PointerOffset>
       <VoiceId>&lt;VCT_002_040_001&gt;</VoiceId>
       <JapaneseText>アミィと間違えるなんてな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Can't believe I mistook her for Ami...</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37336</PointerOffset>
       <VoiceId>&lt;VCT_002_040_002&gt;</VoiceId>
       <JapaneseText>アミィって、おめぇの妹だか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ami, you say. Isn't that your sister?</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37880</PointerOffset>
       <VoiceId>&lt;VCT_002_040_003&gt;</VoiceId>
       <JapaneseText>あ、ああ、そうだよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y-yeah. That's right.</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38252</PointerOffset>
       <VoiceId>&lt;VCT_002_040_004&gt;</VoiceId>
       <JapaneseText>ほぇ〜〜〜、おめぇに妹がなぁ〜〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heh... A little sister and his big brother...</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39116</PointerOffset>
       <VoiceId>&lt;VCT_002_040_005&gt;</VoiceId>
       <JapaneseText>な、なんだよ！　人の顔ジロジロ見て</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wh-what's wrong with you!? Do I have something in my face?</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39612</PointerOffset>
       <VoiceId>&lt;VCT_002_040_006&gt;</VoiceId>
       <JapaneseText>おめぇみてーなキツネ目の妹っつーことは、
 そのアミィっての、名前に合った顔なんだなや</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can see it in those puppy eyes each time you talk about your sister. If someone says as much as "Ami" you already get all giddy.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40504</PointerOffset>
       <VoiceId>&lt;VCT_002_040_007&gt;</VoiceId>
       <JapaneseText>なんだよ、それ。
 アミィが俺に似てるって言いたいのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you going on about? You're just on my case because she resembles Ami?</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40884</PointerOffset>
       <VoiceId>&lt;VCT_002_040_008&gt;</VoiceId>
       <JapaneseText>みなまで言わんでええだ、ええだ。
 おめぇの顔見てれば、ぜぇ〜んぶわかるだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>On your case is correct, very correct. Watching your face it's as clear as day.</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42024</PointerOffset>
       <VoiceId>&lt;VCT_002_040_009&gt;</VoiceId>
       <JapaneseText>おめぇはかわいい妹が欲しかったんだ。
 だから、さっき&lt;MEL&gt;&lt;MEL&gt;をわざと間違えたんだど？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You want a girl to act as a cute "little sister" for you. Isn't that why you "confused" &lt;MEL&gt;-&lt;MEL&gt; with Ami before?</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43288</PointerOffset>
       <VoiceId>&lt;VCT_002_040_010&gt;</VoiceId>
       <JapaneseText>バカ言ってんじゃねぇっての</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cut the crap already.</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43884</PointerOffset>
       <VoiceId>&lt;VCT_002_040_011&gt;</VoiceId>
       <JapaneseText>あひゃえ！　当たっただ！　図星だ！！
 こいつ、&lt;MEL&gt;&lt;MEL&gt;を狙ってる変態だーよ！！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahahaha! Bingo! We've got a winner! You're just a huge pervert after &lt;MEL&gt;-&lt;MEL&gt;!</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45560</PointerOffset>
       <VoiceId>&lt;VCT_002_040_012&gt;</VoiceId>
       <JapaneseText>あのなぁ……そりゃ、おまえだろ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That coward...Blaming me for what HE is.</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

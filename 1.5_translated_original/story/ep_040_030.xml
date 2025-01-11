@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -384,7 +384,7 @@ Burning Sand. </EnglishText>
       <VoiceId>VSM_040_030_031Z</VoiceId>
       <JapaneseText>さて、僕はあいつの顔でも
 見てくるよ。じゃあね</JapaneseText>
-      <EnglishText>Now then, I'll go take a look at &lt;KLA&gt; myself. See you! </EnglishText>
+      <EnglishText>Now then, I'll go take a look at &lt;Clauss&gt; myself. See you! </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>

@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>38132,38900,43344,45180</PointerOffset>
-      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <JapaneseText>&lt;Rondolinet&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -33,138 +33,116 @@
       <VoiceId>&lt;VCT_002_063_002&gt;</VoiceId>
       <JapaneseText>やっぱり、朝は一杯の牛乳さんがいないと
 始まんないと思うんだよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah! There's no better way to start a day than with a big cup of milk!</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38560</PointerOffset>
       <VoiceId>&lt;VCT_002_063_003&gt;</VoiceId>
       <JapaneseText>……オヤジくせー……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Ah this reeks of old hag...</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38900</PointerOffset>
       <VoiceId>&lt;VCT_002_063_004&gt;</VoiceId>
       <JapaneseText>そう？　どこが？
 ここ？　ここかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reaaally? Where's that old hag hiding? Here? Maybe here?</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40612</PointerOffset>
       <VoiceId>&lt;VCT_002_063_005&gt;</VoiceId>
       <JapaneseText>ちょっ……
 ちか、近い近い……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>D-don't get close...!</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41348</PointerOffset>
       <VoiceId>&lt;VCT_002_063_006&gt;</VoiceId>
       <JapaneseText>&lt;DIO&gt;、顔が赤いよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;DIO&gt; your face is all red.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42092</PointerOffset>
       <VoiceId>&lt;VCT_002_063_007&gt;</VoiceId>
       <JapaneseText>こ、これは……暑いんだっつーの！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-It's just the weather is hot, that's all!</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42972</PointerOffset>
       <VoiceId>&lt;VCT_002_063_008&gt;</VoiceId>
       <JapaneseText>&lt;DIO&gt;で楽しむの禁止です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seems like you're just having too much fun to me!</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43344</PointerOffset>
       <VoiceId>&lt;VCT_002_063_009&gt;</VoiceId>
       <JapaneseText>そう？　んじゃあ、
 &lt;MEL&gt;ちゃんで楽しんじゃお</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, reaaally? Then I guess &lt;MEL&gt; wants all the fun for her~!</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44200</PointerOffset>
       <VoiceId>&lt;VCT_002_063_010&gt;</VoiceId>
       <JapaneseText>あ、ちょっと……何するんですか、
-&lt;RND_P&gt;さん、あっ、そんなとこ……</JapaneseText>
-      <EnglishText/>
+&lt;Rody&gt;さん、あっ、そんなとこ……</JapaneseText>
+      <EnglishText>W-what are you doing Miss &lt;Rody&gt;!? W-wah! Not there...!</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45180</PointerOffset>
       <VoiceId>&lt;VCT_002_063_011&gt;</VoiceId>
       <JapaneseText>ん〜、&lt;MEL&gt;ちゃんも毎朝、牛乳さん飲んだ方が
 ペッタンコ治るよ、たぶん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mmm. &lt;MEL&gt; you also need to drink milk everyday if you don't want to be an ironing board!</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46292</PointerOffset>
       <VoiceId>&lt;VCT_002_063_012&gt;</VoiceId>
       <JapaneseText>……ま、まだ成長期なんです〜っ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-I still haven't hit my growth spurt--!!</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

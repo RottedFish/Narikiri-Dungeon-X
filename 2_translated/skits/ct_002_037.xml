@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset>39004,40304,45892</PointerOffset>
-      <JapaneseText>&lt;CST&gt;</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -39,153 +39,129 @@
     <Entry>
       <PointerOffset>37432</PointerOffset>
       <VoiceId>&lt;VCT_002_037_001&gt;</VoiceId>
-      <JapaneseText>&lt;CST&gt;って、
+      <JapaneseText>&lt;Chester&gt;って、
 あんなに気さくな人なんだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>After all &lt;Chester&gt; really does seem like a nice guy!</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37648</PointerOffset>
       <VoiceId>&lt;VCT_002_037_002&gt;</VoiceId>
       <JapaneseText>どうして？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where did that come from?</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37888</PointerOffset>
       <VoiceId>&lt;VCT_002_037_003&gt;</VoiceId>
       <JapaneseText>目つきが悪くてすごく性格ねじ曲がってて意地悪で、
 文句ばっか言ってる人で……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've heard he had an evil glare, a mean personality and he'd say the stupidest things...</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39004</PointerOffset>
       <VoiceId>&lt;VCT_002_037_004&gt;</VoiceId>
       <JapaneseText>おいおい、誰のことだよ、それ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, wait a sec! Who said that about me?</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39348</PointerOffset>
       <VoiceId>&lt;VCT_002_037_005&gt;</VoiceId>
-      <JapaneseText>&lt;CST&gt;だよ……って、
+      <JapaneseText>&lt;Chester&gt;だよ……って、
 おわっ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's &lt;Chester&gt;...Oh shoot!</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40304</PointerOffset>
       <VoiceId>&lt;VCT_002_037_006&gt;</VoiceId>
       <JapaneseText>ヒドいな、誰だよ、んなこと言ってんの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How degrading...who's saying that crap about me?</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40880</PointerOffset>
       <VoiceId>&lt;VCT_002_037_007&gt;</VoiceId>
       <JapaneseText>え？　読んだ本に書いてたぜ。
 ……おい、出て来いタンス野郎！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who? I dunno, pretty sure I read it in a book. Yo, piece of wood! Stop hiding and come out!</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41924</PointerOffset>
       <VoiceId>&lt;VCT_002_037_008&gt;</VoiceId>
       <JapaneseText>ぬわー！　誰に向かってタンスとか言ってんだ！
 いい加減、どつきまわして、ひぃひぃ言わ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Argh! Again with the badgering! I had enough of your irresponsible and hurtful insults I'll lecture you—</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43272</PointerOffset>
       <VoiceId>&lt;VCT_002_037_009&gt;</VoiceId>
       <JapaneseText>このへんにあの本しまったよな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mmm, that's not the volume I'm looking for...</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43828</PointerOffset>
       <VoiceId>&lt;VCT_002_037_010&gt;</VoiceId>
       <JapaneseText>ぬひゃ……。こ、こら、おめぇ……、何すっだ！　ぐ。
 お、おらの……、ひゃは……体ん中、まさぐるでね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah! Stop—hahahahahaha! S-stop it! My insides are being e-explored!</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45076</PointerOffset>
       <VoiceId>&lt;VCT_002_037_011&gt;</VoiceId>
       <JapaneseText>あったあった、この本……
 えっと……作者はＡ・クライン……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Here's the book! And the author is... "A. Klein."..</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45892</PointerOffset>
       <VoiceId>&lt;VCT_002_037_012&gt;</VoiceId>
-      <JapaneseText>……&lt;ARC&gt;じゃねぇか！　あのヤローっ！</JapaneseText>
-      <EnglishText/>
+      <JapaneseText>……&lt;Arche&gt;じゃねぇか！　あのヤローっ！</JapaneseText>
+      <EnglishText>...It's that goddamn &lt;Arche&gt;!! That brat!</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

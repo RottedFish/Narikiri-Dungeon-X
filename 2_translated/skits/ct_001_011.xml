@@ -33,197 +33,165 @@
       <VoiceId>&lt;VCT_001_011_001&gt;</VoiceId>
       <JapaneseText>&lt;DIO&gt;、初対面の人には
 ちゃんと挨拶しなきゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;DIO&gt;, you should always greet people when you first meet them.</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37516</PointerOffset>
       <VoiceId>&lt;VCT_001_011_002&gt;</VoiceId>
       <JapaneseText>え？　してるだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? I know that, already.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37812</PointerOffset>
       <VoiceId>&lt;VCT_001_011_003&gt;</VoiceId>
       <JapaneseText>してないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, you don't!</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37924</PointerOffset>
       <VoiceId>&lt;VCT_001_011_004&gt;</VoiceId>
-      <JapaneseText>&lt;KLA&gt;さんとこでもさ……</JapaneseText>
-      <EnglishText/>
+      <JapaneseText>&lt;Clauss&gt;さんとこでもさ……</JapaneseText>
+      <EnglishText>At &lt;Clauss&gt;'s place I, um...</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38036</PointerOffset>
       <VoiceId>&lt;VCT_001_011_005&gt;</VoiceId>
-      <JapaneseText>ずっと&lt;MEL&gt;が&lt;KLA&gt;さんと
+      <JapaneseText>ずっと&lt;MEL&gt;が&lt;Clauss&gt;さんと
 話してたよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;MEL&gt; was the one who did all the talking.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38336</PointerOffset>
       <VoiceId>&lt;VCT_001_011_006&gt;</VoiceId>
-      <JapaneseText>さっき、&lt;KLA&gt;さんちの前で会った人にも
+      <JapaneseText>さっき、&lt;Clauss&gt;さんちの前で会った人にも
 『あんた誰』とか言ってたし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And then when we were outside Mister &lt;Clauss&gt;'s house we met someone. You really greeted him politely saying "And just who do you think you are?" don't you think?</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38948</PointerOffset>
       <VoiceId>&lt;VCT_001_011_007&gt;</VoiceId>
       <JapaneseText>あ、あれは
 怪しいヤツだったから……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-well, he looked kinda suspicious so...</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39196</PointerOffset>
       <VoiceId>&lt;VCT_001_011_008&gt;</VoiceId>
       <JapaneseText>話をしないうちから、
 怪しいとか決めつけないの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Didn't we agree you shouldn't try talking to suspicious people?</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39572</PointerOffset>
       <VoiceId>&lt;VCT_001_011_009&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39880</PointerOffset>
       <VoiceId>&lt;VCT_001_011_010&gt;</VoiceId>
       <JapaneseText>なんで黙ってるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why are you so silent?</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40112</PointerOffset>
       <VoiceId>&lt;VCT_001_011_011&gt;</VoiceId>
       <JapaneseText>なんでもねーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nothing you should care about.</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40612</PointerOffset>
       <VoiceId>&lt;VCT_001_011_012&gt;</VoiceId>
       <JapaneseText>ヘンなの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What a weird kid!</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41056</PointerOffset>
       <VoiceId>&lt;VCT_001_011_013&gt;</VoiceId>
       <JapaneseText>お年頃だね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It looks he already hit puberty.</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41224</PointerOffset>
       <VoiceId>&lt;VCT_001_011_014&gt;</VoiceId>
       <JapaneseText>…………？　そうなの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh? Really? I don't see it.</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <StructId>14</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41484</PointerOffset>
       <VoiceId>&lt;VCT_001_011_015&gt;</VoiceId>
       <JapaneseText>そういうお年頃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's what puberty is like.</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <StructId>15</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41784</PointerOffset>
       <VoiceId>&lt;VCT_001_011_016&gt;</VoiceId>
       <JapaneseText>ふーん……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mmm...?</EnglishText>
       <Notes/>
       <Id>16</Id>
-      <StructId>16</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

@@ -28,10 +28,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -49,24 +49,24 @@
       <VoiceId>VSM_110_060_001</VoiceId>
       <JapaneseText>ここって……
 &lt;Cless&gt;さんの道場だよね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Here? Isn't this Mister &lt;Cless&gt;' Dojo? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>258880</PointerOffset>
       <VoiceId>VSM_110_060_002</VoiceId>
       <JapaneseText>じゃ……あんたが……
 &lt;Cless&gt;さん！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then... YOU're Mister &lt;Cless&gt;!? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259076</PointerOffset>
@@ -85,23 +85,24 @@
       <VoiceId>VSM_110_060_004</VoiceId>
       <JapaneseText>オレは&lt;Chester&gt;・バークライト。
 &lt;Cless&gt;の幼馴染だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My name's &lt;Chester&gt; Barklight, I'm one of &lt;Cless&gt;' childhood 
+friends. </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259216</PointerOffset>
       <VoiceId>VSM_110_060_005</VoiceId>
       <JapaneseText>&lt;Chester&gt;……って……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;... You...don't say...! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259216</PointerOffset>

@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -28,10 +28,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -60,10 +60,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -236,12 +236,13 @@ the citizens at any cost! </EnglishText>
       <JapaneseText>&lt;Cless&gt;さん……わたしたちは
 &lt;Red&gt;スルト深林&lt;White&gt;へ行った方が
 いいのではないでしょうか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;...Don't you think we should go to the Deep Forest 
+Surt? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262208</PointerOffset>
@@ -414,12 +415,12 @@ this...I WON'T leave them alone! </EnglishText>
       <VoiceId>VSM_140_050_046</VoiceId>
       <JapaneseText>行こうぜ……！
 &lt;Cless&gt;さんたちの後を追おう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go...! Let's follow Mister &lt;Cless&gt; and Miss &lt;Mint&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266156</PointerOffset>

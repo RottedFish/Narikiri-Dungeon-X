@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -100,12 +100,12 @@ Atomism Cores back. That's a good lead. </EnglishText>
       <VoiceId>VSM_170_020_005</VoiceId>
       <JapaneseText>エトと&lt;Couleur&gt;とで、
 &lt;Red&gt;モーリア坑道&lt;White&gt;か……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I think you two should go to Morlia Mineshaft without me... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260428</PointerOffset>

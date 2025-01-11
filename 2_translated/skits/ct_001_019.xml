@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>38064,38928,41304,42668</PointerOffset>
-      <JapaneseText>&lt;KLA&gt;</JapaneseText>
+      <JapaneseText>&lt;Clauss&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -32,165 +32,139 @@
       <PointerOffset>37684</PointerOffset>
       <VoiceId>&lt;VCT_001_019_001&gt;</VoiceId>
       <JapaneseText>ミラルドさんは
-&lt;KLA&gt;さんの奥さんなんですか？</JapaneseText>
-      <EnglishText/>
+&lt;Clauss&gt;さんの奥さんなんですか？</JapaneseText>
+      <EnglishText>Hey &lt;Clauss&gt;, is Milard by any chance your wife?</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38064</PointerOffset>
       <VoiceId>&lt;VCT_001_019_002&gt;</VoiceId>
       <JapaneseText>あいつは単なる助手だ、
 そういうのとは違う</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Not at all, she's just my assistant.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38460</PointerOffset>
       <VoiceId>&lt;VCT_001_019_003&gt;</VoiceId>
       <JapaneseText>……え？　でも恋人同士みたいな
 話だったし……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Uh? You really looked like lovers when you were talking back then...</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38928</PointerOffset>
       <VoiceId>&lt;VCT_001_019_004&gt;</VoiceId>
       <JapaneseText>違う。断じて違う</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You are mistaken! You couldn't have been more wrong.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39880</PointerOffset>
       <VoiceId>&lt;VCT_001_019_005&gt;</VoiceId>
       <JapaneseText>……どうしてそんな
 むきになるんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why did you suddenly get so serious?</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40656</PointerOffset>
       <VoiceId>&lt;VCT_001_019_006&gt;</VoiceId>
       <JapaneseText>&lt;MEL&gt;、興味本位で
 そういうこと聞かないの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;MEL&gt;! You shouldn't meddle in other's business like that!</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41304</PointerOffset>
       <VoiceId>&lt;VCT_001_019_007&gt;</VoiceId>
       <JapaneseText>そうだ。君にはまだ
 こういう話は早い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Exactly! This is such a scandalous subject to talk about!</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41832</PointerOffset>
       <VoiceId>&lt;VCT_001_019_008&gt;</VoiceId>
       <JapaneseText>早くはないと、思いますけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't think it's that bad...</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42000</PointerOffset>
       <VoiceId>&lt;VCT_001_019_009&gt;</VoiceId>
       <JapaneseText>あ……ってことはやっぱり、
 おふたりは恋人同士なんですね</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>I get it! You DO are a couple!</EnglishText>
+      <Notes>needs TL check</Notes>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>42668</PointerOffset>
       <VoiceId>&lt;VCT_001_019_010&gt;</VoiceId>
       <JapaneseText>どうしてそうなるんだ。
 違うと言ったら、違う</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How do you end up concluding that!? I told you already you're wrong!</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43688</PointerOffset>
       <VoiceId>&lt;VCT_001_019_011&gt;</VoiceId>
       <JapaneseText>じゃあ、どういう関係ですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then why are you hiding yourself?</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44068</PointerOffset>
       <VoiceId>&lt;VCT_001_019_012&gt;</VoiceId>
       <JapaneseText>あ、&lt;MEL&gt;ってば……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;MEL&gt;, you...</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44392</PointerOffset>
       <VoiceId>&lt;VCT_001_019_013&gt;</VoiceId>
       <JapaneseText>もう……女の子なんだかラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're a girl, alright...</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

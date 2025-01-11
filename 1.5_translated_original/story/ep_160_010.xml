@@ -20,18 +20,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -52,18 +52,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -217,12 +217,12 @@
       <JapaneseText>はい。
 ありがとうございます、
 &lt;Cless&gt;さん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, I'm fine. Thanks for the help, Mister &lt;Cless&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295664</PointerOffset>
@@ -250,19 +250,19 @@
       <PointerOffset>296572</PointerOffset>
       <VoiceId>VSM_160_010_017</VoiceId>
       <JapaneseText>&lt;Chester&gt;さん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297516</PointerOffset>
       <VoiceId>VSM_160_010_018</VoiceId>
       <JapaneseText>最後の切り札参上ってな</JapaneseText>
       <EnglishText>When danger approaches, there's only one hope ... Enter, 
-the amazing &lt;CST&gt;! </EnglishText>
+the amazing &lt;Chester&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>16</Id>
@@ -312,12 +312,13 @@ relax for a bit. </EnglishText>
       <JapaneseText>ありがとう、&lt;Chester&gt;。
 あの魔物たちは
 この森の奥から来てるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you &lt;Chester&gt;. The monsters are coming from this very 
+forest. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299364</PointerOffset>
@@ -511,12 +512,12 @@ relax for a bit. </EnglishText>
       <PointerOffset>302836</PointerOffset>
       <VoiceId>VSM_160_010_039</VoiceId>
       <JapaneseText>行こうぜ、&lt;Cless&gt;さん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go, Mister &lt;Cless&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>35</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302836</PointerOffset>

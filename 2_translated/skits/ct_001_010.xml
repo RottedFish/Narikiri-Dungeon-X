@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>38380</PointerOffset>
-      <JapaneseText>&lt;KUL&gt;</JapaneseText>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -48,101 +48,85 @@
       <PointerOffset>38092</PointerOffset>
       <VoiceId>&lt;VCT_001_010_001&gt;</VoiceId>
       <JapaneseText>あれが、時空戦士のひとり……だった
-&lt;KLA&gt;博士なんてな……</JapaneseText>
-      <EnglishText/>
+&lt;Clauss&gt;博士なんてな……</JapaneseText>
+      <EnglishText>Look at that... even though the renowned &lt;Clauss&gt; is an Eternal Hero he turned into that...</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38380</PointerOffset>
       <VoiceId>&lt;VCT_001_010_002&gt;</VoiceId>
       <JapaneseText>クルゥ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruuu...</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>14</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38624</PointerOffset>
       <VoiceId>&lt;VCT_001_010_003&gt;</VoiceId>
       <JapaneseText>いんやー、くさかっただなぁ〜。
 ポケットの中にいても、匂ってきただど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>At last I can get out~! The inside of that pocket smells horrible, kinda resembles someone ...</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39748</PointerOffset>
       <VoiceId>&lt;VCT_001_010_004&gt;</VoiceId>
       <JapaneseText>いくらなんでもちょっと飲み過ぎだよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whatever the case, we shouldn't think so much about it.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40148</PointerOffset>
       <VoiceId>&lt;VCT_001_010_005&gt;</VoiceId>
       <JapaneseText>でも、酔ってたからって
 あんな言い方ないと思う……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, still! That's no way to talk to us...</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40496</PointerOffset>
       <VoiceId>&lt;VCT_001_010_006&gt;</VoiceId>
       <JapaneseText>んだんだ。&lt;MEL&gt;&lt;MEL&gt;をバカにするなんて許せねーだよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's ok &lt;MEL&gt;-&lt;MEL&gt;! I'll never forgive that stupid old man for anything he said!</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41272</PointerOffset>
       <VoiceId>&lt;VCT_001_010_007&gt;</VoiceId>
       <JapaneseText>体中の穴という穴から酒が染み出てきて、
 あんだけくせーんだよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I had come out, I'd have stained all his body's holes! That's how far I'd go for you!</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42340</PointerOffset>
       <VoiceId>&lt;VCT_001_010_008&gt;</VoiceId>
       <JapaneseText>体中の穴という穴……！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All...his body's holes...!?</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

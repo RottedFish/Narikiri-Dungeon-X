@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -94,12 +94,13 @@
       <JapaneseText>&lt;Chester&gt;って妹いたんじゃ
 なかったかな。たしか、ダオス戦役で
 死んだって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She was &lt;Chester&gt;'s little sister. But during the war with 
+Dhaos she died... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279124</PointerOffset>

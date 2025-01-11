@@ -28,10 +28,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -228,12 +228,13 @@ shout. </EnglishText>
       <VoiceId>VSM_110_070_015</VoiceId>
       <JapaneseText>さてと。なんだっけ、&lt;Cless&gt;と
 &lt;Mint&gt;に会いに来たんだったか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>With that out of the way... Why was it you came here to 
+meet with &lt;Cless&gt; and &lt;Mint&gt;? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266344</PointerOffset>
@@ -278,12 +279,12 @@ Morlia Mineshaft. </EnglishText>
       <VoiceId>VSM_110_070_019</VoiceId>
       <JapaneseText>でも&lt;Chester&gt;さんも
 忙しいんじゃねーの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, isn't Mister &lt;Chester&gt; busy? </EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269520</PointerOffset>
@@ -291,12 +292,12 @@ Morlia Mineshaft. </EnglishText>
       <JapaneseText>……ああ、オレは
 &lt;Cless&gt;や&lt;Mint&gt;とは
 違うんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Nah. I'm not &lt;Cless&gt; or &lt;Mint&gt;, you know. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269520</PointerOffset>
@@ -456,12 +457,12 @@ brush your teeth before going to bed! </EnglishText>
       <VoiceId>VSM_110_070_037</VoiceId>
       <JapaneseText>い、いいんですか、
 &lt;Chester&gt;さん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A-are you sure about this, Mister &lt;Chester&gt;? </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275228</PointerOffset>
@@ -515,12 +516,12 @@ here. </EnglishText>
       <VoiceId>VSM_110_070_042</VoiceId>
       <JapaneseText>わかった！　よろしくな、
 &lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right, then! Nice to have you around, &lt;Chester&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

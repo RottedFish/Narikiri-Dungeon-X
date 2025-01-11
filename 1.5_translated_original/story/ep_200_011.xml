@@ -12,10 +12,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -139,12 +139,13 @@ enemy. </EnglishText>
       <JapaneseText>&lt;Suzu&gt;ちゃん、
 かっこおもしろいよ！
 さすが時空戦士だな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt; you're so rad! No wonder you're of the Eternal 
+Heroes! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262232</PointerOffset>
@@ -238,12 +239,12 @@ harder. </EnglishText>
       <VoiceId>VSM_200_010_031</VoiceId>
       <JapaneseText>どうしたんですか、
 &lt;Rody&gt;さん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you doing, Miss Rody? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265788</PointerOffset>

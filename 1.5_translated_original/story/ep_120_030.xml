@@ -52,10 +52,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -196,12 +196,12 @@
       <VoiceId>VSM_120_030_014</VoiceId>
       <JapaneseText>やっぱりな。
 &lt;Cless&gt;に聞いてたんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Knew it, I've heard from &lt;Cless&gt; about you. </EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282520</PointerOffset>
@@ -220,12 +220,12 @@
       <VoiceId>VSM_120_030_016</VoiceId>
       <JapaneseText>&lt;Cless&gt;なんてそんなやつ
 知らないもんね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't know any dumb pricks named &lt;Cless&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283016</PointerOffset>

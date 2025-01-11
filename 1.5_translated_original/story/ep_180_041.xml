@@ -44,26 +44,26 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -237,12 +237,13 @@ CLEARED. ENGAGING MAIN PROCESS. </EnglishText>
       <JapaneseText>いろいろ、サンキューな、
 &lt;Cless&gt;さん、&lt;Mint&gt;さん、
 &lt;Chester&gt;！　&lt;Rody&gt;も</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thanks a lot everyone! Thank you Mister &lt;Cless&gt;, Miss &lt;Mint&gt;, 
+&lt;Chester&gt;! And you too Rody! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284492</PointerOffset>
@@ -294,12 +295,12 @@ CLEARED. ENGAGING MAIN PROCESS. </EnglishText>
       <PointerOffset>287116</PointerOffset>
       <VoiceId>VSM_180_040_035</VoiceId>
       <JapaneseText>&lt;Rody&gt;！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rody! </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287256</PointerOffset>
@@ -388,12 +389,12 @@ ride. I can't sit around and wait till it works again. </EnglishText>
       <PointerOffset>288820</PointerOffset>
       <VoiceId>VSM_180_040_045</VoiceId>
       <JapaneseText>&lt;Rody&gt;！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rody!! </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>291860</PointerOffset>
@@ -436,12 +437,12 @@ right? </EnglishText>
       <VoiceId>VSM_180_040_049</VoiceId>
       <JapaneseText>&lt;Rody&gt;さん、
 どうして……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Miss Rody... Why did you do that? </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293664</PointerOffset>

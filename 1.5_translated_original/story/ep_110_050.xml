@@ -49,12 +49,12 @@
       <VoiceId>VSM_110_050_000</VoiceId>
       <JapaneseText>&lt;Cless&gt;さんが帰ってくるまで
 待ってみるか……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Should we wait till &lt;Cless&gt; returns...? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>258448</PointerOffset>
@@ -321,12 +321,12 @@ Heroes? </EnglishText>
       <VoiceId>VSM_110_050_023</VoiceId>
       <JapaneseText>オレら、&lt;Cless&gt;さんに
 会いに来たんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I came here to meet &lt;Cless&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265904</PointerOffset>
@@ -334,12 +334,13 @@ Heroes? </EnglishText>
       <JapaneseText>&lt;Cless&gt;に？　そうか、悪いな。
 あいつ、今、
 &lt;Red&gt;ヴァルハラ&lt;White&gt;に行ってて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To meet &lt;Cless&gt;? Oh that's right. Too bad. That guy's doing 
+some work in Valhalla... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266100</PointerOffset>
@@ -393,23 +394,23 @@ couldn't meet with him... </EnglishText>
       <VoiceId>VSM_110_050_029</VoiceId>
       <JapaneseText>……&lt;Mint&gt;さんにも
 会えないし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We can't meet with &lt;Mint&gt;, either. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>267100</PointerOffset>
       <VoiceId>VSM_110_050_030</VoiceId>
       <JapaneseText>ああ、&lt;Mint&gt;も忙しいしなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aah, well I guess &lt;Mint&gt; is a pretty busy girl too. </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>267100</PointerOffset>

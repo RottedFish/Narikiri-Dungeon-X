@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -60,12 +60,13 @@
       <VoiceId>VSM_210_010_002</VoiceId>
       <JapaneseText>この人たち、
 &lt;Suzu&gt;ちゃんの村にいた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aren't these the scouts that were in the village a while 
+ago...!? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262788</PointerOffset>

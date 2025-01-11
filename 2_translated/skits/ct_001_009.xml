@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37664,38852,41708</PointerOffset>
-      <JapaneseText>&lt;ARC&gt;</JapaneseText>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -40,149 +40,125 @@
       <PointerOffset>37340</PointerOffset>
       <VoiceId>&lt;VCT_001_009_001&gt;</VoiceId>
       <JapaneseText>さっき、もらった絵って、
-&lt;ARC&gt;さんが描いたんですか？</JapaneseText>
-      <EnglishText/>
+&lt;Arche&gt;さんが描いたんですか？</JapaneseText>
+      <EnglishText>That painting you just gave us... did you draw it, Miss &lt;Arche&gt;?</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37664</PointerOffset>
       <VoiceId>&lt;VCT_001_009_002&gt;</VoiceId>
       <JapaneseText>うん、そーだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yup, that's right.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>15</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37964</PointerOffset>
       <VoiceId>&lt;VCT_001_009_003&gt;</VoiceId>
       <JapaneseText>え！？　あのヘンテコヘタクソな絵、
-&lt;ARC&gt;さんが……！？</JapaneseText>
-      <EnglishText/>
+&lt;Arche&gt;さんが……！？</JapaneseText>
+      <EnglishText>Eh!? This disgusting excuse of a sketch was drawn by Miss &lt;Arche&gt;...!?</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38528</PointerOffset>
       <VoiceId>&lt;VCT_001_009_004&gt;</VoiceId>
       <JapaneseText>&lt;DIO&gt;！　そんなにはっきり言っちゃ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;DIO&gt;! You shouldn't say things like that bluntly...</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38852</PointerOffset>
       <VoiceId>&lt;VCT_001_009_005&gt;</VoiceId>
       <JapaneseText>ちっちっち、この絵のよさがわからないなんて
 お子様だね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, no, no. He can't see the merit in this painting as he's simply a snort.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>15</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39788</PointerOffset>
       <VoiceId>&lt;VCT_001_009_006&gt;</VoiceId>
       <JapaneseText>子どもだもんな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I'm just a snort...</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40060</PointerOffset>
       <VoiceId>&lt;VCT_001_009_007&gt;</VoiceId>
       <JapaneseText>わたしはわかるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I think I do understand it, though!</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40468</PointerOffset>
       <VoiceId>&lt;VCT_001_009_008&gt;</VoiceId>
       <JapaneseText>なっ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, no...</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40804</PointerOffset>
       <VoiceId>&lt;VCT_001_009_009&gt;</VoiceId>
       <JapaneseText>絵からほとばしる生命力や情熱を
 いっぱい受け取って、背中がゾクゾクしました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This painting is filled with life and passion, it captures an amazing feeling and makes my bodytingle with excitement!</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41708</PointerOffset>
       <VoiceId>&lt;VCT_001_009_010&gt;</VoiceId>
       <JapaneseText>&lt;MEL&gt;ちゃん、大人♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;MEL&gt;'s such a grown-up!</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>15</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42348</PointerOffset>
       <VoiceId>&lt;VCT_001_009_011&gt;</VoiceId>
       <JapaneseText>……よくわかんねや</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I don't really get it.</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42584</PointerOffset>
       <VoiceId>&lt;VCT_001_009_012&gt;</VoiceId>
       <JapaneseText>……ぼくもわからない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I don't understand either...</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

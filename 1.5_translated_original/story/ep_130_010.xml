@@ -12,18 +12,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -60,10 +60,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -92,12 +92,12 @@
       <PointerOffset>260424</PointerOffset>
       <VoiceId>VSM_130_010_002</VoiceId>
       <JapaneseText>&lt;Cless&gt;！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261680</PointerOffset>
@@ -144,12 +144,12 @@ unforgivable... </EnglishText>
       <JapaneseText>グリッド……？
 &lt;Chester&gt;んちにいる
 子どもか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grid...? You mean the kid that is over your house? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262896</PointerOffset>
@@ -243,12 +243,12 @@ for assault. </EnglishText>
       <VoiceId>VSM_130_010_014</VoiceId>
       <JapaneseText>大体、&lt;Mint&gt;とも
 ろくに会ってないんだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hell, have you met with &lt;Mint&gt; yet? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266004</PointerOffset>
@@ -267,12 +267,12 @@ for assault. </EnglishText>
       <VoiceId>VSM_130_010_020</VoiceId>
       <JapaneseText>すみません！　&lt;Cless&gt;さん、
 ちょっといいですか！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Excuse me! Mister &lt;Cless&gt;, could you spare me a second? </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>267108</PointerOffset>
@@ -335,12 +335,12 @@ for assault. </EnglishText>
       <VoiceId>VSM_130_010_026</VoiceId>
       <JapaneseText>&lt;Cless&gt;さんと&lt;Mint&gt;さんって
 ……恋人なのかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mister &lt;Cless&gt; and Miss &lt;Mint&gt; are...lovers aren't they? </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269964</PointerOffset>
@@ -387,12 +387,12 @@ either! </EnglishText>
       <JapaneseText>ね、わたしたちで
 &lt;Cless&gt;さんたちを
 会わせてあげらんないかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, why don't we make those two see each other? </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271644</PointerOffset>
@@ -449,12 +449,13 @@ meant to help people in need like this? </EnglishText>
       <VoiceId>VSM_130_010_042</VoiceId>
       <JapaneseText>ね、とにかく&lt;Mint&gt;さんに
 会いに行ってみない？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, why don't we meet with &lt;Mint&gt; first? We can go from 
+there. </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272724</PointerOffset>

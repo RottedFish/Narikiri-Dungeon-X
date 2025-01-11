@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37208,38264,43132</PointerOffset>
-      <JapaneseText>&lt;MIN&gt;</JapaneseText>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37440,37704,38564,39224,41396,42140</PointerOffset>
-      <JapaneseText>&lt;CST&gt;</JapaneseText>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37552,38844,40840,42832</PointerOffset>
-      <JapaneseText>&lt;CLE&gt;</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -32,164 +32,138 @@
       <PointerOffset>37208</PointerOffset>
       <VoiceId>&lt;VCT_002_055_001&gt;</VoiceId>
       <JapaneseText>アルテミスさんを見てたらなぜか、
-&lt;ARC&gt;さんを思い出します……</JapaneseText>
-      <EnglishText/>
+&lt;Arche&gt;さんを思い出します……</JapaneseText>
+      <EnglishText>Meeting with Artemis really brought back some memories from our old adventure with &lt;Arche&gt;.</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37440</PointerOffset>
       <VoiceId>&lt;VCT_002_055_002&gt;</VoiceId>
       <JapaneseText>似てるからじゃないか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He really does resemble her, all right.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37552</PointerOffset>
       <VoiceId>&lt;VCT_002_055_003&gt;</VoiceId>
       <JapaneseText>似てるかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He resembles her? In what ways?</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37704</PointerOffset>
       <VoiceId>&lt;VCT_002_055_004&gt;</VoiceId>
       <JapaneseText>寂しがりやのくせに、強がりな感じとかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Acting all tough and hiding the bad stuff under the rug.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38264</PointerOffset>
       <VoiceId>&lt;VCT_002_055_005&gt;</VoiceId>
       <JapaneseText>それでしょうか。でも、それ以上に
 強く印象づいてることがあるんです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's very true. But I meant the fact we met him once in the past with &lt;Arche&gt;.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38564</PointerOffset>
       <VoiceId>&lt;VCT_002_055_006&gt;</VoiceId>
       <JapaneseText>ダオス戦役中であいつに会った時に
 何があったんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You mean back in Dhaos' war? What happened? I wasn't with you guys yet.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38844</PointerOffset>
       <VoiceId>&lt;VCT_002_055_007&gt;</VoiceId>
       <JapaneseText>えっと……彼にルナと会うのを邪魔されて、
-でも、&lt;ARC&gt;と僕がキスしたら……</JapaneseText>
-      <EnglishText/>
+でも、&lt;Arche&gt;と僕がキスしたら……</JapaneseText>
+      <EnglishText>Well, he stole something important from us and wouldn't let us meet with Luna...so he forced &lt;Arche&gt; and I to kiss—</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39224</PointerOffset>
       <VoiceId>&lt;VCT_002_055_008&gt;</VoiceId>
       <JapaneseText>だ、誰が誰とキスだって！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>WHO KISSED WHO!?</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40840</PointerOffset>
       <VoiceId>&lt;VCT_002_055_009&gt;</VoiceId>
-      <JapaneseText>だ、黙っててゴメン、&lt;CST&gt;。
+      <JapaneseText>だ、黙っててゴメン、&lt;Chester&gt;。
 でも、何もしてないんだって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>P-please let me finish, &lt;Chester&gt;! Nothing happened! I swear!</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41396</PointerOffset>
       <VoiceId>&lt;VCT_002_055_010&gt;</VoiceId>
       <JapaneseText>あ、そ、そっか……って……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah...O-of course! N-no problem...</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42140</PointerOffset>
       <VoiceId>&lt;VCT_002_055_011&gt;</VoiceId>
       <JapaneseText>いや、別にあいつが誰と
 キスしようと関係ねぇけどさ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-it's not like I care who she goes kissing or anything...</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>16</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42832</PointerOffset>
       <VoiceId>&lt;VCT_002_055_012&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <StructId>12</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43132</PointerOffset>
       <VoiceId>&lt;VCT_002_055_013&gt;</VoiceId>
       <JapaneseText>……あの時の印象が強いから、
-思い出すんですね、&lt;ARC&gt;さんを……</JapaneseText>
-      <EnglishText/>
+思い出すんですね、&lt;Arche&gt;さんを……</JapaneseText>
+      <EnglishText>We all pulled together. I feel rather nostalgic just talking about &lt;Arche&gt;.</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <StructId>13</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>17</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

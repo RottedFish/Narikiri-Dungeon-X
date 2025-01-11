@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -93,12 +93,13 @@ you two do. </EnglishText>
       <JapaneseText>&lt;Suzu&gt;ちゃんは、
 一族の頭領やってるのが
 いやなの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;, is it that you don't like being the chief of your 
+village? </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259620</PointerOffset>

@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <PointerOffset>37896,38216,39920,40720</PointerOffset>
-      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <JapaneseText>&lt;Rondolinet&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset>38048,42476</PointerOffset>
-      <JapaneseText>&lt;KLA&gt;</JapaneseText>
+      <JapaneseText>&lt;Clauss&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -48,137 +48,115 @@
       <PointerOffset>37368</PointerOffset>
       <VoiceId>&lt;VCT_001_025_001&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*sigh*</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>0</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37896</PointerOffset>
       <VoiceId>&lt;VCT_001_025_003&gt;</VoiceId>
       <JapaneseText>ふたりとも気もそぞろ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Those two are really nervous...</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38048</PointerOffset>
       <VoiceId>&lt;VCT_001_025_004&gt;</VoiceId>
       <JapaneseText>まぁ、しょうがないだろうな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, there's nothing we can do.</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38216</PointerOffset>
       <VoiceId>&lt;VCT_001_025_005&gt;</VoiceId>
       <JapaneseText>……よし、作戦会議だよ、
 双子ちゃん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Ok! Twins! It's time for a strategy meeting!</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39688</PointerOffset>
       <VoiceId>&lt;VCT_001_025_006&gt;</VoiceId>
       <JapaneseText>作戦、会議……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Strategy...meeting?</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39920</PointerOffset>
       <VoiceId>&lt;VCT_001_025_007&gt;</VoiceId>
       <JapaneseText>エトちゃんを取り戻す作戦だよ。
 名付けて奪還エックス！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We need a strategy to get Miss Eto back. Its name...Operation Rescue X!</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40608</PointerOffset>
       <VoiceId>&lt;VCT_001_025_008&gt;</VoiceId>
       <JapaneseText>なんでエックスなんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What does the X mean?</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40720</PointerOffset>
       <VoiceId>&lt;VCT_001_025_009&gt;</VoiceId>
       <JapaneseText>カッコいいかなと思って</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So we know it's cool!</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40916</PointerOffset>
       <VoiceId>&lt;VCT_001_025_010&gt;</VoiceId>
       <JapaneseText>エックスよりもウルトラローリングアタックの
 方がカッコイイぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Since you used X, why not Ultra Rolling Attack?</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <StructId>9</StructId>
       <SpeakerId>4</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41604</PointerOffset>
       <VoiceId>&lt;VCT_001_025_011&gt;</VoiceId>
       <JapaneseText>技の名前じゃないんだから……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's not the name of an Arte...</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <StructId>10</StructId>
       <SpeakerId>5</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42476</PointerOffset>
       <VoiceId>&lt;VCT_001_025_012&gt;</VoiceId>
-      <JapaneseText>……あれが&lt;RND_P&gt;なりの
+      <JapaneseText>……あれが&lt;Rody&gt;なりの
 気遣いか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Heh, &lt;Rody&gt; sure is a kind one...</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <StructId>11</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>18</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

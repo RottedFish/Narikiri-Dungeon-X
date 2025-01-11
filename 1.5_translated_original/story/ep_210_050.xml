@@ -12,10 +12,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -73,12 +73,12 @@
       <VoiceId>VSM_210_050_001</VoiceId>
       <JapaneseText>&lt;Suzu&gt;ちゃん……！
 どうしたんだ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, &lt;Suzu&gt;, are you okay!? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260176</PointerOffset>
@@ -131,12 +131,13 @@
       <JapaneseText>またおまえら……！
 どーゆーつもりだ、
 &lt;Suzu&gt;ちゃんにまで！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's you bastards again...! And now even messing with 
+&lt;Suzu&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262068</PointerOffset>
@@ -192,12 +193,12 @@ were behind it. </EnglishText>
       <VoiceId>VSM_210_050_011</VoiceId>
       <JapaneseText>一体、&lt;Suzu&gt;ちゃんに
 何をしたの！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What have you done to &lt;Suzu&gt;!? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263072</PointerOffset>
@@ -276,24 +277,25 @@ was disgraceful on my part. </EnglishText>
       <JapaneseText>それって、
 &lt;Suzu&gt;ちゃんは前と
 何か変わったってことか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So...you've had these doubts for a long time? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268900</PointerOffset>
       <VoiceId>VSM_210_050_021</VoiceId>
       <JapaneseText>ええ……&lt;Cless&gt;さんとの出会いが
 私を変えたのです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Correct... Ever since I met with &lt;Cless&gt; I have had my 
+doubts. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269312</PointerOffset>
@@ -326,12 +328,12 @@ clouded by our feelings. </EnglishText>
       <PointerOffset>269576</PointerOffset>
       <VoiceId>VSM_210_050_024</VoiceId>
       <JapaneseText>&lt;Suzu&gt;ちゃんも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;...You're... </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269840</PointerOffset>

@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37208,38388,39244,39516</PointerOffset>
-      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <JapaneseText>&lt;Rondolinet&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -33,102 +33,86 @@
       <VoiceId>&lt;VCT_003_107_001&gt;</VoiceId>
       <JapaneseText>デリス・カーラーンでの
 戦争の原因って何だったの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why did Derris Kharlan enter war in the first place?</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37664</PointerOffset>
       <VoiceId>&lt;VCT_003_107_002&gt;</VoiceId>
       <JapaneseText>わかんない……
 誰も知らなかったんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't know...I don't think anyone knows exactly why...</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38096</PointerOffset>
       <VoiceId>&lt;VCT_003_107_003&gt;</VoiceId>
       <JapaneseText>ああ……積もりすぎた恨みとか憎しみとか……
 原因はもう誰も覚えてなかった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah... It was a vicious cycle of hatred, resentment and strong beliefs... By the end of it no one remembers why they began fighting...</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38388</PointerOffset>
       <VoiceId>&lt;VCT_003_107_004&gt;</VoiceId>
       <JapaneseText>誰も原因を調べなかったの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No one investigated the cause, though?</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38724</PointerOffset>
       <VoiceId>&lt;VCT_003_107_005&gt;</VoiceId>
       <JapaneseText>オレも親を敵に殺されて、
 戦争の本当のとこなんてどうでもよくなってた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I also entered the army because my parents were killed without knowing the real motive of the war.</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
       <SpeakerId>3</SpeakerId>
-      <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39012</PointerOffset>
       <VoiceId>&lt;VCT_003_107_006&gt;</VoiceId>
       <JapaneseText>わたしも……みんな誰もが
 そうだったんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Me too... Everyone was too fixated to fight to think about it.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39244</PointerOffset>
       <VoiceId>&lt;VCT_003_107_007&gt;</VoiceId>
       <JapaneseText>ダオスみたいな第三者は他人事のようにしか
 捉えられなかった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And people like Dhaos just stood aside as if it was someone else's problem...</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <StructId>7</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39516</PointerOffset>
       <VoiceId>&lt;VCT_003_107_008&gt;</VoiceId>
       <JapaneseText>それで、この結果か……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And that resulted in this...</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <StructId>8</StructId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer>22</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

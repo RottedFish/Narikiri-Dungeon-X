@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -44,42 +44,42 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Arche&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -182,12 +182,12 @@ time...? </EnglishText>
       <VoiceId>VSM_220_020_007</VoiceId>
       <JapaneseText>&lt;Rody&gt;、
 行っちゃうのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rody...Are you leaving? </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284280</PointerOffset>
@@ -228,12 +228,13 @@ time...? </EnglishText>
       <JapaneseText>&lt;Suzu&gt;ちゃんが
 ピンチだって言えば、
 必ず飛んできてくれる人たち</JapaneseText>
-      <EnglishText/>
+      <EnglishText>People who I'm sure will come running here as soon as they 
+hear you're in a pinch! </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285272</PointerOffset>
@@ -274,12 +275,12 @@ time...? </EnglishText>
       <VoiceId>VSM_220_020_015</VoiceId>
       <JapaneseText>&lt;Suzu&gt;ちゃん！
 ピンチなんだって！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do you mean my cute little &lt;Suzu&gt; is in trouble!? </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>290488</PointerOffset>
@@ -329,12 +330,12 @@ time...? </EnglishText>
       <PointerOffset>292076</PointerOffset>
       <VoiceId>VSM_220_020_020</VoiceId>
       <JapaneseText>久しぶりだね、&lt;Suzu&gt;ちゃん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's nice to see you again, &lt;Suzu&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292432</PointerOffset>
@@ -417,12 +418,13 @@ preparation stage. </EnglishText>
       <JapaneseText>本当にありがとうございます。
 &lt;Rody&gt;さんも大切な力を
 私のために……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I am genuinely grateful to all of you... Thank you Rody to 
+use your precious power for my cause... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295684</PointerOffset>
