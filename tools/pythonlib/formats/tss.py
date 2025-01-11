@@ -172,7 +172,6 @@ class Tss():
 
         if struct_node.section in ["Story", "NPC"]:
             etree.SubElement(entry_node, "BubbleId").text = str(bubble.id)
-            etree.SubElement(entry_node, "SubId").text = str(subid)
 
         etree.SubElement(entry_node, "Status").text = "To Do"
         self.id += 1
@@ -215,46 +214,44 @@ class Tss():
         tree = etree.parse(original_path)
         root_original = tree.getroot()
 
-        tree = etree.parse(translated_path)
-        root_translated = tree.getroot()
-        translated_speakers = {int(entry.find('Id').text):entry for entry in root_translated.findall('Speakers/Entry')
-                              if entry.find("Status").text in ['Proofread', 'Edited', 'Done']}
-        translated_entries = {(int(entry.find('PointerOffset').text),
-                               int(entry.find("BubbleId").text)):entry for entry in root_translated.findall('Strings/Entry')
-                            if entry.find("Status").text in ['Proofread', 'Edited', 'Done']}
-        original_entries = {(int(entry.find('PointerOffset').text),
-                               int(entry.find("BubbleId").text)): entry for entry in
-                              root_original.findall('Strings/Entry')}
+        if translated_path.exists():
+            tree = etree.parse(translated_path)
+            root_translated = tree.getroot()
+            translated_speakers = {entry.find('JapaneseText').text:entry for entry in root_translated.findall('Speakers/Entry')
+                                  if entry.find("Status").text in ['Proofreading', 'Editing', 'Problematic', 'Done']}
+            translated_entries = {entry.find('JapaneseText').text:entry for entry in root_translated.findall('Strings/Entry')
+                                if entry.find("Status").text in ['Proofreading', 'Editing', 'Problematic', 'Done']}
+            original_entries = {entry.find('JapaneseText').text: entry for entry in
+                                  root_original.findall('Strings/Entry')}
 
-        #Speakers
-        for speaker_entry in [entry for entry in root_original.findall('SceneText/Speakers/Entry')
-                              if int(entry.find('Id').text) in translated_speakers.keys()]:
+            #Speakers
+            for speaker_entry in [entry for entry in root_original.findall('Speakers/Entry')
+                                  if entry.find('JapaneseText').text in translated_speakers.keys()]:
+                jap = speaker_entry.find('JapaneseText').text
+                speaker_entry.find("EnglishText").text = translated_speakers[jap].find('EnglishText').text
+                speaker_entry.find("Status").text = translated_speakers[jap].find('Status').text
+                notes = translated_speakers[jap].find('Notes')
 
-            speaker_id = int(speaker_entry.find("Id").text)
-            speaker_entry.find("EnglishText").text = translated_speakers[speaker_id].find('EnglishText').text
-            speaker_entry.find("Status").text = translated_speakers[speaker_id].find('Status').text
-            notes = translated_speakers[speaker_id].find('Notes')
-
-            if notes is not None:
-                speaker_entry.find("Notes").text = translated_speakers[speaker_id].find('Notes').text
+                if notes is not None:
+                    speaker_entry.find("Notes").text = translated_speakers[jap].find('Notes').text
 
 
-        #Main entries
-        original_entries_translated = {(pointer_offset, sub_id, bubble_id):node for (pointer_offset, sub_id, bubble_id), node in original_entries.items()
-                                       if (pointer_offset, sub_id, bubble_id) in translated_entries.keys()}
-        for (pointer_offset, sub_id, bubble_id), main_entry in original_entries_translated.items():
-            translated_entry = translated_entries[(pointer_offset, bubble_id)]
+            #Main entries
+            for jap, main_entry in original_entries.items():
 
-            main_entry.find("EnglishText").text = translated_entry.find('EnglishText').text
-            main_entry.find("Status").text = translated_entry.find('Status').text
-            notes = translated_entry.find('Notes').text
+                if jap in translated_entries.keys():
+                    translated_entry = translated_entries[jap]
 
-            if notes is not None:
-                main_entry.find("Notes").text = translated_entries[pointer_offset].find('Notes').text
+                    main_entry.find("EnglishText").text = translated_entry.find('EnglishText').text
+                    main_entry.find("Status").text = translated_entry.find('Status').text
+                    notes = translated_entry.find('Notes').text
 
-        txt = etree.tostring(root_original, encoding="UTF-8", pretty_print=True)
-        with open(translated_path, "wb") as xmlFile:
-            xmlFile.write(txt)
+                    if notes is not None:
+                        main_entry.find("Notes").text = translated_entries[jap].find('Notes').text
+
+            txt = etree.tostring(root_original, encoding="UTF-8", pretty_print=True)
+            with open(original_path, "wb") as xmlFile:
+                xmlFile.write(txt)
 
 
     def pack_tss_file(self, destination_path:Path, xml_path:Path):

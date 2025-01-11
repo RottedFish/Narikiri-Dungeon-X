@@ -45,29 +45,6 @@
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <SubId>1</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>258488</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>1</SpeakerId>
-      <Id>1</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>2</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>258488</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>1</SpeakerId>
-      <Id>1</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>3</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -79,29 +56,6 @@
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <SubId>1</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>258628</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>2</SpeakerId>
-      <Id>2</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>2</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>258628</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>2</SpeakerId>
-      <Id>2</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>3</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -109,209 +63,71 @@
       <VoiceId>VSM_210_030_003</VoiceId>
       <JapaneseText>今のは……夢……？
 ああ……そうか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is this...my dream...? Ahh...That is right... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <SubId>1</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>259012</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>3</SpeakerId>
-      <Id>3</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>2</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>259012</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>3</SpeakerId>
-      <Id>3</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259208</PointerOffset>
       <VoiceId>VSM_210_030_004</VoiceId>
       <JapaneseText>どうしたの？
 まだ寝ぼけてるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you mumbling? Oh, so you're still half-asleep! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <SubId>1</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>259208</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>1</SpeakerId>
-      <Id>4</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>2</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>259208</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>1</SpeakerId>
-      <Id>4</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259584</PointerOffset>
       <VoiceId>VSM_210_030_005</VoiceId>
       <JapaneseText>顔洗ってこいよ、
 ボケボケしてないでさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Time to wash your face, then! No sleepyheads allowed! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <SubId>1</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>259584</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>2</SpeakerId>
-      <Id>5</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>2</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>259584</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>2</SpeakerId>
-      <Id>5</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260016</PointerOffset>
       <VoiceId>VSM_210_030_006</VoiceId>
       <JapaneseText>朝ご飯を食べたら、
 &lt;Red&gt;ヴァルハラ&lt;White&gt;行くよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll eat some breakfast then go to Valhalla. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <SubId>1</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>260016</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>1</SpeakerId>
-      <Id>6</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>2</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>260016</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>1</SpeakerId>
-      <Id>6</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260156</PointerOffset>
       <VoiceId>VSM_210_030_007</VoiceId>
       <JapaneseText>……わかりました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Understood... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <SubId>1</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>260156</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>3</SpeakerId>
-      <Id>7</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>2</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>260156</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>3</SpeakerId>
-      <Id>7</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260640</PointerOffset>
       <VoiceId>VSM_210_030_008</VoiceId>
       <JapaneseText>夢だったのですね、
 全部……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is just a dream... All of it... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <SubId>1</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>260640</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>3</SpeakerId>
-      <Id>8</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>2</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>260640</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>3</SpeakerId>
-      <Id>8</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

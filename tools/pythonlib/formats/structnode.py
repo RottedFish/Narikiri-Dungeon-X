@@ -109,30 +109,17 @@ class StructNode:
 
             val = tss.read_uint32()
             if val + self.strings_offset < self.file_size:
-                while val != 0 and val != 0x1 and val < self.file_size:
-                    pointer_offset = tss.tell()-4
-                    text_offset = val + self.strings_offset
-                    entry = StructEntry(pointer_offset, text_offset)
-                    tss.seek(text_offset)
-                    jap_text, bytes = bytes_to_text(tss, text_offset)
+                pointer_offset = tss.tell()-4
+                text_offset = val + self.strings_offset
+                entry = StructEntry(pointer_offset, text_offset)
+                tss.seek(text_offset)
+                jap_text, bytes = bytes_to_text(tss, text_offset)
 
 
-                    entry.bubble_list = self.extract_bubbles(jap_text, bytes)
-                    entry.sub_id = sub_id
-                    self.texts_entry.append(entry)
-                    sub_id += 1
+                entry.bubble_list = self.extract_bubbles(jap_text, bytes)
+                entry.sub_id = sub_id
+                self.texts_entry.append(entry)
 
-                    tss.seek(pointer_offset + 4)
-
-                    if tss.tell() < self.file_size - 4:
-                        val = tss.read_uint32()
-
-                        if val == 0x1 or val == 0x0:
-                            self.end_unknowns.append(val)
-                    else:
-                        break
-            else:
-                normal_text = True
         else:
             normal_text = True
 

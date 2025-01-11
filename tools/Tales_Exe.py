@@ -179,7 +179,7 @@ if __name__ == "__main__":
             tales_instance.extract_all_skits(args.replace)
 
         elif args.file_type == "Story":
-            tales_instance.extract_all_story_sb(keep_translations=False)
+            tales_instance.extract_all_story_sb(keep_translations=True)
             
         elif args.file_type == "Map":
             tales_instance.extract_all_map(args.replace)

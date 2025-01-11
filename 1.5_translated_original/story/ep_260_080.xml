@@ -26,26 +26,25 @@
       <JapaneseText>できたわ……
 これでまたお父様も
 喜んでくださる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've done it... This will make father very happy... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>258496</PointerOffset>
       <VoiceId>VSM_260_080_002</VoiceId>
       <JapaneseText>これがあれば、
 わたしたちはより有利に……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is for the good of the nation...With this we'll have 
+an advantage... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>2</BubbleId>
-      <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>258496</PointerOffset>
@@ -53,35 +52,13 @@
       <JapaneseText>お父様の願う……
 デリス・カーラーンの
 平和のため……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's to realize father's wish...That Derris Kharlan enters 
+an era of peace... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>3</BubbleId>
-      <SubId>1</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>258496</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>1</SpeakerId>
-      <Id>1</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>2</SubId>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>258496</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>1</SpeakerId>
-      <Id>1</Id>
-      <BubbleId>1</BubbleId>
-      <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>
