@@ -26,7 +26,7 @@ import struct
 
 from pythonlib.formats.talk_data import TalkData
 from pythonlib.formats.character_data import CharacterData
-from pythonlib.formats.townname import Townname
+from pythonlib.formats.gim import convert_gim_to_png
 
 
 class ToolsNDX():
@@ -261,10 +261,11 @@ class ToolsNDX():
         fps4.extract_files(destination_path=fps4_path / 'townname', copy_path=copy_path,
                            decompressed=False) 
         print(f"Extracted townname files to: {fps4_path / 'townname'}")                   
+        
         # Convert extracted .gim files to .png
-        input_folder = fps4_path / 'townname'  # Folder where files are extracted
-        townname = Townname()
-        townname.convert_gim_to_png(input_folder)                           
+        input_folder = self.paths['extracted_files'] / 'All' / 'map' / 'data'
+        output_folder = self.paths['graphic_png']
+        convert_gim_to_png(input_folder, output_folder)                           
 
 
         
@@ -435,6 +436,10 @@ class ToolsNDX():
         extract_sys_cab(sysdata_path)
         extract_lvl1(sysdata_path)
         extract_lvl2(sysdata_path)
+        
+        menutex_path = self.paths['extracted_files'] / 'All' / 'sysdata' / 'cab_menutex'
+        output_path = self.paths['graphic_png']
+        convert_gim_to_png(menutex_path, output_path)
 
     def extract_pak(self, file_path:Path, format:int):
         try:

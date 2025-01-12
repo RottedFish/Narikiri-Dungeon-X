@@ -186,6 +186,7 @@ if __name__ == "__main__":
             
         elif args.file_type == "Graphic":
             tales_instance.extract_townname()
+            tales_instance.extract_all_sysdata()
 
         elif args.file_type == "All":
             tales_instance.extract_iso(Path(args.iso.resolve()))

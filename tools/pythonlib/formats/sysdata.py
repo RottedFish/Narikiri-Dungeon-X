@@ -18,7 +18,7 @@ def get_extension(header:bytes):
         ext = '.cab'
 
     elif header == b'TIM2':
-        ext = '.tim2'
+        ext = '.tm2'
 
     return ext
 def extract_lvl1(sys_data_path:Path):

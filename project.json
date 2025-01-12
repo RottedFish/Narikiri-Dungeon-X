@@ -19,6 +19,7 @@
         "skit_xml":        "./2_translated/skits/",
         "battle_xml":      "./2_translated/battle/",
 		"new_font":		   "./2_translated/font/",
+		"graphic_png":	   "./2_translated/graphic/",
         "final_files":     "./3_patched/",
         "temp_files":      "./3_patched/patched_temp/",
         "game_builds":     "./4_builds/",
