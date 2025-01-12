@@ -4104,10 +4104,10 @@ to send the enemy flying.</EnglishText>
     <Entry>
       <PointerOffset>9096</PointerOffset>
       <JapaneseText>グラジオール</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gladioli</EnglishText>
       <Notes/>
       <Id>1056</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9128</PointerOffset>
@@ -4315,10 +4315,10 @@ iron ball that moves in a circle.</EnglishText>
     <Entry>
       <PointerOffset>9576</PointerOffset>
       <JapaneseText>天ツ返</JapaneseText>
-      <EnglishText>Amatsuhen</EnglishText>
-      <Notes/>
+      <EnglishText>Rebound</EnglishText>
+      <Notes>Literally means "Return ot the Sky". Might need to think of other names.</Notes>
       <Id>1080</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>9580</PointerOffset>
@@ -4374,7 +4374,7 @@ iron ball that moves in a circle.</EnglishText>
     <Entry>
       <PointerOffset>11048,9736</PointerOffset>
       <JapaneseText>かけあしリズム</JapaneseText>
-      <EnglishText>Kageashi Rhythm</EnglishText>
+      <EnglishText>Rhythm</EnglishText>
       <Notes/>
       <Id>1087</Id>
       <Status>Editing</Status>
@@ -5558,7 +5558,7 @@ Extend: Adds a second punch.</EnglishText>
     <Entry>
       <PointerOffset>13064</PointerOffset>
       <JapaneseText>浮流</JapaneseText>
-      <EnglishText>Flowing</EnglishText>
+      <EnglishText>Rising Current</EnglishText>
       <Notes/>
       <Id>1224</Id>
       <Status>Editing</Status>
@@ -8066,7 +8066,7 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>18536</PointerOffset>
       <JapaneseText>ウィンドバレット</JapaneseText>
-      <EnglishText>Wind Barrette</EnglishText>
+      <EnglishText>Wind Bullet</EnglishText>
       <Notes/>
       <Id>1512</Id>
       <Status>Editing</Status>
@@ -8083,10 +8083,10 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>18600</PointerOffset>
       <JapaneseText>ヒートブラスト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heat Blast</EnglishText>
       <Notes/>
       <Id>1514</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18604</PointerOffset>
@@ -8304,10 +8304,10 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>19016</PointerOffset>
       <JapaneseText>鬼神連撃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ghost Strike</EnglishText>
       <Notes/>
       <Id>1540</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19020</PointerOffset>
@@ -8355,10 +8355,10 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>19208</PointerOffset>
       <JapaneseText>纏氷襲</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Snow Cannonball</EnglishText>
       <Notes/>
       <Id>1546</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19212</PointerOffset>
@@ -13467,7 +13467,7 @@ bullets. Effect: Decrease reload time.</EnglishText>
     <Entry>
       <PointerOffset>42184</PointerOffset>
       <JapaneseText>アカシックハイロウ</JapaneseText>
-      <EnglishText>Akashic High Row</EnglishText>
+      <EnglishText>Akashic Halo</EnglishText>
       <Notes/>
       <Id>2136</Id>
       <Status>Editing</Status>
@@ -13483,7 +13483,7 @@ bullets. Effect: Decrease reload time.</EnglishText>
     <Entry>
       <PointerOffset>42216</PointerOffset>
       <JapaneseText>因果応報</JapaneseText>
-      <EnglishText>Retribution</EnglishText>
+      <EnglishText>Karmic Resonance</EnglishText>
       <Notes/>
       <Id>2138</Id>
       <Status>Editing</Status>
@@ -14021,10 +14021,10 @@ around you. Heals 15% of HP.</EnglishText>
     <Entry>
       <PointerOffset>43656</PointerOffset>
       <JapaneseText>水蛇連咬</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hyrdrus Assault</EnglishText>
       <Notes/>
       <Id>2200</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43660</PointerOffset>
@@ -14055,10 +14055,10 @@ around you. Heals 15% of HP.</EnglishText>
     <Entry>
       <PointerOffset>43720</PointerOffset>
       <JapaneseText>全員集合なのら〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gather 'Round~</EnglishText>
       <Notes/>
       <Id>2204</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43724</PointerOffset>
@@ -14174,10 +14174,10 @@ around you. Heals 15% of HP.</EnglishText>
     <Entry>
       <PointerOffset>43944</PointerOffset>
       <JapaneseText>悪鬼撃滅</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Extermination</EnglishText>
       <Notes/>
       <Id>2218</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43948</PointerOffset>
