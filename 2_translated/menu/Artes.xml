@@ -1604,10 +1604,10 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3784</PointerOffset>
       <JapaneseText>なぎ払い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sweep</EnglishText>
       <Notes/>
       <Id>777</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3788</PointerOffset>
@@ -3743,7 +3743,7 @@ assault your enemy.</EnglishText>
     <Entry>
       <PointerOffset>8360</PointerOffset>
       <JapaneseText>フォール・ザ・サン</JapaneseText>
-      <EnglishText>Sun Fall</EnglishText>
+      <EnglishText>Fall the Sol</EnglishText>
       <Notes/>
       <Id>1015</Id>
       <Status>Editing</Status>
@@ -8117,10 +8117,10 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>18664</PointerOffset>
       <JapaneseText>カーボナイザー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Carbonizer</EnglishText>
       <Notes/>
       <Id>1518</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18668</PointerOffset>
@@ -8134,10 +8134,10 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>18696</PointerOffset>
       <JapaneseText>トラップグランド</JapaneseText>
-      <EnglishText>Large Trap</EnglishText>
-      <Notes/>
+      <EnglishText>Trap Ground</EnglishText>
+      <Notes>Considering naming it Landmine for how it operates</Notes>
       <Id>1520</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>18700</PointerOffset>
@@ -8151,7 +8151,7 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>18728</PointerOffset>
       <JapaneseText>ポイズンスロー</JapaneseText>
-      <EnglishText>Slow Poison</EnglishText>
+      <EnglishText>Poison Throw</EnglishText>
       <Notes/>
       <Id>1522</Id>
       <Status>Editing</Status>
@@ -8168,7 +8168,7 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>18760</PointerOffset>
       <JapaneseText>光翼閃</JapaneseText>
-      <EnglishText>Angel Strike</EnglishText>
+      <EnglishText>Winged Arrow</EnglishText>
       <Notes/>
       <Id>1524</Id>
       <Status>Editing</Status>
@@ -8185,7 +8185,7 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>18792</PointerOffset>
       <JapaneseText>降翼弾</JapaneseText>
-      <EnglishText>Raining Wings</EnglishText>
+      <EnglishText>Wingdrop</EnglishText>
       <Notes/>
       <Id>1526</Id>
       <Status>Editing</Status>
@@ -8270,7 +8270,7 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>18952</PointerOffset>
       <JapaneseText>闇の茨</JapaneseText>
-      <EnglishText>Darkness Rose</EnglishText>
+      <EnglishText>Dark Thorns</EnglishText>
       <Notes/>
       <Id>1536</Id>
       <Status>Editing</Status>
@@ -8397,10 +8397,10 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>19304</PointerOffset>
       <JapaneseText>シャドウブレス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shadow Breath</EnglishText>
       <Notes/>
       <Id>1551</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19308</PointerOffset>
@@ -8431,10 +8431,10 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>19368</PointerOffset>
       <JapaneseText>不屈の筋肉</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Indomitable Muscle</EnglishText>
       <Notes/>
       <Id>1555</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19372</PointerOffset>
@@ -8448,10 +8448,10 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>19400</PointerOffset>
       <JapaneseText>大地の怒り</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gaia's Wrath</EnglishText>
       <Notes/>
       <Id>1557</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19404</PointerOffset>
@@ -8482,15 +8482,15 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>19496</PointerOffset>
       <JapaneseText>テトラアサルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tetra Assault</EnglishText>
       <Notes/>
       <Id>1561</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19528</PointerOffset>
       <JapaneseText>ダオスコレダー</JapaneseText>
-      <EnglishText>Dhaos Corridor</EnglishText>
+      <EnglishText>Dhaos Blast</EnglishText>
       <Notes/>
       <Id>1562</Id>
       <Status>Editing</Status>
@@ -8498,16 +8498,16 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>19560</PointerOffset>
       <JapaneseText>スラグフィスト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Slug Fist</EnglishText>
       <Notes/>
       <Id>1563</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19564</PointerOffset>
       <JapaneseText>特技　追加技『ヘキサフィスト』
 素早く拳を叩き込む拳術</JapaneseText>
-      <EnglishText>Additional Arte: 『ヘキサフィスト』
+      <EnglishText>Additional Arte: 『Hexa Fist』
 素早く拳を叩き込む拳術</EnglishText>
       <Notes/>
       <Id>1564</Id>
@@ -8841,10 +8841,10 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>21384,20744</PointerOffset>
       <JapaneseText>ジャンプクラッシャー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Jump Crusher</EnglishText>
       <Notes/>
       <Id>1602</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20748</PointerOffset>
@@ -10866,10 +10866,10 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>36552,25576,32296</PointerOffset>
       <JapaneseText>ヘビータックル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hard Tackle</EnglishText>
       <Notes/>
       <Id>1836</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32328</PointerOffset>
@@ -11329,10 +11329,10 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>34440</PointerOffset>
       <JapaneseText>威嚇</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Intimidate</EnglishText>
       <Notes/>
       <Id>1890</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34444</PointerOffset>
@@ -11406,10 +11406,10 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>34760</PointerOffset>
       <JapaneseText>ライジングテイル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rising Tail</EnglishText>
       <Notes/>
       <Id>1899</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34764</PointerOffset>
@@ -11423,10 +11423,10 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>34792</PointerOffset>
       <JapaneseText>ライジングミニテイル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rising Mini-Tail</EnglishText>
       <Notes/>
       <Id>1901</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34796</PointerOffset>
@@ -11440,10 +11440,10 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>34824</PointerOffset>
       <JapaneseText>ライジングタックル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rising Tackle</EnglishText>
       <Notes/>
       <Id>1903</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34828</PointerOffset>
@@ -11493,10 +11493,10 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>35016</PointerOffset>
       <JapaneseText>二段斬り</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Double Slash</EnglishText>
       <Notes/>
       <Id>1909</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35020</PointerOffset>
@@ -11510,7 +11510,7 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>35048</PointerOffset>
       <JapaneseText>通・ダブルパンチ</JapaneseText>
-      <EnglishText>Double-Punch</EnglishText>
+      <EnglishText>Double Punch</EnglishText>
       <Notes/>
       <Id>1911</Id>
       <Status>Editing</Status>
@@ -11528,10 +11528,10 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>35080</PointerOffset>
       <JapaneseText>エアレイド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Air Raid</EnglishText>
       <Notes/>
       <Id>1913</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35084</PointerOffset>
@@ -11545,10 +11545,10 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>35112</PointerOffset>
       <JapaneseText>パワーアップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Power Up</EnglishText>
       <Notes/>
       <Id>1915</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35116</PointerOffset>
@@ -11595,10 +11595,10 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>35848</PointerOffset>
       <JapaneseText>ダークフレイム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dark Flame</EnglishText>
       <Notes/>
       <Id>1921</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35852</PointerOffset>
@@ -11707,10 +11707,10 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>36296</PointerOffset>
       <JapaneseText>大斧・横斬り</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Horizontal Axe</EnglishText>
       <Notes/>
       <Id>1934</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>36300</PointerOffset>
@@ -11724,10 +11724,10 @@ poses is more cool!</EnglishText>
     <Entry>
       <PointerOffset>36328</PointerOffset>
       <JapaneseText>大斧・縦斬り</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Vertical Axe</EnglishText>
       <Notes/>
       <Id>1936</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>36332</PointerOffset>
@@ -13831,10 +13831,10 @@ with a massive sword slash.</EnglishText>
     <Entry>
       <PointerOffset>42248,43272</PointerOffset>
       <JapaneseText>滅砕特攻撃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destructive Specialty</EnglishText>
       <Notes/>
       <Id>2178</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42252,43276</PointerOffset>
@@ -13848,10 +13848,10 @@ with a massive sword slash.</EnglishText>
     <Entry>
       <PointerOffset>43304</PointerOffset>
       <JapaneseText>高速移動・前</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Zero Shift</EnglishText>
       <Notes/>
       <Id>2180</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>43308</PointerOffset>
@@ -13865,10 +13865,10 @@ with a massive sword slash.</EnglishText>
     <Entry>
       <PointerOffset>43336</PointerOffset>
       <JapaneseText>緊急回避</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Emergency Evasion</EnglishText>
       <Notes/>
       <Id>2182</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43340</PointerOffset>
@@ -13956,7 +13956,7 @@ around you. Heals 15% of HP.</EnglishText>
       <EnglishText>Boyoyon Straight</EnglishText>
       <Notes/>
       <Id>2192</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>43532</PointerOffset>
@@ -13970,10 +13970,10 @@ around you. Heals 15% of HP.</EnglishText>
     <Entry>
       <PointerOffset>43560</PointerOffset>
       <JapaneseText>りみったー解除</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Limiter Release</EnglishText>
       <Notes/>
       <Id>2194</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43564</PointerOffset>
@@ -14106,10 +14106,10 @@ around you. Heals 15% of HP.</EnglishText>
     <Entry>
       <PointerOffset>43816</PointerOffset>
       <JapaneseText>真・光翼閃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>True Winged Arrow</EnglishText>
       <Notes/>
       <Id>2210</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43820</PointerOffset>
@@ -14208,7 +14208,7 @@ around you. Heals 15% of HP.</EnglishText>
     <Entry>
       <PointerOffset>44008</PointerOffset>
       <JapaneseText>フラムファング</JapaneseText>
-      <EnglishText>Flame Fang</EnglishText>
+      <EnglishText>Flamme Fang</EnglishText>
       <Notes/>
       <Id>2222</Id>
       <Status>Editing</Status>
@@ -14259,10 +14259,10 @@ around you. Heals 15% of HP.</EnglishText>
     <Entry>
       <PointerOffset>44104</PointerOffset>
       <JapaneseText>貴様らなぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why You!</EnglishText>
       <Notes/>
       <Id>2228</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44108</PointerOffset>
@@ -14276,7 +14276,7 @@ around you. Heals 15% of HP.</EnglishText>
     <Entry>
       <PointerOffset>44136</PointerOffset>
       <JapaneseText>プリズムアイ</JapaneseText>
-      <EnglishText>Prism Glance</EnglishText>
+      <EnglishText>Prismatic Eye</EnglishText>
       <Notes/>
       <Id>2230</Id>
       <Status>Editing</Status>
@@ -14678,10 +14678,10 @@ Extend Effect: Restore 90% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>45896,45928</PointerOffset>
       <JapaneseText>ダオスレーザー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos Laser</EnglishText>
       <Notes/>
       <Id>2278</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44556,45964</PointerOffset>
