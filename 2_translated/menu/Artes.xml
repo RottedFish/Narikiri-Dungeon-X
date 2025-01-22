@@ -1864,7 +1864,7 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>4264</PointerOffset>
       <JapaneseText>紅破刃</JapaneseText>
-      <EnglishText>Hell Edge</EnglishText>
+      <EnglishText>Vermillion Edge</EnglishText>
       <Notes/>
       <Id>806</Id>
       <Status>Editing</Status>
@@ -5463,7 +5463,7 @@ Extend: Adds a second punch.</EnglishText>
     <Entry>
       <PointerOffset>12840</PointerOffset>
       <JapaneseText>月旋翔撃</JapaneseText>
-      <EnglishText>Moonlight Impact</EnglishText>
+      <EnglishText>Luna Dive</EnglishText>
       <Notes/>
       <Id>1213</Id>
       <Status>Editing</Status>
@@ -5594,7 +5594,7 @@ Extend: Adds a second punch.</EnglishText>
       <PointerOffset>13132</PointerOffset>
       <JapaneseText>（ハコウ）特技　追加技『嵐鬼甲』
 気を拳より打ち出すことで、体の内部に直接衝撃を叩き込む気技</JapaneseText>
-      <EnglishText>Attack the enemy with energy created by the
+      <EnglishText>Base: Attack the enemy with energy created by the
 mind. Extend: Adds a few extra punches.</EnglishText>
       <Notes/>
       <Id>1228</Id>
@@ -5612,7 +5612,7 @@ mind. Extend: Adds a few extra punches.</EnglishText>
     <Entry>
       <PointerOffset>13192</PointerOffset>
       <JapaneseText>天破掌</JapaneseText>
-      <EnglishText>Soaring Blast</EnglishText>
+      <EnglishText>Heavenly Palm</EnglishText>
       <Notes/>
       <Id>1230</Id>
       <Status>Editing</Status>
@@ -5621,7 +5621,7 @@ mind. Extend: Adds a few extra punches.</EnglishText>
       <PointerOffset>13196</PointerOffset>
       <JapaneseText>（テンパショウ）特技
 気を放出し敵を打ち上げ、更に真下から追撃する気技</JapaneseText>
-      <EnglishText>Punch the enemy and then hit them with a
+      <EnglishText>Base: Punch the enemy and then hit them with a
 soaring uppercut, launching them into the air.</EnglishText>
       <Notes/>
       <Id>1231</Id>
@@ -5648,7 +5648,7 @@ soaring uppercut, launching them into the air.</EnglishText>
       <PointerOffset>13260</PointerOffset>
       <JapaneseText>（レンキホウ）特技
 気を練り、一気に放出する遠距離用気技</JapaneseText>
-      <EnglishText>Mix your energy into your hands, then release
+      <EnglishText>Base: Mix your energy into your hands, then release
 it from a distance at your foes.</EnglishText>
       <Notes/>
       <Id>1234</Id>
@@ -5891,7 +5891,7 @@ mark on the ground to call lightning on the enemy.</EnglishText>
     <Entry>
       <PointerOffset>13768</PointerOffset>
       <JapaneseText>獅吼旋舞</JapaneseText>
-      <EnglishText>Twirling Beast</EnglishText>
+      <EnglishText>Twirling Lion</EnglishText>
       <Notes/>
       <Id>1262</Id>
       <Status>Editing</Status>
@@ -7396,7 +7396,7 @@ rain down on foes. Effect: Stun.</EnglishText>
     <Entry>
       <PointerOffset>17128</PointerOffset>
       <JapaneseText>魔夜</JapaneseText>
-      <EnglishText>Evil Night</EnglishText>
+      <EnglishText>Wicked Night</EnglishText>
       <Notes/>
       <Id>1435</Id>
       <Status>Editing</Status>
@@ -8202,10 +8202,10 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>18824</PointerOffset>
       <JapaneseText>エリアルブロウ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aerial Blow</EnglishText>
       <Notes/>
       <Id>1528</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18828</PointerOffset>
@@ -8219,10 +8219,10 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>18856</PointerOffset>
       <JapaneseText>フォーリンスター</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Falling Star</EnglishText>
       <Notes/>
       <Id>1530</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18860</PointerOffset>
@@ -8533,10 +8533,10 @@ arc, leaving behind a dark void.</EnglishText>
     <Entry>
       <PointerOffset>19624</PointerOffset>
       <JapaneseText>ピヨスラッシュ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Piyo Slash</EnglishText>
       <Notes/>
       <Id>1567</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19628</PointerOffset>
