@@ -28,18 +28,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -176,12 +176,13 @@ the ground and brought you here.</EnglishText>
       <JapaneseText>貴方にこの子たち、
 &lt;Dio&gt;と&lt;Mel&gt;ふたりの
 親代わりをお願いするために</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>These infants are &lt;Dio&gt; and &lt;Mel&gt;. I want 
+you to be these children's foster mother. </EnglishText>
+      <Notes>Maybe adoptive mother?</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>264788</PointerOffset>

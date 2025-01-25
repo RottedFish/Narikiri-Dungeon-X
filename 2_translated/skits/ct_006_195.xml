@@ -1,0 +1,193 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37468</PointerOffset>
+      <VoiceId>VCT_006_195_001</VoiceId>
+      <JapaneseText>やーっぱり、&lt;Mel&gt;&lt;Mel&gt;のご飯が一番おいしいだぁな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38060</PointerOffset>
+      <VoiceId>VCT_006_195_002</VoiceId>
+      <JapaneseText>ほんと、ほんと、どんどん美味しくなってるよね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38596</PointerOffset>
+      <VoiceId>VCT_006_195_003</VoiceId>
+      <JapaneseText>クルール！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38988</PointerOffset>
+      <VoiceId>VCT_006_195_004</VoiceId>
+      <JapaneseText>そ、そうかな？　まだまだおかわりあるから、
+どんどん食べてね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39736</PointerOffset>
+      <VoiceId>VCT_006_195_005</VoiceId>
+      <JapaneseText>……ちょい野菜多すぎじゃねーか……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40092</PointerOffset>
+      <VoiceId>VCT_006_195_006</VoiceId>
+      <JapaneseText>そういうこと言う人は、食べなくてもいいから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40636</PointerOffset>
+      <VoiceId>VCT_006_195_007</VoiceId>
+      <JapaneseText>んだ、んだ。おめぇは、食わんでもええだーよ。
+その分おらが、&lt;Mel&gt;&lt;Mel&gt;の手料理ぜーんぶたいらげるだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41688</PointerOffset>
+      <VoiceId>VCT_006_195_008</VoiceId>
+      <JapaneseText>てめぇはタンスのくせに食いすぎなんだよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42188</PointerOffset>
+      <VoiceId>VCT_006_195_009</VoiceId>
+      <JapaneseText>へっへ〜ん、野菜嫌いのお子ちゃまが、吠えてるだぁ。
+そんなおめぇには、これで十分だーよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43568</PointerOffset>
+      <VoiceId>VCT_006_195_010</VoiceId>
+      <JapaneseText>な、てめぇ！　オレの肉、全部取りやがったな！
+返せ！　このタンス野郎！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44388</PointerOffset>
+      <VoiceId>VCT_006_195_011</VoiceId>
+      <JapaneseText>肉の代わりに、たーっぷり野菜を入れてやっただど。
+腹が減ってるなら、それを食えばええだ〜よ〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45956</PointerOffset>
+      <VoiceId>VCT_006_195_012</VoiceId>
+      <JapaneseText>まったく食事時まで喧嘩するんだかラ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

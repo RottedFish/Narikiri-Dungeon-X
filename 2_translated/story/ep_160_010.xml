@@ -12,10 +12,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -44,10 +44,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -228,12 +228,12 @@
       <PointerOffset>295664</PointerOffset>
       <VoiceId>VSM_160_010_015</VoiceId>
       <JapaneseText>……&lt;Dio&gt;も</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What about you, &lt;Dio&gt;? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296088</PointerOffset>
@@ -385,12 +385,13 @@ forest. </EnglishText>
       <VoiceId>VSM_160_010_028</VoiceId>
       <JapaneseText>&lt;Dio&gt;……なんか変だよ。
 &lt;Red&gt;ヴァルハラ&lt;White&gt;の時かラ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;...You've been acting very weird since the assault in 
+Valhalla... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300892</PointerOffset>
@@ -465,12 +466,12 @@ forest. </EnglishText>
       <VoiceId>VSM_160_010_035</VoiceId>
       <JapaneseText>バジルって……
 &lt;Claus&gt;さんの友達の……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You mean the same Basil that's &lt;Claus&gt;'s friend? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302200</PointerOffset>
@@ -489,12 +490,13 @@ forest. </EnglishText>
       <JapaneseText>だから、&lt;Dio&gt;、
 なんか様子が
 変だったんでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then &lt;Dio&gt;, tell me. Why else would you been acting so 
+weird for? </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302836</PointerOffset>

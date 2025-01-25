@@ -4,18 +4,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -95,7 +95,7 @@ then... </EnglishText>
       <VoiceId>VSM_260_020_005</VoiceId>
       <JapaneseText>別の方向にも
 違うもんが見えたぞ</JapaneseText>
-      <EnglishText>&lt;MEL&gt; please don't start copying &lt;DIO&gt;. </EnglishText>
+      <EnglishText>&lt;Mel&gt; please don't start copying &lt;Dio&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>

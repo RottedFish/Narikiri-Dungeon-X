@@ -12,26 +12,26 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -56,12 +56,12 @@
       <PointerOffset>278404</PointerOffset>
       <VoiceId>VSM_050_070_001Z</VoiceId>
       <JapaneseText>探したぞ！　&lt;Claus&gt;！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Finally found you, &lt;Claus&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278920</PointerOffset>
@@ -352,12 +352,12 @@ simple jobs like these! </EnglishText>
       <PointerOffset>291180</PointerOffset>
       <VoiceId>VSM_050_070_026</VoiceId>
       <JapaneseText>……&lt;Dio&gt;、はしゃぎすぎ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...You sure are celebrating easily... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292024</PointerOffset>
@@ -428,12 +428,13 @@ our strength yet again. </EnglishText>
       <JapaneseText>&lt;Dio&gt;、気をつけて。
 転んでエレメンツポット
 割っちゃうよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, be careful! The Elements' Pot will break if it 
+falls! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295080</PointerOffset>

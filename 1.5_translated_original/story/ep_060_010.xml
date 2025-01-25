@@ -4,18 +4,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -52,10 +52,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -138,12 +138,12 @@
       <PointerOffset>284728</PointerOffset>
       <VoiceId>VSM_060_010_009</VoiceId>
       <JapaneseText>&lt;Claus&gt;！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;!? </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285016</PointerOffset>
@@ -174,12 +174,12 @@
       <VoiceId>VSM_060_010_012</VoiceId>
       <JapaneseText>何？
 &lt;Claus&gt;さんの知ってるヤツ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What? Somebody you know? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286344</PointerOffset>
@@ -213,12 +213,12 @@ else before the big finale. </EnglishText>
       <VoiceId>VSM_060_010_015</VoiceId>
       <JapaneseText>&lt;Rondoline&gt;・Ｅ・
 エッフェンベルグだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Name's &lt;Rondoline&gt; E. Effenberg. </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287544</PointerOffset>
@@ -418,12 +418,12 @@ these arms! Or do you? </EnglishText>
       <JapaneseText>&lt;Mel&gt;です。
 よろしくお願いします。
 ロンデ、ロンデロ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm &lt;Mel&gt;. Pleased to meet you Lond...Londero... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294236</PointerOffset>

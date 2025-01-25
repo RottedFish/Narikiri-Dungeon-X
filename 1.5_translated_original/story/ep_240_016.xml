@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -52,10 +52,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -68,10 +68,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -438,12 +438,12 @@ surrounding Mana. </EnglishText>
       <JapaneseText>なんだ……&lt;Mel&gt;の
 せいじゃねーよな、
 これって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This means...It never was &lt;Mel&gt;'s fault to begin with! </EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297184</PointerOffset>
@@ -600,12 +600,12 @@ honest. So I might try to track him down with normal means. </EnglishText>
       <VoiceId>VSM_240_010_138</VoiceId>
       <JapaneseText>それじゃあ、
 &lt;Dio&gt;、&lt;Mel&gt;、がんばって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In that case...&lt;Dio&gt;, &lt;Mel&gt;, always do your best! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305200</PointerOffset>
@@ -825,12 +825,12 @@ forget. </EnglishText>
       <VoiceId>VSM_240_010_157</VoiceId>
       <JapaneseText>あ、&lt;Dio&gt;……
 まったく、もう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, &lt;Dio&gt;! And there he goes... </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>44</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312732</PointerOffset>
@@ -859,12 +859,12 @@ forget. </EnglishText>
       <VoiceId>VSM_240_010_160</VoiceId>
       <JapaneseText>あ、&lt;Mel&gt;まで……！！
 まったく……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Not &lt;Mel&gt; too! Really... </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>46</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313748</PointerOffset>

@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -132,12 +132,13 @@ lot more active. </EnglishText>
       <JapaneseText>行こうって、きみ、
 &lt;Claus&gt;さん家の場所、
 知らないでしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're telling us to go, but we don't even know where 
+Mister &lt;Claus&gt;'s house is. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261200</PointerOffset>
@@ -182,24 +183,26 @@ directions. </EnglishText>
       <JapaneseText>そんなに&lt;Dio&gt;、
 嬉しいのかな？
 その英雄？　に会うのが</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Doesn't &lt;Dio&gt; look a bit way too happy? Are we going to 
+meet with a Hero or something? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262472</PointerOffset>
       <VoiceId>VSM_040_010_014</VoiceId>
       <JapaneseText>&lt;Dio&gt;は昔から、
 そういうお話好きだったから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt; enjoys being in the past so much because he wants to 
+see the people from his storybooks. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262612</PointerOffset>

@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -68,7 +68,7 @@ country to help assert a better future. </EnglishText>
       <VoiceId>VSM_320_040_003</VoiceId>
       <JapaneseText>よく学べ、メルティア。
 おまえは私の自慢の娘だ</JapaneseText>
-      <EnglishText>Study well, &lt;MEL&gt;tia. You are my pride and joy. </EnglishText>
+      <EnglishText>Study well, &lt;Mel&gt;tia. You are my pride and joy. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>

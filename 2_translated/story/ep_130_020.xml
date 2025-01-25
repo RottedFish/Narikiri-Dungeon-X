@@ -12,10 +12,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -44,10 +44,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -483,12 +483,12 @@ assistance. </EnglishText>
       <VoiceId>VSM_130_020_046</VoiceId>
       <JapaneseText>あ〜〜〜い、&lt;Mel&gt;&lt;Mel&gt;〜〜、
 おらのこと呼んだべか∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yesss! &lt;Mel&gt;-&lt;Mel&gt; has called me! </EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>291936</PointerOffset>
@@ -507,12 +507,12 @@ assistance. </EnglishText>
       <JapaneseText>かわいい&lt;Mel&gt;&lt;Mel&gt;が
 今度はどんなかわえぇ〜
 服着るんだべや？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So which cute clothes will you wear now, &lt;Mel&gt;-&lt;Mel&gt;? </EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294832</PointerOffset>
@@ -600,12 +600,12 @@ assistance. </EnglishText>
       <VoiceId>VSM_130_020_056</VoiceId>
       <JapaneseText>あっ！　ちょっと&lt;Dio&gt;！
 待って！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey &lt;Dio&gt;! Just a second! Wait! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>38</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -335,6 +335,19 @@ class ToolsNDX():
                                  'story',
                                  keep_translations)
 
+
+    def extract_all_skits(self, keep_translations=False):
+        print("Extracting Skits")
+        self.paths['skit_original'].mkdir(parents=True, exist_ok=True)
+        cab_path = self.paths['extracted_files'] / 'All' / 'chat'
+
+        for cab_file in [file for file in cab_path.iterdir() if file.is_file()]:
+            extract_cab_file(cab_file, cab_path / f'cab_{cab_file.stem}')
+            self.extract_pak(cab_path / f'cab_{cab_file.stem}' / f'{cab_file.stem}.dat', 3)
+            self.extract_tss(cab_path / f'cab_{cab_file.stem}' / f'pak_{cab_file.stem}' / f'{cab_file.stem}.tss',
+                             'skit',
+                             keep_translations)
+
     def pack_all_story_sb(self):
         print("Recreating Story files...")
 

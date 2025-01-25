@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -93,12 +93,12 @@ time we have to deal with him. </EnglishText>
       <PointerOffset>259916</PointerOffset>
       <VoiceId>VSM_040_030_008Z</VoiceId>
       <JapaneseText>おや、&lt;Claus&gt;に客人か？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh hey, are you some visitors for &lt;Claus&gt;? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259916</PointerOffset>
@@ -120,12 +120,13 @@ him or drive him away like that easily. </EnglishText>
       <JapaneseText>はい、あの……わたしたち、
 精霊のことで&lt;Claus&gt;さんに
 相談があって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, you see... we came here since we heard &lt;Claus&gt; would 
+know something about Summon Spirits and... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261068</PointerOffset>
@@ -143,12 +144,12 @@ him or drive him away like that easily. </EnglishText>
       <VoiceId>VSM_040_030_012</VoiceId>
       <JapaneseText>ちょっと、&lt;Dio&gt;、
 失礼でしょ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hold on, &lt;Dio&gt;, that's impolite.... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261860</PointerOffset>
@@ -268,12 +269,12 @@ crushed... </EnglishText>
       <VoiceId>VSM_040_030_022Z</VoiceId>
       <JapaneseText>ところで、&lt;Claus&gt;に何を
 相談したいんだい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Anyways, what did you want to ask of &lt;Claus&gt;? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
       <BubbleId>4</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263384</PointerOffset>
@@ -384,7 +385,7 @@ Burning Sand. </EnglishText>
       <VoiceId>VSM_040_030_031Z</VoiceId>
       <JapaneseText>さて、僕はあいつの顔でも
 見てくるよ。じゃあね</JapaneseText>
-      <EnglishText>Now then, I'll go take a look at &lt;Clauss&gt; myself. See you! </EnglishText>
+      <EnglishText>Now then, I'll go take a look at &lt;Claus&gt; myself. See you! </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
@@ -397,12 +398,13 @@ Burning Sand. </EnglishText>
       <JapaneseText>でも、だからって
 &lt;Claus&gt;さんのあんな言い方……
 ないと、思う……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But if what he said is true then we don't need do what 
+&lt;Claus&gt; said...I...think... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268636</PointerOffset>

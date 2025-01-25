@@ -12,18 +12,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -44,10 +44,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -147,7 +147,7 @@
       <JapaneseText>あ、そのイタズラって
 言っても、その、
 罪のないことばっかりで</JapaneseText>
-      <EnglishText>W-well when &lt;DIO&gt; says "trouble", it really isn't anything 
+      <EnglishText>W-well when &lt;Dio&gt; says "trouble", it really isn't anything 
 ill-intentioned. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -198,7 +198,7 @@ followed by sad moments... What was up with that? </EnglishText>
       <VoiceId>VSM_120_020_012</VoiceId>
       <JapaneseText>２００年後、か……
 あのバカ……</JapaneseText>
-      <EnglishText>200 years later...That i&lt;DIO&gt;t... </EnglishText>
+      <EnglishText>200 years later...That i&lt;Dio&gt;t... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -211,12 +211,12 @@ followed by sad moments... What was up with that? </EnglishText>
       <JapaneseText>……悪ぃ。
 &lt;Claus&gt;にも
 会ったのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Too bad. Anyways have you met with &lt;Claus&gt;? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263668</PointerOffset>

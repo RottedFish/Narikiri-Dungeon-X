@@ -12,10 +12,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -28,10 +28,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -44,10 +44,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -198,12 +198,12 @@ make any sense... </EnglishText>
       <PointerOffset>264952</PointerOffset>
       <VoiceId>VSM_210_070_037</VoiceId>
       <JapaneseText>&lt;Dio&gt;！　&lt;Mel&gt;！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;! &lt;Mel&gt;! You're here! </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265980</PointerOffset>
@@ -335,12 +335,12 @@ anymore. </EnglishText>
       <VoiceId>VSM_210_070_050</VoiceId>
       <JapaneseText>んだよ……&lt;Mel&gt;も
 同じこと考えてたのか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I think hell just got colder. &lt;Mel&gt; agreeing with me? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270360</PointerOffset>

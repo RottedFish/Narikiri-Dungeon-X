@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -52,10 +52,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -427,12 +427,12 @@ this...I WON'T leave them alone! </EnglishText>
       <VoiceId>VSM_140_050_047</VoiceId>
       <JapaneseText>……&lt;Dio&gt;、
 もう平気なの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;...Are you sure you should be standing up? </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266420</PointerOffset>
@@ -450,12 +450,12 @@ this...I WON'T leave them alone! </EnglishText>
       <PointerOffset>266616</PointerOffset>
       <VoiceId>VSM_140_050_049</VoiceId>
       <JapaneseText>どうしたの、&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do you need to make sure of? </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266848</PointerOffset>

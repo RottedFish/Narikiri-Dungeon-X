@@ -12,18 +12,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -62,12 +62,12 @@
       <PointerOffset>259916</PointerOffset>
       <VoiceId>VSM_170_010_003</VoiceId>
       <JapaneseText>&lt;Dio&gt;？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, are you in here? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260056</PointerOffset>
@@ -117,7 +117,7 @@ betray your own beliefs? </EnglishText>
 バカみたい</JapaneseText>
       <EnglishText>When you finally got to see the outside world you were so 
 happy. Now that you know what's out there you lock yourself? You 
-look like an i&lt;DIO&gt;t, &lt;DIO&gt;. </EnglishText>
+look like an i&lt;Dio&gt;t, &lt;Dio&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -129,19 +129,19 @@ look like an i&lt;DIO&gt;t, &lt;DIO&gt;. </EnglishText>
       <VoiceId>VSM_170_010_008</VoiceId>
       <JapaneseText>ちょっと、&lt;Mel&gt;、
 きみ、そんなこと……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;...I think you've gone too far... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261488</PointerOffset>
       <VoiceId>VSM_170_010_009</VoiceId>
       <JapaneseText>どうせバカだよ！
 ダメダメだよ、オレ……！</JapaneseText>
-      <EnglishText>She's right! I'm a huge i&lt;DIO&gt;t! I can't do anything 
+      <EnglishText>She's right! I'm a huge i&lt;Dio&gt;t! I can't do anything 
 right...! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -169,12 +169,13 @@ him... </EnglishText>
       <VoiceId>VSM_170_010_011</VoiceId>
       <JapaneseText>&lt;Mel&gt;が魔物に襲われた時も
 すぐ動けなかった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whenever &lt;Mel&gt;'s in danger I can't do anything to protect 
+her! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261964</PointerOffset>
@@ -209,12 +210,13 @@ turned the way I wanted it to... </EnglishText>
       <JapaneseText>バジルさんだけじゃない……
 &lt;Claus&gt;さんも、
 &lt;Cless&gt;さんも&lt;Mint&gt;さんも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've failed Mister Basil...and &lt;Claus&gt;...and Mister &lt;Cless&gt; and 
+Miss &lt;Mint&gt;... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262160</PointerOffset>
@@ -261,7 +263,7 @@ exactly as you wanted. Stay safe inside the house, you hermit! </EnglishText>
       <PointerOffset>264900</PointerOffset>
       <VoiceId>VSM_170_010_023</VoiceId>
       <JapaneseText>あ、ちょっと、待って……！</JapaneseText>
-      <EnglishText>W-wait &lt;MEL&gt;! </EnglishText>
+      <EnglishText>W-wait &lt;Mel&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>

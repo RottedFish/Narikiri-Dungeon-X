@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,18 +36,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -195,12 +195,12 @@ noticed it I was in this era. </EnglishText>
       <PointerOffset>266612</PointerOffset>
       <VoiceId>VSM_180_020_013</VoiceId>
       <JapaneseText>&lt;Mel&gt;ちゃん、固いってば</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How stubborn of you, &lt;Mel&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266612</PointerOffset>
@@ -365,12 +365,13 @@ homework, I'll let you know! How about I teach you some manners? </EnglishText>
       <JapaneseText>乱暴してると、
 &lt;Mel&gt;ちゃんのかわいいおてて、
 ゴツゴツになっちゃうよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now let's not be rude, &lt;Mel&gt;! You can't just punch people 
+just because you've got ‘em plain! </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278060</PointerOffset>

@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -418,12 +418,13 @@ gathered is now...gone... </EnglishText>
       <VoiceId>VSM_150_010_029</VoiceId>
       <JapaneseText>違うよ、&lt;Dio&gt;……！
 ぼくがぶつかったかラ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's not your fault! It's my fault. It was me who bumped 
+into it... </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300648</PointerOffset>
@@ -502,12 +503,12 @@ hope just yet! </EnglishText>
       <VoiceId>VSM_150_010_036</VoiceId>
       <JapaneseText>そ、そうだよな……
 行こう、&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>O-okay! Let's go, &lt;Mel&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>303804</PointerOffset>

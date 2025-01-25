@@ -4,18 +4,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -28,10 +28,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -56,12 +56,12 @@
       <PointerOffset>258816</PointerOffset>
       <VoiceId>VSM_270_070_001</VoiceId>
       <JapaneseText>&lt;Dio&gt;……！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;...!? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259336</PointerOffset>
@@ -80,12 +80,12 @@
       <VoiceId>VSM_270_070_003</VoiceId>
       <JapaneseText>&lt;Dio&gt;も、
 見たんだね……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They made you see something too, right? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260408</PointerOffset>
@@ -203,12 +203,12 @@ parents... </EnglishText>
       <VoiceId>VSM_270_070_016</VoiceId>
       <JapaneseText>そんなもの見せて、&lt;Dio&gt;を
 どうするつもりなんだろ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What is the meaning of the images they make &lt;Dio&gt; see...? </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263284</PointerOffset>

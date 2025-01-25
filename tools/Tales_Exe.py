@@ -176,7 +176,7 @@ if __name__ == "__main__":
             tales_instance.extract_main_archive()
 
         elif args.file_type == "Skits":
-            tales_instance.extract_all_skits(args.replace)
+            tales_instance.extract_all_skits(keep_translations=True)
 
         elif args.file_type == "Story":
             tales_instance.extract_all_story_sb(keep_translations=True)

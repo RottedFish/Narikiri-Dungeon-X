@@ -4,18 +4,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -52,12 +52,12 @@
       <VoiceId>VSM_260_090_002</VoiceId>
       <JapaneseText>&lt;Mel&gt;！　しっかりしろ！
 どーしたんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;! Hang in there! What's going on!? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259164</PointerOffset>
@@ -89,12 +89,12 @@ memory... </EnglishText>
       <VoiceId>VSM_260_090_006</VoiceId>
       <JapaneseText>&lt;Mel&gt;、大丈夫？
 なんか疲れてるみたい……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;, are you feeling fine? You look a bit pale... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259856</PointerOffset>
@@ -112,12 +112,12 @@ memory... </EnglishText>
       <VoiceId>VSM_260_090_008</VoiceId>
       <JapaneseText>あんにゃろー！
 &lt;Mel&gt;に変なのぶつけやがって！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Those jerks!! I will beat up for doing that to &lt;Mel&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260708</PointerOffset>

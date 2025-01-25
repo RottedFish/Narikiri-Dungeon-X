@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -109,12 +109,12 @@ of stupidity is this! </EnglishText>
       <VoiceId>VSM_020_020_005</VoiceId>
       <JapaneseText>&lt;Dio&gt;。
 アルベルトさんでしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, his name is Mister Albert. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>260172</PointerOffset>
@@ -122,23 +122,24 @@ of stupidity is this! </EnglishText>
       <JapaneseText>おーおーほほ、さすがは&lt;Mel&gt;&lt;Mel&gt;だ。
 おらのことをよーぐわがっでる。
 優しい娘っ子だなや〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ohohoho! You're amazing &lt;Mel&gt;-&lt;Mel&gt;! You certainly 
+understand me! What a nice girl! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>260748</PointerOffset>
       <VoiceId>VSM_020_020_007</VoiceId>
       <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;って……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-what? "&lt;Mel&gt;-&lt;Mel&gt;."..? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>260944</PointerOffset>
@@ -146,12 +147,14 @@ of stupidity is this! </EnglishText>
       <JapaneseText>そんな&lt;Mel&gt;&lt;Mel&gt;のために、
 ここはおらが買い物の仕方、
 手取り足取り教えてやるだーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For &lt;Mel&gt;-&lt;Mel&gt;'s sake, I will explain the ways
+of shopping. I'll hold your hand or, if I need to do
+to, your leg. So, let the teaching begin! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>262516</PointerOffset>
@@ -346,12 +349,13 @@ and person so we don't run into this problem again. </EnglishText>
       <JapaneseText>メニューのライブラリを開けば、
 &lt;Mel&gt;&lt;Mel&gt;が書いたメモが
 いつでも見られるだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In the Library menu you can always check the Memos that 
+&lt;Mel&gt;-&lt;Mel&gt; writes down. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>267960</PointerOffset>

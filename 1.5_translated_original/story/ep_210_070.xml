@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -67,12 +67,12 @@
       <PointerOffset>262304</PointerOffset>
       <VoiceId>VSM_210_070_002</VoiceId>
       <JapaneseText>&lt;Mel&gt;、そこにいるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;...Is that you there? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262500</PointerOffset>
@@ -90,12 +90,13 @@
       <VoiceId>VSM_210_070_004</VoiceId>
       <JapaneseText>&lt;Dio&gt;も！？
 真っ暗で見えないよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, you're here too!? I-I can't see a thing. It's all 
+too dark... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263204</PointerOffset>
@@ -135,23 +136,24 @@
       <VoiceId>VSM_210_070_008</VoiceId>
       <JapaneseText>以前、あなたと契約した
 &lt;Claus&gt;さんの知り合いです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Last time we met I was one of the companions of &lt;Claus&gt;, the 
+one who formed a pact with you. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265460</PointerOffset>
       <VoiceId>VSM_210_070_009</VoiceId>
       <JapaneseText>我・知る・&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I remember...&lt;Claus&gt;... </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265600</PointerOffset>

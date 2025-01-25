@@ -4,18 +4,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -28,10 +28,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -67,12 +67,12 @@
       <PointerOffset>283160</PointerOffset>
       <VoiceId>VSM_330_010_050</VoiceId>
       <JapaneseText>大丈夫、&lt;Mel&gt;ちゃん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you ok, &lt;Mel&gt;!? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284268</PointerOffset>
@@ -103,12 +103,12 @@
       <VoiceId>VSM_330_010_053</VoiceId>
       <JapaneseText>エトと&lt;Mel&gt;は
 オレが守る……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I will protect &lt;Mel&gt; and Eto...! </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286008</PointerOffset>
@@ -137,12 +137,12 @@
       <VoiceId>VSM_330_010_056</VoiceId>
       <JapaneseText>&lt;Dio&gt;ひとりになんて……
 任せておけないもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't leave this up to just him! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>291120</PointerOffset>

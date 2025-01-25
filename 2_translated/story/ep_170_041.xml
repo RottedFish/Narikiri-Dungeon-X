@@ -20,18 +20,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -294,7 +294,7 @@ about that. </EnglishText>
       <VoiceId>VSM_170_040_041</VoiceId>
       <JapaneseText>なんとかなんて
 ならねーよ、ったく……</JapaneseText>
-      <EnglishText>Wow, &lt;MEL&gt; talking about facing anything. Now this is 
+      <EnglishText>Wow, &lt;Mel&gt; talking about facing anything. Now this is 
 weird... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>

@@ -4,18 +4,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -78,12 +78,12 @@
       <PointerOffset>259192</PointerOffset>
       <VoiceId>VSM_210_060_003</VoiceId>
       <JapaneseText>&lt;Dio&gt;！？　&lt;Mel&gt;！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;!? &lt;Mel&gt;!? </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260844</PointerOffset>
@@ -197,12 +197,12 @@ the twins on this one. </EnglishText>
       <VoiceId>VSM_210_060_015</VoiceId>
       <JapaneseText>&lt;Dio&gt;ー！　&lt;Mel&gt;ー！！
 どこ〜！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;! &lt;Mel&gt;!! Where are you!? </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266784</PointerOffset>
@@ -220,7 +220,7 @@ the twins on this one. </EnglishText>
       <VoiceId>VSM_210_060_018</VoiceId>
       <JapaneseText>こっち……！
 エトの匂いがする……！</JapaneseText>
-      <EnglishText>This way...! Eto's s&lt;MEL&gt;l is coming from here...! </EnglishText>
+      <EnglishText>This way...! Eto's s&lt;Mel&gt;l is coming from here...! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -231,7 +231,7 @@ the twins on this one. </EnglishText>
       <PointerOffset>268576</PointerOffset>
       <VoiceId>VSM_210_060_019</VoiceId>
       <JapaneseText>匂い……？</JapaneseText>
-      <EnglishText>Her s&lt;MEL&gt;l...? </EnglishText>
+      <EnglishText>Her s&lt;Mel&gt;l...? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>

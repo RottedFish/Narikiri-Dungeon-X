@@ -4,18 +4,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -125,12 +125,12 @@
       <VoiceId>VSM_040_020_007</VoiceId>
       <JapaneseText>あなたが
 &lt;Claus&gt;さん、ですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You are Mister &lt;Claus&gt;, right? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265620</PointerOffset>
@@ -161,12 +161,13 @@
       <JapaneseText>実は魔術の暴走を止めるために
 &lt;Claus&gt;さんに
 会いに来たんです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We want to stop certain magic from going out of control and 
+we've been told to come here and ask your help, Mister &lt;Claus&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266148</PointerOffset>
@@ -228,12 +229,12 @@ daylight alcoholic... </EnglishText>
       <JapaneseText>残念だったな、
 &lt;Claus&gt;・Ｆ・レスターが、
 こんな人間で</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yup, that's it. &lt;Claus&gt; F. Lester's true face. </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>267728</PointerOffset>
@@ -395,23 +396,23 @@ That'd be good for your sake and mine. </EnglishText>
       <PointerOffset>270292</PointerOffset>
       <VoiceId>VSM_040_020_030</VoiceId>
       <JapaneseText>行こ、&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go, &lt;Dio&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270944</PointerOffset>
       <VoiceId>VSM_040_020_031</VoiceId>
       <JapaneseText>え？　ちょっ、&lt;Mel&gt;？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh? What---, &lt;Mel&gt;? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270944</PointerOffset>

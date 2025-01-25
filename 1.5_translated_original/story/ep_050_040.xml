@@ -4,26 +4,26 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -198,18 +198,19 @@ Spirit... </EnglishText>
       <JapaneseText>もしかして、ミラルドさん、
 &lt;Claus&gt;さんにもう一度、
 研究をがんばってもらいたくて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Could it be... that Miss Milard wanted to cheer up &lt;Claus&gt; so 
+he took up his investigation again? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284504</PointerOffset>
       <VoiceId>VSM_050_040_014</VoiceId>
       <JapaneseText>バカな奴だ……</JapaneseText>
-      <EnglishText>What an i&lt;DIO&gt;t... </EnglishText>
+      <EnglishText>What an i&lt;Dio&gt;t... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -402,12 +403,12 @@ that... </EnglishText>
       <VoiceId>VSM_050_040_033</VoiceId>
       <JapaneseText>&lt;Claus&gt;。
 私は好きでここにいるのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;. I like to be here with you. </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287876</PointerOffset>
@@ -486,12 +487,12 @@ mom, I truly do. </EnglishText>
       <PointerOffset>288488</PointerOffset>
       <VoiceId>VSM_050_040_042</VoiceId>
       <JapaneseText>&lt;Claus&gt;……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;... </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>289304</PointerOffset>
@@ -569,12 +570,12 @@ strength to... </EnglishText>
       <PointerOffset>291000</PointerOffset>
       <VoiceId>VSM_050_040_049</VoiceId>
       <JapaneseText>ちょっと、&lt;Dio&gt;……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait, &lt;Dio&gt;... </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>291460</PointerOffset>
@@ -597,7 +598,7 @@ can't just lend it to you guys that easily. </EnglishText>
 現代の技術では作れないし、
 修理するのも難しい</JapaneseText>
       <EnglishText>The technology that created the rings doesn't exist 
-anymore, if it were to break it'd be extre&lt;MEL&gt;y hard to be 
+anymore, if it were to break it'd be extre&lt;Mel&gt;y hard to be 
 repaired. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -759,12 +760,12 @@ power. </EnglishText>
       <VoiceId>VSM_050_040_066</VoiceId>
       <JapaneseText>それから、
 私のことは&lt;Claus&gt;でいい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can call me simply "&lt;Claus&gt;." </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>44</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295928</PointerOffset>

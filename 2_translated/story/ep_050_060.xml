@@ -12,18 +12,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -231,12 +231,13 @@ Now you should be returning home. </EnglishText>
       <JapaneseText>&lt;Red&gt;ユークリッド村&lt;White&gt;でお会いした、
 &lt;Claus&gt;さんのお友達、
 ですよね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We met back in Euclid's village. You were &lt;Claus&gt;'s 
+friend...right? </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266120</PointerOffset>
@@ -324,24 +325,24 @@ something. </EnglishText>
       <VoiceId>VSM_050_060_035</VoiceId>
       <JapaneseText>&lt;Claus&gt;さんに
 会わなかったか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Have you not met &lt;Claus&gt; yet? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>267476</PointerOffset>
       <VoiceId>VSM_050_060_036Z</VoiceId>
       <JapaneseText>え？　&lt;Claus&gt;が
 来てるのかい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh? &lt;Claus&gt; has come here? </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>267724</PointerOffset>
@@ -371,12 +372,12 @@ something. </EnglishText>
       <PointerOffset>268176</PointerOffset>
       <VoiceId>VSM_050_060_039Z</VoiceId>
       <JapaneseText>&lt;Claus&gt;！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268548</PointerOffset>

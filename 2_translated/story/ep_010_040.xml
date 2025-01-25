@@ -20,18 +20,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -274,12 +274,13 @@ job as a Roleplayer, right now! </EnglishText>
       <JapaneseText>そんなの……
 &lt;Dio&gt;ひとりだけで
 行かせられると思う？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait don't rush away just yet... did you even
+consider what it means to go alone? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>265952</PointerOffset>
@@ -392,12 +393,13 @@ for me to go too? </EnglishText>
       <JapaneseText>うん！　&lt;Dio&gt;と&lt;Mel&gt;は
 ぼくの可愛い双子だもん。
 ぼくも一緒でなきゃね！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Yeah... &lt;Dio&gt; and &lt;Mel&gt; are such a fair pair of twins! I'll 
+go wherever you want to go! </EnglishText>
+      <Notes>Review translation.</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>269232</PointerOffset>

@@ -4,18 +4,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -221,12 +221,12 @@ small time! </EnglishText>
       <VoiceId>VSM_130_080_015</VoiceId>
       <JapaneseText>&lt;Dio&gt;も。
 ありがとう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you, too, &lt;Dio&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263624</PointerOffset>
@@ -391,12 +391,12 @@ to stay true to my feelings. </EnglishText>
       <VoiceId>VSM_130_080_029</VoiceId>
       <JapaneseText>&lt;Dio&gt;、突然、
 何を言い出すの！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, what are you saying!? </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>267652</PointerOffset>
@@ -404,12 +404,13 @@ to stay true to my feelings. </EnglishText>
       <JapaneseText>&lt;Mel&gt;はちゃんと
 &lt;Mint&gt;さんの代わりできたのに、
 オレ、ダメだったから……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt; was able to help &lt;Mint&gt;. But I haven't helped at 
+all... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>267652</PointerOffset>
@@ -476,7 +477,7 @@ right? </EnglishText>
       <PointerOffset>269020</PointerOffset>
       <VoiceId>VSM_130_080_036</VoiceId>
       <JapaneseText>そうだけド……</JapaneseText>
-      <EnglishText>&lt;DIO&gt;, we can't... </EnglishText>
+      <EnglishText>&lt;Dio&gt;, we can't... </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>26</Id>
@@ -541,12 +542,13 @@ no mercy. </EnglishText>
       <JapaneseText>わたしも行きます。
 &lt;Dio&gt;ひとりじゃ
 心配すぎるから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm going too. I'll only grow worried if &lt;Dio&gt; goes all on 
+his own. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270872</PointerOffset>

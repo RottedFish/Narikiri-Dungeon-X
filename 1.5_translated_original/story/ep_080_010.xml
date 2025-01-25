@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,18 +36,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -88,12 +88,12 @@
       <VoiceId>VSM_080_010_003Z</VoiceId>
       <JapaneseText>なんだ、&lt;Claus&gt;も。
 僕に会いたくなったのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even &lt;Claus&gt;'s here! Does everyone want to meet me? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261924</PointerOffset>
@@ -158,12 +158,13 @@
       <JapaneseText>そうだな、&lt;Claus&gt;は
 王国のお歴々の心証も
 よくないだろうし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's right. Alvanista's kingdom doesn't exactly have the 
+nicest image of &lt;Claus&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263872</PointerOffset>
@@ -196,12 +197,13 @@
       <JapaneseText>その代わり。
 僕の研究を手伝う件、
 よろしくな、&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In exchange, I want you to help me with my research. 
+Welcome to the team, &lt;Claus&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>264348</PointerOffset>

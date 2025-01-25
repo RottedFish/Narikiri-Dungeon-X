@@ -4,18 +4,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -44,10 +44,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -123,8 +123,8 @@ move and you'll win! </EnglishText>
       <VoiceId>VSM_180_030_012</VoiceId>
       <JapaneseText>あのバカ……私が近づくたびに、
 あちこち飛ばしてくれちゃって</JapaneseText>
-      <EnglishText>That i&lt;DIO&gt;t... Each and every time I get close to him he 
-sends me to a different ti&lt;MEL&gt;ine. </EnglishText>
+      <EnglishText>That i&lt;Dio&gt;t... Each and every time I get close to him he 
+sends me to a different ti&lt;Mel&gt;ine. </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -420,12 +420,12 @@ are trying hard to be "heroes." </EnglishText>
       <PointerOffset>269992</PointerOffset>
       <VoiceId>VSM_180_030_036</VoiceId>
       <JapaneseText>&lt;Dio&gt;……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;... </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270188</PointerOffset>
@@ -473,12 +473,13 @@ you'll...um... </EnglishText>
       <JapaneseText>&lt;Dio&gt;は自然体のままの
 ふたりでも十分魅力的って
 言いたいんだよね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I think &lt;Dio&gt;'s trying to say in his own way both of you 
+are fascinating persons as is. Right, &lt;Dio&gt;? </EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273308</PointerOffset>
@@ -496,7 +497,7 @@ you'll...um... </EnglishText>
       <PointerOffset>273676</PointerOffset>
       <VoiceId>VSM_180_030_042</VoiceId>
       <JapaneseText>わたしも……そう思います</JapaneseText>
-      <EnglishText>I feel the same as &lt;DIO&gt;. </EnglishText>
+      <EnglishText>I feel the same as &lt;Dio&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>27</Id>
@@ -586,12 +587,13 @@ anything inappropriate. </EnglishText>
       <VoiceId>VSM_180_030_049</VoiceId>
       <JapaneseText>いや、ありがとう、&lt;Dio&gt;。
 &lt;Mel&gt;も、それに&lt;Chester&gt;も</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No offense taken at all. Thank you deeply, &lt;Dio&gt;. And &lt;Mel&gt; 
+and &lt;Chester&gt;. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278848</PointerOffset>

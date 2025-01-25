@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -28,10 +28,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -83,12 +83,12 @@
       <PointerOffset>280292</PointerOffset>
       <VoiceId>VSM_250_040_004</VoiceId>
       <JapaneseText>行こう、&lt;Dio&gt;！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go after them, &lt;Dio&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280948</PointerOffset>
@@ -299,12 +299,12 @@ wrong. </EnglishText>
       <JapaneseText>&lt;Dio&gt;、&lt;Mel&gt;。
 助けがほしかったら、
 いつでも呼んで</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;, &lt;Mel&gt;. If you ever need help just say the word, ok? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285884</PointerOffset>

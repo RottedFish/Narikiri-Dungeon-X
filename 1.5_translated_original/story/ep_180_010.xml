@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -150,12 +150,12 @@ once you're there. Let's go, then! </EnglishText>
       <VoiceId>VSM_180_010_015</VoiceId>
       <JapaneseText>前に&lt;Dio&gt;が
 言ってたでしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's like &lt;Dio&gt; said before. </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263780</PointerOffset>
@@ -236,12 +236,12 @@ investigate what you are. </EnglishText>
       <PointerOffset>265472</PointerOffset>
       <VoiceId>VSM_180_010_024</VoiceId>
       <JapaneseText>ありがとう、&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thanks, &lt;Mel&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265768</PointerOffset>

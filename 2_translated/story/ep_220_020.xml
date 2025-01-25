@@ -12,26 +12,26 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -84,10 +84,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -392,12 +392,13 @@ fine for all of you? </EnglishText>
       <JapaneseText>ああ。とりあえず、
 こっちはひと段落ついたし。
 &lt;Dio&gt;たちのおかげでね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's no problem here. We could finally take a break in 
+our era...thanks to &lt;Dio&gt; and &lt;Mel&gt;, no less! </EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295120</PointerOffset>
@@ -431,12 +432,13 @@ use your precious power for my cause... </EnglishText>
       <VoiceId>VSM_220_020_029</VoiceId>
       <JapaneseText>これは私たちの世界のため。
 &lt;Mel&gt;ちゃんも言ってたっしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is our world and therefore my responsibility. &lt;Mel&gt; 
+said as much too, remember? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295984</PointerOffset>

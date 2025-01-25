@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -51,12 +51,12 @@
       <PointerOffset>258940</PointerOffset>
       <VoiceId>VSM_170_020_001</VoiceId>
       <JapaneseText>どうすんの、&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What will you do now, &lt;Mel&gt;? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259080</PointerOffset>
@@ -113,24 +113,24 @@ Atomism Cores back. That's a good lead. </EnglishText>
       <JapaneseText>やっぱり&lt;Dio&gt;が
 いた方がいいよね。
 男の子だもの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I knew it. You'd rather be at &lt;Dio&gt;'s side, right? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260728</PointerOffset>
       <VoiceId>VSM_170_020_007</VoiceId>
       <JapaneseText>&lt;Dio&gt;なんかいなくても
 ……平気だよ……うん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sure we'll pull through ...without...&lt;Dio&gt;... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261816</PointerOffset>

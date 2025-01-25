@@ -4,34 +4,34 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -82,7 +82,7 @@
       <JapaneseText>くんくん……
 風の匂いが
 こっちからするし……</JapaneseText>
-      <EnglishText>*sniff* There is something s&lt;MEL&gt;ly coming from the wind... </EnglishText>
+      <EnglishText>*sniff* There is something s&lt;Mel&gt;ly coming from the wind... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
@@ -95,12 +95,12 @@
       <JapaneseText>ははっ、
 &lt;Mel&gt;、ブタっぽい顔に
 なってんぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hah! &lt;Mel&gt;, you can tell us if you just let one go... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263676</PointerOffset>
@@ -108,7 +108,7 @@
       <JapaneseText>いちち……
 大体、風の匂いって
 どんなだよ？</JapaneseText>
-      <EnglishText>Ouch! Ugh, anyways, what did you mean by some s&lt;MEL&gt;l in 
+      <EnglishText>Ouch! Ugh, anyways, what did you mean by some s&lt;Mel&gt;l in 
 the air? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -122,7 +122,7 @@ the air? </EnglishText>
       <JapaneseText>風の匂いはわかんないけど、
 ジメジメがないのは、空気が
 抜けてるから</JapaneseText>
-      <EnglishText>I don't know about the s&lt;MEL&gt;l you are talking about, 
+      <EnglishText>I don't know about the s&lt;Mel&gt;l you are talking about, 
 considering it's pretty dry and that the heavy atmosphere should have 
 removed any trace of it. </EnglishText>
       <Notes/>

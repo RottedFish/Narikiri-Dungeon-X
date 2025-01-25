@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -76,12 +76,12 @@
       <VoiceId>VSM_170_060_001</VoiceId>
       <JapaneseText>&lt;Dio&gt;、
 おまえ大丈夫か？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey &lt;Dio&gt;, is everything okay? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281476</PointerOffset>
@@ -234,7 +234,7 @@ by someone... </EnglishText>
 君たちは自分の時代に
 戻れないんじゃないのかい？</JapaneseText>
       <EnglishText>That's a shame. So you guys can't return to your 
-ti&lt;MEL&gt;ine? </EnglishText>
+ti&lt;Mel&gt;ine? </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -294,7 +294,7 @@ place. </EnglishText>
       <PointerOffset>288704</PointerOffset>
       <VoiceId>VSM_170_060_038</VoiceId>
       <JapaneseText>行ってみる？</JapaneseText>
-      <EnglishText>What do you think, &lt;DIO&gt;? Should we go? </EnglishText>
+      <EnglishText>What do you think, &lt;Dio&gt;? Should we go? </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>18</Id>

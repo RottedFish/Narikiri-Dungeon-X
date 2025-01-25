@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -20,18 +20,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -52,10 +52,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -255,12 +255,13 @@ were... I couldn't bear to see you suffer... </EnglishText>
       <JapaneseText>やっぱり……ぼくは……
 &lt;Dio&gt;と&lt;Mel&gt;の
 『お母さん』なんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I guess...despite everything I'm still your mother, &lt;Dio&gt; 
+and &lt;Mel&gt;... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281280</PointerOffset>
@@ -442,12 +443,12 @@ retribution. </EnglishText>
       <VoiceId>VSM_240_010_073</VoiceId>
       <JapaneseText>どけ、&lt;Rondoline&gt;。
 死にたくないのであれば</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Move, &lt;Rondoline&gt;. I do not want to kill you. </EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>289140</PointerOffset>
@@ -605,12 +606,13 @@ it! </EnglishText>
       <JapaneseText>もし&lt;Mel&gt;の魔法の使い方が
 悪かったんなら、
 それを改めなきゃだし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sure, &lt;Mel&gt;'s magic may have created the Prism Ring. But 
+it's all over now! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294348</PointerOffset>

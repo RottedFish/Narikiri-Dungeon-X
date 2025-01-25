@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -28,10 +28,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -83,12 +83,12 @@
       <PointerOffset>283488</PointerOffset>
       <VoiceId>VSM_180_050_002</VoiceId>
       <JapaneseText>&lt;Dio&gt;！　&lt;Mel&gt;！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;! &lt;Mel&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283784</PointerOffset>
@@ -242,12 +242,12 @@ longer. </EnglishText>
       <PointerOffset>289304</PointerOffset>
       <VoiceId>VSM_180_050_017</VoiceId>
       <JapaneseText>&lt;Dio&gt;……&lt;Mel&gt;……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;... &lt;Mel&gt;... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

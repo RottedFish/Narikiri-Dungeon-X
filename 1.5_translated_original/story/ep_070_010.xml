@@ -12,18 +12,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,26 +36,26 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;＆&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt; &amp; &lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -96,12 +96,13 @@
       <JapaneseText>ノームか？
 私だ、召喚師の&lt;Claus&gt;だ！
 かつておまえと契約した……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that you Gnome? It's me, Summoner &lt;Claus&gt;! I made a pact 
+with you once! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262108</PointerOffset>
@@ -191,12 +192,12 @@ without a reason... </EnglishText>
       <PointerOffset>266216</PointerOffset>
       <VoiceId>VSM_070_010_013</VoiceId>
       <JapaneseText>だ、だいじょーぶか、&lt;Mel&gt;！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-it'll be ok, &lt;Mel&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266572</PointerOffset>
@@ -225,12 +226,12 @@ without a reason... </EnglishText>
       <VoiceId>VSM_070_010_016</VoiceId>
       <JapaneseText>ク、&lt;Claus&gt;さん、
 あの野郎、この洞窟の奥だよな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>K-&lt;Claus&gt;... That bastard is inside this cave, isn't he? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>267416</PointerOffset>
@@ -249,12 +250,12 @@ without a reason... </EnglishText>
       <VoiceId>VSM_070_010_018</VoiceId>
       <JapaneseText>し、しっかりしろ、&lt;Mel&gt;！
 行くぞ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>H-hold it right there, &lt;Mel&gt;! Let's go! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268388</PointerOffset>

@@ -12,10 +12,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,18 +36,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -109,7 +109,7 @@ right! </EnglishText>
       <VoiceId>VSM_320_060_014</VoiceId>
       <JapaneseText>まったく……馬鹿野郎だよ、
 おまえたち、は……</JapaneseText>
-      <EnglishText>You really are...a bunch of i&lt;DIO&gt;ts...ugh... </EnglishText>
+      <EnglishText>You really are...a bunch of i&lt;Dio&gt;ts...ugh... </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -171,12 +171,12 @@ well that... </EnglishText>
       <VoiceId>VSM_320_060_019</VoiceId>
       <JapaneseText>……あのふたりは
 &lt;Dio&gt;くんと&lt;Mel&gt;ちゃんだった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...So that's what &lt;Dio&gt; and &lt;Mel&gt; had in mind all along. </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266736</PointerOffset>

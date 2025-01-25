@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -75,12 +75,12 @@
       <PointerOffset>264080</PointerOffset>
       <VoiceId>VSM_140_050_008</VoiceId>
       <JapaneseText>&lt;Dio&gt;！　大丈夫！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;! Are you okay!? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>264260</PointerOffset>
@@ -111,12 +111,12 @@ that? </EnglishText>
       <VoiceId>VSM_140_050_011</VoiceId>
       <JapaneseText>以前、&lt;Claus&gt;さんに
 聞いたことがあります</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt; once told us about this! </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>264620</PointerOffset>

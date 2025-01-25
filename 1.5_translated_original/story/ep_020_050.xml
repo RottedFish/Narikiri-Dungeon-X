@@ -12,18 +12,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -192,12 +192,14 @@ attacked by monsters before? </EnglishText>
       <JapaneseText>&lt;Mel&gt;は先に家に帰って。
 心配ないよ、
 &lt;Dio&gt;にはぼくがついてくかラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;, you can return home if you want to. There's
+nothing to worry about here. &lt;Dio&gt; and I can handle
+it from here. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>266976</PointerOffset>

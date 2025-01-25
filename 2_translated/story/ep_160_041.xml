@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -140,7 +140,7 @@ good for!? </EnglishText>
       <JapaneseText>ハハハ……
 １００年前の僕は
 何も知らなかった</JapaneseText>
-      <EnglishText>Hahahaha... &lt;DIO&gt;...100 years ago I really didn't know 
+      <EnglishText>Hahahaha... &lt;Dio&gt;...100 years ago I really didn't know 
 anything... </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -214,12 +214,12 @@ anything...All I accomplished...is chaos... </EnglishText>
       <VoiceId>VSM_160_040_049</VoiceId>
       <JapaneseText>&lt;Dio&gt;……
 バジルさんはもう……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;...Basil has already... </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286796</PointerOffset>
@@ -236,12 +236,12 @@ anything...All I accomplished...is chaos... </EnglishText>
       <PointerOffset>287336</PointerOffset>
       <VoiceId>VSM_160_040_051</VoiceId>
       <JapaneseText>&lt;Dio&gt;……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;... </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287512</PointerOffset>
@@ -269,12 +269,12 @@ anything...All I accomplished...is chaos... </EnglishText>
       <PointerOffset>288316</PointerOffset>
       <VoiceId>VSM_160_040_054</VoiceId>
       <JapaneseText>あ、&lt;Dio&gt;……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;! Don't run on your own! </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

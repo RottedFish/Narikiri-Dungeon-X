@@ -12,18 +12,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -338,12 +338,12 @@ Dhaos 50 years ago! </EnglishText>
       <PointerOffset>287168</PointerOffset>
       <VoiceId>VSM_030_060_036</VoiceId>
       <JapaneseText>&lt;Mel&gt;……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No... &lt;Mel&gt;... </EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287804</PointerOffset>
@@ -411,24 +411,25 @@ visit. Might be kinda hard to talk to them. </EnglishText>
       <VoiceId>VSM_030_060_048</VoiceId>
       <JapaneseText>ま、でも餅は餅屋って言うしぃ、
 &lt;Claus&gt;に聞いてくれば？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You know what they say, one should talk to the specialist 
+for the best results. Does &lt;Claus&gt; ring any bells? </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289612</PointerOffset>
       <VoiceId>VSM_030_060_049</VoiceId>
       <JapaneseText>&lt;Claus&gt;？　それって……
 &lt;Claus&gt;・Ｆ・レスター博士？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;? Is that... the wise &lt;Claus&gt; F. Lester? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289808</PointerOffset>
@@ -447,7 +448,7 @@ visit. Might be kinda hard to talk to them. </EnglishText>
       <JapaneseText>……ってことは、じゃあ
 レスター博士も、
 どっかで生きてんのか？</JapaneseText>
-      <EnglishText>...Are you implying you know where Mister &lt;Clauss&gt; lives? </EnglishText>
+      <EnglishText>...Are you implying you know where Mister &lt;Claus&gt; lives? </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
@@ -570,12 +571,13 @@ use this to return to this era. </EnglishText>
       <JapaneseText>そうそう、&lt;Claus&gt;は、
 &lt;Red&gt;ユークリッド&lt;White&gt;って村に
 いるからね〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, yeah! I almost forgot to tell you &lt;Claus&gt;
+lives in Euclid village. </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>37</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>293496</PointerOffset>

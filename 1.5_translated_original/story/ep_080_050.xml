@@ -12,18 +12,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,18 +36,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -460,12 +460,12 @@ Never forget your dream. </EnglishText>
       <VoiceId>VSM_080_050_032Z</VoiceId>
       <JapaneseText>だから、
 がんばれよ、&lt;Dio&gt;！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's why...Never give up, &lt;Dio&gt;! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268608</PointerOffset>
@@ -496,12 +496,13 @@ Never forget your dream. </EnglishText>
       <JapaneseText>でも、&lt;Claus&gt;もまた
 やる気になってくれたし、
 研究も進展すると思う。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But knowing &lt;Claus&gt; is there I'm sure there'll always be 
+progress. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269040</PointerOffset>
@@ -696,12 +697,12 @@ the sky. </EnglishText>
       <VoiceId>VSM_080_050_052Z</VoiceId>
       <JapaneseText>&lt;Claus&gt;、
 約束、忘れないでくれよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;. Don't forget your promise. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>41</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275768</PointerOffset>
@@ -720,12 +721,13 @@ the sky. </EnglishText>
       <JapaneseText>うぉし、
 &lt;Dio&gt;くん、&lt;Mel&gt;ちゃん、
 精霊さんに会いに行こうぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All right! &lt;Dio&gt;, &lt;Mel&gt;! It's time to give the Spirit a 
+visit it'll never forget! </EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>43</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276428</PointerOffset>
