@@ -12,26 +12,26 @@
     <Entry>
       <PointerOffset>104</PointerOffset>
       <JapaneseText>通・ほえる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Normal: Bark</EnglishText>
       <Notes/>
       <Id>600</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>136</PointerOffset>
       <JapaneseText>通・ジャンプ突き</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Normal: Leaping Thrust</EnglishText>
       <Notes/>
       <Id>601</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>168</PointerOffset>
       <JapaneseText>通・ジャンプかみつき</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Normal: Leaping Bite</EnglishText>
       <Notes/>
       <Id>602</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>232</PointerOffset>
@@ -44,18 +44,18 @@
     <Entry>
       <PointerOffset>328</PointerOffset>
       <JapaneseText>通・なぎ払い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Normal: Sweep</EnglishText>
       <Notes/>
       <Id>604</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>872,360</PointerOffset>
       <JapaneseText>通・パンチ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Normal: Punch</EnglishText>
       <Notes/>
       <Id>605</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1320,392</PointerOffset>
@@ -92,7 +92,7 @@
     <Entry>
       <PointerOffset>1064,552</PointerOffset>
       <JapaneseText>通・突き</JapaneseText>
-      <EnglishText>Thrust</EnglishText>
+      <EnglishText>Normal: Thrust</EnglishText>
       <Notes/>
       <Id>610</Id>
       <Status>Editing</Status>
@@ -100,7 +100,7 @@
     <Entry>
       <PointerOffset>1288,584</PointerOffset>
       <JapaneseText>通・中段突き</JapaneseText>
-      <EnglishText>Middle Thrust</EnglishText>
+      <EnglishText>Normal: Center Thrust</EnglishText>
       <Notes/>
       <Id>611</Id>
       <Status>Editing</Status>
@@ -108,7 +108,7 @@
     <Entry>
       <PointerOffset>840,616</PointerOffset>
       <JapaneseText>通・前進突き</JapaneseText>
-      <EnglishText>Advancing Thrust</EnglishText>
+      <EnglishText>Normal: Advancing Thrust</EnglishText>
       <Notes/>
       <Id>612</Id>
       <Status>Editing</Status>
@@ -116,7 +116,7 @@
     <Entry>
       <PointerOffset>3112,648</PointerOffset>
       <JapaneseText>通・前進攻撃</JapaneseText>
-      <EnglishText>Advancing Attack</EnglishText>
+      <EnglishText>Normal: Advancing Assault</EnglishText>
       <Notes/>
       <Id>613</Id>
       <Status>Editing</Status>
@@ -3212,7 +3212,7 @@ rainbow trail. Extends to Rainbow Ascension.</EnglishText>
     <Entry>
       <PointerOffset>7272</PointerOffset>
       <JapaneseText>天翔翼</JapaneseText>
-      <EnglishText>Phoenix Strike</EnglishText>
+      <EnglishText>Soaring Wings</EnglishText>
       <Notes/>
       <Id>955</Id>
       <Status>Editing</Status>
@@ -3240,7 +3240,7 @@ whirlwind by quickly unsheathing a dagger.</EnglishText>
       <JapaneseText>特技　追加技『天翔翼』
 伸ばした刃で地面を抉り、衝撃を起こす双剣技</JapaneseText>
       <EnglishText>Base: Slash the ground to cause an
-explosion. Extends into Phoenix Strike.</EnglishText>
+explosion. Extends into Soaring Wings.</EnglishText>
       <Notes/>
       <Id>958</Id>
       <Status>Editing</Status>
@@ -5943,7 +5943,7 @@ the enemy. Extend Effect: Rime Hammer</EnglishText>
     <Entry>
       <PointerOffset>13864</PointerOffset>
       <JapaneseText>瞬刃ニャーゴ</JapaneseText>
-      <EnglishText>Sonic Cat</EnglishText>
+      <EnglishText>Transinyaa~nt Blade</EnglishText>
       <Notes/>
       <Id>1268</Id>
       <Status>Editing</Status>
@@ -5977,7 +5977,7 @@ the enemy. Extend Effect: Rime Hammer</EnglishText>
     <Entry>
       <PointerOffset>13928</PointerOffset>
       <JapaneseText>刹ニャ</JapaneseText>
-      <EnglishText>Sacred Meow</EnglishText>
+      <EnglishText>Transinyaa~nce</EnglishText>
       <Notes/>
       <Id>1272</Id>
       <Status>Editing</Status>
@@ -6045,7 +6045,7 @@ the enemy. Extend Effect: Rime Hammer</EnglishText>
     <Entry>
       <PointerOffset>14056</PointerOffset>
       <JapaneseText>真空烈ニャン</JapaneseText>
-      <EnglishText>Omega Tempest Meow</EnglishText>
+      <EnglishText>Omeowga Tempest</EnglishText>
       <Notes>Meowmega Tempest</Notes>
       <Id>1280</Id>
       <Status>Editing</Status>
