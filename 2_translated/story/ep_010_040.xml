@@ -84,7 +84,8 @@ what you were going to say... </EnglishText>
       <JapaneseText>わーってるだぁ、
 せかすでねーって。
 んだば……</JapaneseText>
-      <EnglishText>Cutting to the chase, eh? Let's get down to it then. So... </EnglishText>
+      <EnglishText>Cutting to the chase, eh? Let's get 
+down to it then. So...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -109,8 +110,8 @@ what you were going to say... </EnglishText>
       <JapaneseText>そういうことで、そろそろ
 『なりきり士』の仕事を始める
 年頃なわけだーよ</JapaneseText>
-      <EnglishText>Seems you are about the age to start your job as 
-Roleplayers. </EnglishText>
+      <EnglishText>Seems you are about the age to 
+start your job as Roleplayers.</EnglishText>
       <Notes>Review. Should 『なりきり士』 = Roleplayer or Narikiri's , etc...</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -148,7 +149,9 @@ people's clothing which in turn allows them to transform into what they wear, ha
       <JapaneseText>剣士の服を着れば立派な剣士で、
 魔法使いの服を着てみれば、
 魔法使いになれるっつー具合だ</JapaneseText>
-      <EnglishText>If you wear a knight's clothing, you'll impersonate a splendid knight. If you wear magician's clothes, you'll be skilled in magic.</EnglishText>
+      <EnglishText>If you wear a knight's clothing, you'll impersonate 
+a splendid knight. If you wear magician's clothes, 
+you'll become skilled in magic.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -161,8 +164,8 @@ people's clothing which in turn allows them to transform into what they wear, ha
       <JapaneseText>おめぇらふたりには、
 そんだら力が生まれたときから
 宿っとるんだーよ</JapaneseText>
-      <EnglishText>The two of you will have this power at your 
-disposal for the rest of your lives. </EnglishText>
+      <EnglishText>The two of you will have this power at 
+your disposal for the rest of your lives.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -199,8 +202,8 @@ disposal for the rest of your lives. </EnglishText>
       <JapaneseText>グダグダ言ってねぇで、
 おらの中の服、
 着てみりゃわかるだ！</JapaneseText>
-      <EnglishText>I'm tired of explanations, so try some of the clothes
-I have inside me and see for yourselves. </EnglishText>
+      <EnglishText>I'm tired of explanations, so try some of the 
+clothes I have inside me and see for yourselves.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -213,7 +216,8 @@ I have inside me and see for yourselves. </EnglishText>
       <JapaneseText>とにかく、『なりきり士』の力で
 困ってる人たちを
 助ける仕事をするんだど</JapaneseText>
-      <EnglishText>Anyhow, the most important mission you have as a Roleplayer is to help people in need. </EnglishText>
+      <EnglishText>Anyhow, the most important mission you have 
+as a Roleplayer is to help people in need.</EnglishText>
       <Notes>Review. Narikiri?</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -225,12 +229,12 @@ I have inside me and see for yourselves. </EnglishText>
       <VoiceId>VSM_010_040_015</VoiceId>
       <JapaneseText>ノルン様はそれをおめぇらに
 期待しとるっちゅーわけだ</JapaneseText>
-      <EnglishText>Miss Norn has high expectations of the two of you.</EnglishText>
+      <EnglishText>Miss Norn has high expectations of you two.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>3</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>264208</PointerOffset>
@@ -393,8 +397,8 @@ for me to go too? </EnglishText>
       <JapaneseText>うん！　&lt;Dio&gt;と&lt;Mel&gt;は
 ぼくの可愛い双子だもん。
 ぼくも一緒でなきゃね！</JapaneseText>
-      <EnglishText>Yeah... &lt;Dio&gt; and &lt;Mel&gt; are such a fair pair of twins! I'll 
-go wherever you want to go! </EnglishText>
+      <EnglishText>Yeah... Yeah... and and are such a fair pair
+ of twins! I'll go wherever you want to go!</EnglishText>
       <Notes>Review translation.</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
@@ -419,7 +423,7 @@ go wherever you want to go! </EnglishText>
       <JapaneseText>『なりきり士』のことを
 教えてほしいだか？
 ん？　ん？</JapaneseText>
-      <EnglishText>Do you want to know more about the Roleplayer? Mmm? </EnglishText>
+      <EnglishText>Do you want to know more about Roleplayers? Mmm? </EnglishText>
       <Notes>Review. Narikiri?</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
@@ -542,7 +546,7 @@ is a real pain!</EnglishText>
       <JapaneseText>それから、おらは豆粒みたいに
 ちっちゃくなって
 おめぇらについてくだーよ</JapaneseText>
-      <EnglishText>Now then, I'll shrink bean-size to keep an eye on you. </EnglishText>
+      <EnglishText>Now then, I'll shrink to bean-size and keep an eye on you. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
@@ -625,7 +629,8 @@ there's monsters around. </EnglishText>
       <VoiceId>VSM_010_040_069</VoiceId>
       <JapaneseText>そう。ヴァルハラ平原に貧しい人たちが
 移り住んで作った村なんだけド</JapaneseText>
-      <EnglishText>Yes, poor people moved into the Valhalla Plains and built a village there.</EnglishText>
+      <EnglishText>Yes, poor people moved into the Valhalla 
+Plains and built a village there.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>34</Id>

@@ -243,7 +243,7 @@ way through it. </EnglishText>
       <PointerOffset>265628</PointerOffset>
       <VoiceId>VSM_000_020_016</VoiceId>
       <JapaneseText>でも、それでも……</JapaneseText>
-      <EnglishText>But... still... </EnglishText>
+      <EnglishText>But...still... </EnglishText>
       <Notes/>
       <Id>14</Id>
       <SpeakerId>1</SpeakerId>
@@ -283,12 +283,15 @@ They might even try to destroy it. </EnglishText>
       <JapaneseText>ただ見守るだけでよいのです。
 お願いします。彼らの魂の行く先を
 ……見守ってあげてください</JapaneseText>
-      <EnglishText>Despite that, I request that you look after and protect them. It was a promise to him, to his soul… So please I must ask you to watch over these children. </EnglishText>
+      <EnglishText>Despite that, I request that you look after and
+protect them. It was a promise to him, to his 
+soul. So please I must ask you to watch over 
+these children.</EnglishText>
       <Notes>Review. Specifically "It was a promise to him, to his soul..."</Notes>
       <Id>15</Id>
       <SpeakerId>3</SpeakerId>
       <BubbleId>3</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>267148</PointerOffset>
@@ -306,7 +309,7 @@ They might even try to destroy it. </EnglishText>
       <PointerOffset>267952</PointerOffset>
       <VoiceId>VSM_000_020_021</VoiceId>
       <JapaneseText>このまま……逃げちゃう……？</JapaneseText>
-      <EnglishText>It looks like... she ran away? </EnglishText>
+      <EnglishText>It looks like...she ran away? </EnglishText>
       <Notes/>
       <Id>17</Id>
       <SpeakerId>1</SpeakerId>

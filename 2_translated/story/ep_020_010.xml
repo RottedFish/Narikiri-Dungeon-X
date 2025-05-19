@@ -54,7 +54,7 @@
       <JapaneseText>あレ……なんかぼくの
 知ってる&lt;Red&gt;ヴァルハラ村&lt;White&gt;より
 キレイな気がする……</JapaneseText>
-      <EnglishText>What the... the atmosphere here is a lot livelier
+      <EnglishText>What the...the atmosphere here is a lot livelier
 than the Valhalla Village I remember...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -92,7 +92,7 @@ only natural to get livelier. </EnglishText>
       <VoiceId>VSM_020_010_005</VoiceId>
       <JapaneseText>あれって、
 何年前だったんだっけ？</JapaneseText>
-      <EnglishText>I wonder...how many years it has been since then. </EnglishText>
+      <EnglishText>I wonder...how many years it has been since then?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -115,7 +115,7 @@ only natural to get livelier. </EnglishText>
       <PointerOffset>261144</PointerOffset>
       <VoiceId>VSM_020_010_007</VoiceId>
       <JapaneseText>……って……</JapaneseText>
-      <EnglishText>But before that... </EnglishText>
+      <EnglishText>...But before that... </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -139,8 +139,8 @@ only natural to get livelier. </EnglishText>
       <JapaneseText>エト、さっき言ってた
 ノルンって……
 オレらの母ちゃん？</JapaneseText>
-      <EnglishText>Hey Eto! That Norn you were talking about a while ago...
-is she supposed to be our mom? </EnglishText>
+      <EnglishText>Hey Eto! That Norn you were talking about a 
+while ago...is she supposed to be our mom?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -165,7 +165,7 @@ is she supposed to be our mom? </EnglishText>
       <JapaneseText>母ちゃんか〜。
 どんなかな？</JapaneseText>
       <EnglishText>My own mother... I wonder... 
-what kind of person she is... </EnglishText>
+what kind of person she is...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -201,12 +201,12 @@ maybe so...</EnglishText>
       <PointerOffset>265484</PointerOffset>
       <VoiceId>VSM_020_010_014</VoiceId>
       <JapaneseText>うん……そうだね♪</JapaneseText>
-      <EnglishText>Well, yes! I guess you're right!! </EnglishText>
-      <Notes/>
+      <EnglishText>Well, yes! I guess you're right!!!</EnglishText>
+      <Notes>Maybe add the music note to the end</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>265624</PointerOffset>

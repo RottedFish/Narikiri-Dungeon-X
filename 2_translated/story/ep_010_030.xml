@@ -157,12 +157,17 @@ a nice figure to be observed like this? </EnglishText>
       <JapaneseText>ノルン様のお達しで、
 おめぇらのとこに来てやっただ。
 感謝せぇよ</JapaneseText>
-      <EnglishText>And since I’m such a good friend of Miss Norn I couldn’t refuse when she asked me to come all the way here. Congratulations, you get to meet me!</EnglishText>
-      <Notes/>
+      <EnglishText>...And since I’m such a good friend of Miss Norn I
+couldn’t refuse when she asked me to come all 
+the way here. Congratulations, you get to meet me!</EnglishText>
+      <Notes>...And since I’m such good friends with Miss Norn I
+couldn’t refuse when she asked me to come all 
+the way here. Congratulations, you get to meet me!
+~Gator </Notes>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>263264</PointerOffset>
@@ -195,21 +200,22 @@ a nice figure to be observed like this? </EnglishText>
       <JapaneseText>ふかし芋の
 ひとつやふたつ、
 出てこんもんか？</JapaneseText>
-      <EnglishText>You've made me wait outside forever. Pfft, you really must 
-be country bumpkins if your manners are this poor. </EnglishText>
-      <Notes/>
+      <EnglishText>You've made me wait outside forever. Pfft, you 
+really must be country bumpkins if your manners 
+are this poor.</EnglishText>
+      <Notes>maybe "Pfff, you must really be country bumpkins with manners like that."  ~Gator</Notes>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>263884</PointerOffset>
       <VoiceId>VSM_010_030_016</VoiceId>
       <JapaneseText>じゃ、じゃあ……
 ひとまず中に……</JapaneseText>
-      <EnglishText>W-well I guess you can come inside
-our house for the time being... </EnglishText>
+      <EnglishText>W-Well I guess you can come inside
+our house for the time being...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
