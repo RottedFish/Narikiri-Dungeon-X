@@ -1,0 +1,134 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37208</PointerOffset>
+      <VoiceId>VCT_003_107_001</VoiceId>
+      <JapaneseText>デリス・カーラーンでの
+戦争の原因って何だったの？</JapaneseText>
+      <EnglishText>Why did Derris Kharlan enter war in the first place?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37664</PointerOffset>
+      <VoiceId>VCT_003_107_002</VoiceId>
+      <JapaneseText>わかんない……
+誰も知らなかったんだ</JapaneseText>
+      <EnglishText>I don't know...I don't think anyone knows exactly why...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38096</PointerOffset>
+      <VoiceId>VCT_003_107_003</VoiceId>
+      <JapaneseText>ああ……積もりすぎた恨みとか憎しみとか……
+原因はもう誰も覚えてなかった</JapaneseText>
+      <EnglishText>Yeah... It was a vicious cycle of hatred, resentment and strong beliefs... By the end of it no one remembers why they began fighting...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38388</PointerOffset>
+      <VoiceId>VCT_003_107_004</VoiceId>
+      <JapaneseText>誰も原因を調べなかったの？</JapaneseText>
+      <EnglishText>No one investigated the cause, though?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38724</PointerOffset>
+      <VoiceId>VCT_003_107_005</VoiceId>
+      <JapaneseText>オレも親を敵に殺されて、
+戦争の本当のとこなんてどうでもよくなってた</JapaneseText>
+      <EnglishText>I also entered the army because my parents were killed without knowing the real motive of the war.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39012</PointerOffset>
+      <VoiceId>VCT_003_107_006</VoiceId>
+      <JapaneseText>わたしも……みんな誰もが
+そうだったんだよ</JapaneseText>
+      <EnglishText>Me too... Everyone was too fixated to fight to think about it.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39244</PointerOffset>
+      <VoiceId>VCT_003_107_007</VoiceId>
+      <JapaneseText>ダオスみたいな第三者は他人事のようにしか
+捉えられなかった</JapaneseText>
+      <EnglishText>And people like Dhaos just stood aside as if it was someone else's problem...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39516</PointerOffset>
+      <VoiceId>VCT_003_107_008</VoiceId>
+      <JapaneseText>それで、この結果か……</JapaneseText>
+      <EnglishText>And that resulted in this...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,152 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText>Variable</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37432</PointerOffset>
+      <VoiceId>VCT_005_187_001</VoiceId>
+      <JapaneseText>んくんく……ぷはぁっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38604</PointerOffset>
+      <VoiceId>VCT_005_187_002</VoiceId>
+      <JapaneseText>あーっ！　そのミルク、今夜のご飯の材料なのに、
+勝手に飲んじゃダメじゃん！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39412</PointerOffset>
+      <VoiceId>VCT_005_187_003</VoiceId>
+      <JapaneseText>え？　そーだったの？　ゴメンゴメン、
+なんか一日一杯飲まないと調子出ないんだよね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40476</PointerOffset>
+      <VoiceId>VCT_005_187_004</VoiceId>
+      <JapaneseText>ミルクに含まれるカルシウムは体を丈夫にしますし、
+お通じを促す役目もあるそうです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40588</PointerOffset>
+      <VoiceId>VCT_005_187_005</VoiceId>
+      <JapaneseText>人間の成長も助けるって言うしね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41360</PointerOffset>
+      <VoiceId>VCT_005_187_006</VoiceId>
+      <JapaneseText>成長不足の&lt;Arche&gt;は、
+たくさん飲んだ方がいいな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42724</PointerOffset>
+      <VoiceId>VCT_005_187_007</VoiceId>
+      <JapaneseText>誰が成長不足よ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43556</PointerOffset>
+      <VoiceId>VCT_005_187_008</VoiceId>
+      <JapaneseText>落ち着けよ、イライラしやすいのは
+カルシウムが足りないから、とも言うぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44312</PointerOffset>
+      <VoiceId>VCT_005_187_009</VoiceId>
+      <JapaneseText>うるさいっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

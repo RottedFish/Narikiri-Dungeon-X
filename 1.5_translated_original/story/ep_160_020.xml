@@ -1,0 +1,152 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>バジル</JapaneseText>
+      <EnglishText>Basil</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>259828</PointerOffset>
+      <VoiceId>VSM_160_020_001</VoiceId>
+      <JapaneseText>止まれ！　ブレイナー！</JapaneseText>
+      <EnglishText>Hold it! Brynhildr! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261956</PointerOffset>
+      <VoiceId>VSM_160_020_002</VoiceId>
+      <JapaneseText>バジルさん！
+バジルさんなのか！？</JapaneseText>
+      <EnglishText>Mister Basil! Mister Basil, is that you!? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263480</PointerOffset>
+      <VoiceId>VSM_160_020_003Z</VoiceId>
+      <JapaneseText>ばれたら、仕方がない。
+久しぶりだな</JapaneseText>
+      <EnglishText>No use hiding it anymore. Long time no see, &lt;Dio&gt;. </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263480</PointerOffset>
+      <VoiceId>VSM_160_020_004Z</VoiceId>
+      <JapaneseText>しかし君たち、
+全く歳をとらないな。
+エルフでもないのに……</JapaneseText>
+      <EnglishText>But you guys look the same after all this time. You aren't 
+elves either... </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264008</PointerOffset>
+      <VoiceId>VSM_160_020_005</VoiceId>
+      <JapaneseText>……どうして……！
+なんでこんなこと
+してるんだよ！？</JapaneseText>
+      <EnglishText>...Why are you doing this!? What could possibly drive you 
+to do this!? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264148</PointerOffset>
+      <VoiceId>VSM_160_020_006Z</VoiceId>
+      <JapaneseText>どうしてだって？
+アハハ、僕にもわからないよ</JapaneseText>
+      <EnglishText>Why you ask? Hahaha! Not even I am very sure about the 
+answer. </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264400</PointerOffset>
+      <VoiceId>VSM_160_020_007</VoiceId>
+      <JapaneseText>ふざけるな！</JapaneseText>
+      <EnglishText>Don't mess with us! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264632</PointerOffset>
+      <VoiceId>VSM_160_020_008Z</VoiceId>
+      <JapaneseText>ふざけてるのは
+どっちだ！</JapaneseText>
+      <EnglishText>YOU should cut the crap! </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265412</PointerOffset>
+      <VoiceId>VSM_160_020_009Z</VoiceId>
+      <JapaneseText>僕の大切なものを
+すべて踏みにじったのは
+おまえたちだ！</JapaneseText>
+      <EnglishText>You're the ones that have crushed everything I hold dear! </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

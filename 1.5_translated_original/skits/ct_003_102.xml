@@ -1,0 +1,166 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37208</PointerOffset>
+      <VoiceId>VCT_003_102_001</VoiceId>
+      <JapaneseText>そう言えば前にノルンさん、
+『希望のひとしずく』から生まれたって言ってたよね</JapaneseText>
+      <EnglishText>That reminds me. Miss Norn said a while ago she was given birth as a Tear of Hope.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37728</PointerOffset>
+      <VoiceId>VCT_003_102_002</VoiceId>
+      <JapaneseText>そうだっけ……？</JapaneseText>
+      <EnglishText>Oh really?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37976</PointerOffset>
+      <VoiceId>VCT_003_102_003</VoiceId>
+      <JapaneseText>それってさ、世界樹の根っこんとこにあった
+マナ溜まりってヤツだろ</JapaneseText>
+      <EnglishText>If she was born inside the roots of the Great Kharlan Tree she must be a big lump of Mana.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38352</PointerOffset>
+      <VoiceId>VCT_003_102_004</VoiceId>
+      <JapaneseText>ノルンさんってつまりはデリス・カーラーンにある
+大樹カーラーンの子どもみたいなものなんだね</JapaneseText>
+      <EnglishText>So you could say Miss Norn is the child of Derris Kharlan's Mana Tree!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38916</PointerOffset>
+      <VoiceId>VCT_003_102_005</VoiceId>
+      <JapaneseText>樹が母ちゃん？</JapaneseText>
+      <EnglishText>The daughter of a tree!?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39228</PointerOffset>
+      <VoiceId>VCT_003_102_006</VoiceId>
+      <JapaneseText>樹がお母さんでも
+別にいいでしょ？</JapaneseText>
+      <EnglishText>So the Tree is the mother?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39684</PointerOffset>
+      <VoiceId>VCT_003_102_007</VoiceId>
+      <JapaneseText>お父さんかもしれないよ</JapaneseText>
+      <EnglishText>We don't know who the father is, though.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39864</PointerOffset>
+      <VoiceId>VCT_003_102_008</VoiceId>
+      <JapaneseText>じゃあ、ユグドラシルは兄ちゃんか？</JapaneseText>
+      <EnglishText>In that case then Yggdrasil is her big brother?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40280</PointerOffset>
+      <VoiceId>VCT_003_102_009</VoiceId>
+      <JapaneseText>妹じゃないかな</JapaneseText>
+      <EnglishText>She's not the smaller one.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40516</PointerOffset>
+      <VoiceId>VCT_003_102_010</VoiceId>
+      <JapaneseText>なんでだ？</JapaneseText>
+      <EnglishText>Huh, how do you know?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40628</PointerOffset>
+      <VoiceId>VCT_003_102_011</VoiceId>
+      <JapaneseText>え？　うーんと、
+なんとなく？</JapaneseText>
+      <EnglishText>Oh? I-I dunno I just had that feeling.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

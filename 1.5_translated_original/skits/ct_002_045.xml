@@ -1,0 +1,179 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37232</PointerOffset>
+      <VoiceId>VCT_002_045_001</VoiceId>
+      <JapaneseText>エト、この文字のこことここ、
+これ、どういう意味？</JapaneseText>
+      <EnglishText>Eto, what does this letter mean?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37720</PointerOffset>
+      <VoiceId>VCT_002_045_002</VoiceId>
+      <JapaneseText>え？　なに、この字？</JapaneseText>
+      <EnglishText>Huh? What's this character?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38016</PointerOffset>
+      <VoiceId>VCT_002_045_003</VoiceId>
+      <JapaneseText>マクスウェルのところにあった
+石盤の文字。メモっといたんだ</JapaneseText>
+      <EnglishText>I've written down the letters from Maxwell's lithograph back when we met him.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38304</PointerOffset>
+      <VoiceId>VCT_002_045_004</VoiceId>
+      <JapaneseText>そんなん勉強してどんな得になんだ？</JapaneseText>
+      <EnglishText>What are you trying to do studying that?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38748</PointerOffset>
+      <VoiceId>VCT_002_045_005</VoiceId>
+      <JapaneseText>わかんないけど……勉強しておけば、
+いつか役に立つかもしれないよ</JapaneseText>
+      <EnglishText>I'm not sure yet but...No research can do any bad!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39328</PointerOffset>
+      <VoiceId>VCT_002_045_006</VoiceId>
+      <JapaneseText>読めない、けど……
+こんな文字だったっけ？</JapaneseText>
+      <EnglishText>I can't read it...is this actually a letter?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39764</PointerOffset>
+      <VoiceId>VCT_002_045_007</VoiceId>
+      <JapaneseText>あれ？　どこか間違ってる？
+じゃあ、こっちの文字は？</JapaneseText>
+      <EnglishText>No way! Did I write it wrong? Then what about this one?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40184</PointerOffset>
+      <VoiceId>VCT_002_045_008</VoiceId>
+      <JapaneseText>さぁ……？</JapaneseText>
+      <EnglishText>Well, um...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40432</PointerOffset>
+      <VoiceId>VCT_002_045_009</VoiceId>
+      <JapaneseText>あれ？　やっぱり、
+写し間違えたのかな</JapaneseText>
+      <EnglishText>I knew it, I copied them wrong.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41116</PointerOffset>
+      <VoiceId>VCT_002_045_010</VoiceId>
+      <JapaneseText>字が汚くて読めないだけじゃないのか</JapaneseText>
+      <EnglishText>Of course! It was unreadable because they were only scribbles!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41944</PointerOffset>
+      <VoiceId>VCT_002_045_011</VoiceId>
+      <JapaneseText>いてっ……</JapaneseText>
+      <EnglishText>Ow!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42200</PointerOffset>
+      <VoiceId>VCT_002_045_012</VoiceId>
+      <JapaneseText>汚いんじゃなくて、
+タッピツなの！</JapaneseText>
+      <EnglishText>They're not scribbles! It's called "speedy writing"!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

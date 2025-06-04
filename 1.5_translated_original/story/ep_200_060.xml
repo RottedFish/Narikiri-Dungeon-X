@@ -1,0 +1,127 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ヴォルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>278152</PointerOffset>
+      <VoiceId>VSM_200_060_001</VoiceId>
+      <JapaneseText>□※★△☆＄▲★※※</JapaneseText>
+      <EnglishText>□※★△☆＄▲★※※ </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>278596</PointerOffset>
+      <VoiceId>VSM_200_060_002</VoiceId>
+      <JapaneseText>な、何言ってんだ、
+コイツ！</JapaneseText>
+      <EnglishText>The hell is this guy saying!? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>279444</PointerOffset>
+      <VoiceId>VSM_200_060_005</VoiceId>
+      <JapaneseText>●※★＄※※▲×☆！</JapaneseText>
+      <EnglishText>●※★＄※※▲×☆! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>279652</PointerOffset>
+      <VoiceId>VSM_200_060_006</VoiceId>
+      <JapaneseText>危険です！
+ヴォルトには人間の言葉が
+通じません！</JapaneseText>
+      <EnglishText>Be careful! Volt does not communicate using human language! </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>279848</PointerOffset>
+      <VoiceId>VSM_200_060_007</VoiceId>
+      <JapaneseText>つべこべ言わず
+戦えってことか……</JapaneseText>
+      <EnglishText>Seems to me all he does is complain. I guess beating up him 
+a little might do the trick... </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280260</PointerOffset>
+      <VoiceId>VSM_200_060_008</VoiceId>
+      <JapaneseText>来るよ！</JapaneseText>
+      <EnglishText>It comes! </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

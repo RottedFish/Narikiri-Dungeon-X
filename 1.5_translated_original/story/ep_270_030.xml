@@ -1,0 +1,127 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>仮面の男</JapaneseText>
+      <EnglishText>Masked Guy</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>259600</PointerOffset>
+      <VoiceId>VSM_270_030_001</VoiceId>
+      <JapaneseText>クルール！！</JapaneseText>
+      <EnglishText>Kuruuru! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260932</PointerOffset>
+      <VoiceId>VSM_270_030_002</VoiceId>
+      <JapaneseText>いたぜ！　あいつ……</JapaneseText>
+      <EnglishText>There they are! Now... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261392</PointerOffset>
+      <VoiceId>VSM_270_030_003</VoiceId>
+      <JapaneseText>来たか……</JapaneseText>
+      <EnglishText>So you've come. </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261984</PointerOffset>
+      <VoiceId>VSM_270_030_004</VoiceId>
+      <JapaneseText>……あの剣、
+なんか嫌な感じがする……</JapaneseText>
+      <EnglishText>...That sword... For some reason I have a bad feeling about 
+it... </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262340</PointerOffset>
+      <VoiceId>VSM_270_030_005</VoiceId>
+      <JapaneseText>嫌な感じ……？</JapaneseText>
+      <EnglishText>A bad feeling? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262604</PointerOffset>
+      <VoiceId>VSM_270_030_006</VoiceId>
+      <JapaneseText>凶刃に倒れよ</JapaneseText>
+      <EnglishText>Crumble before this assassin's blade! </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264724</PointerOffset>
+      <VoiceId>VSM_270_030_007</VoiceId>
+      <JapaneseText>化け物になった！</JapaneseText>
+      <EnglishText>He made a monster come outta nowhere! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

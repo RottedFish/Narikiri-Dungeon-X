@@ -1,0 +1,217 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Cless&gt;＆&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37208</PointerOffset>
+      <VoiceId>VCT_002_059_001</VoiceId>
+      <JapaneseText>そもそも、見物って何の見物に来たんだい、
+こんな何もない廃墟にさ</JapaneseText>
+      <EnglishText>To begin with, what king of sightseeing were you exactly planning to come here for? These are nothing but ruins, after all.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37464</PointerOffset>
+      <VoiceId>VCT_002_059_002</VoiceId>
+      <JapaneseText>私、歴史建造物とか見て
+歩くのが趣味なんだ</JapaneseText>
+      <EnglishText>Well, I'm pretty interested in whatever historical evidence I can find here! Simple as that!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37872</PointerOffset>
+      <VoiceId>VCT_002_059_003</VoiceId>
+      <JapaneseText>そんなの初耳だぜ</JapaneseText>
+      <EnglishText>First time hearing you say you like history.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38040</PointerOffset>
+      <VoiceId>VCT_002_059_004</VoiceId>
+      <JapaneseText>私も初知りだよ</JapaneseText>
+      <EnglishText>First time I found out myself!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38376</PointerOffset>
+      <VoiceId>VCT_002_059_005</VoiceId>
+      <JapaneseText>……で？　本当は何しに来たんだ？</JapaneseText>
+      <EnglishText>...Really? ...Tell us the truth, why are you here?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38796</PointerOffset>
+      <VoiceId>VCT_002_059_006</VoiceId>
+      <JapaneseText>例えば……</JapaneseText>
+      <EnglishText>For example...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38964</PointerOffset>
+      <VoiceId>VCT_002_059_007</VoiceId>
+      <JapaneseText>例えば？</JapaneseText>
+      <EnglishText>For example...?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39288</PointerOffset>
+      <VoiceId>VCT_002_059_008</VoiceId>
+      <JapaneseText>逆に〜</JapaneseText>
+      <EnglishText>On the other hand...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39400</PointerOffset>
+      <VoiceId>VCT_002_059_009</VoiceId>
+      <JapaneseText>逆に？</JapaneseText>
+      <EnglishText>On the other hand?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39724</PointerOffset>
+      <VoiceId>VCT_002_059_010</VoiceId>
+      <JapaneseText>もしかしたら……</JapaneseText>
+      <EnglishText>But maybe...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39892</PointerOffset>
+      <VoiceId>VCT_002_059_011</VoiceId>
+      <JapaneseText>なんで、そんなに言いたくないんだ？</JapaneseText>
+      <EnglishText>What's all this playing around the bush speak!?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40260</PointerOffset>
+      <VoiceId>VCT_002_059_012</VoiceId>
+      <JapaneseText>ミステリアスな女は魅力的だって
+言うからね</JapaneseText>
+      <EnglishText>Mystery is part of a woman's charm, you know!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41216</PointerOffset>
+      <VoiceId>VCT_002_059_013</VoiceId>
+      <JapaneseText>はぁ……</JapaneseText>
+      <EnglishText>Huh...</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41744</PointerOffset>
+      <VoiceId>VCT_002_059_015</VoiceId>
+      <JapaneseText>ため息つくと、
+幸せが逃げちゃうよ？</JapaneseText>
+      <EnglishText>Such a happy-sounding sigh you both have!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42588</PointerOffset>
+      <VoiceId>VCT_002_059_016</VoiceId>
+      <JapaneseText>誰だよ、ため息つかせてんのは……</JapaneseText>
+      <EnglishText>Who are you? Who can think a sigh can be happy..!?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

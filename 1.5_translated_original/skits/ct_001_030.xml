@@ -1,0 +1,163 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37120</PointerOffset>
+      <VoiceId>VCT_001_030_001</VoiceId>
+      <JapaneseText>オレらが行ったヴァルハラと、
+この世界のヴァルハラ、ずいぶん違ったよな</JapaneseText>
+      <EnglishText>The Valhalla we first visited is so different from this time's Valhalla...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37792</PointerOffset>
+      <VoiceId>VCT_001_030_002</VoiceId>
+      <JapaneseText>わたしたちの時代のヴァルハラは
+もっときれいだったけど</JapaneseText>
+      <EnglishText>Our era's Valhalla is definitely prettier but...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38040</PointerOffset>
+      <VoiceId>VCT_001_030_003</VoiceId>
+      <JapaneseText>でも、この時代のヴァルハラの方が
+温かかったよ？</JapaneseText>
+      <EnglishText>But this Valhalla is livelier and warmer, don't you think?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38340</PointerOffset>
+      <VoiceId>VCT_001_030_004</VoiceId>
+      <JapaneseText>そうかな、オレはちょっと寒くて
+上着欲しかったぜ？</JapaneseText>
+      <EnglishText>Is that what you think? The people seemed sad and they wear shabby clothes.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38896</PointerOffset>
+      <VoiceId>VCT_001_030_005</VoiceId>
+      <JapaneseText>そういうことじゃなくて、
+なんか人の心が温かかったってこと</JapaneseText>
+      <EnglishText>That's not what I'm talking about. The people's hearts are warm.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39500</PointerOffset>
+      <VoiceId>VCT_001_030_006</VoiceId>
+      <JapaneseText>私は貧しくても、
+心が温かな方が好きだな……</JapaneseText>
+      <EnglishText>I don't think they are in the best conditions but I prefer the warmth in their hearts!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40020</PointerOffset>
+      <VoiceId>VCT_001_030_007</VoiceId>
+      <JapaneseText>確かにそうかもだけど……</JapaneseText>
+      <EnglishText>Sure, that may be the case, but...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40188</PointerOffset>
+      <VoiceId>VCT_001_030_008</VoiceId>
+      <JapaneseText>でも、それってオレらが
+よそ者だかんだろ？</JapaneseText>
+      <EnglishText>Aren't you looking it from a stranger's perspective?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40544</PointerOffset>
+      <VoiceId>VCT_001_030_009</VoiceId>
+      <JapaneseText>当人たちにしたら、
+金のあった方がいいと思う</JapaneseText>
+      <EnglishText>For the people involved, money actually matters.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41068</PointerOffset>
+      <VoiceId>VCT_001_030_010</VoiceId>
+      <JapaneseText>うーん……そう、なのかな……
+そうかも……</JapaneseText>
+      <EnglishText>Mmm...Is that...so?...You're right.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41340</PointerOffset>
+      <VoiceId>VCT_001_030_011</VoiceId>
+      <JapaneseText>……でも、本当に
+それでいいのかな？</JapaneseText>
+      <EnglishText>But is this really how things should be?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

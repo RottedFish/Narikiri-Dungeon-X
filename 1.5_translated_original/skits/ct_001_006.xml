@@ -1,0 +1,240 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37320</PointerOffset>
+      <VoiceId>VCT_001_006_001</VoiceId>
+      <JapaneseText>……あの魔物と一緒にいた仮面のヤツ、
+誰だったんだろ？</JapaneseText>
+      <EnglishText>That masked guy that was with the monsters back then... who the hell was he?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37552</PointerOffset>
+      <VoiceId>VCT_001_006_002</VoiceId>
+      <JapaneseText>&lt;Couleur&gt;、おまえ知ってるか？</JapaneseText>
+      <EnglishText>&lt;Couleur&gt;, do you know anything?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37716</PointerOffset>
+      <VoiceId>VCT_001_006_003</VoiceId>
+      <JapaneseText>クルール〜？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38100</PointerOffset>
+      <VoiceId>VCT_001_006_004</VoiceId>
+      <JapaneseText>知らないみたいだね……</JapaneseText>
+      <EnglishText>It doesn't look like it knows anything...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38332</PointerOffset>
+      <VoiceId>VCT_001_006_005</VoiceId>
+      <JapaneseText>顔を隠さなきゃなんもできないって、
+どうせ、ろくでもないヤツだぜ</JapaneseText>
+      <EnglishText>He didn't want people to look at his face... what a pathetic creep!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38828</PointerOffset>
+      <VoiceId>VCT_001_006_006</VoiceId>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText>...</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39100</PointerOffset>
+      <VoiceId>VCT_001_006_007</VoiceId>
+      <JapaneseText>&lt;Mel&gt;？　どうしたの？</JapaneseText>
+      <EnglishText>&lt;Mel&gt;, what's wrong?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39628</PointerOffset>
+      <VoiceId>VCT_001_006_008</VoiceId>
+      <JapaneseText>え、あ、ううん、あの人
+なんかなつかしい匂いがした……</JapaneseText>
+      <EnglishText>Err, ah, well, that person had a familiar feeling around him...</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40304</PointerOffset>
+      <VoiceId>VCT_001_006_009</VoiceId>
+      <JapaneseText>気のせい、かな……</JapaneseText>
+      <EnglishText>Could it be my imagination?</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40624</PointerOffset>
+      <VoiceId>VCT_001_006_010</VoiceId>
+      <JapaneseText>あ、それならオレもしたぜ？</JapaneseText>
+      <EnglishText>Now that you mention it, I think I kind of felt like that... I guess.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40988</PointerOffset>
+      <VoiceId>VCT_001_006_011</VoiceId>
+      <JapaneseText>え……？</JapaneseText>
+      <EnglishText>Eh...?</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41168</PointerOffset>
+      <VoiceId>VCT_001_006_012</VoiceId>
+      <JapaneseText>香ばしい匂い。
+あいつたぶんメシ食った後だぜ？</JapaneseText>
+      <EnglishText>That's smell sure did feel familiar! It smelled like meat, right?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41792</PointerOffset>
+      <VoiceId>VCT_001_006_013</VoiceId>
+      <JapaneseText>そういうんじゃなくて……</JapaneseText>
+      <EnglishText>That's not what I was talking about...</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42164</PointerOffset>
+      <VoiceId>VCT_001_006_014</VoiceId>
+      <JapaneseText>なんか腹へったよ、
+エト、食うもんないの？</JapaneseText>
+      <EnglishText>Oh man am I hungry! Eto don't you wanna eat too?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42676</PointerOffset>
+      <VoiceId>VCT_001_006_015</VoiceId>
+      <JapaneseText>きみねぇ……</JapaneseText>
+      <EnglishText>Oh you...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43568</PointerOffset>
+      <VoiceId>VCT_001_006_016</VoiceId>
+      <JapaneseText>………………</JapaneseText>
+      <EnglishText>...</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44132</PointerOffset>
+      <VoiceId>VCT_001_006_017</VoiceId>
+      <JapaneseText>クルール〜？</JapaneseText>
+      <EnglishText>Kururu~?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

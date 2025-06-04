@@ -1,0 +1,311 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>6</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
+      <Notes/>
+      <Id>7</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
+      <Notes/>
+      <Id>8</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>259808</PointerOffset>
+      <VoiceId>VSM_220_040_000</VoiceId>
+      <JapaneseText>……今のって……
+何なんだ……</JapaneseText>
+      <EnglishText>...What happened just now...? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260208</PointerOffset>
+      <VoiceId>VSM_220_040_001</VoiceId>
+      <JapaneseText>瘴気……魔界のことわりで
+できたガスです</JapaneseText>
+      <EnglishText>It's Miasma...A warning from the Daemonium manifested as 
+poisonous gas. </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261416</PointerOffset>
+      <VoiceId>VSM_220_040_003</VoiceId>
+      <JapaneseText>魔界の住民たちが
+生命活動を行ううえで
+ある程度必要なものだそうです</JapaneseText>
+      <EnglishText>To some degree, it is necessary for creatures of the 
+Daemonium to survive. </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261612</PointerOffset>
+      <VoiceId>VSM_220_040_004</VoiceId>
+      <JapaneseText>でも、人間には
+すごく毒なんだよね</JapaneseText>
+      <EnglishText>Yeah but for us that stuff is pretty poisonous... </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261808</PointerOffset>
+      <VoiceId>VSM_220_040_005</VoiceId>
+      <JapaneseText>私の仲間たちはみんな、
+あれにやられたのでしょう</JapaneseText>
+      <EnglishText>Many of my people have been felled by such thing... </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261808</PointerOffset>
+      <VoiceId>VSM_220_040_006</VoiceId>
+      <JapaneseText>でも、間違いありません、
+あの洞窟にプルートがいます</JapaneseText>
+      <EnglishText>Be as it may, Pluto lies in that cave undoubtedly. </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262360</PointerOffset>
+      <VoiceId>VSM_220_040_007</VoiceId>
+      <JapaneseText>だとすると、
+なんとかして入る方法が
+あればいいんだけど</JapaneseText>
+      <EnglishText>That may be it but we probably should think of another way 
+to get inside. </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262828</PointerOffset>
+      <VoiceId>VSM_220_040_008</VoiceId>
+      <JapaneseText>瘴気をなくす方法、
+ですか？</JapaneseText>
+      <EnglishText>You mean to get rid of the Miasma, right? </EnglishText>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263456</PointerOffset>
+      <VoiceId>VSM_220_040_009</VoiceId>
+      <JapaneseText>……オリジンに
+頼むというのはどうだろう</JapaneseText>
+      <EnglishText>...How about we ask help from Origin? </EnglishText>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264308</PointerOffset>
+      <VoiceId>VSM_220_040_010</VoiceId>
+      <JapaneseText>オリジンって……
+精霊の王様だろ？</JapaneseText>
+      <EnglishText>By Origin you mean...the King of the Spirits? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264308</PointerOffset>
+      <VoiceId>VSM_220_040_011</VoiceId>
+      <JapaneseText>昔話によく出てくんぜ？
+今のアセリアの基礎を
+作ったヤツだって</JapaneseText>
+      <EnglishText>Isn't that from an old legend? The guy responsible for 
+creating the foundations of modern Aselia? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264588</PointerOffset>
+      <VoiceId>VSM_220_040_013</VoiceId>
+      <JapaneseText>あの瘴気を浄化するには、
+万物を司るくらいの力でないと
+難しいかもしれない</JapaneseText>
+      <EnglishText>It'd be quite a feat to purify the Miasma. I believe we'd 
+need nothing less than the power responsible for the creation of 
+all things. </EnglishText>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264956</PointerOffset>
+      <VoiceId>VSM_220_040_014</VoiceId>
+      <JapaneseText>オリジンだったら、
+世界中の瘴気も
+浄化できるんじゃないかな？</JapaneseText>
+      <EnglishText>So you think Origin could help us cleanse the Miasma from 
+the world, right? </EnglishText>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265256</PointerOffset>
+      <VoiceId>VSM_220_040_015</VoiceId>
+      <JapaneseText>かもしれないな</JapaneseText>
+      <EnglishText>It could work, yeah. </EnglishText>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265452</PointerOffset>
+      <VoiceId>VSM_220_040_016</VoiceId>
+      <JapaneseText>でもさ、オリジン、
+また出てきてくれるかな？</JapaneseText>
+      <EnglishText>Yeah that's all nice but how are we even supposed to meet 
+him? </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266188</PointerOffset>
+      <VoiceId>VSM_220_040_017</VoiceId>
+      <JapaneseText>オリジンが姿を見せたのは
+ラグナロクの時とダオス戦役の
+時だけだと言いますから……</JapaneseText>
+      <EnglishText>Origin has been said to only manifest physically during the 
+Ragnarok and the war against Dhaos... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266624</PointerOffset>
+      <VoiceId>VSM_220_040_018</VoiceId>
+      <JapaneseText>ダメかどうかは、
+やってみないと
+わかんねーだろ</JapaneseText>
+      <EnglishText>Hey, if it's possible or not we won't know till we try! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267488</PointerOffset>
+      <VoiceId>VSM_220_040_019</VoiceId>
+      <JapaneseText>そう、だね。
+行ってみましょう</JapaneseText>
+      <EnglishText>Yeah, that's right. Let's give it a try! </EnglishText>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

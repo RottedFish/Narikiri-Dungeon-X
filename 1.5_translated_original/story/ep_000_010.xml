@@ -1,0 +1,138 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>小さな妖精</JapaneseText>
+      <EnglishText>Little Fairy</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>259232</PointerOffset>
+      <VoiceId>VSM_000_010_001</VoiceId>
+      <JapaneseText>……ここ……
+どこだろう……</JapaneseText>
+      <EnglishText>This place... I wonder where I am... </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259436</PointerOffset>
+      <VoiceId>VSM_000_010_003</VoiceId>
+      <JapaneseText>もう何年経ったかな……</JapaneseText>
+      <EnglishText>How long has it been...? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259436</PointerOffset>
+      <VoiceId>VSM_000_010_004</VoiceId>
+      <JapaneseText>後、何年続けたら仲間の妖精が
+見つかるんだろ……</JapaneseText>
+      <EnglishText>So many years have passed since I've seen a fellow fairy...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259576</PointerOffset>
+      <VoiceId>VSM_000_010_005</VoiceId>
+      <JapaneseText>何年続けたって……
+……だめ、だ……</JapaneseText>
+      <EnglishText>So many years have passed... It's pointless... </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260128</PointerOffset>
+      <VoiceId>VSM_000_010_006</VoiceId>
+      <JapaneseText>はぁ……</JapaneseText>
+      <EnglishText>Hah... </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260128</PointerOffset>
+      <VoiceId>VSM_000_010_007</VoiceId>
+      <JapaneseText>ここでぼく、
+終わっちゃうんだな……</JapaneseText>
+      <EnglishText>Seems like I'll die here... </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260268</PointerOffset>
+      <VoiceId>VSM_000_010_009</VoiceId>
+      <JapaneseText>……流れ、星……？</JapaneseText>
+      <EnglishText/>
+      <Notes>Isn't used in-game.</Notes>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260372</PointerOffset>
+      <VoiceId>VSM_000_010_010</VoiceId>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText>... </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260372</PointerOffset>
+      <VoiceId>VSM_000_010_011</VoiceId>
+      <JapaneseText>……願いごと……
+叶うなラ……
+……仲間、に……</JapaneseText>
+      <EnglishText>I'd like...my wish...to come true...
+so my friends could... </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+  </Strings>
+</SceneText>

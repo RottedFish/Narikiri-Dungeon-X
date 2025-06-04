@@ -1,0 +1,172 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37984</PointerOffset>
+      <VoiceId>VCT_002_079_001</VoiceId>
+      <JapaneseText>オレ、思う、&lt;Mel&gt;
+もっと、優しく</JapaneseText>
+      <EnglishText>I...think...&lt;Mel&gt;...kinder...should...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38452</PointerOffset>
+      <VoiceId>VCT_002_079_002</VoiceId>
+      <JapaneseText>わたし、優しい、充分</JapaneseText>
+      <EnglishText>I...kind...enough...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38860</PointerOffset>
+      <VoiceId>VCT_002_079_003</VoiceId>
+      <JapaneseText>ふたり、ケンカ、やめる</JapaneseText>
+      <EnglishText>You...fight...stop...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39296</PointerOffset>
+      <VoiceId>VCT_002_079_004</VoiceId>
+      <JapaneseText>みんな、話し方、変</JapaneseText>
+      <EnglishText>Everyone...speaking...weird...</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39644</PointerOffset>
+      <VoiceId>VCT_002_079_005</VoiceId>
+      <JapaneseText>クルルル〜？</JapaneseText>
+      <EnglishText>Kururu~?</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39836</PointerOffset>
+      <VoiceId>VCT_002_079_006</VoiceId>
+      <JapaneseText>おっ、シャドウごっこか？
+オレたちもやったよな</JapaneseText>
+      <EnglishText>Oh, it's the Shadow talk game! We did that too back then.</EnglishText>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41856</PointerOffset>
+      <VoiceId>VCT_002_079_007</VoiceId>
+      <JapaneseText>いや、ごっこはしてなかった
+と思うけど</JapaneseText>
+      <EnglishText>Err, I never thought of it as a game.</EnglishText>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42416</PointerOffset>
+      <VoiceId>VCT_002_079_008</VoiceId>
+      <JapaneseText>シャドウの喋り方が
+うつってしまったんですね</JapaneseText>
+      <EnglishText>We really couldn't help but talk like Shadow.</EnglishText>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,150 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37120</PointerOffset>
+      <VoiceId>VCT_002_067_001</VoiceId>
+      <JapaneseText>前にも、エトちゃんの
+いなくなった時があったんだけど</JapaneseText>
+      <EnglishText>There was a time before where Miss Eto was missing too.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37300</PointerOffset>
+      <VoiceId>VCT_002_067_002</VoiceId>
+      <JapaneseText>はい？</JapaneseText>
+      <EnglishText>Yes?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37548</PointerOffset>
+      <VoiceId>VCT_002_067_003</VoiceId>
+      <JapaneseText>その時はずいぶん、
+双子ちゃんたち取り乱しててさ</JapaneseText>
+      <EnglishText>At that time the twins were really put in despair.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37660</PointerOffset>
+      <VoiceId>VCT_002_067_004</VoiceId>
+      <JapaneseText>その人はおふたりにとって、
+とても大切な人だったのですね</JapaneseText>
+      <EnglishText>The way you speak of this person, it seems she is an incredibly important person to the both of them.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38024</PointerOffset>
+      <VoiceId>VCT_002_067_005</VoiceId>
+      <JapaneseText>ふたりのお母さん代わりで、
+心の支えなんだってさ</JapaneseText>
+      <EnglishText>She's her foster mother. She supports them in mind and soul.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38520</PointerOffset>
+      <VoiceId>VCT_002_067_006</VoiceId>
+      <JapaneseText>そうですか……とても立派で
+素敵な母上様なのでしょうね……</JapaneseText>
+      <EnglishText>I see... She sounds like a beautiful person. She must be a really wonderful mother.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38752</PointerOffset>
+      <VoiceId>VCT_002_067_007</VoiceId>
+      <JapaneseText>見た目はちっこい
+妖精ちゃんだけどね</JapaneseText>
+      <EnglishText>Of course she's beautiful! She's the cutest little fairy ever!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39396</PointerOffset>
+      <VoiceId>VCT_002_067_008</VoiceId>
+      <JapaneseText>妖……精……？
+え、まさか、あの時の……</JapaneseText>
+      <EnglishText>A...fairy? You don't mean at that time...I...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39996</PointerOffset>
+      <VoiceId>VCT_002_067_009</VoiceId>
+      <JapaneseText>前に比べるとずいぶん、
+双子ちゃん落ち着いてるな</JapaneseText>
+      <EnglishText>Compared to last time the twins are really taking it calmly.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40232</PointerOffset>
+      <VoiceId>VCT_002_067_010</VoiceId>
+      <JapaneseText>ふたりとも、成長したのかもね</JapaneseText>
+      <EnglishText>They've grown a lot when I wasn't looking.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

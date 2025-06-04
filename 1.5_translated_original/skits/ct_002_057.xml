@@ -1,0 +1,191 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37272</PointerOffset>
+      <VoiceId>VCT_002_057_001</VoiceId>
+      <JapaneseText>あいつら……元気かな……</JapaneseText>
+      <EnglishText>I hope they're doing okay...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37384</PointerOffset>
+      <VoiceId>VCT_002_057_002</VoiceId>
+      <JapaneseText>子どもたちのことですか？</JapaneseText>
+      <EnglishText>You mean the kids back in Toltus?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37644</PointerOffset>
+      <VoiceId>VCT_002_057_003</VoiceId>
+      <JapaneseText>あ、ああ……おかしいだろ。
+まだここへ来てそれほど経ってないのに</JapaneseText>
+      <EnglishText>Ah, yeah...Sorry. Weird thing to think out loud after I've come all the way here, eh?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38080</PointerOffset>
+      <VoiceId>VCT_002_057_004</VoiceId>
+      <JapaneseText>いえ……大切な人と離れ離れだと、
+ほんのひと時でも、とても長く感じますね</JapaneseText>
+      <EnglishText>No, it's okay. It's just normal to feel a little sad when we aren't close to loved ones.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38512</PointerOffset>
+      <VoiceId>VCT_002_057_005</VoiceId>
+      <JapaneseText>そうだな……
+あいつらを引き取って１年半か……</JapaneseText>
+      <EnglishText>Yeah...It's been a year and a half since I've started taking care of them.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38664</PointerOffset>
+      <VoiceId>VCT_002_057_006</VoiceId>
+      <JapaneseText>長いようで、短かく感じたのも、
+あいつらとずっと一緒だったからか</JapaneseText>
+      <EnglishText>It's been a long time, but it really feels otherwise. All four of us have been always together.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39052</PointerOffset>
+      <VoiceId>VCT_002_057_007</VoiceId>
+      <JapaneseText>たった１年半であの子たち、
+あんなに&lt;Chester&gt;さんを慕ってるんですね</JapaneseText>
+      <EnglishText>Though it may not seem like much, I'm sure that year and half they got to know Mister &lt;Chester&gt; very well!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39284</PointerOffset>
+      <VoiceId>VCT_002_057_008</VoiceId>
+      <JapaneseText>ガキのお守りは慣れてるからな</JapaneseText>
+      <EnglishText>I grew used to babysit those brats!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39912</PointerOffset>
+      <VoiceId>VCT_002_057_009</VoiceId>
+      <JapaneseText>&lt;Chester&gt;の頭がガキなんだろ？</JapaneseText>
+      <EnglishText>Maybe you've become a brat yourself!?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40596</PointerOffset>
+      <VoiceId>VCT_002_057_010</VoiceId>
+      <JapaneseText>おい！　こら！　自分で思ってても、
+人に言われるとむかつくぞ、それは！</JapaneseText>
+      <EnglishText>Hey! Don't jump into conversations like that or you'll really know me!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42156</PointerOffset>
+      <VoiceId>VCT_002_057_011</VoiceId>
+      <JapaneseText>でも、そっか……
+……アミィがいなくなってそんなに……</JapaneseText>
+      <EnglishText>Oh...yeah...It's also about the time Ami's passed away...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42440</PointerOffset>
+      <VoiceId>VCT_002_057_012</VoiceId>
+      <JapaneseText>あいつがいない時間は
+１年にも１０年にも感じた……</JapaneseText>
+      <EnglishText>One year... ten years...It'll always feel the same without her...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42656</PointerOffset>
+      <VoiceId>VCT_002_057_013</VoiceId>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText>...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

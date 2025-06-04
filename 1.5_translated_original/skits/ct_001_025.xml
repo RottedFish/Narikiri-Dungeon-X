@@ -1,0 +1,181 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;＆&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37368</PointerOffset>
+      <VoiceId>VCT_001_025_001</VoiceId>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText>*sigh*</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37896</PointerOffset>
+      <VoiceId>VCT_001_025_003</VoiceId>
+      <JapaneseText>ふたりとも気もそぞろ……？</JapaneseText>
+      <EnglishText>Those two are really nervous...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38048</PointerOffset>
+      <VoiceId>VCT_001_025_004</VoiceId>
+      <JapaneseText>まぁ、しょうがないだろうな</JapaneseText>
+      <EnglishText>Well, there's nothing we can do.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38216</PointerOffset>
+      <VoiceId>VCT_001_025_005</VoiceId>
+      <JapaneseText>……よし、作戦会議だよ、
+双子ちゃん！</JapaneseText>
+      <EnglishText>...Ok! Twins! It's time for a strategy meeting!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39688</PointerOffset>
+      <VoiceId>VCT_001_025_006</VoiceId>
+      <JapaneseText>作戦、会議……？</JapaneseText>
+      <EnglishText>Strategy...meeting?</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39920</PointerOffset>
+      <VoiceId>VCT_001_025_007</VoiceId>
+      <JapaneseText>エトちゃんを取り戻す作戦だよ。
+名付けて奪還エックス！</JapaneseText>
+      <EnglishText>We need a strategy to get Miss Eto back. Its name...Operation Rescue X!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40608</PointerOffset>
+      <VoiceId>VCT_001_025_008</VoiceId>
+      <JapaneseText>なんでエックスなんですか？</JapaneseText>
+      <EnglishText>What does the X mean?</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40720</PointerOffset>
+      <VoiceId>VCT_001_025_009</VoiceId>
+      <JapaneseText>カッコいいかなと思って</JapaneseText>
+      <EnglishText>So we know it's cool!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40916</PointerOffset>
+      <VoiceId>VCT_001_025_010</VoiceId>
+      <JapaneseText>エックスよりもウルトラローリングアタックの
+方がカッコイイぜ？</JapaneseText>
+      <EnglishText>Since you used X, why not Ultra Rolling Attack?</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41604</PointerOffset>
+      <VoiceId>VCT_001_025_011</VoiceId>
+      <JapaneseText>技の名前じゃないんだから……</JapaneseText>
+      <EnglishText>That's not the name of an Arte...</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42476</PointerOffset>
+      <VoiceId>VCT_001_025_012</VoiceId>
+      <JapaneseText>……あれが&lt;Rody&gt;なりの
+気遣いか……</JapaneseText>
+      <EnglishText>...Heh, &lt;Rody&gt; sure is a kind one...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

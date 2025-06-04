@@ -1,0 +1,179 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37248</PointerOffset>
+      <VoiceId>VCT_002_058_001</VoiceId>
+      <JapaneseText>わたし……あの人のこと、
+許せないよ</JapaneseText>
+      <EnglishText>I will never forgive him for what he's done!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37696</PointerOffset>
+      <VoiceId>VCT_002_058_002</VoiceId>
+      <JapaneseText>あの人って……バジルさん？</JapaneseText>
+      <EnglishText>Him...? You mean Basil?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37928</PointerOffset>
+      <VoiceId>VCT_002_058_003</VoiceId>
+      <JapaneseText>クルール……！</JapaneseText>
+      <EnglishText>Kuruuruuu!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38376</PointerOffset>
+      <VoiceId>VCT_002_058_004</VoiceId>
+      <JapaneseText>……最後の最後に&lt;Dio&gt;を傷つけて……</JapaneseText>
+      <EnglishText>I don't want to see &lt;Dio&gt; depressed...I hope he's never hurt like this ever again...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38544</PointerOffset>
+      <VoiceId>VCT_002_058_005</VoiceId>
+      <JapaneseText>かもしれない。でも、バジルさんは、
+もう死んじゃったんだよ？</JapaneseText>
+      <EnglishText>I hope for the same... But he really does believe in Basil, didn't he?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39148</PointerOffset>
+      <VoiceId>VCT_002_058_006</VoiceId>
+      <JapaneseText>だからよけいに許せないの。怒れる相手が
+もういなくて、怒る意味ないから……</JapaneseText>
+      <EnglishText>I don't care! I won't forgive him! There's no reason to make someone drown in their sorrow this much...No reason...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39656</PointerOffset>
+      <VoiceId>VCT_002_058_007</VoiceId>
+      <JapaneseText>だったらわかってるでしょ。
+許せないって言ってもどうしようもないこと</JapaneseText>
+      <EnglishText>I understand perfectly. But we shouldn't hold grudges against people.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40348</PointerOffset>
+      <VoiceId>VCT_002_058_008</VoiceId>
+      <JapaneseText>そう……だよね……
+でも、気持ちがおさまらなくて……</JapaneseText>
+      <EnglishText>That's true but...I can't give closure to these feelings...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40828</PointerOffset>
+      <VoiceId>VCT_002_058_009</VoiceId>
+      <JapaneseText>それはわかるけド……</JapaneseText>
+      <EnglishText>I understand but...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41116</PointerOffset>
+      <VoiceId>VCT_002_058_010</VoiceId>
+      <JapaneseText>今は傷ついた&lt;Dio&gt;をなんとかすることでしか、
+それをおさめることはできないと思うんだ</JapaneseText>
+      <EnglishText>Right now we should only worry about &lt;Dio&gt; and be close to him. Negativity will only make things worse.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41628</PointerOffset>
+      <VoiceId>VCT_002_058_011</VoiceId>
+      <JapaneseText>うん……</JapaneseText>
+      <EnglishText>Right.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41972</PointerOffset>
+      <VoiceId>VCT_002_058_012</VoiceId>
+      <JapaneseText>ぼくだって……
+許せない気持ち、&lt;Mel&gt;と同じだよ……</JapaneseText>
+      <EnglishText>Though, to be frank... I feel the same. I don't think I'll ever forgive him...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

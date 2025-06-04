@@ -1,0 +1,167 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>38132</PointerOffset>
+      <VoiceId>VCT_002_063_002</VoiceId>
+      <JapaneseText>やっぱり、朝は一杯の牛乳さんがいないと
+始まんないと思うんだよね</JapaneseText>
+      <EnglishText>Ah! There's no better way to start a day than with a big cup of milk!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38560</PointerOffset>
+      <VoiceId>VCT_002_063_003</VoiceId>
+      <JapaneseText>……オヤジくせー……</JapaneseText>
+      <EnglishText>...Ah this reeks of old hag...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38900</PointerOffset>
+      <VoiceId>VCT_002_063_004</VoiceId>
+      <JapaneseText>そう？　どこが？
+ここ？　ここかな？</JapaneseText>
+      <EnglishText>Reaaally? Where's that old hag hiding? Here? Maybe here?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40612</PointerOffset>
+      <VoiceId>VCT_002_063_005</VoiceId>
+      <JapaneseText>ちょっ……
+ちか、近い近い……</JapaneseText>
+      <EnglishText>D-don't get close...!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41348</PointerOffset>
+      <VoiceId>VCT_002_063_006</VoiceId>
+      <JapaneseText>&lt;Dio&gt;、顔が赤いよ</JapaneseText>
+      <EnglishText>&lt;Dio&gt; your face is all red.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42092</PointerOffset>
+      <VoiceId>VCT_002_063_007</VoiceId>
+      <JapaneseText>こ、これは……暑いんだっつーの！</JapaneseText>
+      <EnglishText>I-It's just the weather is hot, that's all!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42972</PointerOffset>
+      <VoiceId>VCT_002_063_008</VoiceId>
+      <JapaneseText>&lt;Dio&gt;で楽しむの禁止です</JapaneseText>
+      <EnglishText>Seems like you're just having too much fun to me!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43344</PointerOffset>
+      <VoiceId>VCT_002_063_009</VoiceId>
+      <JapaneseText>そう？　んじゃあ、
+&lt;Mel&gt;ちゃんで楽しんじゃお</JapaneseText>
+      <EnglishText>Oh, reaaally? Then I guess &lt;Mel&gt; wants all the fun for her~!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44200</PointerOffset>
+      <VoiceId>VCT_002_063_010</VoiceId>
+      <JapaneseText>あ、ちょっと……何するんですか、
+&lt;Rody&gt;さん、あっ、そんなとこ……</JapaneseText>
+      <EnglishText>W-what are you doing Miss &lt;Rody&gt;!? W-wah! Not there...!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45180</PointerOffset>
+      <VoiceId>VCT_002_063_011</VoiceId>
+      <JapaneseText>ん〜、&lt;Mel&gt;ちゃんも毎朝、牛乳さん飲んだ方が
+ペッタンコ治るよ、たぶん</JapaneseText>
+      <EnglishText>Mmm. &lt;Mel&gt; you also need to drink milk everyday if you don't want to be an ironing board!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46292</PointerOffset>
+      <VoiceId>VCT_002_063_012</VoiceId>
+      <JapaneseText>……ま、まだ成長期なんです〜っ！！</JapaneseText>
+      <EnglishText>I-I still haven't hit my growth spurt--!!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

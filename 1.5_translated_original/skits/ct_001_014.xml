@@ -1,0 +1,177 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37508</PointerOffset>
+      <VoiceId>VCT_001_014_001</VoiceId>
+      <JapaneseText>あっ……&lt;Dio&gt;！
+ヒジに擦り傷が！</JapaneseText>
+      <EnglishText>Ah! &lt;Dio&gt;, you got a scratch on your elbow...!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37760</PointerOffset>
+      <VoiceId>VCT_001_014_002</VoiceId>
+      <JapaneseText>ツバつけときゃ治るって。
+死なない死なない</JapaneseText>
+      <EnglishText>Spit on it, rub it a little and it all heals on its own! Nothing to worry about!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38192</PointerOffset>
+      <VoiceId>VCT_001_014_003</VoiceId>
+      <JapaneseText>背中にも青アザできてる！</JapaneseText>
+      <EnglishText>I think I felt a shiver run down my back...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38504</PointerOffset>
+      <VoiceId>VCT_001_014_004</VoiceId>
+      <JapaneseText>全然だいじょーぶ！　痛くねーし</JapaneseText>
+      <EnglishText>No worries! It doesn't hurt!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38948</PointerOffset>
+      <VoiceId>VCT_001_014_005</VoiceId>
+      <JapaneseText>痛くなくても、ばい菌が入ったラ……</JapaneseText>
+      <EnglishText>Even if it doesn't hurt we should disinfect the wound...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39368</PointerOffset>
+      <VoiceId>VCT_001_014_006</VoiceId>
+      <JapaneseText>いつもエトに心配かけて。
+落ち着いて行動しないからでしょ</JapaneseText>
+      <EnglishText>You're always making Eto worry, what a child!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39964</PointerOffset>
+      <VoiceId>VCT_001_014_007</VoiceId>
+      <JapaneseText>あ、&lt;Mel&gt;、ヒザから血が出てるぜ</JapaneseText>
+      <EnglishText>Hey, &lt;Mel&gt;. Your knee's bleeding.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40256</PointerOffset>
+      <VoiceId>VCT_001_014_008</VoiceId>
+      <JapaneseText>え……ほ、ほんとだ……
+ど、どうしよう！</JapaneseText>
+      <EnglishText>R-really? N-no! What should I do?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40912</PointerOffset>
+      <VoiceId>VCT_001_014_009</VoiceId>
+      <JapaneseText>さっき魔物と戦ってこけた時のだな</JapaneseText>
+      <EnglishText>You did that because you fell when we were fighting that monster earlier.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41080</PointerOffset>
+      <VoiceId>VCT_001_014_010</VoiceId>
+      <JapaneseText>早くばんそうこう！
+あ、その前に消毒しなきゃ……！</JapaneseText>
+      <EnglishText>We need a bandage, quick! Oh no! That wound is pretty old, we need to disinfect!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41740</PointerOffset>
+      <VoiceId>VCT_001_014_011</VoiceId>
+      <JapaneseText>うぅ……痛ぃよ……エト〜</JapaneseText>
+      <EnglishText>Ahh! It hurts! Etoo!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42776</PointerOffset>
+      <VoiceId>VCT_001_014_012</VoiceId>
+      <JapaneseText>……落ち着けよ</JapaneseText>
+      <EnglishText>What a child...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

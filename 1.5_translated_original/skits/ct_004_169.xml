@@ -1,0 +1,210 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37376</PointerOffset>
+      <VoiceId>VCT_004_169_001</VoiceId>
+      <JapaneseText>うふふ、うふふふ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37860</PointerOffset>
+      <VoiceId>VCT_004_169_002</VoiceId>
+      <JapaneseText>&lt;Mel&gt;……ずいぶんとご機嫌だね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38028</PointerOffset>
+      <VoiceId>VCT_004_169_003</VoiceId>
+      <JapaneseText>だって、楽しいんだもん。
+いろんなコスチューム着られて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38616</PointerOffset>
+      <VoiceId>VCT_004_169_004</VoiceId>
+      <JapaneseText>女の子だもんね。やっぱたくさん服があって
+いろいろ試すのって楽しいよね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39228</PointerOffset>
+      <VoiceId>VCT_004_169_005</VoiceId>
+      <JapaneseText>うん、『なりきり士』って楽しいよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39628</PointerOffset>
+      <VoiceId>VCT_004_169_006</VoiceId>
+      <JapaneseText>なんで着替えんのがそんな楽しいんだ？
+めんどくせーってば</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40084</PointerOffset>
+      <VoiceId>VCT_004_169_007</VoiceId>
+      <JapaneseText>まったくこれだからこのハゲぼうずは……
+いいか、着替えっつーのも男のロマンなんだど</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41848</PointerOffset>
+      <VoiceId>VCT_004_169_008</VoiceId>
+      <JapaneseText>何言ってんだ？
+んなもん、さっぱりわかんねよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42136</PointerOffset>
+      <VoiceId>VCT_004_169_009</VoiceId>
+      <JapaneseText>考えてもみるだ……うら若き乙女のお着替えシーン。
+かすかに聞こえる布ずれの音……そして息遣い……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43092</PointerOffset>
+      <VoiceId>VCT_004_169_010</VoiceId>
+      <JapaneseText>間違ってうっかり着替えを除いてしまい
+きゃー、エッチ！　のお約束イベント……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44252</PointerOffset>
+      <VoiceId>VCT_004_169_011</VoiceId>
+      <JapaneseText>わかるか、わかるだか！　こーんな感じで、
+お着替えには、いーっぱい男の夢が詰まってるだーよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45400</PointerOffset>
+      <VoiceId>VCT_004_169_012</VoiceId>
+      <JapaneseText>家具のくせにおっさんくせっ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45708</PointerOffset>
+      <VoiceId>VCT_004_169_013</VoiceId>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45928</PointerOffset>
+      <VoiceId>VCT_004_169_014</VoiceId>
+      <JapaneseText>まったく……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

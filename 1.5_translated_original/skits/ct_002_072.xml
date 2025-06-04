@@ -1,0 +1,190 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37292</PointerOffset>
+      <VoiceId>VCT_002_072_001</VoiceId>
+      <JapaneseText>……なんか好きな人がいるとか、
+そういうのいいですね</JapaneseText>
+      <EnglishText>...To have someone you love in your mind... That sounds really nice.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37800</PointerOffset>
+      <VoiceId>VCT_002_072_002</VoiceId>
+      <JapaneseText>&lt;Mel&gt;ちゃんはいないの？</JapaneseText>
+      <EnglishText>Could it be our little &lt;Mel&gt; has someone in mind?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38704</PointerOffset>
+      <VoiceId>VCT_002_072_003</VoiceId>
+      <JapaneseText>残念ながら……
+今まで外に出たことなかったですから……</JapaneseText>
+      <EnglishText>I'm afraid not... I've not gone out of home until now, really.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39088</PointerOffset>
+      <VoiceId>VCT_002_072_004</VoiceId>
+      <JapaneseText>&lt;Cless&gt;とか、&lt;Chester&gt;とかには
+会ったんでしょ？</JapaneseText>
+      <EnglishText>What about &lt;Cless&gt;!? Or &lt;Chester&gt;!? Don't you want me to set you up!?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39924</PointerOffset>
+      <VoiceId>VCT_002_072_005</VoiceId>
+      <JapaneseText>お兄さんって感じ、でしょうか</JapaneseText>
+      <EnglishText>They are more like older brothers to me...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40368</PointerOffset>
+      <VoiceId>VCT_002_072_006</VoiceId>
+      <JapaneseText>&lt;Claus&gt;は……おじさんだしね</JapaneseText>
+      <EnglishText>...And &lt;Claus&gt; is like our grandpa.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40784</PointerOffset>
+      <VoiceId>VCT_002_072_007</VoiceId>
+      <JapaneseText>やっぱ同世代の男の子で……
+うーん……&lt;Dio&gt;くんは兄弟だし</JapaneseText>
+      <EnglishText>So it has to be a guy around your age... Mmm...And &lt;Dio&gt; is out of the picture...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41296</PointerOffset>
+      <VoiceId>VCT_002_072_008</VoiceId>
+      <JapaneseText>ノームさん、とか？</JapaneseText>
+      <EnglishText>How about Gnome?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41792</PointerOffset>
+      <VoiceId>VCT_002_072_009</VoiceId>
+      <JapaneseText>え？　ああいうのが好みなの？</JapaneseText>
+      <EnglishText>Wh-What!? You are into that sort of thing!?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42304</PointerOffset>
+      <VoiceId>VCT_002_072_010</VoiceId>
+      <JapaneseText>ダメーっ！　絶対ダメ！
+ノームとなんて、ぼくが絶対許さないからね！</JapaneseText>
+      <EnglishText>NO! DEFINITELY NO! I'm never forgiving Gnome!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44460</PointerOffset>
+      <VoiceId>VCT_002_072_011</VoiceId>
+      <JapaneseText>……ノームのどこが好きなの？</JapaneseText>
+      <EnglishText>...Um, what sort of place would you choose for your date?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44784</PointerOffset>
+      <VoiceId>VCT_002_072_012</VoiceId>
+      <JapaneseText>えっと……なんかぽあぽあしてて
+カワイイところ？　かな……</JapaneseText>
+      <EnglishText>Um... Somewhere full of cute things and plushies...maybe?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45512</PointerOffset>
+      <VoiceId>VCT_002_072_013</VoiceId>
+      <JapaneseText>エトちゃん、心配しなくていいよ……
+&lt;Mel&gt;ちゃんの恋愛エンジン回転してないから</JapaneseText>
+      <EnglishText>Don't you worry Miss Eto... I think little &lt;Mel&gt;'s love engine is still not quite fired up.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

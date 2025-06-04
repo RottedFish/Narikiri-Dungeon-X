@@ -1,0 +1,135 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37120</PointerOffset>
+      <VoiceId>VCT_003_108_001</VoiceId>
+      <JapaneseText>……そう言や、ここ来たのって、
+あいつらぶっ叩くためだっけ</JapaneseText>
+      <EnglishText>...So here we are. We've been doing this all along to beat those two.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37440</PointerOffset>
+      <VoiceId>VCT_003_108_002</VoiceId>
+      <JapaneseText>オレ、すっかり忘れてた</JapaneseText>
+      <EnglishText>I'm so calm I forgot about it.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37668</PointerOffset>
+      <VoiceId>VCT_003_108_003</VoiceId>
+      <JapaneseText>するべきことが
+すっきりと見えたからかな？</JapaneseText>
+      <EnglishText>Isn't this something we had to do all along? I'm not nervous either.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38044</PointerOffset>
+      <VoiceId>VCT_003_108_004</VoiceId>
+      <JapaneseText>んだな、それにあいつらにも
+もう怒ってないし</JapaneseText>
+      <EnglishText>Yeah, I don't think those guys are mad, either.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38632</PointerOffset>
+      <VoiceId>VCT_003_108_005</VoiceId>
+      <JapaneseText>自分に怒っても仕方ないよ</JapaneseText>
+      <EnglishText>Even if I tried to I couldn't be mad.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39160</PointerOffset>
+      <VoiceId>VCT_003_108_006</VoiceId>
+      <JapaneseText>あいつらはオレらだもんな</JapaneseText>
+      <EnglishText>They are us, after all.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39592</PointerOffset>
+      <VoiceId>VCT_003_108_007</VoiceId>
+      <JapaneseText>ふふ、なんか、&lt;Dio&gt;、
+すっきりした顔してるね</JapaneseText>
+      <EnglishText>Hehehe! &lt;Dio&gt;, you really do have a relaxed face now!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40036</PointerOffset>
+      <VoiceId>VCT_003_108_008</VoiceId>
+      <JapaneseText>おまえもな</JapaneseText>
+      <EnglishText>You too.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40348</PointerOffset>
+      <VoiceId>VCT_003_108_009</VoiceId>
+      <JapaneseText>よし……行こ！</JapaneseText>
+      <EnglishText>Ok... Let's go!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

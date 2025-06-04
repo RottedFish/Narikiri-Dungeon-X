@@ -1,0 +1,145 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37208</PointerOffset>
+      <VoiceId>VCT_003_109_001</VoiceId>
+      <JapaneseText>なんかヘンテコなとこに
+出ちゃったよな</JapaneseText>
+      <EnglishText>Now we've come to a really weird place.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37736</PointerOffset>
+      <VoiceId>VCT_003_109_002</VoiceId>
+      <JapaneseText>不思議……空の上にいるみたい……</JapaneseText>
+      <EnglishText>How perplexing...You can see the stars from here...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38156</PointerOffset>
+      <VoiceId>VCT_003_109_003</VoiceId>
+      <JapaneseText>この洞窟、
+どこまで続いてるの……？</JapaneseText>
+      <EnglishText>Where is this cave taking us to...?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38544</PointerOffset>
+      <VoiceId>VCT_003_109_004</VoiceId>
+      <JapaneseText>一体……きみたち、どこまで
+行かなきゃいけないの……？</JapaneseText>
+      <EnglishText>And yet...you will go no matter what, right?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39160</PointerOffset>
+      <VoiceId>VCT_003_109_005</VoiceId>
+      <JapaneseText>わかんないけど……
+ノルンがいるところまで</JapaneseText>
+      <EnglishText>I don't know about this place, but I'm sure Norn is just ahead.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39664</PointerOffset>
+      <VoiceId>VCT_003_109_006</VoiceId>
+      <JapaneseText>帰るか？　エト</JapaneseText>
+      <EnglishText>Do you want to go back, Eto?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40100</PointerOffset>
+      <VoiceId>VCT_003_109_007</VoiceId>
+      <JapaneseText>行く……！！
+きみたちが行くなら、ぼくもどこまでも……！</JapaneseText>
+      <EnglishText>I'm going...! Wherever you two go I'll always be there!!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40768</PointerOffset>
+      <VoiceId>VCT_003_109_008</VoiceId>
+      <JapaneseText>うん……帰るなんて言わないで……
+これが最後だから……</JapaneseText>
+      <EnglishText>Yeah...It's impossible to return now...This is where it all ends...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41612</PointerOffset>
+      <VoiceId>VCT_003_109_009</VoiceId>
+      <JapaneseText>……最後って、そんな……</JapaneseText>
+      <EnglishText>...Where it...ends...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

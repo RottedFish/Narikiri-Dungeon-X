@@ -1,0 +1,191 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37640</PointerOffset>
+      <VoiceId>VCT_004_156_001</VoiceId>
+      <JapaneseText>このメンバーでの戦闘も、だいぶ慣れてきましたね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38016</PointerOffset>
+      <VoiceId>VCT_004_156_002</VoiceId>
+      <JapaneseText>うんうん、やっぱり&lt;Mint&gt;の法術があると、
+安心して攻撃に集中できるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38672</PointerOffset>
+      <VoiceId>VCT_004_156_003</VoiceId>
+      <JapaneseText>そんなことありません。&lt;Mel&gt;ちゃんや&lt;Suzu&gt;ちゃんが
+頑張ってくれているので、詠唱に集中できるだけです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39496</PointerOffset>
+      <VoiceId>VCT_004_156_004</VoiceId>
+      <JapaneseText>&lt;Rody&gt;さんの動きに比べれば、私などまだまだです。
+もっと修行して、&lt;Rody&gt;さんのようになりたいです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40508</PointerOffset>
+      <VoiceId>VCT_004_156_005</VoiceId>
+      <JapaneseText>あれ〜&lt;Suzu&gt;ちゃん？
+そんなに褒めても、なんも出ないよ？∀</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42616</PointerOffset>
+      <VoiceId>VCT_004_156_006</VoiceId>
+      <JapaneseText>おらは今、歴史の生き証人になってるだ。
+強さだけでなく、美しさも兼ね備えているパーティだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43376</PointerOffset>
+      <VoiceId>VCT_004_156_007</VoiceId>
+      <JapaneseText>戦う女性は、すんばらしい！　すんばらしいだぁ！
+このパーティのまんま、最後まで突っ切って行くだーよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44560</PointerOffset>
+      <VoiceId>VCT_004_156_008</VoiceId>
+      <JapaneseText>つんつん。あのー、あたしもいるんですけど？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45580</PointerOffset>
+      <VoiceId>VCT_004_156_009</VoiceId>
+      <JapaneseText>ん？　あら？　おんやぁ？　おめぇも入りてぇだが？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46000</PointerOffset>
+      <VoiceId>VCT_004_156_010</VoiceId>
+      <JapaneseText>…………いやぁ、ああ、すまんこってや、無理だど</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46748</PointerOffset>
+      <VoiceId>VCT_004_156_011</VoiceId>
+      <JapaneseText>あんたが決めんの！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

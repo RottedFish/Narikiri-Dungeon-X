@@ -1,0 +1,187 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37432</PointerOffset>
+      <VoiceId>VCT_002_037_001</VoiceId>
+      <JapaneseText>&lt;Chester&gt;って、
+あんなに気さくな人なんだな</JapaneseText>
+      <EnglishText>After all &lt;Chester&gt; really does seem like a nice guy!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37648</PointerOffset>
+      <VoiceId>VCT_002_037_002</VoiceId>
+      <JapaneseText>どうして？</JapaneseText>
+      <EnglishText>Where did that come from?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37888</PointerOffset>
+      <VoiceId>VCT_002_037_003</VoiceId>
+      <JapaneseText>目つきが悪くてすごく性格ねじ曲がってて意地悪で、
+文句ばっか言ってる人で……</JapaneseText>
+      <EnglishText>I've heard he had an evil glare, a mean personality and he'd say the stupidest things...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39004</PointerOffset>
+      <VoiceId>VCT_002_037_004</VoiceId>
+      <JapaneseText>おいおい、誰のことだよ、それ</JapaneseText>
+      <EnglishText>Hey, wait a sec! Who said that about me?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39348</PointerOffset>
+      <VoiceId>VCT_002_037_005</VoiceId>
+      <JapaneseText>&lt;Chester&gt;だよ……って、
+おわっ！！</JapaneseText>
+      <EnglishText>It's &lt;Chester&gt;...Oh shoot!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40304</PointerOffset>
+      <VoiceId>VCT_002_037_006</VoiceId>
+      <JapaneseText>ヒドいな、誰だよ、んなこと言ってんの</JapaneseText>
+      <EnglishText>How degrading...who's saying that crap about me?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40880</PointerOffset>
+      <VoiceId>VCT_002_037_007</VoiceId>
+      <JapaneseText>え？　読んだ本に書いてたぜ。
+……おい、出て来いタンス野郎！</JapaneseText>
+      <EnglishText>Who? I dunno, pretty sure I read it in a book. Yo, piece of wood! Stop hiding and come out!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41924</PointerOffset>
+      <VoiceId>VCT_002_037_008</VoiceId>
+      <JapaneseText>ぬわー！　誰に向かってタンスとか言ってんだ！
+いい加減、どつきまわして、ひぃひぃ言わ……</JapaneseText>
+      <EnglishText>Argh! Again with the badgering! I had enough of your irresponsible and hurtful insults I'll lecture you—</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43272</PointerOffset>
+      <VoiceId>VCT_002_037_009</VoiceId>
+      <JapaneseText>このへんにあの本しまったよな……</JapaneseText>
+      <EnglishText>Mmm, that's not the volume I'm looking for...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43828</PointerOffset>
+      <VoiceId>VCT_002_037_010</VoiceId>
+      <JapaneseText>ぬひゃ……。こ、こら、おめぇ……、何すっだ！　ぐ。
+お、おらの……、ひゃは……体ん中、まさぐるでね！</JapaneseText>
+      <EnglishText>Ah! Stop—hahahahahaha! S-stop it! My insides are being e-explored!</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45076</PointerOffset>
+      <VoiceId>VCT_002_037_011</VoiceId>
+      <JapaneseText>あったあった、この本……
+えっと……作者はＡ・クライン……</JapaneseText>
+      <EnglishText>Here's the book! And the author is... "A. Klein."..</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45892</PointerOffset>
+      <VoiceId>VCT_002_037_012</VoiceId>
+      <JapaneseText>……&lt;Arche&gt;じゃねぇか！　あのヤローっ！</JapaneseText>
+      <EnglishText>...It's that goddamn &lt;Arche&gt;!! That brat!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

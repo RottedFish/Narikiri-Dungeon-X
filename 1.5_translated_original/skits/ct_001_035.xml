@@ -1,0 +1,199 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37360</PointerOffset>
+      <VoiceId>VCT_001_035_001</VoiceId>
+      <JapaneseText>精霊を集めるだけじゃ
+ダメだったなんて……</JapaneseText>
+      <EnglishText>Even after collecting all the Spirits...it was useless...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37660</PointerOffset>
+      <VoiceId>VCT_001_035_002</VoiceId>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText>...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37772</PointerOffset>
+      <VoiceId>VCT_001_035_003</VoiceId>
+      <JapaneseText>力のある術者を探せばいいだけだよ、
+ほら、精霊たちも言ってたシ</JapaneseText>
+      <EnglishText>We'll have enough power after we find the Lord of the Four Elements. The Spirits said so, remember?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38356</PointerOffset>
+      <VoiceId>VCT_001_035_004</VoiceId>
+      <JapaneseText>でも、精霊の力を使える人なんて
+いないんじゃないのかな……</JapaneseText>
+      <EnglishText>But what if we can't find that person and we can't control the Spirits?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39120</PointerOffset>
+      <VoiceId>VCT_001_035_005</VoiceId>
+      <JapaneseText>あ〜っ！　なんでどうして、
+そう後ろ向きなんだよ</JapaneseText>
+      <EnglishText>Damn it! Why are you ALWAYS depressed when things get tough?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39896</PointerOffset>
+      <VoiceId>VCT_001_035_006</VoiceId>
+      <JapaneseText>今のオレらは外の世界を知ったし
+いろんなとこに行けんだぜ？</JapaneseText>
+      <EnglishText>We have the entire world to search for him. Do you think there's somewhere we can't go?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40316</PointerOffset>
+      <VoiceId>VCT_001_035_007</VoiceId>
+      <JapaneseText>それに『なりきり士』だし、
+時空戦士とも知り合いになれた</JapaneseText>
+      <EnglishText>Also, we are Roleplayer and we know the Eternal Heroes.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41060</PointerOffset>
+      <VoiceId>VCT_001_035_008</VoiceId>
+      <JapaneseText>こんなすげーこと続いてんだ、
+案外、簡単にいい方法見つかるって</JapaneseText>
+      <EnglishText>We've done awesome things already! This looks like it'll be easy as cake!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41796</PointerOffset>
+      <VoiceId>VCT_001_035_009</VoiceId>
+      <JapaneseText>クルール！</JapaneseText>
+      <EnglishText>Kururu!</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42300</PointerOffset>
+      <VoiceId>VCT_001_035_010</VoiceId>
+      <JapaneseText>&lt;Dio&gt;……</JapaneseText>
+      <EnglishText>&lt;Dio&gt;...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42468</PointerOffset>
+      <VoiceId>VCT_001_035_011</VoiceId>
+      <JapaneseText>な？</JapaneseText>
+      <EnglishText>Yeah?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42636</PointerOffset>
+      <VoiceId>VCT_001_035_012</VoiceId>
+      <JapaneseText>……どうして、そんな楽観的なの？</JapaneseText>
+      <EnglishText>...Why are you such a Polly Positive?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43248</PointerOffset>
+      <VoiceId>VCT_001_035_013</VoiceId>
+      <JapaneseText>なんだよ、せっかく励まして
+やってんのにそりゃねーだろ！</JapaneseText>
+      <EnglishText>What!? Here I am, trying to cheer you up and all you do is answer with negativity...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

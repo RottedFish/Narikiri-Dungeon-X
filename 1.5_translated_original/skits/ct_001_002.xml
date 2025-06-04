@@ -1,0 +1,144 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37208</PointerOffset>
+      <VoiceId>VCT_001_002_001</VoiceId>
+      <JapaneseText>ヴァルハラか。なつかしいな〜</JapaneseText>
+      <EnglishText>I really missed Valhalla!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37528</PointerOffset>
+      <VoiceId>VCT_001_002_002</VoiceId>
+      <JapaneseText>前来たのは……
+仲間探してた時だったっけ…</JapaneseText>
+      <EnglishText>Last time I came here...was when I was looking for my friends...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37932</PointerOffset>
+      <VoiceId>VCT_001_002_003</VoiceId>
+      <JapaneseText>……エトはまたいつか、
+旅立っちゃうの……？</JapaneseText>
+      <EnglishText>Eto... would you want to go again?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38772</PointerOffset>
+      <VoiceId>VCT_001_002_004</VoiceId>
+      <JapaneseText>仲間を探して？　うふふ、きみたちを
+ほってどこかに行けるはずないでしょ？</JapaneseText>
+      <EnglishText>To look for my companions? Hahahaha, do you think I would ever abandon you?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39668</PointerOffset>
+      <VoiceId>VCT_001_002_005</VoiceId>
+      <JapaneseText>本当に？</JapaneseText>
+      <EnglishText>D-do you mean that just now?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39964</PointerOffset>
+      <VoiceId>VCT_001_002_006</VoiceId>
+      <JapaneseText>ずっと一緒だよ？</JapaneseText>
+      <EnglishText>We'll always be together!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40264</PointerOffset>
+      <VoiceId>VCT_001_002_007</VoiceId>
+      <JapaneseText>マジで、&lt;Mel&gt;って
+エトには甘えん坊だな</JapaneseText>
+      <EnglishText>Oh no! Eto and &lt;Mel&gt; got all softy and corny!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41288</PointerOffset>
+      <VoiceId>VCT_001_002_008</VoiceId>
+      <JapaneseText>&lt;Dio&gt;もでしょ</JapaneseText>
+      <EnglishText>Y-you moved too!</EnglishText>
+      <Notes>what</Notes>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41996</PointerOffset>
+      <VoiceId>VCT_001_002_009</VoiceId>
+      <JapaneseText>……だってね……きみたちがいれば
+他に仲間なんて必要ないかラ……</JapaneseText>
+      <EnglishText>...That's because... now you are my irreplaceable friends...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,349 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>行列のおばさん</JapaneseText>
+      <EnglishText>Granny</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText>Ethos</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>259312</PointerOffset>
+      <VoiceId>VSM_110_030_001</VoiceId>
+      <JapaneseText>……何並んでんだ、これ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259612</PointerOffset>
+      <VoiceId>VSM_110_030_002</VoiceId>
+      <JapaneseText>あら？　ボクちゃんたち、
+横入りはダメよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259928</PointerOffset>
+      <VoiceId>VSM_110_030_003</VoiceId>
+      <JapaneseText>これ、何の列なんですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260236</PointerOffset>
+      <VoiceId>VSM_110_030_004</VoiceId>
+      <JapaneseText>&lt;Mint&gt;様に診察してもらう
+順番を待ってるのよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260432</PointerOffset>
+      <VoiceId>VSM_110_030_005</VoiceId>
+      <JapaneseText>&lt;Mint&gt;って……
+時空戦士の？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260844</PointerOffset>
+      <VoiceId>VSM_110_030_006</VoiceId>
+      <JapaneseText>そうよ。
+ここが最後尾。
+９時間待ち</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261152</PointerOffset>
+      <VoiceId>VSM_110_030_007</VoiceId>
+      <JapaneseText>く、９時間！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261656</PointerOffset>
+      <VoiceId>VSM_110_030_017</VoiceId>
+      <JapaneseText>&lt;Mint&gt;は時空戦士の法術師で、
+結社を作って、
+世界に法術を広めた人なんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261976</PointerOffset>
+      <VoiceId>VSM_110_030_018</VoiceId>
+      <JapaneseText>詳しいんだね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262116</PointerOffset>
+      <VoiceId>VSM_110_030_019</VoiceId>
+      <JapaneseText>今は&lt;Cless&gt;さんに
+会うんでしょ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262524</PointerOffset>
+      <VoiceId>VSM_110_030_020</VoiceId>
+      <JapaneseText>あ、そうだった……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262824</PointerOffset>
+      <VoiceId>VSM_110_030_021</VoiceId>
+      <JapaneseText>あら？　道場の入門者なの、
+ボクちゃんたち</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263332</PointerOffset>
+      <VoiceId>VSM_110_030_022</VoiceId>
+      <JapaneseText>え？　いや、あの……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263472</PointerOffset>
+      <VoiceId>VSM_110_030_023</VoiceId>
+      <JapaneseText>&lt;Cless&gt;様の道場なら、
+そこの橋渡ったとこに
+あるわよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264356</PointerOffset>
+      <VoiceId>VSM_110_030_025</VoiceId>
+      <JapaneseText>おばさん、
+ありがとうございます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264720</PointerOffset>
+      <VoiceId>VSM_110_030_026</VoiceId>
+      <JapaneseText>はい、ご丁寧に</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264924</PointerOffset>
+      <VoiceId>VSM_110_030_027</VoiceId>
+      <JapaneseText>教会ってこれだよな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265224</PointerOffset>
+      <VoiceId>VSM_110_030_028</VoiceId>
+      <JapaneseText>あら？　ボクちゃんたち、
+横入りはダメよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>18</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265540</PointerOffset>
+      <VoiceId>VSM_110_030_029</VoiceId>
+      <JapaneseText>これ、何の列なんですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>19</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265848</PointerOffset>
+      <VoiceId>VSM_110_030_030</VoiceId>
+      <JapaneseText>&lt;Mint&gt;様に診察してもらう
+順番を待ってるの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>20</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265848</PointerOffset>
+      <VoiceId>VSM_110_030_031</VoiceId>
+      <JapaneseText>ここが最後尾、９時間待ち</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>20</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266164</PointerOffset>
+      <VoiceId>VSM_110_030_032</VoiceId>
+      <JapaneseText>く、９時間！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>21</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266416</PointerOffset>
+      <VoiceId>VSM_110_030_034</VoiceId>
+      <JapaneseText>ボクちゃんたちは若いのに、
+どこが悪いの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>22</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266676</PointerOffset>
+      <VoiceId>VSM_110_030_035</VoiceId>
+      <JapaneseText>い、いえ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>23</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267188</PointerOffset>
+      <VoiceId>VSM_110_030_036</VoiceId>
+      <JapaneseText>９時間待ち……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>24</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267496</PointerOffset>
+      <VoiceId>VSM_110_030_037</VoiceId>
+      <JapaneseText>さすがにちょっとな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>25</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

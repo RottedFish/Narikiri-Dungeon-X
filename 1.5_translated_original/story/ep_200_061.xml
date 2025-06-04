@@ -1,0 +1,269 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ヴォルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>278012</PointerOffset>
+      <VoiceId>VSM_200_060_009</VoiceId>
+      <JapaneseText>▼☆○◆〜〜〜</JapaneseText>
+      <EnglishText>▼☆○◆〜〜〜 </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>278208</PointerOffset>
+      <VoiceId>VSM_200_060_010</VoiceId>
+      <JapaneseText>ヴォルト！
+オレらに“電気”の
+力を分けてくれ！</JapaneseText>
+      <EnglishText>Volt! Please give us the power of "electricity"! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>278348</PointerOffset>
+      <VoiceId>VSM_200_060_011</VoiceId>
+      <JapaneseText>※★☆●〜</JapaneseText>
+      <EnglishText>※★☆●〜 </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>278808</PointerOffset>
+      <VoiceId>VSM_200_060_012</VoiceId>
+      <JapaneseText>あっ……</JapaneseText>
+      <EnglishText>Whoa. </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280688</PointerOffset>
+      <VoiceId>VSM_200_060_013</VoiceId>
+      <JapaneseText>◎×※※★□▼＄☆……</JapaneseText>
+      <EnglishText>◎×※※★□▼＄☆…… </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>281352</PointerOffset>
+      <VoiceId>VSM_200_060_014</VoiceId>
+      <JapaneseText>え……南の……方の
+精霊が騒がしい……？</JapaneseText>
+      <EnglishText>Eh? Search for...the Spirit...south from here? </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>281908</PointerOffset>
+      <VoiceId>VSM_200_060_015</VoiceId>
+      <JapaneseText>ん？　どういうこと？</JapaneseText>
+      <EnglishText>Mmm? Is something wrong? </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>282160</PointerOffset>
+      <VoiceId>VSM_200_060_016</VoiceId>
+      <JapaneseText>さあ、それは……。
+でも、ヴォルトの言ってる言葉が
+わかるみたいで……</JapaneseText>
+      <EnglishText>That's what it...It's nothing. I mean it seems no one 
+understood his words anyways... </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>283032</PointerOffset>
+      <VoiceId>VSM_200_060_017</VoiceId>
+      <JapaneseText>精霊晶核もらったことと
+関係あんのか？</JapaneseText>
+      <EnglishText>Maybe you could understand him since he gave us the Atomism 
+Core? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>283424</PointerOffset>
+      <VoiceId>VSM_200_060_018</VoiceId>
+      <JapaneseText>☆☆☆◎★★※▲</JapaneseText>
+      <EnglishText>☆☆☆◎★★※▲ </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>283676</PointerOffset>
+      <VoiceId>VSM_200_060_019</VoiceId>
+      <JapaneseText>えっと……その騒ぎのせいで、
+わたしたちを襲った……って……</JapaneseText>
+      <EnglishText>It's because of a disturbance...that he attacked us... </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>283932</PointerOffset>
+      <VoiceId>VSM_200_060_020</VoiceId>
+      <JapaneseText>精霊が、騒がしい……</JapaneseText>
+      <EnglishText>The Spirits are...disturbed...? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>284336</PointerOffset>
+      <VoiceId>VSM_200_060_021</VoiceId>
+      <JapaneseText>もしかして、
+そこにエトちゃんがいる、
+とか！？</JapaneseText>
+      <EnglishText>You don't say... That Miss Eto could be there!? </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>284700</PointerOffset>
+      <VoiceId>VSM_200_060_022</VoiceId>
+      <JapaneseText>そう言えば
+ノームの時も……</JapaneseText>
+      <EnglishText>That's right. Gnome said he was disturbed as well... </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>285172</PointerOffset>
+      <VoiceId>VSM_200_060_023</VoiceId>
+      <JapaneseText>それだよ……！
+きっとそこにエトがいる！</JapaneseText>
+      <EnglishText>That's it! She must be there! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>286008</PointerOffset>
+      <VoiceId>VSM_200_060_024</VoiceId>
+      <JapaneseText>ここから
+南の大陸と言えば
+アーリィですね</JapaneseText>
+      <EnglishText>South from here lies Arlee's continent. </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>286564</PointerOffset>
+      <VoiceId>VSM_200_060_025</VoiceId>
+      <JapaneseText>行ってみよーぜ！</JapaneseText>
+      <EnglishText>Let's go look! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>286564</PointerOffset>
+      <VoiceId>VSM_200_060_026</VoiceId>
+      <JapaneseText>サンキュ、ヴォルト</JapaneseText>
+      <EnglishText>Thanks a bunch, Volt! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

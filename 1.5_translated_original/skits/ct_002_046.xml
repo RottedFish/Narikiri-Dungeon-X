@@ -1,0 +1,188 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37376</PointerOffset>
+      <VoiceId>VCT_002_046_001</VoiceId>
+      <JapaneseText>おまえら、ほんと、ガキの割に強いのな。
+訓練とかしてたりするのか？</JapaneseText>
+      <EnglishText>Wow, you two are sure a pair of small powerhouses. What kind of training did you undergo?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37852</PointerOffset>
+      <VoiceId>VCT_002_046_002</VoiceId>
+      <JapaneseText>特別、何かやってるって
+わけじゃないですけど……</JapaneseText>
+      <EnglishText>We don't really do anything special to train ourselves, really...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38032</PointerOffset>
+      <VoiceId>VCT_002_046_003</VoiceId>
+      <JapaneseText>やっぱ『なりきり士』の力の
+おかげだよな！</JapaneseText>
+      <EnglishText>Of course it's ‘cause of the Roleplayer powers!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38608</PointerOffset>
+      <VoiceId>VCT_002_046_004</VoiceId>
+      <JapaneseText>なるほどな。でも力があるからって、
+それに頼りきりになるのもどうかと思うぜ</JapaneseText>
+      <EnglishText>Right, right. But remember, you should never depend on your powers.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39252</PointerOffset>
+      <VoiceId>VCT_002_046_005</VoiceId>
+      <JapaneseText>そうなのか？</JapaneseText>
+      <EnglishText>Really, now?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39472</PointerOffset>
+      <VoiceId>VCT_002_046_006</VoiceId>
+      <JapaneseText>天から降って湧いた力は、突然、
+水が干上がるみたいになくなるかもしれねーしな</JapaneseText>
+      <EnglishText>Imagine having the might to tear apart the land...Suddenly, due to your own powers you realize the ocean has dried up.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39984</PointerOffset>
+      <VoiceId>VCT_002_046_007</VoiceId>
+      <JapaneseText>そうなった時、慌てないように
+元からある力をちゃんときたえといた方がいいぞ？</JapaneseText>
+      <EnglishText>After that to not make more of a mess wouldn't you want to train hard to control your own strength?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40416</PointerOffset>
+      <VoiceId>VCT_002_046_008</VoiceId>
+      <JapaneseText>そっか……
+よし、明日から超特訓だ！</JapaneseText>
+      <EnglishText>You're right... Okay till tomorrow I'll train and train and only train!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41136</PointerOffset>
+      <VoiceId>VCT_002_046_009</VoiceId>
+      <JapaneseText>クル〜クル〜♪</JapaneseText>
+      <EnglishText>Kuru kuru!</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42000</PointerOffset>
+      <VoiceId>VCT_002_046_010</VoiceId>
+      <JapaneseText>&lt;Dio&gt;、調子がいいんだから</JapaneseText>
+      <EnglishText>Oh no, &lt;Dio&gt;'s fired up again...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42432</PointerOffset>
+      <VoiceId>VCT_002_046_011</VoiceId>
+      <JapaneseText>……なんてな</JapaneseText>
+      <EnglishText>...That he is.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42544</PointerOffset>
+      <VoiceId>VCT_002_046_012</VoiceId>
+      <JapaneseText>……ずいぶん腕がなまっちまった
+オレが言うことじゃねぇけどな</JapaneseText>
+      <EnglishText>...Maybe I shouldn't have told them that after all...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

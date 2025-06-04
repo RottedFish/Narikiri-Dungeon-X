@@ -1,0 +1,177 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37320</PointerOffset>
+      <VoiceId>VCT_001_018_001</VoiceId>
+      <JapaneseText>君たちは……エルフでは
+ないようだが……</JapaneseText>
+      <EnglishText>You guys aren't elves, are you?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37432</PointerOffset>
+      <VoiceId>VCT_001_018_002</VoiceId>
+      <JapaneseText>はい、違いますけど……</JapaneseText>
+      <EnglishText>We aren't, why do you ask...?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37716</PointerOffset>
+      <VoiceId>VCT_001_018_003</VoiceId>
+      <JapaneseText>魔術を使えるのはエルフだけのはずだ。
+でも、君たちは魔術を使える。どうしてだ？</JapaneseText>
+      <EnglishText>Only those with elven blood can use magic...but you can use magic anyways. Why's that?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38224</PointerOffset>
+      <VoiceId>VCT_001_018_004</VoiceId>
+      <JapaneseText>えっと……</JapaneseText>
+      <EnglishText>Well...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38336</PointerOffset>
+      <VoiceId>VCT_001_018_005</VoiceId>
+      <JapaneseText>そこが『なりきり士』の
+すごいところだぜ！</JapaneseText>
+      <EnglishText>That's because of how amazing it is to be a "Roleplayer"!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38764</PointerOffset>
+      <VoiceId>VCT_001_018_006</VoiceId>
+      <JapaneseText>エルフでもないのに魔術を、か。
+『なりきり士』っていうのは得体の知れない力だな</JapaneseText>
+      <EnglishText>You aren't elves but can use magic, huh? The power of "Roleplaying" sounds quite surreal.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39432</PointerOffset>
+      <VoiceId>VCT_001_018_007</VoiceId>
+      <JapaneseText>あっ、もしかして料理人の服着れば、超一流の
+すげーうまい豪華料理を作って食えるんじゃねーの？</JapaneseText>
+      <EnglishText>Oh yeah! Does that mean if we got some chef's clothes we would be able to prepare the best dishes ever?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40156</PointerOffset>
+      <VoiceId>VCT_001_018_008</VoiceId>
+      <JapaneseText>大工さんになったら、
+エトスハウスを新しく建て直せるかも</JapaneseText>
+      <EnglishText>Or if you were a carpenter we could turn Ethos' House into a huge mansion!</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40964</PointerOffset>
+      <VoiceId>VCT_001_018_009</VoiceId>
+      <JapaneseText>家の修理も、豪華料理も
+材料が必要だよ？</JapaneseText>
+      <EnglishText>Big meals and a great house are all you really want?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41412</PointerOffset>
+      <VoiceId>VCT_001_018_010</VoiceId>
+      <JapaneseText>君はリアリストだな</JapaneseText>
+      <EnglishText>You're pretty down to the ground.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41636</PointerOffset>
+      <VoiceId>VCT_001_018_011</VoiceId>
+      <JapaneseText>っていうか、
+夢がないぜ……</JapaneseText>
+      <EnglishText>...So you say. Now the dream has died.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,261 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText>Ethos</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>258672</PointerOffset>
+      <VoiceId>VSM_030_070_001</VoiceId>
+      <JapaneseText>っし。
+じゃ、行こうぜ</JapaneseText>
+      <EnglishText>Tch, OK, let's go! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>258916</PointerOffset>
+      <VoiceId>VSM_030_070_002</VoiceId>
+      <JapaneseText>待って</JapaneseText>
+      <EnglishText>Wait. </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259056</PointerOffset>
+      <VoiceId>VSM_030_070_003</VoiceId>
+      <JapaneseText>……っとと。なんだよ、&lt;Mel&gt;？</JapaneseText>
+      <EnglishText>...What is it, &lt;Mel&gt;? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259252</PointerOffset>
+      <VoiceId>VSM_030_070_004</VoiceId>
+      <JapaneseText>本当に平気かな？</JapaneseText>
+      <EnglishText>Is it really ok? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259252</PointerOffset>
+      <VoiceId>VSM_030_070_005</VoiceId>
+      <JapaneseText>精霊に会うとか、
+その……２００年前の
+世界とか……</JapaneseText>
+      <EnglishText>Going as far as to meeting the Spirits... going to the 
+world 200 years in the past... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259500</PointerOffset>
+      <VoiceId>VSM_030_070_009</VoiceId>
+      <JapaneseText>……じゃあ、
+この時代で魔術の暴走を
+止める手段探す？</JapaneseText>
+      <EnglishText>...Well, we need to find them as they're the only means to 
+stop magic destroying the world in this period, right? </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259500</PointerOffset>
+      <VoiceId>VSM_030_070_010</VoiceId>
+      <JapaneseText>見つかるかどうかは
+わからないけド……</JapaneseText>
+      <EnglishText>But...can we really find them...? </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259864</PointerOffset>
+      <VoiceId>VSM_030_070_011</VoiceId>
+      <JapaneseText>ちょっと待てよ、
+目の前にうまくいく方法が
+あんだぜ！</JapaneseText>
+      <EnglishText>Hold on! So far everything we've done worked in the end! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259864</PointerOffset>
+      <VoiceId>VSM_030_070_012</VoiceId>
+      <JapaneseText>なのに、なんで
+どうなるかわかんない
+そっちの方法取んだよ？</JapaneseText>
+      <EnglishText>Why would we start doubting now? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260440</PointerOffset>
+      <VoiceId>VSM_030_070_015</VoiceId>
+      <JapaneseText>ゴメン……
+今のなしね</JapaneseText>
+      <EnglishText>Sorry, you‘re right. That made feel a little better. </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260440</PointerOffset>
+      <VoiceId>VSM_030_070_016</VoiceId>
+      <JapaneseText>そんなこと言ってる場合
+じゃないんだもん</JapaneseText>
+      <EnglishText>Hearing you talk like that, I understand we need to do 
+this. </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260684</PointerOffset>
+      <VoiceId>VSM_030_070_017</VoiceId>
+      <JapaneseText>……んじゃ、いんだな？</JapaneseText>
+      <EnglishText>...Are you ok? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260880</PointerOffset>
+      <VoiceId>VSM_030_070_018</VoiceId>
+      <JapaneseText>うん。
+さ、行こ？</JapaneseText>
+      <EnglishText>Yes. Anyways, shouldn't we be going? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264612</PointerOffset>
+      <VoiceId>VSM_030_070_019</VoiceId>
+      <JapaneseText>……終わったのか？</JapaneseText>
+      <EnglishText>...Is that it? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265352</PointerOffset>
+      <VoiceId>VSM_030_070_020</VoiceId>
+      <JapaneseText>みたい……
+ちょっと空気が
+違うっぽく感じる……</JapaneseText>
+      <EnglishText>Hey... doesn't the air feel a little different? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265596</PointerOffset>
+      <VoiceId>VSM_030_070_023</VoiceId>
+      <JapaneseText>う〜ん……とりあえず、
+外出てみたら
+なんかわかるかも</JapaneseText>
+      <EnglishText>Mmm... we'll find out if it worked or not once we go 
+outside. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265736</PointerOffset>
+      <VoiceId>VSM_030_070_024</VoiceId>
+      <JapaneseText>&lt;Arche&gt;さん、
+&lt;Red&gt;ユークリッド村&lt;White&gt;って
+言ってたよね</JapaneseText>
+      <EnglishText>Miss &lt;Arche&gt; said we should go to "Euclid Village." </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265980</PointerOffset>
+      <VoiceId>VSM_030_070_025</VoiceId>
+      <JapaneseText>うん。行ってみよーぜ</JapaneseText>
+      <EnglishText>All right. Let's go have a look-around there! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

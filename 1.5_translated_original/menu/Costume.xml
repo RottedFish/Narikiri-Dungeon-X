@@ -1,0 +1,1581 @@
+<MenuText>
+  <Strings>
+    <Section>Costume1</Section>
+    <Entry>
+      <PointerOffset>8,12</PointerOffset>
+      <JapaneseText>ダミー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>416,17552</PointerOffset>
+      <JapaneseText>なりきり士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>420,17556</PointerOffset>
+      <JapaneseText>防御属性『無』（耐性：--　弱点：--）
+あらゆる姿に「なりきる」ことで、人々を助ける職業</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>824</PointerOffset>
+      <JapaneseText>ディオス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>828</PointerOffset>
+      <JapaneseText>防御属性『無』（耐性：--　弱点：--）
+ディオの「もう一つ」の可能性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1232</PointerOffset>
+      <JapaneseText>剣豪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1236</PointerOffset>
+      <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
+素早い動きと、刀による連撃で戦うコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1640</PointerOffset>
+      <JapaneseText>オロチ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1644</PointerOffset>
+      <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
+攻撃に特化し、神速の抜刀術で敵を斬り裂くコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2048</PointerOffset>
+      <JapaneseText>侍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2052</PointerOffset>
+      <JapaneseText>防御属性『火』（耐性：地　弱点：水）
+刀を使った強力な一撃が魅力のコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2456</PointerOffset>
+      <JapaneseText>剣帝</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2460</PointerOffset>
+      <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
+刀を極め、様々な特技を使いこなす強力なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2864</PointerOffset>
+      <JapaneseText>剣士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2868</PointerOffset>
+      <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
+剣を使った空中での連続攻撃が得意なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3272</PointerOffset>
+      <JapaneseText>黄金剣士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3276</PointerOffset>
+      <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
+強力な剣技を使いこなし、圧倒的な連続攻撃で戦うコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3680</PointerOffset>
+      <JapaneseText>白銀剣士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3684</PointerOffset>
+      <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
+地上・空中問わず剣を使っての連続攻撃に優れたコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4088</PointerOffset>
+      <JapaneseText>忍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4092</PointerOffset>
+      <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
+特殊な攻撃である『忍術』を使用する事ができるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4496</PointerOffset>
+      <JapaneseText>隠密</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4500</PointerOffset>
+      <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
+素早い動きで、地上・空中の至る所で敵を翻弄するコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4904</PointerOffset>
+      <JapaneseText>忍頭</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4908</PointerOffset>
+      <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
+脅威のスピードと様々な忍術で敵を圧倒する強力なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5312</PointerOffset>
+      <JapaneseText>シーフ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5316</PointerOffset>
+      <JapaneseText>防御属性『地』（耐性：風　弱点：火）
+短剣攻撃や、ガルドやアイテムを盗むことが得意なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5720</PointerOffset>
+      <JapaneseText>トリックスター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5724</PointerOffset>
+      <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
+何も無い空間から手品の様に武器を取り出し戦えるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6128</PointerOffset>
+      <JapaneseText>アサシン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6132</PointerOffset>
+      <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
+影から影へ飛びすさり、相手の隙を突く攻撃が得意なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6536</PointerOffset>
+      <JapaneseText>マスカレイド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6540</PointerOffset>
+      <JapaneseText>防御属性『火』（耐性：地　弱点：水）
+様々な罠と変幻自在の技で敵を攻撃する強力なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6944</PointerOffset>
+      <JapaneseText>ストライカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6948</PointerOffset>
+      <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
+弓を使って遠くの敵を正確に攻撃することのできるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7352</PointerOffset>
+      <JapaneseText>ハンター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7356</PointerOffset>
+      <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
+弓の扱いに長けた、遠距離攻撃が得意なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7760</PointerOffset>
+      <JapaneseText>ホークアイ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7764</PointerOffset>
+      <JapaneseText>防御属性『地』（耐性：風　弱点：火）
+突出した弓の技術で、敵を寄せ付けない強さを得たコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8168</PointerOffset>
+      <JapaneseText>闘弓士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8172</PointerOffset>
+      <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
+遠距離攻撃に加え、接近戦でも戦う事ができるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8576</PointerOffset>
+      <JapaneseText>スナイパー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8580</PointerOffset>
+      <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
+銃を使った状態異常を引き起こす狙撃攻撃が強力なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8984</PointerOffset>
+      <JapaneseText>ガンナー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8988</PointerOffset>
+      <JapaneseText>防御属性『火』（耐性：地　弱点：水）
+銃による遠距離からの連続射撃が得意なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9392</PointerOffset>
+      <JapaneseText>シューター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9396</PointerOffset>
+      <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
+銃の扱いに慣れ、トリッキーな射撃で敵を翻弄できるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9800</PointerOffset>
+      <JapaneseText>調教士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9804</PointerOffset>
+      <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
+様々な魔物を召喚し、戦う事ができるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10208</PointerOffset>
+      <JapaneseText>魔物使い</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10212</PointerOffset>
+      <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
+魔物を捕まえたり、召喚し戦わせることができるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10616</PointerOffset>
+      <JapaneseText>魔操士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10620</PointerOffset>
+      <JapaneseText>防御属性『地』（耐性：風　弱点：火）
+強大な魔物をも召喚することができるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11024</PointerOffset>
+      <JapaneseText>精霊使い</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11028</PointerOffset>
+      <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
+精霊と心を通わせることが可能なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11432</PointerOffset>
+      <JapaneseText>精霊術士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11436</PointerOffset>
+      <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
+精霊と契約し、一緒に戦うことができるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11840</PointerOffset>
+      <JapaneseText>召喚士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11844</PointerOffset>
+      <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
+様々な精霊を自在に呼び出し、戦わせることができるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12248</PointerOffset>
+      <JapaneseText>降魔術士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12252</PointerOffset>
+      <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
+魔界の者を呼び出し、操る事ができる異端のコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12656</PointerOffset>
+      <JapaneseText>斧戦士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12660</PointerOffset>
+      <JapaneseText>防御属性『地』（耐性：風　弱点：火）
+身の丈程もある斧でパワフルに戦うコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13064</PointerOffset>
+      <JapaneseText>ショットランサー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13068</PointerOffset>
+      <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
+槍を使った衝撃波で、遠距離攻撃も可能になったコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13472</PointerOffset>
+      <JapaneseText>重戦士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13476</PointerOffset>
+      <JapaneseText>防御属性『火』（耐性：地　弱点：水）
+斧を振り回し、多数の敵を吹き飛ばせるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13880</PointerOffset>
+      <JapaneseText>破壊戦士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13884</PointerOffset>
+      <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
+斧を使った圧倒的な破壊力で全てを打ち砕く強力なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14288</PointerOffset>
+      <JapaneseText>ランサー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14292</PointerOffset>
+      <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
+槍のリーチを活かした、豊富な突き攻撃により戦うコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14696</PointerOffset>
+      <JapaneseText>ドラグーン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14700</PointerOffset>
+      <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
+長いリーチと強烈な突進力で敵をなぎ倒す強力なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15104</PointerOffset>
+      <JapaneseText>ファランクス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15108</PointerOffset>
+      <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
+槍の広い攻撃範囲を活かした技で、複数の敵と戦えるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15512</PointerOffset>
+      <JapaneseText>王子</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15516</PointerOffset>
+      <JapaneseText>防御属性『無』（耐性：--　弱点：--）
+「塊魂」ヨリ参戦！　「テイルズ オブ」ノ世界ニ王子ガヤッテキタヨ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15920</PointerOffset>
+      <JapaneseText>カイト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15924</PointerOffset>
+      <JapaneseText>防御属性『無』（耐性：--　弱点：--）
+「.hack//Link」より参戦！　双剣で華麗に敵を葬る！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16328</PointerOffset>
+      <JapaneseText>アスベル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16332</PointerOffset>
+      <JapaneseText>防御属性『無』（耐性：--　弱点：--）
+「テイルズ オブ グレイセス」より参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16736,33872</PointerOffset>
+      <JapaneseText>かに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16740</PointerOffset>
+      <JapaneseText>防御属性『無』（耐性：--　弱点：--）
+おいしそうな赤色のかに型きぐるみ。横歩きがちょっと辛い･･･</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17144,34280</PointerOffset>
+      <JapaneseText>バキュラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17148</PointerOffset>
+      <JapaneseText>防御属性『無』（耐性：--　弱点：--）
+「ゼビウス」より参戦！　堅さはピカイチ、グリーンバージョン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>85</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17960</PointerOffset>
+      <JapaneseText>メルティア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17964</PointerOffset>
+      <JapaneseText>防御属性『無』（耐性：--　弱点：--）
+メルの「もう一つ」の可能性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18368</PointerOffset>
+      <JapaneseText>騎士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18372</PointerOffset>
+      <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
+攻撃だけではなく、味方を守る事も得意とするコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18776</PointerOffset>
+      <JapaneseText>チェインブレイダー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18780</PointerOffset>
+      <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
+剣による息もつかせぬ連続攻撃が得意なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>91</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19184</PointerOffset>
+      <JapaneseText>聖騎士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>92</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19188</PointerOffset>
+      <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
+多彩な攻撃技を持ち、自己能力も高められる神聖なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>93</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19592</PointerOffset>
+      <JapaneseText>甲騎士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>94</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19596</PointerOffset>
+      <JapaneseText>防御属性『地』（耐性：風　弱点：火）
+仲間を守ることに特化した堅牢なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>95</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20000</PointerOffset>
+      <JapaneseText>フェンサー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>96</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20004</PointerOffset>
+      <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
+細身の剣を操り、少しの術も扱える多機能なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>97</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20408</PointerOffset>
+      <JapaneseText>マジックフェンサー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>98</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20412</PointerOffset>
+      <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
+剣を振りかざし、魔術も扱うことができるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>99</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20816</PointerOffset>
+      <JapaneseText>ロイヤルフェンサー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>100</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20820</PointerOffset>
+      <JapaneseText>防御属性『火』（耐性：地　弱点：水）
+剣と術をバランスよく扱い、あらゆる状況に対応できるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>101</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21224</PointerOffset>
+      <JapaneseText>魔女っ娘</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>102</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21228</PointerOffset>
+      <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
+魔術の初歩を学ぶのに最適なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>103</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21632</PointerOffset>
+      <JapaneseText>ハイウィッチ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>104</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21636</PointerOffset>
+      <JapaneseText>防御属性『火』（耐性：地　弱点：水）
+強靭な魔力を誇り、上級魔術も扱えるようになったコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>105</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22040</PointerOffset>
+      <JapaneseText>ウィッチ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>106</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22044</PointerOffset>
+      <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
+多くの魔術を扱い、敵をまとめて倒すことができるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>107</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22448</PointerOffset>
+      <JapaneseText>アークセイジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>108</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22452</PointerOffset>
+      <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
+魔術・法術を高いレベルで使いこなす、術の万能コスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>109</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22856</PointerOffset>
+      <JapaneseText>大魔術士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>110</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22860</PointerOffset>
+      <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
+上級の魔術・法術のみを修めた大火力コスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>111</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23264</PointerOffset>
+      <JapaneseText>スカラー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>112</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23268</PointerOffset>
+      <JapaneseText>防御属性『火』（耐性：地　弱点：水）
+魔術を操り、法術も使用できるコスチューム </JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>113</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23672</PointerOffset>
+      <JapaneseText>セイジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>114</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23676</PointerOffset>
+      <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
+攻撃も補助も可能な、術の扱いに特化したコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>115</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24080</PointerOffset>
+      <JapaneseText>アルケミスト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24084</PointerOffset>
+      <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
+科学の力を扱い、無機物を召喚できる異色なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24488</PointerOffset>
+      <JapaneseText>格闘家</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24492</PointerOffset>
+      <JapaneseText>防御属性『地』（耐性：風　弱点：火）
+自らの肉体を使い、接近戦に特化したコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24896</PointerOffset>
+      <JapaneseText>モンク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24900</PointerOffset>
+      <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
+足技による連続攻撃と投げ技に特化したコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25304</PointerOffset>
+      <JapaneseText>グラップラー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25308</PointerOffset>
+      <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
+打撃に加え、掴んだ敵を投げる攻撃が得意なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>123</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25712</PointerOffset>
+      <JapaneseText>拳闘士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>124</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25716</PointerOffset>
+      <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
+殴る、蹴る等の打撃に特化し、一撃が強力なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>125</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26120</PointerOffset>
+      <JapaneseText>拳聖</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>126</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26124</PointerOffset>
+      <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
+打撃技に加え、闘気による強力な遠距離攻撃も可能なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>127</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26528</PointerOffset>
+      <JapaneseText>バトルマスター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>128</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26532</PointerOffset>
+      <JapaneseText>防御属性『地』（耐性：風　弱点：火）
+強烈な足技と投げ技で敵を撃破する強力なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>129</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26936</PointerOffset>
+      <JapaneseText>ナース</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>130</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26940</PointerOffset>
+      <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
+回復ならおまかせ！　回復補助に特化したコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>131</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27344</PointerOffset>
+      <JapaneseText>歌姫</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>132</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27348</PointerOffset>
+      <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
+歌うことで周囲に様々な影響を与えることが可能なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>133</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27752</PointerOffset>
+      <JapaneseText>ビショップ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>134</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27756</PointerOffset>
+      <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
+あらゆる法術を極めた、癒しの最高コスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>135</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28160</PointerOffset>
+      <JapaneseText>バード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>136</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28164</PointerOffset>
+      <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
+歌術を操り、味方のサポートに適したコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>137</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28568</PointerOffset>
+      <JapaneseText>トルヴェール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>138</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28572</PointerOffset>
+      <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
+攻撃・サポート・妨害と万能な行動が行える強力なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>139</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28976</PointerOffset>
+      <JapaneseText>シスター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>140</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28980</PointerOffset>
+      <JapaneseText>防御属性『水』（耐性：火　弱点：雷）
+傷ついた者を癒すことのできるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>141</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29384</PointerOffset>
+      <JapaneseText>セントバード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>142</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29388</PointerOffset>
+      <JapaneseText>防御属性『光』（耐性：闇　弱点：物）
+武器による接近戦と、歌で敵の攻撃制御を行えるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>143</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29792</PointerOffset>
+      <JapaneseText>アマゾネス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>144</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29796</PointerOffset>
+      <JapaneseText>防御属性『風』（耐性：雷　弱点：地）
+野生の力を斧に込め、暴れまわることのできるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>145</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30200</PointerOffset>
+      <JapaneseText>ビーストウォーリア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>146</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30204</PointerOffset>
+      <JapaneseText>防御属性『火』（耐性：地　弱点：水）
+獣の如き俊敏さと力で、大斧を自在に操る強力なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>147</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30608</PointerOffset>
+      <JapaneseText>ウォーリア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>148</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30612</PointerOffset>
+      <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
+大斧を振り回し、敵をまとめて倒すことに長けたコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>149</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31016</PointerOffset>
+      <JapaneseText>キティウォーリア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>150</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31020</PointerOffset>
+      <JapaneseText>防御属性『雷』（耐性：水　弱点：風）
+大斧を使った強烈な一撃で、吹き飛ばし攻撃が得意なコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>151</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31424</PointerOffset>
+      <JapaneseText>ランシア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>152</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31428</PointerOffset>
+      <JapaneseText>防御属性『地』（耐性：風　弱点：火）
+リーチのある突き刺し攻撃をメインに戦うコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>153</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31832</PointerOffset>
+      <JapaneseText>戦姫</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>154</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31836</PointerOffset>
+      <JapaneseText>防御属性『物』（耐性：光　弱点：闇）
+槍を華麗に振り回し、強力な連撃を出すことのできるコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>155</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32240</PointerOffset>
+      <JapaneseText>ペネトレイター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>156</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32244</PointerOffset>
+      <JapaneseText>防御属性『闇』（耐性：物　弱点：光）
+重い鎧を身に纏い、強烈な突進力で敵を貫くコスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>157</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32648</PointerOffset>
+      <JapaneseText>ワンダーモモ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>158</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32652</PointerOffset>
+      <JapaneseText>防御属性『無』（耐性：--　弱点：--）
+「ワンダーモモ」より参戦！　舞台から飛び出し、大活躍！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>159</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33056</PointerOffset>
+      <JapaneseText>飛鳥</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>160</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33060</PointerOffset>
+      <JapaneseText>防御属性『無』（耐性：--　弱点：--）
+「鉄拳」より参戦！　蹴りと拳で敵を打ちまくる！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>161</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33464</PointerOffset>
+      <JapaneseText>春香</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>162</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33468</PointerOffset>
+      <JapaneseText>防御属性『無』（耐性：--　弱点：--）
+「THE IDOLM@STER」より参戦！　歌う！踊る！コケる！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>163</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33876</PointerOffset>
+      <JapaneseText>防御属性『無』（耐性：--　弱点：--）
+レアなピンク色のかに型きぐるみ。横歩きがちょっと辛い…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>164</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34284</PointerOffset>
+      <JapaneseText>防御属性『無』（耐性：--　弱点：--）
+「ゼビウス」より参戦！　堅さはピカイチ、ピンクバージョン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>165</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Costume2</Section>
+    <Entry>
+      <PointerOffset>50240</PointerOffset>
+      <JapaneseText>キティウォーリア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>166</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>50244</PointerOffset>
+      <JapaneseText>その一撃は悪を断罪する、クラッシャーの上級コスチューム
+属性：闇（光攻撃に弱く、闇攻撃に強い）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>167</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>50792</PointerOffset>
+      <JapaneseText>★グランウォーリア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>168</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>50796</PointerOffset>
+      <JapaneseText>斧、槍を極めたマスターコスチューム
+属性：無</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>169</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51344</PointerOffset>
+      <JapaneseText>ランシア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>170</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51348</PointerOffset>
+      <JapaneseText>槍を扱うことに特化したウォーリアの進化コスチューム
+属性：射撃（斬撃攻撃に弱く、打撃攻撃に強い）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>171</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51896</PointerOffset>
+      <JapaneseText>戦姫</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>172</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51900</PointerOffset>
+      <JapaneseText>東の国の文化「じゃぽん」流の槍使いコスチューム
+属性：水（雷攻撃に弱く、火攻撃に強い）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>173</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52448</PointerOffset>
+      <JapaneseText>槍戦士中級未定</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>174</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52452</PointerOffset>
+      <JapaneseText>敵を刺し貫くことに特化したファランクスの上級コスチューム
+属性：射撃（斬撃攻撃に弱く、打撃攻撃に強い）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>175</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53000</PointerOffset>
+      <JapaneseText>ワンダーモモ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>176</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53004</PointerOffset>
+      <JapaneseText>がんばりまーす！
+属性：無</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>177</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53552</PointerOffset>
+      <JapaneseText>飛鳥</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>178</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53556</PointerOffset>
+      <JapaneseText>鉄拳より参戦！　関西弁が炸裂！
+属性：無</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>179</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54104</PointerOffset>
+      <JapaneseText>春香</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>180</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54108</PointerOffset>
+      <JapaneseText>アイドルマスターより参戦！　歌う！踊る！コケる！？
+属性：無</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>181</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54656</PointerOffset>
+      <JapaneseText>かに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>182</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54660</PointerOffset>
+      <JapaneseText>カニカニカニー！
+属性：無</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>183</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>55208</PointerOffset>
+      <JapaneseText>バキュラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>184</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>55212</PointerOffset>
+      <JapaneseText>……カタイデス。　そしてとてもピンクデス
+属性：無</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>185</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>

@@ -1,0 +1,235 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText>Ethos</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>空からの訪問者</JapaneseText>
+      <EnglishText>Thing From The Sky</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>259500</PointerOffset>
+      <VoiceId>VSM_010_030_001</VoiceId>
+      <JapaneseText>&lt;Dio&gt;、危ない……
+近づかないの……！</JapaneseText>
+      <EnglishText>&lt;Dio&gt;, it could be dangerous... 
+Don't get too close to it...! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261080</PointerOffset>
+      <VoiceId>VSM_010_030_004</VoiceId>
+      <JapaneseText>うぉっ……！</JapaneseText>
+      <EnglishText>Whoa! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261292</PointerOffset>
+      <VoiceId>VSM_010_030_005</VoiceId>
+      <JapaneseText>ぷっは〜、
+びっくらこいた、
+おどろいた、と</JapaneseText>
+      <EnglishText>Ta-dah! Did I surprise you? </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261292</PointerOffset>
+      <VoiceId>VSM_010_030_006</VoiceId>
+      <JapaneseText>危うくバラバラになるとこだど。
+帰ったら文句言ってやんねぇと、
+ぶつぶつぶつ、と…</JapaneseText>
+      <EnglishText>I thought I'd be scattered all over the place, but turned 
+out to be a really nice landing. The journey was pretty rough, though. </EnglishText>
+      <Notes>Review Translation</Notes>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262012</PointerOffset>
+      <VoiceId>VSM_010_030_008</VoiceId>
+      <JapaneseText>あんだ、おめぇら、
+人のことジロジロ見て</JapaneseText>
+      <EnglishText>Oh! People are staring at me so infatuatedly! </EnglishText>
+      <Notes>Review translation</Notes>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262012</PointerOffset>
+      <VoiceId>VSM_010_030_009</VoiceId>
+      <JapaneseText>はっはっはぁ〜ん、
+このアルベルト様の格好良さに
+見とれてるんだべな？</JapaneseText>
+      <EnglishText>Hehehe. Do I, the great Albert, bear such 
+a nice figure to be observed like this? </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262500</PointerOffset>
+      <VoiceId>VSM_010_030_010</VoiceId>
+      <JapaneseText>アルベルト……？</JapaneseText>
+      <EnglishText>I take it your name is... Albert...? </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262984</PointerOffset>
+      <VoiceId>VSM_010_030_011</VoiceId>
+      <JapaneseText>んだんだ、そうだど</JapaneseText>
+      <EnglishText>Yep, that'd be correct. </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262984</PointerOffset>
+      <VoiceId>VSM_010_030_012</VoiceId>
+      <JapaneseText>ノルン様のお達しで、
+おめぇらのとこに来てやっただ。
+感謝せぇよ</JapaneseText>
+      <EnglishText>And since I’m such a good friend of Miss Norn I couldn’t refuse when she asked me to come all the way here. Congratulations, you get to meet me!</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263264</PointerOffset>
+      <VoiceId>VSM_010_030_013</VoiceId>
+      <JapaneseText>ノルンの……！？
+どういうこと？</JapaneseText>
+      <EnglishText>Friend of Norn...!? Could it be THAT Norn...!? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263508</PointerOffset>
+      <VoiceId>VSM_010_030_014</VoiceId>
+      <JapaneseText>あ〜ぁ、
+長旅してきたもんで、
+腹減っちまっただなぁ</JapaneseText>
+      <EnglishText>Ah! I'm so worn out from that long trip! </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263508</PointerOffset>
+      <VoiceId>VSM_010_030_015</VoiceId>
+      <JapaneseText>ふかし芋の
+ひとつやふたつ、
+出てこんもんか？</JapaneseText>
+      <EnglishText>You've made me wait outside forever. Pfft, you really must 
+be country bumpkins if your manners are this poor. </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263884</PointerOffset>
+      <VoiceId>VSM_010_030_016</VoiceId>
+      <JapaneseText>じゃ、じゃあ……
+ひとまず中に……</JapaneseText>
+      <EnglishText>W-well I guess you can come inside
+our house for the time being... </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264128</PointerOffset>
+      <VoiceId>VSM_010_030_017</VoiceId>
+      <JapaneseText>あー、そったら中行くだが。
+芋だけじゃなく、
+茶も出すんだど</JapaneseText>
+      <EnglishText>Oh, let's get inside, yes! Maybe you're not that much of a 
+country bumpkin, after all. But don't worry—I understand how much 
+you desired a tea party outside with me. </EnglishText>
+      <Notes>I don't think that's quite right. May need a translator to review that.</Notes>
+      <SpeakerId>5</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Problematic</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,200 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText>Ethos</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText>Variable</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37400</PointerOffset>
+      <VoiceId>VCT_004_130_001</VoiceId>
+      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;〜∀　さっきの、すんばらしいコンボだど〜。
+びぃしぃっと決まって、ナイスファイトだ〜よ〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39432</PointerOffset>
+      <VoiceId>VCT_004_130_002</VoiceId>
+      <JapaneseText>ひとりで沢山の魔物と戦える余裕が出てきたみたいです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39940</PointerOffset>
+      <VoiceId>VCT_004_130_003</VoiceId>
+      <JapaneseText>どっかで、ボサーッと、遊んどる、
+誰かさんとはえれー違いだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40960</PointerOffset>
+      <VoiceId>VCT_004_130_004</VoiceId>
+      <JapaneseText>……オ、オレはみんなの荷物持ってんだよ……
+これをおまえサボってるってのか……！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41576</PointerOffset>
+      <VoiceId>VCT_004_130_005</VoiceId>
+      <JapaneseText>荷物持ちじゃんけん勝負しようって
+言いだしたの&lt;Dio&gt;だったよね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41932</PointerOffset>
+      <VoiceId>VCT_004_130_006</VoiceId>
+      <JapaneseText>タンス野郎まで混ざるなんて聞いてねー！
+こんないっぱいの服、押しつけやがって……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42800</PointerOffset>
+      <VoiceId>VCT_004_130_007</VoiceId>
+      <JapaneseText>ん？　んだんだんだ？　ん？
+っだら、もう一回勝負するだか？　ええだーよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44232</PointerOffset>
+      <VoiceId>VCT_004_130_008</VoiceId>
+      <JapaneseText>今度は負けねー！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44952</PointerOffset>
+      <VoiceId>VCT_004_130_009</VoiceId>
+      <JapaneseText>え？　わ、わたしもやるの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45276</PointerOffset>
+      <VoiceId>VCT_004_130_010</VoiceId>
+      <JapaneseText>ったりめーだろ！　……行くぞ！
+じゃん、けん……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45900</PointerOffset>
+      <VoiceId>VCT_004_130_011</VoiceId>
+      <JapaneseText>グー！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47400</PointerOffset>
+      <VoiceId>VCT_004_130_012</VoiceId>
+      <JapaneseText>ぐぉっ！　ぐわっ！　いてっ！　あ、おい！
+やめろっ……！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47772</PointerOffset>
+      <VoiceId>VCT_004_130_013</VoiceId>
+      <JapaneseText>ふぉぉぉっ……す、すげーだ……。
+こ、ここに、コンボの鬼……鬼神がいるだーよ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,238 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37468</PointerOffset>
+      <VoiceId>VCT_002_082_001</VoiceId>
+      <JapaneseText>なぁ、乙女のヒミツって何だ？</JapaneseText>
+      <EnglishText>So...what's a feminine secret?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38028</PointerOffset>
+      <VoiceId>VCT_002_082_002</VoiceId>
+      <JapaneseText>ちょっと黙ってなさい、&lt;Dio&gt;</JapaneseText>
+      <EnglishText>Hey that's off limits, &lt;Dio&gt;!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38528</PointerOffset>
+      <VoiceId>VCT_002_082_003</VoiceId>
+      <JapaneseText>なぁ、&lt;Rody&gt;、
+乙女のヒミツって何だ？</JapaneseText>
+      <EnglishText>Hey, &lt;Rody&gt;...What's a feminine secret?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39252</PointerOffset>
+      <VoiceId>VCT_002_082_004</VoiceId>
+      <JapaneseText>&lt;Chester&gt;さんまで……</JapaneseText>
+      <EnglishText>Not you too, Mister &lt;Chester&gt;!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39444</PointerOffset>
+      <VoiceId>VCT_002_082_005</VoiceId>
+      <JapaneseText>知りたい？</JapaneseText>
+      <EnglishText>Oh, you're dying to know, aren't you?</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40108</PointerOffset>
+      <VoiceId>VCT_002_082_006</VoiceId>
+      <JapaneseText>知りたいってか、
+なんか気になるってか</JapaneseText>
+      <EnglishText>Yeah I wanna know. It's been bothering me for a while.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40724</PointerOffset>
+      <VoiceId>VCT_002_082_007</VoiceId>
+      <JapaneseText>知りたいの？</JapaneseText>
+      <EnglishText>So. You really do want to know.</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40940</PointerOffset>
+      <VoiceId>VCT_002_082_008</VoiceId>
+      <JapaneseText>え？　あ、いや……</JapaneseText>
+      <EnglishText>Uh? Err, I dunno now...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41604</PointerOffset>
+      <VoiceId>VCT_002_082_009</VoiceId>
+      <JapaneseText>知るといろいろ後戻りできなくなるよ？</JapaneseText>
+      <EnglishText>Once you know there's no turning back. Are you ready for a point of no return of how you perceive women?</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42196</PointerOffset>
+      <VoiceId>VCT_002_082_010</VoiceId>
+      <JapaneseText>え？　そ、それってどういうことだ</JapaneseText>
+      <EnglishText>Err, w-what's that supposed to mean...?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42800</PointerOffset>
+      <VoiceId>VCT_002_082_011</VoiceId>
+      <JapaneseText>なんでヒミツなのかってこと……
+わかってる……？</JapaneseText>
+      <EnglishText>Are you ready to learn the truth behind the secret...? Do you understand the consequences?</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43480</PointerOffset>
+      <VoiceId>VCT_002_082_012</VoiceId>
+      <JapaneseText>ヒミツは知らないでいた方がいいから、
+ヒミツなのよ。ねぇ、&lt;Rody&gt;？</JapaneseText>
+      <EnglishText>Secrets are better left unknown, that's why they are secrets to begin with. Right, &lt;Rody&gt;?</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43996</PointerOffset>
+      <VoiceId>VCT_002_082_013</VoiceId>
+      <JapaneseText>そうそう……</JapaneseText>
+      <EnglishText>Well said...</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44252</PointerOffset>
+      <VoiceId>VCT_002_082_014</VoiceId>
+      <JapaneseText>オ、オレ、いい……
+知らないままで……</JapaneseText>
+      <EnglishText>I, uh.... Screw it, I don't want to know...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44616</PointerOffset>
+      <VoiceId>VCT_002_082_015</VoiceId>
+      <JapaneseText>オレ、も……</JapaneseText>
+      <EnglishText>Bailing while I can...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44864</PointerOffset>
+      <VoiceId>VCT_002_082_016</VoiceId>
+      <JapaneseText>……わたしは逆に
+知りたくなっちゃったかも……</JapaneseText>
+      <EnglishText>...To be honest I don't want to know either now...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

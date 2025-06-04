@@ -1,0 +1,172 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37120</PointerOffset>
+      <VoiceId>VCT_003_100_001</VoiceId>
+      <JapaneseText>ダオスに会ったのは、
+１度きりだったんですか？</JapaneseText>
+      <EnglishText>Were you shocked after you first met Dhaos?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37352</PointerOffset>
+      <VoiceId>VCT_003_100_002</VoiceId>
+      <JapaneseText>あの後、何度も
+あいつ探して森の中を巡った</JapaneseText>
+      <EnglishText>After that encounter I searched for him in the forest.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37568</PointerOffset>
+      <VoiceId>VCT_003_100_003</VoiceId>
+      <JapaneseText>でもね、呼べど探せど、
+あいつ姿を現さなかった</JapaneseText>
+      <EnglishText>But no matter how much I'd search or call out for him, he'd simply not show up.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38156</PointerOffset>
+      <VoiceId>VCT_003_100_004</VoiceId>
+      <JapaneseText>それじゃあ、それっきり？</JapaneseText>
+      <EnglishText>So that's where it ends?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38516</PointerOffset>
+      <VoiceId>VCT_003_100_005</VoiceId>
+      <JapaneseText>それがね、さんざん探して、
+もういないのかなって思って</JapaneseText>
+      <EnglishText>That's right. I searched very very thoroughly but there was no trace of him left.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38960</PointerOffset>
+      <VoiceId>VCT_003_100_006</VoiceId>
+      <JapaneseText>疲れ果てて森の切り株を枕に眠って、
+目を覚ましたら、そばにあいつがいて星を見てるの</JapaneseText>
+      <EnglishText>I got so exhausted I took a nap on a tree stump. When I opened my eyes he was close to me, stargazing.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39424</PointerOffset>
+      <VoiceId>VCT_003_100_007</VoiceId>
+      <JapaneseText>あっ……それって前にしてた
+“北の真ん中星”の話ですね</JapaneseText>
+      <EnglishText>So that's where you learnt about the Northern Middle Star!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39984</PointerOffset>
+      <VoiceId>VCT_003_100_008</VoiceId>
+      <JapaneseText>そう！　覚えてたんだ……</JapaneseText>
+      <EnglishText>Yes! You remembered about it...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40428</PointerOffset>
+      <VoiceId>VCT_003_100_009</VoiceId>
+      <JapaneseText>あの時は、まさかダオスの話だって
+知らなかったから興味本位で聞いてて……</JapaneseText>
+      <EnglishText>At that time I didn't know you were talking about Dhaos, of course, but it was a very touching story.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40660</PointerOffset>
+      <VoiceId>VCT_003_100_010</VoiceId>
+      <JapaneseText>今は興味本位じゃない？</JapaneseText>
+      <EnglishText>And you think it's no longer touching now?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41004</PointerOffset>
+      <VoiceId>VCT_003_100_011</VoiceId>
+      <JapaneseText>え……あ、そのぉ……今も興味本位、かな……
+……あっ！　ちょっとだけ</JapaneseText>
+      <EnglishText>Y—yes! It's still an interesting story!! Well, I think...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42168</PointerOffset>
+      <VoiceId>VCT_003_100_012</VoiceId>
+      <JapaneseText>いいよ。もっと聞かせてあげるよ</JapaneseText>
+      <EnglishText>It's fine. Then I'll teach you more things.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

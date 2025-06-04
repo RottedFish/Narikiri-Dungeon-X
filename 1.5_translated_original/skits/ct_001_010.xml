@@ -1,0 +1,148 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>38092</PointerOffset>
+      <VoiceId>VCT_001_010_001</VoiceId>
+      <JapaneseText>あれが、時空戦士のひとり……だった
+&lt;Claus&gt;博士なんてな……</JapaneseText>
+      <EnglishText>Look at that... even though the renowned &lt;Claus&gt; is an Eternal Hero he turned into that...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38380</PointerOffset>
+      <VoiceId>VCT_001_010_002</VoiceId>
+      <JapaneseText>クルゥ……</JapaneseText>
+      <EnglishText>Kuruuu...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38624</PointerOffset>
+      <VoiceId>VCT_001_010_003</VoiceId>
+      <JapaneseText>いんやー、くさかっただなぁ〜。
+ポケットの中にいても、匂ってきただど</JapaneseText>
+      <EnglishText>At last I can get out~! The inside of that pocket smells horrible, kinda resembles someone ...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39748</PointerOffset>
+      <VoiceId>VCT_001_010_004</VoiceId>
+      <JapaneseText>いくらなんでもちょっと飲み過ぎだよね</JapaneseText>
+      <EnglishText>Whatever the case, we shouldn't think so much about it.</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40148</PointerOffset>
+      <VoiceId>VCT_001_010_005</VoiceId>
+      <JapaneseText>でも、酔ってたからって
+あんな言い方ないと思う……！</JapaneseText>
+      <EnglishText>But, still! That's no way to talk to us...</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40496</PointerOffset>
+      <VoiceId>VCT_001_010_006</VoiceId>
+      <JapaneseText>んだんだ。&lt;Mel&gt;&lt;Mel&gt;をバカにするなんて許せねーだよな</JapaneseText>
+      <EnglishText>It's ok &lt;Mel&gt;-&lt;Mel&gt;! I'll never forgive that stupid old man for anything he said!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41272</PointerOffset>
+      <VoiceId>VCT_001_010_007</VoiceId>
+      <JapaneseText>体中の穴という穴から酒が染み出てきて、
+あんだけくせーんだよな</JapaneseText>
+      <EnglishText>If I had come out, I'd have stained all his body's holes! That's how far I'd go for you!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42340</PointerOffset>
+      <VoiceId>VCT_001_010_008</VoiceId>
+      <JapaneseText>体中の穴という穴……！？</JapaneseText>
+      <EnglishText>All...his body's holes...!?</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,207 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Cless&gt;＆&lt;Mint&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37876</PointerOffset>
+      <VoiceId>VCT_002_047_001</VoiceId>
+      <JapaneseText>うわ！
+きゃっ！</JapaneseText>
+      <EnglishText>Woah!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39168</PointerOffset>
+      <VoiceId>VCT_002_047_003</VoiceId>
+      <JapaneseText>はい、は〜い！　はじめまして『ミーたま』∀
+おらアルベルトだど</JapaneseText>
+      <EnglishText>Hey, heya, hi! A pleasure you meet you, Miss &lt;Mint&gt;y! My name's the great Albert!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40984</PointerOffset>
+      <VoiceId>VCT_002_047_004</VoiceId>
+      <JapaneseText>は、はじめまして……アルベルト……さん？</JapaneseText>
+      <EnglishText>N-nice to meet you too...Mr...Albert?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41540</PointerOffset>
+      <VoiceId>VCT_002_047_005</VoiceId>
+      <JapaneseText>んな、緊張せんでもええだーよ。
+それともカマトトぶってるだか？</JapaneseText>
+      <EnglishText>Oh please don't be so tense! Your innocent act won't work with me, you know!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43440</PointerOffset>
+      <VoiceId>VCT_002_047_006</VoiceId>
+      <JapaneseText>か、かまとと、ですか？
+それは、いったい、なんなのでしょうか？</JapaneseText>
+      <EnglishText>I-innocent act, you say? I-I wonder what exactly you hope to mean with those words.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44056</PointerOffset>
+      <VoiceId>VCT_002_047_007</VoiceId>
+      <JapaneseText>知らぬが仏ってこともあるだ。
+それより、ミーたま、そこの野暮天と恋仲なんだか？</JapaneseText>
+      <EnglishText>There are things better left unsaid... So Miss &lt;Mint&gt;y, this pushover here is your lover or what?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45904</PointerOffset>
+      <VoiceId>VCT_002_047_008</VoiceId>
+      <JapaneseText>あーあー、もうええだ！　それだけで腹一杯だーよ</JapaneseText>
+      <EnglishText>I can see it in your eyes. It's frankly absolutely revolting.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46472</PointerOffset>
+      <VoiceId>VCT_002_047_009</VoiceId>
+      <JapaneseText>だども、そのひらひらマント野郎に飽きた
+っちゅー時には、いつでもおらんとこに来るだど</JapaneseText>
+      <EnglishText>In any case if you ever get tired of this flickering mantle weirdo I'll always be available.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47348</PointerOffset>
+      <VoiceId>VCT_002_047_010</VoiceId>
+      <JapaneseText>ク、&lt;Cless&gt;さんに飽きるなんて……！</JapaneseText>
+      <EnglishText>Me getting tired of &lt;Cless&gt;, you say...?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47804</PointerOffset>
+      <VoiceId>VCT_002_047_011</VoiceId>
+      <JapaneseText>……わ、私、絶対にありませんから……</JapaneseText>
+      <EnglishText>I-I'm afraid that'll never happen.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48424</PointerOffset>
+      <VoiceId>VCT_002_047_012</VoiceId>
+      <JapaneseText>……&lt;Mint&gt;……
+僕だって、そう、だよ……</JapaneseText>
+      <EnglishText>&lt;Mint&gt;... That's right! I feel the same way!</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49684</PointerOffset>
+      <VoiceId>VCT_002_047_013</VoiceId>
+      <JapaneseText>………………</JapaneseText>
+      <EnglishText>...!</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>50240</PointerOffset>
+      <VoiceId>VCT_002_047_014</VoiceId>
+      <JapaneseText>さっきっから、おらがイチャイチャを促してるだか？
+あ〜？　んなの、やってらんねーだ！</JapaneseText>
+      <EnglishText>Flirting in public? There's no hope for the youth, I'm afraid.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

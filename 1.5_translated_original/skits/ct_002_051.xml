@@ -1,0 +1,183 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37548</PointerOffset>
+      <VoiceId>VCT_002_051_001</VoiceId>
+      <JapaneseText>&lt;Dio&gt;！　足元気をつけて！　つまずくよ！</JapaneseText>
+      <EnglishText>&lt;Dio&gt;! Watch your step! You're going to trip!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38576</PointerOffset>
+      <VoiceId>VCT_002_051_002</VoiceId>
+      <JapaneseText>え……！　あ、ああ……</JapaneseText>
+      <EnglishText>Wha...? Oh, huh...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39348</PointerOffset>
+      <VoiceId>VCT_002_051_003</VoiceId>
+      <JapaneseText>そ、そっち行ったら、落ちる……！</JapaneseText>
+      <EnglishText>W-wait don't go that way! You'll fall...!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39916</PointerOffset>
+      <VoiceId>VCT_002_051_004</VoiceId>
+      <JapaneseText>うわっ！</JapaneseText>
+      <EnglishText>Ow!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40588</PointerOffset>
+      <VoiceId>VCT_002_051_005</VoiceId>
+      <JapaneseText>もう、危ないなぁ。
+ほら、歩く時はちゃんと前見ないと</JapaneseText>
+      <EnglishText>Ah, what a dangerous place. You should look where you are walking.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41572</PointerOffset>
+      <VoiceId>VCT_002_051_006</VoiceId>
+      <JapaneseText>ちゃ、ちゃんと見てるっての</JapaneseText>
+      <EnglishText>I'm looking where I'm going, dammit!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42468</PointerOffset>
+      <VoiceId>VCT_002_051_007</VoiceId>
+      <JapaneseText>ほら、前！</JapaneseText>
+      <EnglishText>Wait a second!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43528</PointerOffset>
+      <VoiceId>VCT_002_051_008</VoiceId>
+      <JapaneseText>いーつつつつ……</JapaneseText>
+      <EnglishText>O-ouch!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43884</PointerOffset>
+      <VoiceId>VCT_002_051_009</VoiceId>
+      <JapaneseText>言ったそばから……</JapaneseText>
+      <EnglishText>If you'd only listen just once...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44260</PointerOffset>
+      <VoiceId>VCT_002_051_010</VoiceId>
+      <JapaneseText>……なんだか&lt;Dio&gt;、
+ぼーっとしているね</JapaneseText>
+      <EnglishText>...Have you noticed &lt;Dio&gt; is acting a little too thoughtful all of a sudden?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44428</PointerOffset>
+      <VoiceId>VCT_002_051_011</VoiceId>
+      <JapaneseText>確かにぼーっとはしてますけど……
+&lt;Dio&gt;の不注意はいつものことです</JapaneseText>
+      <EnglishText>His head is definitely in the clouds... But I think it's just his head made of rock at work again.</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44956</PointerOffset>
+      <VoiceId>VCT_002_051_012</VoiceId>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText>...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

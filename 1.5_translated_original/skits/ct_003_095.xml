@@ -1,0 +1,129 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37320</PointerOffset>
+      <VoiceId>VCT_003_095_001</VoiceId>
+      <JapaneseText>これが魔科学兵器の力なんだ……</JapaneseText>
+      <EnglishText>So this is the power of Magitech weapons...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37632</PointerOffset>
+      <VoiceId>VCT_003_095_002</VoiceId>
+      <JapaneseText>多くの人の命を奪って、さらに星のマナも
+食らいつくす、それが魔科学兵器、か……</JapaneseText>
+      <EnglishText>A weapon capable of not only slaughtering countless people but also destroying the entire planet by Mana exhaustion...that's what a Magitech weapon is.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38340</PointerOffset>
+      <VoiceId>VCT_003_095_003</VoiceId>
+      <JapaneseText>禁止して正解だったよな</JapaneseText>
+      <EnglishText>Good thing it's forbidden for use!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38732</PointerOffset>
+      <VoiceId>VCT_003_095_004</VoiceId>
+      <JapaneseText>でも、これも失敗があっての答え……</JapaneseText>
+      <EnglishText>Yet... to fire it is a mistake in and out of itself...</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39028</PointerOffset>
+      <VoiceId>VCT_003_095_005</VoiceId>
+      <JapaneseText>たくさんの人が犠牲になってから
+ダメだったって気付く……</JapaneseText>
+      <EnglishText>It's impossible to be ignorant the thousands, let alone millions, of possible victims...</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39504</PointerOffset>
+      <VoiceId>VCT_003_095_006</VoiceId>
+      <JapaneseText>人はそうして過ちを過ちとして
+認めるんだよ</JapaneseText>
+      <EnglishText>Humans are capable of ignoring its mistakes and believing this time it'll be fine.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40280</PointerOffset>
+      <VoiceId>VCT_003_095_007</VoiceId>
+      <JapaneseText>そのためにこの世界の歴史も一度、
+変えられなければならなかった、&lt;Cless&gt;たちの手で</JapaneseText>
+      <EnglishText>That fallacy leads to history repeating itself time and time again, refusing to learn...As &lt;Cless&gt; and the others know...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,755 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>バジル</JapaneseText>
+      <EnglishText>Basil</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText>Ethos</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
+      <Notes/>
+      <Id>6</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>259260</PointerOffset>
+      <VoiceId>VSM_080_050_000Z</VoiceId>
+      <JapaneseText>この街はずっと
+こんな調子さ</JapaneseText>
+      <EnglishText>This village has a pretty depressing tone to it, doesn't 
+it? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260352</PointerOffset>
+      <VoiceId>VSM_080_050_001Z</VoiceId>
+      <JapaneseText>こんなに貧しいのに、
+ここの人々は何の見返りもなく
+僕を受け容れてくれた</JapaneseText>
+      <EnglishText>Everyone suffers through poverty. Each person gives me 
+something to think about. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260748</PointerOffset>
+      <VoiceId>VSM_080_050_002Z</VoiceId>
+      <JapaneseText>僕はエルフだ。
+だが、魔術が使えない</JapaneseText>
+      <EnglishText>You know I'm an Elf. But despite that I can't use magic. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261088</PointerOffset>
+      <VoiceId>VSM_080_050_003</VoiceId>
+      <JapaneseText>それって、
+『レスネス』ってヤツ？
+前に本で読んだ</JapaneseText>
+      <EnglishText>Does that mean you're a..."Lessneth"? I've read that in a 
+book before </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261332</PointerOffset>
+      <VoiceId>VSM_080_050_004</VoiceId>
+      <JapaneseText>レス、ネス……？
+何それ？</JapaneseText>
+      <EnglishText>Less...neth? What is that? </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261576</PointerOffset>
+      <VoiceId>VSM_080_050_005</VoiceId>
+      <JapaneseText>魔術使えないエルフ。
+百年にひとりしか
+生まれねんだって</JapaneseText>
+      <EnglishText>They are Elves who can't use magic. One is born every 1000 
+years. </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262036</PointerOffset>
+      <VoiceId>VSM_080_050_006Z</VoiceId>
+      <JapaneseText>よく知っているね</JapaneseText>
+      <EnglishText>You sure know a lot! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262036</PointerOffset>
+      <VoiceId>VSM_080_050_007Z</VoiceId>
+      <JapaneseText>『レスネス』はエルフの里を
+不幸にするとされていて、
+生まれるとすぐ里を追い出される</JapaneseText>
+      <EnglishText>In Elf village Lessneths are considered a sign of 
+misfortune and sorrow. They're banished right after being born. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262176</PointerOffset>
+      <VoiceId>VSM_080_050_008</VoiceId>
+      <JapaneseText>じゃあ、
+バジルさんも……</JapaneseText>
+      <EnglishText>Does that mean that Basil... </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262316</PointerOffset>
+      <VoiceId>VSM_080_050_009Z</VoiceId>
+      <JapaneseText>そう。居場所をなくした僕は
+この街に流れついた</JapaneseText>
+      <EnglishText>Precisely. Without anywhere to go I wandered and ended up 
+in this village. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262316</PointerOffset>
+      <VoiceId>VSM_080_050_010Z</VoiceId>
+      <JapaneseText>よそ者の僕にも
+ここの人たちはよくしてくれた</JapaneseText>
+      <EnglishText>These people were used to strangers like me and understood 
+me. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262456</PointerOffset>
+      <VoiceId>VSM_080_050_011</VoiceId>
+      <JapaneseText>だから、
+アルヴァニスタじゃなくて
+ここに？</JapaneseText>
+      <EnglishText>So that's why you stayed here and not in Alvanista? </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262596</PointerOffset>
+      <VoiceId>VSM_080_050_012Z</VoiceId>
+      <JapaneseText>ああ。ここの方が
+居心地がいいからね</JapaneseText>
+      <EnglishText>Yes, I feel more comfortable around here. It's my true 
+home. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262596</PointerOffset>
+      <VoiceId>VSM_080_050_013Z</VoiceId>
+      <JapaneseText>それに、一番大切なことを
+教えられる気がするんだ。
+自分が今、何をするべきか</JapaneseText>
+      <EnglishText>More importantly, I think I've learned something priceless 
+here. I want to help this place as much as I can. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262736</PointerOffset>
+      <VoiceId>VSM_080_050_014</VoiceId>
+      <JapaneseText>それが
+魔術の研究？</JapaneseText>
+      <EnglishText>I guess that's why you got into Magic Research. </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262876</PointerOffset>
+      <VoiceId>VSM_080_050_015Z</VoiceId>
+      <JapaneseText>人も『レスネス』も関係なく、
+魔術を使えるようになるための
+技術の研究さ</JapaneseText>
+      <EnglishText>Both humans and Lessneths can relate in that they hope to 
+find means to use magic. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262876</PointerOffset>
+      <VoiceId>VSM_080_050_016Z</VoiceId>
+      <JapaneseText>魔術がもっとなじめば、
+きっとこの村を、いや世界を
+もっと豊かにできるんだ</JapaneseText>
+      <EnglishText>If we're able to achieve that, people will have new 
+possibilities... No... the entire world will change! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263016</PointerOffset>
+      <VoiceId>VSM_080_050_017</VoiceId>
+      <JapaneseText>でっかい夢だな、それ……</JapaneseText>
+      <EnglishText>That's one big dream... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263156</PointerOffset>
+      <VoiceId>VSM_080_050_018Z</VoiceId>
+      <JapaneseText>どんな大きな夢でも
+思い続けなければ叶わない</JapaneseText>
+      <EnglishText>No matter how big your dream is if your mind isn't set to 
+see it through to the end you'll never make it a reality. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263156</PointerOffset>
+      <VoiceId>VSM_080_050_019Z</VoiceId>
+      <JapaneseText>信じることが
+大切なんだ</JapaneseText>
+      <EnglishText>Believing is the most important part. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263404</PointerOffset>
+      <VoiceId>VSM_080_050_020</VoiceId>
+      <JapaneseText>信じること、か。う〜ん……</JapaneseText>
+      <EnglishText>To believe...uhh </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263544</PointerOffset>
+      <VoiceId>VSM_080_050_022Z</VoiceId>
+      <JapaneseText>君には
+そういう夢はないのかい？</JapaneseText>
+      <EnglishText>Don't you have any dreams? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263740</PointerOffset>
+      <VoiceId>VSM_080_050_023</VoiceId>
+      <JapaneseText>オレ……？
+オレはええっと……</JapaneseText>
+      <EnglishText>Me? I...um... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>18</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264756</PointerOffset>
+      <VoiceId>VSM_080_050_024</VoiceId>
+      <JapaneseText>何かになりたい！</JapaneseText>
+      <EnglishText>I want to become everything! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>19</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265188</PointerOffset>
+      <VoiceId>VSM_080_050_025</VoiceId>
+      <JapaneseText>何かって……
+きみは、もう……</JapaneseText>
+      <EnglishText>Everything...? Your dream is...well... </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>20</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265544</PointerOffset>
+      <VoiceId>VSM_080_050_026</VoiceId>
+      <JapaneseText>じゃなくって！　どうすりゃいいかは
+わかんねーけど、自分の足で
+歩いてけるようになりたいんだ</JapaneseText>
+      <EnglishText>Stop that! I'm not entirely sure yet but... With one step 
+at a time everyone can do anything! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>21</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265952</PointerOffset>
+      <VoiceId>VSM_080_050_027</VoiceId>
+      <JapaneseText>それで……</JapaneseText>
+      <EnglishText>And um... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>22</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266620</PointerOffset>
+      <VoiceId>VSM_080_050_028Z</VoiceId>
+      <JapaneseText>ハハッ、
+ゆっくり考えればいいさ。
+君の未来は真っ白だ</JapaneseText>
+      <EnglishText>Haha! Think about it slowly. Your dream is as noble as it 
+can get. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>23</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266620</PointerOffset>
+      <VoiceId>VSM_080_050_029Z</VoiceId>
+      <JapaneseText>君はまだ
+どんなものにでも
+なれるんだからさ</JapaneseText>
+      <EnglishText>You keep trying and you'll see you'll be able to do 
+anything! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>23</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267536</PointerOffset>
+      <VoiceId>VSM_080_050_030</VoiceId>
+      <JapaneseText>真っ白……
+どんなもんにでも……</JapaneseText>
+      <EnglishText>A noble dream... What do you mean...? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>24</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267872</PointerOffset>
+      <VoiceId>VSM_080_050_031Z</VoiceId>
+      <JapaneseText>強く願い続ければ、
+どんな気持ちでも叶う、
+そう思うんだ</JapaneseText>
+      <EnglishText>If your dream is strong your feelings will become true. 
+Never forget your dream. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>25</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267872</PointerOffset>
+      <VoiceId>VSM_080_050_032Z</VoiceId>
+      <JapaneseText>だから、
+がんばれよ、&lt;Dio&gt;！</JapaneseText>
+      <EnglishText>That's why...Never give up, &lt;Dio&gt;! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>25</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268608</PointerOffset>
+      <VoiceId>VSM_080_050_033</VoiceId>
+      <JapaneseText>あ、う、うん……！</JapaneseText>
+      <EnglishText>R...right! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>26</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269040</PointerOffset>
+      <VoiceId>VSM_080_050_034Z</VoiceId>
+      <JapaneseText>僕も人を応援している場合じゃ
+ないんだけど</JapaneseText>
+      <EnglishText>In my case not many people help me. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>27</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269040</PointerOffset>
+      <VoiceId>VSM_080_050_035Z</VoiceId>
+      <JapaneseText>でも、&lt;Claus&gt;もまた
+やる気になってくれたし、
+研究も進展すると思う。</JapaneseText>
+      <EnglishText>But knowing &lt;Claus&gt; is there I'm sure there'll always be 
+progress. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>27</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269040</PointerOffset>
+      <VoiceId>VSM_080_050_036Z</VoiceId>
+      <JapaneseText>魔科学があれば
+もう少し……</JapaneseText>
+      <EnglishText>With a little more, Magitechnology will... </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>27</Id>
+      <BubbleId>3</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269632</PointerOffset>
+      <VoiceId>VSM_080_050_037</VoiceId>
+      <JapaneseText>魔科学？</JapaneseText>
+      <EnglishText>Magitechnology? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>28</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269772</PointerOffset>
+      <VoiceId>VSM_080_050_038Z</VoiceId>
+      <JapaneseText>ん？　いや……</JapaneseText>
+      <EnglishText>Oh? It's nothing. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>29</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>270328</PointerOffset>
+      <VoiceId>VSM_080_050_039</VoiceId>
+      <JapaneseText>&lt;Rody&gt;、何をやってるんだ？</JapaneseText>
+      <EnglishText>Rody, what are you doing over there? </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>30</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>270988</PointerOffset>
+      <VoiceId>VSM_080_050_040</VoiceId>
+      <JapaneseText>ん？　空がきれいだなって
+見とれてたんだ</JapaneseText>
+      <EnglishText>W-what? I was taking some time to glance at the beauty of 
+the sky. </EnglishText>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>31</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>271356</PointerOffset>
+      <VoiceId>VSM_080_050_041</VoiceId>
+      <JapaneseText>さてと……どこか
+泊まれるところを
+借りられないだろうか</JapaneseText>
+      <EnglishText>Anyhow, we need to find a place to stay for the night. </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>32</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>271664</PointerOffset>
+      <VoiceId>VSM_080_050_042Z</VoiceId>
+      <JapaneseText>そうか、よかったら、
+うちを使ってくれ</JapaneseText>
+      <EnglishText>You're right. You can use this house over here. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>33</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>273820</PointerOffset>
+      <VoiceId>VSM_080_050_043Z</VoiceId>
+      <JapaneseText>ふたりともおはよう</JapaneseText>
+      <EnglishText>Good morning you two! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>34</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>273820</PointerOffset>
+      <VoiceId>VSM_080_050_044Z</VoiceId>
+      <JapaneseText>アルヴァニスタから
+返信があったよ</JapaneseText>
+      <EnglishText>Alvanista's replied to us. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>34</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>273960</PointerOffset>
+      <VoiceId>VSM_080_050_045</VoiceId>
+      <JapaneseText>それで、
+ウンディーネんとこへ
+行けんだな</JapaneseText>
+      <EnglishText>Can we go to Undine's place now? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>35</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>274100</PointerOffset>
+      <VoiceId>VSM_080_050_046Z</VoiceId>
+      <JapaneseText>ああ、北の海の&lt;Red&gt;浸食洞&lt;White&gt;の
+立ち入り許可証だ</JapaneseText>
+      <EnglishText>Yes. Travelling north you'll find Limestone Cavern. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>36</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>274352</PointerOffset>
+      <VoiceId>VSM_080_050_047</VoiceId>
+      <JapaneseText>サンキュー、
+バジルさん！</JapaneseText>
+      <EnglishText>Thank you, Basil! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>37</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>274780</PointerOffset>
+      <VoiceId>VSM_080_050_048</VoiceId>
+      <JapaneseText>ありがとうございます</JapaneseText>
+      <EnglishText>Thank you very much. </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>38</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>274920</PointerOffset>
+      <VoiceId>VSM_080_050_049Z</VoiceId>
+      <JapaneseText>いや。頑張りなよ</JapaneseText>
+      <EnglishText>It's nothing. Do your worst. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>39</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>274920</PointerOffset>
+      <VoiceId>VSM_080_050_050Z</VoiceId>
+      <JapaneseText>将来、君たちに目指すものが
+見つかるよう応援しているからね</JapaneseText>
+      <EnglishText>If you need any help in the future just ask me. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>39</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>275224</PointerOffset>
+      <VoiceId>VSM_080_050_051</VoiceId>
+      <JapaneseText>おう！</JapaneseText>
+      <EnglishText>Gotcha! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>40</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>275524</PointerOffset>
+      <VoiceId>VSM_080_050_052Z</VoiceId>
+      <JapaneseText>&lt;Claus&gt;、
+約束、忘れないでくれよ</JapaneseText>
+      <EnglishText>&lt;Claus&gt;. Don't forget your promise. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>41</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>275768</PointerOffset>
+      <VoiceId>VSM_080_050_053</VoiceId>
+      <JapaneseText>ん、ああ</JapaneseText>
+      <EnglishText>Mmm? Sure. </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>42</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>276116</PointerOffset>
+      <VoiceId>VSM_080_050_054</VoiceId>
+      <JapaneseText>うぉし、
+&lt;Dio&gt;くん、&lt;Mel&gt;ちゃん、
+精霊さんに会いに行こうぜ</JapaneseText>
+      <EnglishText>All right! &lt;Dio&gt;, &lt;Mel&gt;! It's time to give the Spirit a 
+visit it'll never forget! </EnglishText>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>43</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>276428</PointerOffset>
+      <VoiceId>VSM_080_050_055</VoiceId>
+      <JapaneseText>おうっ！</JapaneseText>
+      <EnglishText>Yeah! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>44</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>276732</PointerOffset>
+      <VoiceId>VSM_080_050_056</VoiceId>
+      <JapaneseText>は、はい……</JapaneseText>
+      <EnglishText>Y-yes... </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>45</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

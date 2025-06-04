@@ -1,0 +1,169 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37236</PointerOffset>
+      <VoiceId>VCT_003_088_001</VoiceId>
+      <JapaneseText>あちち！　床のあちこちからなんか漏れてんぞ！？</JapaneseText>
+      <EnglishText>Ow, crap! What the hell! There are leaks all over the floor!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38192</PointerOffset>
+      <VoiceId>VCT_003_088_002</VoiceId>
+      <JapaneseText>&lt;Dio&gt;、気をつけて！　むやみにそのへん走り回ってると
+どんどん体力が削られちゃうよ！</JapaneseText>
+      <EnglishText>&lt;Dio&gt; be careful! Running around here thoughtlessly could really hurt us!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39244</PointerOffset>
+      <VoiceId>VCT_003_088_003</VoiceId>
+      <JapaneseText>&lt;Dio&gt;さん、&lt;Dio&gt;さん、少々よろしいですか？</JapaneseText>
+      <EnglishText>Lord &lt;Dio&gt;. Lord &lt;Dio&gt;. May I ask a minute of your attention?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40144</PointerOffset>
+      <VoiceId>VCT_003_088_004</VoiceId>
+      <JapaneseText>……な、なんだよ……</JapaneseText>
+      <EnglishText>...What now?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40596</PointerOffset>
+      <VoiceId>VCT_003_088_005</VoiceId>
+      <JapaneseText>私、炎嫌いなんです、弱いんです、燃えちゃうんです。
+だから、もう少し、気をつけてもらえないですかね？</JapaneseText>
+      <EnglishText>I rather dislike fire. I am quite weak to it, in fact. I can burn in it, you see. So I plead, my Lord, would you take it easy from now on?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42052</PointerOffset>
+      <VoiceId>VCT_003_088_006</VoiceId>
+      <JapaneseText>気ぃつけても、通んなきゃ先進めねんだって！
+少し我慢しろよ、この書き割り野郎！</JapaneseText>
+      <EnglishText>I'll be careful, fine! Just drop this formal...thing! Have some patience, you backstage prop!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43300</PointerOffset>
+      <VoiceId>VCT_003_088_007</VoiceId>
+      <JapaneseText>ぬあぁぁぁあぁ！　人が下手に出てりゃ調子に乗って！
+おら、もう許せねぇだ、絶対、こいつ許せねぇだ！！</JapaneseText>
+      <EnglishText>Uuuuurgh! I go here act all nice and ask politely but you act like the baldy brat you are! I'm not forgiving this EVER!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44880</PointerOffset>
+      <VoiceId>VCT_003_088_008</VoiceId>
+      <JapaneseText>おめぇの服だけ放り出して、ぜぇ〜んぶ燃やしてやるだ。
+記録も記憶も、ぜぇ〜〜〜んぶ消し炭にしてやるだよ！</JapaneseText>
+      <EnglishText>I'll throw away all your clothes to the fire. All of them! Your writings, your notes, your records... They will ALL turn to cinders!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47140</PointerOffset>
+      <VoiceId>VCT_003_088_009</VoiceId>
+      <JapaneseText>&lt;Dio&gt;もアルベルトさんも、やめよ、ね？
+気をつけて歩けばいいんだから</JapaneseText>
+      <EnglishText>&lt;Dio&gt;, Albert stop fighting will you? We just need to be careful from now on.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48236</PointerOffset>
+      <VoiceId>VCT_003_088_010</VoiceId>
+      <JapaneseText>あうあう！　&lt;Mel&gt;&lt;Mel&gt;、&lt;Mel&gt;&lt;Mel&gt;！
+おらの事心配してくれてるぅ〜、おらも好きだどぉ！</JapaneseText>
+      <EnglishText>Ahh! My &lt;Mel&gt;-&lt;Mel&gt;! &lt;Mel&gt;-&lt;Mel&gt;!! You really were worried about me! I really do like that about you!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>50460</PointerOffset>
+      <VoiceId>VCT_003_088_011</VoiceId>
+      <JapaneseText>……こいつ……
+サラッとすげぇ事言いやがった……</JapaneseText>
+      <EnglishText>This guy...jumps from formal to vulgar in a snap...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

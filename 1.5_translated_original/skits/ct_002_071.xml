@@ -1,0 +1,170 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37208</PointerOffset>
+      <VoiceId>VCT_002_071_001</VoiceId>
+      <JapaneseText>&lt;Suzu&gt;ちゃん、聞いていいかな？
+あの仮面のふたりにどんな幻見せられたの？</JapaneseText>
+      <EnglishText>Hey &lt;Suzu&gt;, do you have a minute? What kind of illusion did that masked couple make you see?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37724</PointerOffset>
+      <VoiceId>VCT_002_071_002</VoiceId>
+      <JapaneseText>&lt;Dio&gt;さんと&lt;Mel&gt;さん、
+おふたりと暮らす幻です</JapaneseText>
+      <EnglishText>It was a world where I lived alongside &lt;Dio&gt; and &lt;Mel&gt;.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38360</PointerOffset>
+      <VoiceId>VCT_002_071_003</VoiceId>
+      <JapaneseText>え？　オレらと？　もしかして、
+オレらにイジメられたりしてたのか？</JapaneseText>
+      <EnglishText>Us? Y-you don't mean we were teasing you in your dream, right?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39308</PointerOffset>
+      <VoiceId>VCT_002_071_004</VoiceId>
+      <JapaneseText>いえ、おふたりと一緒に楽しい日々を
+暮らしていました</JapaneseText>
+      <EnglishText>Not at all. I was having a lot of fun sharing daily life moments with you two.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39660</PointerOffset>
+      <VoiceId>VCT_002_071_005</VoiceId>
+      <JapaneseText>なんだよ、もっとヤな幻で
+&lt;Suzu&gt;ちゃん追いつめてっかと思ったぜ</JapaneseText>
+      <EnglishText>Whaaat? That's it? I really thought you had some nightmare-ish illusion or something.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40364</PointerOffset>
+      <VoiceId>VCT_002_071_006</VoiceId>
+      <JapaneseText>わたしも……ミミズやカエルが降ってきたり、
+アメンボだらけの池に放り込まれたりとか……</JapaneseText>
+      <EnglishText>I thought so too... Like worms and frogs raining down or being thrown into a pit full of poisonous spiders or...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41040</PointerOffset>
+      <VoiceId>VCT_002_071_007</VoiceId>
+      <JapaneseText>や、やめろよ……</JapaneseText>
+      <EnglishText>Ok, stop!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41372</PointerOffset>
+      <VoiceId>VCT_002_071_008</VoiceId>
+      <JapaneseText>……そんな幻なら、
+耐えればいいだけです</JapaneseText>
+      <EnglishText>...Those sound like really simple to bear illusions.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41796</PointerOffset>
+      <VoiceId>VCT_002_071_009</VoiceId>
+      <JapaneseText>そ、そっか？　強いな、&lt;Suzu&gt;ちゃんは</JapaneseText>
+      <EnglishText>Really? Whoa, you're a strong girl &lt;Suzu&gt;!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42348</PointerOffset>
+      <VoiceId>VCT_002_071_010</VoiceId>
+      <JapaneseText>いえ、むしろ、私を揺るがすのは、
+そうではないもの……</JapaneseText>
+      <EnglishText>On the contrary. The fact I could be shaken down and brought to temptation...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42852</PointerOffset>
+      <VoiceId>VCT_002_071_011</VoiceId>
+      <JapaneseText>憧れや羨望でしょうか。
+……まだまだ修行が足りないのです、私は</JapaneseText>
+      <EnglishText>It is because of my yearnings and jealousy. I still have much to learn as a ninja and as a person.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

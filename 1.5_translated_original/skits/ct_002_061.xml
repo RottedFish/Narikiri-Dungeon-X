@@ -1,0 +1,147 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37156</PointerOffset>
+      <VoiceId>VCT_002_061_001</VoiceId>
+      <JapaneseText>へっへ〜ん。&lt;Mel&gt;&lt;Mel&gt;にゲンコツ喰らってる〜</JapaneseText>
+      <EnglishText>Pfft, seems &lt;Mel&gt;-&lt;Mel&gt; put you back in your place, eh?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38364</PointerOffset>
+      <VoiceId>VCT_002_061_002</VoiceId>
+      <JapaneseText>うるせーな！　……いつつっ。
+あいつ手加減しないで殴りやがって……</JapaneseText>
+      <EnglishText>Shut up! ...Owowow! Damn she didn't hold anything back with that punch...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39212</PointerOffset>
+      <VoiceId>VCT_002_061_003</VoiceId>
+      <JapaneseText>&lt;Rody&gt;たんのおっぱいで、浮かれてるおめぇが悪いだ</JapaneseText>
+      <EnglishText>Well, you sure were having fun with &lt;Rody&gt;'s big melons! It's your fault bad boy!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39852</PointerOffset>
+      <VoiceId>VCT_002_061_004</VoiceId>
+      <JapaneseText>しょ、しょうがねだろ。
+あんなおっきいの当たったら……</JapaneseText>
+      <EnglishText>I-I can't help it! They were literally right in my face!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40388</PointerOffset>
+      <VoiceId>VCT_002_061_005</VoiceId>
+      <JapaneseText>そったらこっだから、&lt;Mel&gt;&lt;Mel&gt;に怒られるだ。
+ええか！　男のロマンは大きさだけでねーよ</JapaneseText>
+      <EnglishText>And that's why &lt;Mel&gt;-&lt;Mel&gt; got angry! Ah, you see... Men's romance is a difficult thing to understand...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41436</PointerOffset>
+      <VoiceId>VCT_002_061_006</VoiceId>
+      <JapaneseText>&lt;Rody&gt;たんがええっちゅーのは、子どもの言う事だ。
+本当の男なら、&lt;Mel&gt;&lt;Mel&gt;ぐらいのが一番と言うだよ</JapaneseText>
+      <EnglishText>You see &lt;Rody&gt; is great to toy around since you are a kid. But true men know girls like &lt;Mel&gt;-&lt;Mel&gt; are la crème de la crème!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43236</PointerOffset>
+      <VoiceId>VCT_002_061_007</VoiceId>
+      <JapaneseText>なんで、そんなこと言えんだよ？</JapaneseText>
+      <EnglishText>The hell you trying to get at?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43660</PointerOffset>
+      <VoiceId>VCT_002_061_008</VoiceId>
+      <JapaneseText>そりゃ、おめぇ、いくらでも、さ………</JapaneseText>
+      <EnglishText>Well, you have to get as much as you like of that but...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44220</PointerOffset>
+      <VoiceId>VCT_002_061_009</VoiceId>
+      <JapaneseText>いくらでも？</JapaneseText>
+      <EnglishText>Get as much of...what?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44452</PointerOffset>
+      <VoiceId>VCT_002_061_010</VoiceId>
+      <JapaneseText>いやいや、なんでもねぇーだ。
+おらだけの特権を教えてやる義理はねぇだ、うん</JapaneseText>
+      <EnglishText>No, no. It's nothing. You won't have the privilege to learn about this from me!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

@@ -1,0 +1,147 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>イフリート</JapaneseText>
+      <EnglishText>Efreet</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ウンディーネ</JapaneseText>
+      <EnglishText>Undine</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ノーム</JapaneseText>
+      <EnglishText>Gnome</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText>Ethos</EnglishText>
+      <Notes/>
+      <Id>6</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>278304</PointerOffset>
+      <VoiceId>VSM_100_030_009</VoiceId>
+      <JapaneseText>ダメ、なの……！？</JapaneseText>
+      <EnglishText>It...didn't...work!? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>278516</PointerOffset>
+      <VoiceId>VSM_100_030_010</VoiceId>
+      <JapaneseText>精霊晶核の身の我らは
+あまりにも脆弱すぎる！</JapaneseText>
+      <EnglishText>We could manifest the Atomism Cores properly. However, our 
+powers proved too weak! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>278656</PointerOffset>
+      <VoiceId>VSM_100_030_011</VoiceId>
+      <JapaneseText>精霊晶核を操るに足る
+それなりの魔法の素地を
+持った術者が必要じゃ！</JapaneseText>
+      <EnglishText>The Atomism Core manipulation was insufficient. We need the 
+Lord of the Four Elements! </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>278796</PointerOffset>
+      <VoiceId>VSM_100_030_012</VoiceId>
+      <JapaneseText>術者を探すのら〜</JapaneseText>
+      <EnglishText>It's impossible without hiiiim! </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>279084</PointerOffset>
+      <VoiceId>VSM_100_030_013</VoiceId>
+      <JapaneseText>術者ったって……！</JapaneseText>
+      <EnglishText>Lord of the what...!? </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>279944</PointerOffset>
+      <VoiceId>VSM_100_030_014</VoiceId>
+      <JapaneseText>うわっ！！</JapaneseText>
+      <EnglishText>Woaah! </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280440</PointerOffset>
+      <VoiceId>VSM_100_030_016</VoiceId>
+      <JapaneseText>ここは危ないよ！
+とにかく逃げよう……！</JapaneseText>
+      <EnglishText>It's too dangerous around here! Let's get away! </EnglishText>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

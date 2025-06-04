@@ -1,0 +1,203 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37516</PointerOffset>
+      <VoiceId>VCT_002_044_001</VoiceId>
+      <JapaneseText>ね？　さっき変な声しなかった？</JapaneseText>
+      <EnglishText>Hey, didn't you listen to a weird voice just a while back?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37816</PointerOffset>
+      <VoiceId>VCT_002_044_002</VoiceId>
+      <JapaneseText>変な声？</JapaneseText>
+      <EnglishText>A weird voice?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38008</PointerOffset>
+      <VoiceId>VCT_002_044_003</VoiceId>
+      <JapaneseText>クルール</JapaneseText>
+      <EnglishText>Kuruuru?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38356</PointerOffset>
+      <VoiceId>VCT_002_044_004</VoiceId>
+      <JapaneseText>悲鳴みたいな、ちょっと変な声</JapaneseText>
+      <EnglishText>It sounded like a scream. A strange voice.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38808</PointerOffset>
+      <VoiceId>VCT_002_044_005</VoiceId>
+      <JapaneseText>&lt;Mel&gt;って耳いいよね</JapaneseText>
+      <EnglishText>&lt;Mel&gt;, are your ears all right?</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39080</PointerOffset>
+      <VoiceId>VCT_002_044_006</VoiceId>
+      <JapaneseText>その声は、奥へと立ち入ろうとして魔物に
+食い殺された数々の恨みを抱いた霊の数々の声……</JapaneseText>
+      <EnglishText>Unknowingly to them the voice belonged to a monster starving for human flesh. Barely hearable, the monster approaches...with its clicking, the voice approaches....</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41544</PointerOffset>
+      <VoiceId>VCT_002_044_007</VoiceId>
+      <JapaneseText>……ってあれ？　怖くないのか、&lt;Mel&gt;？</JapaneseText>
+      <EnglishText>Eh? You're not scared, &lt;Mel&gt;?</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42068</PointerOffset>
+      <VoiceId>VCT_002_044_008</VoiceId>
+      <JapaneseText>幽霊とかウソですよね？
+だってここ変な感じとかしないですし</JapaneseText>
+      <EnglishText>Aren't ghosts just lies? Plus, I just think it's a weird feeling.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42892</PointerOffset>
+      <VoiceId>VCT_002_044_009</VoiceId>
+      <JapaneseText>へ、変な感じ……？</JapaneseText>
+      <EnglishText>A-A weird feeling?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43140</PointerOffset>
+      <VoiceId>VCT_002_044_010</VoiceId>
+      <JapaneseText>そうでも、そういう時はきゃあとか
+怖がった方が可愛いぜ？　な？　&lt;Dio&gt;</JapaneseText>
+      <EnglishText>Aw that's a shame. I really wanted to listen you put a good old cute "kyaaa!" Right, &lt;Dio&gt;?</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44180</PointerOffset>
+      <VoiceId>VCT_002_044_011</VoiceId>
+      <JapaneseText>え？　あ、ああ、うん……</JapaneseText>
+      <EnglishText>Y-yeah... Totally...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45956</PointerOffset>
+      <VoiceId>VCT_002_044_012</VoiceId>
+      <JapaneseText>&lt;Mel&gt;は脅かしがいがないな</JapaneseText>
+      <EnglishText>&lt;Mel&gt; really is hard to surprise, huh?</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46196</PointerOffset>
+      <VoiceId>VCT_002_044_013</VoiceId>
+      <JapaneseText>え？　あ、ちょ、ちょっと、みんなどこ行ったんだ！
+ひ、ひとりにすんなよ、え？　あ、おい……！</JapaneseText>
+      <EnglishText>H-hey! E-everyone?? Where did you go!? Don't leave me alone! Heeey!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

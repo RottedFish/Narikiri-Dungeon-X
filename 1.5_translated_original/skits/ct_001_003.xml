@@ -1,0 +1,175 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37332</PointerOffset>
+      <VoiceId>VCT_001_003_001</VoiceId>
+      <JapaneseText>&lt;Mel&gt;、ちゃんと必要なもの
+買ったね</JapaneseText>
+      <EnglishText>&lt;Mel&gt;! You bought such beautiful wares!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38044</PointerOffset>
+      <VoiceId>VCT_001_003_002</VoiceId>
+      <JapaneseText>&lt;Dio&gt;、ほら、
+ボタン掛け違えてる</JapaneseText>
+      <EnglishText>&lt;Dio&gt;, here! We need to visit some cloth button stores!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38692</PointerOffset>
+      <VoiceId>VCT_001_003_003</VoiceId>
+      <JapaneseText>エト助は、ふたりの保護者みたいだなや</JapaneseText>
+      <EnglishText>Eto, you really do a good job taking care of these kids! Such honest love!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40124</PointerOffset>
+      <VoiceId>VCT_001_003_004</VoiceId>
+      <JapaneseText>そうだよ！
+ぼくはふたりのお母さんだもん！</JapaneseText>
+      <EnglishText>But of course! That's because I am their mother!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40724</PointerOffset>
+      <VoiceId>VCT_001_003_005</VoiceId>
+      <JapaneseText>へん、エトが
+母ちゃんなもんかよ</JapaneseText>
+      <EnglishText>Heh, you'd need to be nuts to think Eto is our mother!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41208</PointerOffset>
+      <VoiceId>VCT_001_003_006</VoiceId>
+      <JapaneseText>あはは〜〜ん。
+おめぇ、ほんとはエト助のこと、大好きなんだべ</JapaneseText>
+      <EnglishText>Hehehe! Don't act like you dislike Eto, because truth of the matter is you're a huge momma's boy!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43176</PointerOffset>
+      <VoiceId>VCT_001_003_007</VoiceId>
+      <JapaneseText>うるせー！　タンス野郎は黙ってろ！！</JapaneseText>
+      <EnglishText>W-what did you say!? Shut your trap, dresser bastard!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44564</PointerOffset>
+      <VoiceId>VCT_001_003_008</VoiceId>
+      <JapaneseText>はぁん？　誰に向かってタンス言ってんだど！
+おめぇなんぞ、毛も生えてねぇ、ハゲぼうずのくせが！</JapaneseText>
+      <EnglishText>Huh? Who are you calling a bastard? Look at that huge forehead, you are gonna become a beautiful bald kid in no time!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46292</PointerOffset>
+      <VoiceId>VCT_001_003_009</VoiceId>
+      <JapaneseText>ほら、ふたりともけんかしちゃだめ！</JapaneseText>
+      <EnglishText>Hey! You two there! Stop fighting!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47312</PointerOffset>
+      <VoiceId>VCT_001_003_010</VoiceId>
+      <JapaneseText>す……すまねーだ、母ちゃん</JapaneseText>
+      <EnglishText>I-I'm sorry, mom.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47868</PointerOffset>
+      <VoiceId>VCT_001_003_011</VoiceId>
+      <JapaneseText>あれ……アルベルトさんまで……</JapaneseText>
+      <EnglishText>Eh? Now even Mister Albert...</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

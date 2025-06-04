@@ -1,0 +1,221 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37208</PointerOffset>
+      <VoiceId>VCT_001_011_001</VoiceId>
+      <JapaneseText>&lt;Dio&gt;、初対面の人には
+ちゃんと挨拶しなきゃ</JapaneseText>
+      <EnglishText>&lt;Dio&gt;, you should always greet people when you first meet them.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37516</PointerOffset>
+      <VoiceId>VCT_001_011_002</VoiceId>
+      <JapaneseText>え？　してるだろ？</JapaneseText>
+      <EnglishText>Huh? I know that, already.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37812</PointerOffset>
+      <VoiceId>VCT_001_011_003</VoiceId>
+      <JapaneseText>してないよ</JapaneseText>
+      <EnglishText>No, you don't!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37924</PointerOffset>
+      <VoiceId>VCT_001_011_004</VoiceId>
+      <JapaneseText>&lt;Claus&gt;さんとこでもさ……</JapaneseText>
+      <EnglishText>At &lt;Claus&gt;'s place I, um...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38036</PointerOffset>
+      <VoiceId>VCT_001_011_005</VoiceId>
+      <JapaneseText>ずっと&lt;Mel&gt;が&lt;Claus&gt;さんと
+話してたよね</JapaneseText>
+      <EnglishText>&lt;Mel&gt; was the one who did all the talking.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38336</PointerOffset>
+      <VoiceId>VCT_001_011_006</VoiceId>
+      <JapaneseText>さっき、&lt;Claus&gt;さんちの前で会った人にも
+『あんた誰』とか言ってたし</JapaneseText>
+      <EnglishText>And then when we were outside Mister &lt;Claus&gt;'s house we met someone. You really greeted him politely saying "And just who do you think you are?" don't you think?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38948</PointerOffset>
+      <VoiceId>VCT_001_011_007</VoiceId>
+      <JapaneseText>あ、あれは
+怪しいヤツだったから……！</JapaneseText>
+      <EnglishText>W-well, he looked kinda suspicious so...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39196</PointerOffset>
+      <VoiceId>VCT_001_011_008</VoiceId>
+      <JapaneseText>話をしないうちから、
+怪しいとか決めつけないの</JapaneseText>
+      <EnglishText>Didn't we agree you shouldn't try talking to suspicious people?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39572</PointerOffset>
+      <VoiceId>VCT_001_011_009</VoiceId>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText>...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39880</PointerOffset>
+      <VoiceId>VCT_001_011_010</VoiceId>
+      <JapaneseText>なんで黙ってるの？</JapaneseText>
+      <EnglishText>Why are you so silent?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40112</PointerOffset>
+      <VoiceId>VCT_001_011_011</VoiceId>
+      <JapaneseText>なんでもねーよ</JapaneseText>
+      <EnglishText>Nothing you should care about.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40612</PointerOffset>
+      <VoiceId>VCT_001_011_012</VoiceId>
+      <JapaneseText>ヘンなの</JapaneseText>
+      <EnglishText>What a weird kid!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41056</PointerOffset>
+      <VoiceId>VCT_001_011_013</VoiceId>
+      <JapaneseText>お年頃だね</JapaneseText>
+      <EnglishText>It looks he already hit puberty.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41224</PointerOffset>
+      <VoiceId>VCT_001_011_014</VoiceId>
+      <JapaneseText>…………？　そうなの？</JapaneseText>
+      <EnglishText>Eh? Really? I don't see it.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41484</PointerOffset>
+      <VoiceId>VCT_001_011_015</VoiceId>
+      <JapaneseText>そういうお年頃</JapaneseText>
+      <EnglishText>That's what puberty is like.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41784</PointerOffset>
+      <VoiceId>VCT_001_011_016</VoiceId>
+      <JapaneseText>ふーん……？</JapaneseText>
+      <EnglishText>Mmm...?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

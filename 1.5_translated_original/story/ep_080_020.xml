@@ -1,0 +1,86 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>声のごつい男</JapaneseText>
+      <EnglishText>Tough Man's Voice</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>声のでかい女</JapaneseText>
+      <EnglishText>Scary Lady's Voice</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>258452</PointerOffset>
+      <VoiceId>VSM_080_020_001</VoiceId>
+      <JapaneseText>ほらよ！
+こいつ、おまえが食え！</JapaneseText>
+      <EnglishText>Hey, woman! Stop living off me, you free loader! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>258592</PointerOffset>
+      <VoiceId>VSM_080_020_002</VoiceId>
+      <JapaneseText>何バカ言ってんだい！
+そいつは今日の最後の食糧だ！
+あんたが食いな！</JapaneseText>
+      <EnglishText>What're you yapping you i&lt;Dio&gt;t!? Today's the last day 
+you'll see food from me! Get the hell outta my life! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>258732</PointerOffset>
+      <VoiceId>VSM_080_020_003</VoiceId>
+      <JapaneseText>てめぇこそ、もう三日も
+何も食ってねーだろ！
+食え！</JapaneseText>
+      <EnglishText>You lying bitch! It's been 3 days since you done shit! 
+You're always on my goddamn ass! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>258872</PointerOffset>
+      <VoiceId>VSM_080_020_004</VoiceId>
+      <JapaneseText>このろくでなし亭主が！
+そんな腹へり状態で、
+働きに出るつもりかい！？</JapaneseText>
+      <EnglishText>You good-for-nothing husband! I keep feeding that stomach 
+of yours but you'll never get your lazy ass to get a job! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

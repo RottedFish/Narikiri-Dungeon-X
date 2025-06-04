@@ -1,0 +1,222 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>シルフ</JapaneseText>
+      <EnglishText>Sylph</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>279232</PointerOffset>
+      <VoiceId>VSM_060_030_018</VoiceId>
+      <JapaneseText>よかった……</JapaneseText>
+      <EnglishText>We did it... </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>279476</PointerOffset>
+      <VoiceId>VSM_060_030_020</VoiceId>
+      <JapaneseText>か、軽ぃ軽ぃ……！</JapaneseText>
+      <EnglishText>N-nothing to it... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>279896</PointerOffset>
+      <VoiceId>VSM_060_030_022</VoiceId>
+      <JapaneseText>……いいでしょう。
+あなたたちに我が精霊晶核を
+お分けしましょう</JapaneseText>
+      <EnglishText>... You did ok...now I'll lend you my Atomism Core. </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>281916</PointerOffset>
+      <VoiceId>VSM_060_030_023</VoiceId>
+      <JapaneseText>それでは……</JapaneseText>
+      <EnglishText>Well, then... </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>283408</PointerOffset>
+      <VoiceId>VSM_060_030_024</VoiceId>
+      <JapaneseText>……まだ足りない……</JapaneseText>
+      <EnglishText>That's...not enough... </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>283780</PointerOffset>
+      <VoiceId>VSM_060_030_025</VoiceId>
+      <JapaneseText>足りないって？</JapaneseText>
+      <EnglishText>What's not enough? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>284228</PointerOffset>
+      <VoiceId>VSM_060_030_026</VoiceId>
+      <JapaneseText>乙女のヒミツを覗くなんて、
+&lt;Dio&gt;くん、だいた〜ん！</JapaneseText>
+      <EnglishText>Meddling into a woman's secrets! &lt;Dio&gt; you're so smooth! </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>284424</PointerOffset>
+      <VoiceId>VSM_060_030_027</VoiceId>
+      <JapaneseText>いや、そんなんと
+違くて……！</JapaneseText>
+      <EnglishText>N-no I didn't mean to... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>285036</PointerOffset>
+      <VoiceId>VSM_060_030_028</VoiceId>
+      <JapaneseText>ちょっと、&lt;Dio&gt;、
+何やってるの？</JapaneseText>
+      <EnglishText>Hold on, &lt;Dio&gt;! What are you up to? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>285596</PointerOffset>
+      <VoiceId>VSM_060_030_029</VoiceId>
+      <JapaneseText>ほら、他の精霊さんとこ、
+行ったりするんでしょ？</JapaneseText>
+      <EnglishText>Now, now! Shouldn't we focus on finding the rest of the 
+Spirits? </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>285792</PointerOffset>
+      <VoiceId>VSM_060_030_030</VoiceId>
+      <JapaneseText>そ、そうそう、それそれ！
+次はどこ行くんだ？</JapaneseText>
+      <EnglishText>Y-yeah! What she said! Where to now? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>285988</PointerOffset>
+      <VoiceId>VSM_060_030_031</VoiceId>
+      <JapaneseText>ここからだと
+この大陸を南に下がった
+&lt;Red&gt;精霊の洞窟&lt;White&gt;が一番近いな</JapaneseText>
+      <EnglishText>If we continue South from this continent we should find the 
+Cavern of Spirits. It's our closest route. </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>286912</PointerOffset>
+      <VoiceId>VSM_060_030_032</VoiceId>
+      <JapaneseText>&lt;Red&gt;精霊の洞窟&lt;White&gt;ってことは、
+ノームがいるところだね</JapaneseText>
+      <EnglishText>In the Cavern of Spirits Mister Gnome resides, right? </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>287716</PointerOffset>
+      <VoiceId>VSM_060_030_033</VoiceId>
+      <JapaneseText>んじゃ、行ってみよう</JapaneseText>
+      <EnglishText>Well then, let's move! </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

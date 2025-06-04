@@ -1,0 +1,148 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37208</PointerOffset>
+      <VoiceId>VCT_003_084_001</VoiceId>
+      <JapaneseText>結局、ヴァルハラの魔術の暴走って
+魔科学兵器のせいだったんだな</JapaneseText>
+      <EnglishText>Who would have thought in reality it was a Magitech weapon what caused the Mana to go out of control?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37528</PointerOffset>
+      <VoiceId>VCT_003_084_002</VoiceId>
+      <JapaneseText>１５０年も前のものが
+今の時代にも残ってたなんて……</JapaneseText>
+      <EnglishText>It's amazing it was intact for 150 years until the present...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37760</PointerOffset>
+      <VoiceId>VCT_003_084_003</VoiceId>
+      <JapaneseText>そんな危険なものの上で、
+みんな何も知らずに生活してたんだね……</JapaneseText>
+      <EnglishText>Despite being such a dangerous object no one knew it was there all this time...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38032</PointerOffset>
+      <VoiceId>VCT_003_084_004</VoiceId>
+      <JapaneseText>もし&lt;Mel&gt;が発見しなかったら、
+ずっとあのままだったんだぜ</JapaneseText>
+      <EnglishText>I'm sure if &lt;Mel&gt; hadn't discovered it someone else would, eventually.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38512</PointerOffset>
+      <VoiceId>VCT_003_084_005</VoiceId>
+      <JapaneseText>発見っていうか……
+わたしが原因で事故になったっていうか……</JapaneseText>
+      <EnglishText>Discovered it? More like bumping into it by a horrible accident...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38888</PointerOffset>
+      <VoiceId>VCT_003_084_006</VoiceId>
+      <JapaneseText>だって、あれからヴァルハラで
+調査したら地面からたくさん出てきたんだぜ</JapaneseText>
+      <EnglishText>I'm sure if we made a thorough research of Valhalla's landscape I'm sure we'd find a lot of undiscovered stuff.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39576</PointerOffset>
+      <VoiceId>VCT_003_084_007</VoiceId>
+      <JapaneseText>そうだね、それって
+&lt;Mel&gt;のおかげだよね</JapaneseText>
+      <EnglishText>Isn't that so? I think it's good &lt;Mel&gt; found it, then.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39980</PointerOffset>
+      <VoiceId>VCT_003_084_008</VoiceId>
+      <JapaneseText>そっか……
+……そうなのかな？</JapaneseText>
+      <EnglishText>Really...? I guess that's sort of true...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40452</PointerOffset>
+      <VoiceId>VCT_003_084_009</VoiceId>
+      <JapaneseText>ほんと、&lt;Mel&gt;って
+前向きになんねーのな</JapaneseText>
+      <EnglishText>Man, nothing convinces this girl to move on.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

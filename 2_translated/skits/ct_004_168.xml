@@ -1,0 +1,175 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText>Variable</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37344</PointerOffset>
+      <VoiceId>VCT_004_168_001</VoiceId>
+      <JapaneseText>よし！　これでコスチューム全部マスターしたよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37956</PointerOffset>
+      <VoiceId>VCT_004_168_002</VoiceId>
+      <JapaneseText>すごいだー！　さすがだー！　かしこいだー！
+やっぱ&lt;Mel&gt;&lt;Mel&gt;は、すんばらしい娘っ子だでよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38928</PointerOffset>
+      <VoiceId>VCT_004_168_003</VoiceId>
+      <JapaneseText>えへへ、ありがとうございます、
+アルベルトさん♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39720</PointerOffset>
+      <VoiceId>VCT_004_168_004</VoiceId>
+      <JapaneseText>きゅっほーーーん∀　&lt;Mel&gt;&lt;Mel&gt;に感謝されただ。
+おら、今日と言う日を一生忘れねーだーよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41184</PointerOffset>
+      <VoiceId>VCT_004_168_005</VoiceId>
+      <JapaneseText>ったく、見てらんねー……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41712</PointerOffset>
+      <VoiceId>VCT_004_168_006</VoiceId>
+      <JapaneseText>キュルーン……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42052</PointerOffset>
+      <VoiceId>VCT_004_168_007</VoiceId>
+      <JapaneseText>何をごちゃごちゃ言ってるだ。おめぇも悔しかったら
+サッサとやることやってくるだど</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43140</PointerOffset>
+      <VoiceId>VCT_004_168_008</VoiceId>
+      <JapaneseText>の〜〜〜、&lt;Mel&gt;&lt;Mel&gt;？　ほんとに頑張ったで、
+おらが特別プレゼントあげるだーよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44240</PointerOffset>
+      <VoiceId>VCT_004_168_009</VoiceId>
+      <JapaneseText>え、本当に？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44556</PointerOffset>
+      <VoiceId>VCT_004_168_010</VoiceId>
+      <JapaneseText>じゃっじゃっじゃ、じゃ〜〜〜ん！　おらの直筆サイン入り、
+色紙をプレゼントー！　特別に手形も押してあるでよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46516</PointerOffset>
+      <VoiceId>VCT_004_168_011</VoiceId>
+      <JapaneseText>あ、ありがとう……アルベルトさん……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

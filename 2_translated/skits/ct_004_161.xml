@@ -1,0 +1,181 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText>Variable</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37200</PointerOffset>
+      <VoiceId>VCT_004_161_000</VoiceId>
+      <JapaneseText>ぐぁあっ！　無理だ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38408</PointerOffset>
+      <VoiceId>VCT_004_161_001</VoiceId>
+      <JapaneseText>どうしたの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38580</PointerOffset>
+      <VoiceId>VCT_004_161_002</VoiceId>
+      <JapaneseText>このカニのコスチューム、もーガマンできねーっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39252</PointerOffset>
+      <VoiceId>VCT_004_161_003</VoiceId>
+      <JapaneseText>カワイイと思うけど……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39404</PointerOffset>
+      <VoiceId>VCT_004_161_004</VoiceId>
+      <JapaneseText>カワイイとかどうでもいい！
+そんなよりこいつ、横にしか動けねーんだぜ！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40600</PointerOffset>
+      <VoiceId>VCT_004_161_005</VoiceId>
+      <JapaneseText>一歩前にでりゃいいのを、
+ぐるっと回んなきゃなんねー……もどかしいって！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41540</PointerOffset>
+      <VoiceId>VCT_004_161_006</VoiceId>
+      <JapaneseText>……それは確かに面倒だけど……
+でもカニにもいいところ、あるよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42104</PointerOffset>
+      <VoiceId>VCT_004_161_007</VoiceId>
+      <JapaneseText>は？　いいとこ？　んなもんねーって！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42556</PointerOffset>
+      <VoiceId>VCT_004_161_008</VoiceId>
+      <JapaneseText>甲羅が硬い、とか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42844</PointerOffset>
+      <VoiceId>VCT_004_161_009</VoiceId>
+      <JapaneseText>確かに硬いっちゃ硬いけどさ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43076</PointerOffset>
+      <VoiceId>VCT_004_161_010</VoiceId>
+      <JapaneseText>でしょ？　だから、よけて戦うんじゃなくて、
+受けて戦うタイプなんだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43768</PointerOffset>
+      <VoiceId>VCT_004_161_011</VoiceId>
+      <JapaneseText>そんなもんなのか！？
+で、でも……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44348</PointerOffset>
+      <VoiceId>VCT_004_161_012</VoiceId>
+      <JapaneseText>だめだ！
+やっぱもどかしくてたまんねーっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

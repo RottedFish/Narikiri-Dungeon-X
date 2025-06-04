@@ -1,0 +1,180 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37168</PointerOffset>
+      <VoiceId>VCT_001_022_001</VoiceId>
+      <JapaneseText>で、結局、どうだった？
+ダオスと戦ってみてさ</JapaneseText>
+      <EnglishText>So, how have you been holding as of late? I heard you got to fight with Dhaos.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37412</PointerOffset>
+      <VoiceId>VCT_001_022_002</VoiceId>
+      <JapaneseText>ああ、ダオスか……決死の覚悟をした奴は
+強かった</JapaneseText>
+      <EnglishText>Ah, Dhaos... Even in the face of death, he remained resilient.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37684</PointerOffset>
+      <VoiceId>VCT_001_022_003</VoiceId>
+      <JapaneseText>魔王の名もダテじゃないってことか</JapaneseText>
+      <EnglishText>As expected from the Demon King!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38056</PointerOffset>
+      <VoiceId>VCT_001_022_004</VoiceId>
+      <JapaneseText>魔王、ね……</JapaneseText>
+      <EnglishText>The Demon King...uh?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38224</PointerOffset>
+      <VoiceId>VCT_001_022_005</VoiceId>
+      <JapaneseText>みんな……そう呼んでるよね</JapaneseText>
+      <EnglishText>That's what everyone called him.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38560</PointerOffset>
+      <VoiceId>VCT_001_022_006</VoiceId>
+      <JapaneseText>なに……？</JapaneseText>
+      <EnglishText>What's wrong?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38740</PointerOffset>
+      <VoiceId>VCT_001_022_007</VoiceId>
+      <JapaneseText>いや、なんでもないさ</JapaneseText>
+      <EnglishText>It's nothing.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39212</PointerOffset>
+      <VoiceId>VCT_001_022_008</VoiceId>
+      <JapaneseText>ふーん……</JapaneseText>
+      <EnglishText>Hmph...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39648</PointerOffset>
+      <VoiceId>VCT_001_022_009</VoiceId>
+      <JapaneseText>ダオスが魔王なら……</JapaneseText>
+      <EnglishText>Was Dhaos really a Demon King...?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39876</PointerOffset>
+      <VoiceId>VCT_001_022_010</VoiceId>
+      <JapaneseText>彼の故郷の人たちから見れば、
+私たちが魔王ってことだな……</JapaneseText>
+      <EnglishText>Back when he attacked that little girl's town, we all really believed he was a Demon King...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40044</PointerOffset>
+      <VoiceId>VCT_001_022_011</VoiceId>
+      <JapaneseText>それもいいだろう……この世界を
+守るのなら、それでも……</JapaneseText>
+      <EnglishText>But it's ok...we wanted to protect the world...we did all we could...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40528</PointerOffset>
+      <VoiceId>VCT_001_022_012</VoiceId>
+      <JapaneseText>そうか……奴も……
+同じ気持ちだったか……</JapaneseText>
+      <EnglishText>Indeed... the feeling was surely mutual...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41392</PointerOffset>
+      <VoiceId>VCT_001_022_013</VoiceId>
+      <JapaneseText>魔王、か……</JapaneseText>
+      <EnglishText>A Demon...King...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

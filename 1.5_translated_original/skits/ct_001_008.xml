@@ -1,0 +1,170 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37280</PointerOffset>
+      <VoiceId>VCT_001_008_001</VoiceId>
+      <JapaneseText>あれ？　なんかヘンくね？
+さっきまで戦い疲れてたのに……</JapaneseText>
+      <EnglishText>Eh? What's going on around here? The wounds from all those fights are...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37708</PointerOffset>
+      <VoiceId>VCT_001_008_002</VoiceId>
+      <JapaneseText>体力が回復してる？</JapaneseText>
+      <EnglishText>Our strength has... been recovered?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37820</PointerOffset>
+      <VoiceId>VCT_001_008_003</VoiceId>
+      <JapaneseText>エッヘヘ〜ン！　アルベルト様が教えてやるだーよ。
+それも『なりきり士』の力のひとつだ、&lt;Mel&gt;&lt;Mel&gt;∀</JapaneseText>
+      <EnglishText>Ehehe! The great Albert shall teach you! That's yet another of the powers of Roleplayer, &lt;Mel&gt;&lt;Mel&gt;.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39716</PointerOffset>
+      <VoiceId>VCT_001_008_004</VoiceId>
+      <JapaneseText>ノルン様の加護ある場所なら、
+大地の力で体力も全回復だ〜〜よ♪</JapaneseText>
+      <EnglishText>Miss Norn's divine protection is present in this place, the power of earth will fully recover your inner strength.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40588</PointerOffset>
+      <VoiceId>VCT_001_008_005</VoiceId>
+      <JapaneseText>おまえがそんなでけーずーたい隠して、
+手伝わないから疲れるんだっての！</JapaneseText>
+      <EnglishText>You're hiding something from us, aren't you? Don't try to act all innocent, it's getting old!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41560</PointerOffset>
+      <VoiceId>VCT_001_008_006</VoiceId>
+      <JapaneseText>はん、おら、戦ってもええだが、衣装がボロボロになるだど！
+偉そうなこと言って。おめぇが使えねぇからだろ！</JapaneseText>
+      <EnglishText>You know, I might not be doing the fighting, but I'm already tired helping out with clothing! I even tell you guys important information, so I'm certainly more useful than you!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43076</PointerOffset>
+      <VoiceId>VCT_001_008_007</VoiceId>
+      <JapaneseText>&lt;Dio&gt;、アルベルトさんも……
+やめてください</JapaneseText>
+      <EnglishText>&lt;Dio&gt;, Mister Albert... please just cut it out.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44352</PointerOffset>
+      <VoiceId>VCT_001_008_008</VoiceId>
+      <JapaneseText>あう〜〜ん、&lt;Mel&gt;&lt;Mel&gt;ぅ、言ってやってほしいだ。
+このクソぼうずに、おらがどれだけ大変かっちゅーの</JapaneseText>
+      <EnglishText>Ohhhh! &lt;Mel&gt;-&lt;Mel&gt;! Now YOU're one I really want to talk to. It's so difficult to relate with uncivilized people at times!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46300</PointerOffset>
+      <VoiceId>VCT_001_008_009</VoiceId>
+      <JapaneseText>こんのぉ〜……</JapaneseText>
+      <EnglishText>You little...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46564</PointerOffset>
+      <VoiceId>VCT_001_008_010</VoiceId>
+      <JapaneseText>っつーことで、ダンジョンから外に出れば、
+体力が全快だで、いちいち寝る必要もないだーよ</JapaneseText>
+      <EnglishText>Oh that's right, whenever you come out from a dungeon your inner strength will be fully recovered, so there is no need to sleep in inns at all.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48076</PointerOffset>
+      <VoiceId>VCT_001_008_011</VoiceId>
+      <JapaneseText>……誰に向かって
+言ってんだ？</JapaneseText>
+      <EnglishText>...Who's he talking to?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

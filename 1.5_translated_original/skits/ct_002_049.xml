@@ -1,0 +1,225 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37300</PointerOffset>
+      <VoiceId>VCT_002_049_001</VoiceId>
+      <JapaneseText>……&lt;Cless&gt;さん、オレも
+&lt;Cless&gt;さんたちの部隊に入りたい</JapaneseText>
+      <EnglishText>Mister &lt;Cless&gt;... I want to go wherever you and your journeys take you.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38084</PointerOffset>
+      <VoiceId>VCT_002_049_002</VoiceId>
+      <JapaneseText>&lt;Cless&gt;さんと一緒に戦いたいんだ</JapaneseText>
+      <EnglishText>I want to fight alongside you!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38484</PointerOffset>
+      <VoiceId>VCT_002_049_003</VoiceId>
+      <JapaneseText>申し訳ないけど、トーティス遊撃隊は
+１８歳未満はお断りなんだ</JapaneseText>
+      <EnglishText>I'm very thankful for your plea but in Toltus' commando unit new recruits must be at least 18 years old.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38972</PointerOffset>
+      <VoiceId>VCT_002_049_004</VoiceId>
+      <JapaneseText>でも見てくれただろ、
+オレの戦いっぷり</JapaneseText>
+      <EnglishText>Haven't you seen how strong I am? I'm much stronger than your average kid!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39192</PointerOffset>
+      <VoiceId>VCT_002_049_005</VoiceId>
+      <JapaneseText>ああ、君が歳の割に
+強いこともわかってる</JapaneseText>
+      <EnglishText>I understand perfectly how strong you are.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39716</PointerOffset>
+      <VoiceId>VCT_002_049_006</VoiceId>
+      <JapaneseText>でも、そういう問題（こと）じゃないんだ</JapaneseText>
+      <EnglishText>However, that's not the case discussed here.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39948</PointerOffset>
+      <VoiceId>VCT_002_049_007</VoiceId>
+      <JapaneseText>じゃあ、どういうことなんだよ？</JapaneseText>
+      <EnglishText>Then what is the "case"!?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41076</PointerOffset>
+      <VoiceId>VCT_002_049_008</VoiceId>
+      <JapaneseText>&lt;Dio&gt;、やめなって</JapaneseText>
+      <EnglishText>&lt;Dio&gt; stop it already!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41400</PointerOffset>
+      <VoiceId>VCT_002_049_009</VoiceId>
+      <JapaneseText>邪魔すんなよ</JapaneseText>
+      <EnglishText>Don't bother me!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41896</PointerOffset>
+      <VoiceId>VCT_002_049_010</VoiceId>
+      <JapaneseText>それって本当に
+&lt;Dio&gt;のやりたかったこと？</JapaneseText>
+      <EnglishText>&lt;Dio&gt;, think about it! Is this really what you want to do with your life?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42384</PointerOffset>
+      <VoiceId>VCT_002_049_011</VoiceId>
+      <JapaneseText>それは……
+……そうだよっ！</JapaneseText>
+      <EnglishText>I-I...I'm sure!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43008</PointerOffset>
+      <VoiceId>VCT_002_049_012</VoiceId>
+      <JapaneseText>&lt;Dio&gt;！　きみね……！</JapaneseText>
+      <EnglishText>&lt;Dio&gt;, don't be such a brat!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43316</PointerOffset>
+      <VoiceId>VCT_002_049_013</VoiceId>
+      <JapaneseText>&lt;Dio&gt;、将来（さき）は長いよ。
+他にもっとやりたいことが出てくるかもしれない</JapaneseText>
+      <EnglishText>&lt;Dio&gt;, there's a long way ahead of you. I'm not exactly sure what fate awaits you.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43888</PointerOffset>
+      <VoiceId>VCT_002_049_014</VoiceId>
+      <JapaneseText>今ここで結論を出さなくてもいいんじゃないか。
+君はこれからどんなものにだってなれるんだから</JapaneseText>
+      <EnglishText>It's still too early to conclude what you'll do at this point. From here on you have your entire life to become anything!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44512</PointerOffset>
+      <VoiceId>VCT_002_049_015</VoiceId>
+      <JapaneseText>どんなものにだって……
+なれる……</JapaneseText>
+      <EnglishText>To become anything...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44744</PointerOffset>
+      <VoiceId>VCT_002_049_016</VoiceId>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText>...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

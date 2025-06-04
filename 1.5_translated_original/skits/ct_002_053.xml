@@ -1,0 +1,122 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37832</PointerOffset>
+      <VoiceId>VCT_002_053_001</VoiceId>
+      <JapaneseText>声を聞いただけで、ルナ様の美しさはわかっただ。
+戦わねーとわかって、覗いて見たおらは勝ち組だーよ</JapaneseText>
+      <EnglishText>Ahh...Even when I could only hear her voice I knew Miss Luna would be gorgeous. When they were fighting I could get a good peek whenever she attacked!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39184</PointerOffset>
+      <VoiceId>VCT_002_053_002</VoiceId>
+      <JapaneseText>いやー、この世界には、こったらべっぴんさんが
+多いの多くねーのって</JapaneseText>
+      <EnglishText>Oh dear, in this world there sure are lots of beautiful women.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39564</PointerOffset>
+      <VoiceId>VCT_002_053_003</VoiceId>
+      <JapaneseText>ましてや精霊様だなんて神秘的過ぎて、
+おらもう興奮のるつぼだーよ！</JapaneseText>
+      <EnglishText>Summon Spirit girls are so enigmatic... Ahh the excitement makes me &lt;Mel&gt;t inside!!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40776</PointerOffset>
+      <VoiceId>VCT_002_053_004</VoiceId>
+      <JapaneseText>問題はあの、アルテなんちゃらってちっこいヤツだ。
+あれはエト助に任せて、その間におらがルナ様に……</JapaneseText>
+      <EnglishText>The question is...how can I get through that annoying little pest Artemis. I know! I'll let Ethos handle that while me and Luna...!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41976</PointerOffset>
+      <VoiceId>VCT_002_053_005</VoiceId>
+      <JapaneseText>ぐふ……、ぐふふ……、ぐふふふ……。
+ふふふ…………………、ふぅ</JapaneseText>
+      <EnglishText>...Hehehe...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43816</PointerOffset>
+      <VoiceId>VCT_002_053_006</VoiceId>
+      <JapaneseText>どうしたのエト？</JapaneseText>
+      <EnglishText>What's wrong, Eto?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44136</PointerOffset>
+      <VoiceId>VCT_002_053_007</VoiceId>
+      <JapaneseText>う……ううん……なんか寒気がしたかラ……</JapaneseText>
+      <EnglishText>Ah...I don't know why, but I just felt weird now...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

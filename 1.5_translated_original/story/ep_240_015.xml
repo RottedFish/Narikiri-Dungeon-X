@@ -1,0 +1,709 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText>Ethos</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
+      <Notes/>
+      <Id>6</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
+      <Notes/>
+      <Id>7</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ダオス</JapaneseText>
+      <EnglishText>Dhaos</EnglishText>
+      <Notes/>
+      <Id>8</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
+      <Notes/>
+      <Id>9</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>279360</PointerOffset>
+      <VoiceId>VSM_240_010_039</VoiceId>
+      <JapaneseText>エト、平気！？</JapaneseText>
+      <EnglishText>Eto, are you ok!? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>279500</PointerOffset>
+      <VoiceId>VSM_240_010_040</VoiceId>
+      <JapaneseText>ぼく思い出したよ……
+いろいろ思い出しちゃった……</JapaneseText>
+      <EnglishText>I remember now...I remember...a lot of things... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>279640</PointerOffset>
+      <VoiceId>VSM_240_010_041</VoiceId>
+      <JapaneseText>思い出したって……
+自分が精霊だったこと……？</JapaneseText>
+      <EnglishText>Remember? You mean your life as a Summon Spirit...? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>279780</PointerOffset>
+      <VoiceId>VSM_240_010_042</VoiceId>
+      <JapaneseText>うん……たくさん悪さした……
+……精霊の力で街壊したり……</JapaneseText>
+      <EnglishText>Yes...I've done very bad things...I've destroyed...so many 
+towns... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>279920</PointerOffset>
+      <VoiceId>VSM_240_010_044</VoiceId>
+      <JapaneseText>みんなのことが嫌いだった。
+ぼくの存在に気づかなくて
+すごく悲しかった……</JapaneseText>
+      <EnglishText>I grew to hate everything. Everyone. I was so tired... My 
+existence...it was one full of misery... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280172</PointerOffset>
+      <VoiceId>VSM_240_010_045</VoiceId>
+      <JapaneseText>ぼく、いけない子なんだ……
+きみたちと一緒にいる
+資格なんて……</JapaneseText>
+      <EnglishText>I've made too many wrongs... I've sinned too much...Too 
+much to be around with you two... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280312</PointerOffset>
+      <VoiceId>VSM_240_010_046</VoiceId>
+      <JapaneseText>そんなことないよ、エト！</JapaneseText>
+      <EnglishText>Don't even say that, Eto! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280524</PointerOffset>
+      <VoiceId>VSM_240_010_049</VoiceId>
+      <JapaneseText>誰でも、悪いことをしちゃう
+可能性がある</JapaneseText>
+      <EnglishText>Anyone has the potential to do wrong. We are all capable of 
+sinning. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280524</PointerOffset>
+      <VoiceId>VSM_240_010_050</VoiceId>
+      <JapaneseText>大切なのはその後、
+それとどう向き合うか
+ってことなんじゃないかな</JapaneseText>
+      <EnglishText>What's really important is what we do after! What we do to 
+face our mistakes! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280664</PointerOffset>
+      <VoiceId>VSM_240_010_051</VoiceId>
+      <JapaneseText>どう、向き合うか……</JapaneseText>
+      <EnglishText>T-to face...my mistakes... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280804</PointerOffset>
+      <VoiceId>VSM_240_010_052</VoiceId>
+      <JapaneseText>ヤな思い出を受け入れるって
+覚悟したから、エトの
+記憶が戻ったんだろ？</JapaneseText>
+      <EnglishText>If your memories are back that means you were sure you 
+could handle the ugly truth, right? </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280944</PointerOffset>
+      <VoiceId>VSM_240_010_053</VoiceId>
+      <JapaneseText>ぼくは……
+ふたりのために……</JapaneseText>
+      <EnglishText>I...For you two... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>281140</PointerOffset>
+      <VoiceId>VSM_240_010_054</VoiceId>
+      <JapaneseText>そっか……ふたりがいたから、
+ぼくはどんないやな思い出も
+受け止められた……</JapaneseText>
+      <EnglishText>I...decided that no matter how terrible the memories 
+were... I couldn't bear to see you suffer... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>281140</PointerOffset>
+      <VoiceId>VSM_240_010_055</VoiceId>
+      <JapaneseText>やっぱり……ぼくは……
+&lt;Dio&gt;と&lt;Mel&gt;の
+『お母さん』なんだ……</JapaneseText>
+      <EnglishText>I guess...despite everything I'm still your mother, &lt;Dio&gt; 
+and &lt;Mel&gt;... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>281280</PointerOffset>
+      <VoiceId>VSM_240_010_057</VoiceId>
+      <JapaneseText>へん……エトなんて、
+『お母さん』って感じ
+と違うくせに……</JapaneseText>
+      <EnglishText>Weird...I don't quite see Eto as anything like a mother. </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>281420</PointerOffset>
+      <VoiceId>VSM_240_010_058</VoiceId>
+      <JapaneseText>……かもね……</JapaneseText>
+      <EnglishText>...I know. </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>281420</PointerOffset>
+      <VoiceId>VSM_240_010_059</VoiceId>
+      <JapaneseText>でも……きみたちとの思い出が
+ぼくをぼくでいさせてくれたよ……</JapaneseText>
+      <EnglishText>But...I still chose to remember... For you... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>281420</PointerOffset>
+      <VoiceId>VSM_240_010_060</VoiceId>
+      <JapaneseText>精霊のぼくじゃなくて、
+きみたちと一緒に暮らしてきた
+ぼくで……</JapaneseText>
+      <EnglishText>I'm no Summon Spirit...I want to live with you all my life. </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>3</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>281596</PointerOffset>
+      <VoiceId>VSM_240_010_061</VoiceId>
+      <JapaneseText>きみたちがいてくれてよかった……
+きみたちの役に立てて……</JapaneseText>
+      <EnglishText>Thank you for being here... Thank you for 
+everything...You've done too much for me... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>282504</PointerOffset>
+      <VoiceId>VSM_240_010_062</VoiceId>
+      <JapaneseText>エト……！？</JapaneseText>
+      <EnglishText>Eto...!? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>283872</PointerOffset>
+      <VoiceId>VSM_240_010_063</VoiceId>
+      <JapaneseText>……気を失ってるだけか</JapaneseText>
+      <EnglishText>...She's just knocked out. </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>284392</PointerOffset>
+      <VoiceId>VSM_240_010_064</VoiceId>
+      <JapaneseText>はぁ……びっくりした</JapaneseText>
+      <EnglishText>That was scary, though! </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>18</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>284548</PointerOffset>
+      <VoiceId>VSM_240_010_065</VoiceId>
+      <JapaneseText>ともかく、一旦、
+家に戻って……</JapaneseText>
+      <EnglishText>At any rate, let's hurry her back to the house... </EnglishText>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>19</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>287952</PointerOffset>
+      <VoiceId>VSM_240_010_066</VoiceId>
+      <JapaneseText>ダオス……！？</JapaneseText>
+      <EnglishText>Dhaos...!? </EnglishText>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>20</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>288092</PointerOffset>
+      <VoiceId>VSM_240_010_067</VoiceId>
+      <JapaneseText>…………！</JapaneseText>
+      <EnglishText>...! </EnglishText>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>21</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>288328</PointerOffset>
+      <VoiceId>VSM_240_010_068</VoiceId>
+      <JapaneseText>どうしてここに……</JapaneseText>
+      <EnglishText>Why...Why are you here? </EnglishText>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>22</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>288524</PointerOffset>
+      <VoiceId>VSM_240_010_069</VoiceId>
+      <JapaneseText>罪を犯した者を……
+制裁するため</JapaneseText>
+      <EnglishText>You who have committed a grave sin. It is well due time for 
+retribution. </EnglishText>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>23</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>288664</PointerOffset>
+      <VoiceId>VSM_240_010_070</VoiceId>
+      <JapaneseText>罪を犯した……？</JapaneseText>
+      <EnglishText>Committed a grave sin...? </EnglishText>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>24</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>288804</PointerOffset>
+      <VoiceId>VSM_240_010_071</VoiceId>
+      <JapaneseText>たぶんこの『虹輪』のことです</JapaneseText>
+      <EnglishText>By sin do you mean the Prism Ring? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>25</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>288944</PointerOffset>
+      <VoiceId>VSM_240_010_073</VoiceId>
+      <JapaneseText>どけ、&lt;Rondoline&gt;。
+死にたくないのであれば</JapaneseText>
+      <EnglishText>Move, &lt;Rondoline&gt;. I do not want to kill you. </EnglishText>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>26</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>289140</PointerOffset>
+      <VoiceId>VSM_240_010_074</VoiceId>
+      <JapaneseText>……どかないよ</JapaneseText>
+      <EnglishText>...I'm not going anywhere. </EnglishText>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>27</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>289440</PointerOffset>
+      <VoiceId>VSM_240_010_075</VoiceId>
+      <JapaneseText>&lt;Rody&gt;さん……
+ダオスとお知り合い、
+なのですか……？</JapaneseText>
+      <EnglishText>Rody... Could it be you and Dhaos are acquaintances...? </EnglishText>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Id>28</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>289580</PointerOffset>
+      <VoiceId>VSM_240_010_076</VoiceId>
+      <JapaneseText>お知り合いだよ</JapaneseText>
+      <EnglishText>We know each other. </EnglishText>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>29</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>289992</PointerOffset>
+      <VoiceId>VSM_240_010_077</VoiceId>
+      <JapaneseText>なんせ、私にこの指輪を
+くれた人だもん</JapaneseText>
+      <EnglishText>Of course, after all he's the one that gave me my ring... </EnglishText>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>30</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>291900</PointerOffset>
+      <VoiceId>VSM_240_010_078</VoiceId>
+      <JapaneseText>退いて、ダオス……
+私はあなたが手を汚すのを……</JapaneseText>
+      <EnglishText>Go away, Dhaos. You dirtying your hands with blood... </EnglishText>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>31</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>291900</PointerOffset>
+      <VoiceId>VSM_240_010_079</VoiceId>
+      <JapaneseText>……見たくない！</JapaneseText>
+      <EnglishText>...is something I never want to see!! </EnglishText>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>31</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>292160</PointerOffset>
+      <VoiceId>VSM_240_010_080</VoiceId>
+      <JapaneseText>意思が沿わぬならば
+奴らともども
+おまえを消すまで</JapaneseText>
+      <EnglishText>If that is your wish then run away. Otherwise I will crush 
+you along these. </EnglishText>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>32</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>293424</PointerOffset>
+      <VoiceId>VSM_240_010_081</VoiceId>
+      <JapaneseText>待てよ！　あんたは
+オレらの罪がどうとか
+言ってっけど、</JapaneseText>
+      <EnglishText>Hey wait a sec! You keep saying we committed a sin... </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>33</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>293424</PointerOffset>
+      <VoiceId>VSM_240_010_082</VoiceId>
+      <JapaneseText>オレらは
+まだそいつの後始末を
+してねーんだって</JapaneseText>
+      <EnglishText>...But we fixed everything in the end! It's all ok now! </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>33</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>293920</PointerOffset>
+      <VoiceId>VSM_240_010_084</VoiceId>
+      <JapaneseText>まだ、どうしてこんなことが
+起きたかわかんないままだもん</JapaneseText>
+      <EnglishText>I don't really understand why you hold such deep grudge to 
+go all this way but... </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>34</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>293920</PointerOffset>
+      <VoiceId>VSM_240_010_085</VoiceId>
+      <JapaneseText>ちゃんとその罪と向き合って
+何が悪かったのか、</JapaneseText>
+      <EnglishText>...If we face our sin with all our might, whatever it is, 
+we can do nothing but good. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>34</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>293920</PointerOffset>
+      <VoiceId>VSM_240_010_086</VoiceId>
+      <JapaneseText>それをわたしたちが
+どうすればいいのか、
+ちゃんと答えを出したい</JapaneseText>
+      <EnglishText>So please, just tell us what sort of sin is! We can work on 
+it! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>34</Id>
+      <BubbleId>3</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>294348</PointerOffset>
+      <VoiceId>VSM_240_010_087</VoiceId>
+      <JapaneseText>もし&lt;Mel&gt;の魔法の使い方が
+悪かったんなら、
+それを改めなきゃだし</JapaneseText>
+      <EnglishText>Sure, &lt;Mel&gt;'s magic may have created the Prism Ring. But 
+it's all over now! </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>35</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>294348</PointerOffset>
+      <VoiceId>VSM_240_010_088</VoiceId>
+      <JapaneseText>オレのフォローが
+悪かったんなら、なんか
+考えなきゃいけない</JapaneseText>
+      <EnglishText>She's never done anything evil as long as I've known her. </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>35</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>294348</PointerOffset>
+      <VoiceId>VSM_240_010_089</VoiceId>
+      <JapaneseText>だから、今、あんたに
+『セイサイ』させられないんだ！</JapaneseText>
+      <EnglishText>So we don't need your "retry-butchion"! </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>35</Id>
+      <BubbleId>3</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>294820</PointerOffset>
+      <VoiceId>VSM_240_010_090</VoiceId>
+      <JapaneseText>おまえたちの罪は
+私が知っている</JapaneseText>
+      <EnglishText>I know very well of the sin you committed. </EnglishText>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>36</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>294820</PointerOffset>
+      <VoiceId>VSM_240_010_091</VoiceId>
+      <JapaneseText>おまえたちが
+それを知ったとて、
+再び罪を繰り返すだけ</JapaneseText>
+      <EnglishText>If knowledge about said sin was disclosed I have no doubt 
+you would simply repeat it all over again. </EnglishText>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>36</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>294820</PointerOffset>
+      <VoiceId>VSM_240_010_092</VoiceId>
+      <JapaneseText>だから、ここで
+おまえたちを消す。
+向き合う必要はない</JapaneseText>
+      <EnglishText>Thus, facing your sins is unnecessary...because I will 
+erase you from existence! </EnglishText>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Id>36</Id>
+      <BubbleId>3</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>295372</PointerOffset>
+      <VoiceId>VSM_240_010_094</VoiceId>
+      <JapaneseText>でも……わたしたちも
+ここでやられるわけには
+いかないよ</JapaneseText>
+      <EnglishText>Even if that's so...We can't just give up after all we've 
+been through! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>37</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>295512</PointerOffset>
+      <VoiceId>VSM_240_010_095</VoiceId>
+      <JapaneseText>あいつは、私が……
+止める……！</JapaneseText>
+      <EnglishText>I...need to...stop...him!! </EnglishText>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Id>38</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

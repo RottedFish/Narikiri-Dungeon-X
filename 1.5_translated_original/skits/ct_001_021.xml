@@ -1,0 +1,178 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37616</PointerOffset>
+      <VoiceId>VCT_001_021_001</VoiceId>
+      <JapaneseText>ね、&lt;Dio&gt;……ダオス戦役のことが
+書いてある本ってある？</JapaneseText>
+      <EnglishText>Hey, &lt;Dio&gt;... Do you have the book Dhaos' History is written to?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37948</PointerOffset>
+      <VoiceId>VCT_001_021_002</VoiceId>
+      <JapaneseText>あるけど……全部、家だよ</JapaneseText>
+      <EnglishText>I have it but...it's all the way back home.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38360</PointerOffset>
+      <VoiceId>VCT_001_021_003</VoiceId>
+      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;〜、おらの中に『ダオス戦役のひみつ』、
+『こども歴史大百科』があっただよ</JapaneseText>
+      <EnglishText>&lt;Mel&gt;-&lt;Mel&gt;! I have inside of me "The Secrets of Dhaos' History" and "The Boy's Historical Journey"!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40032</PointerOffset>
+      <VoiceId>VCT_001_021_004</VoiceId>
+      <JapaneseText>あ……それ、オレの本！
+何、勝手に持ってきてんだ！</JapaneseText>
+      <EnglishText>H-hey! That's my book! You and your convenient tricks!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40660</PointerOffset>
+      <VoiceId>VCT_001_021_005</VoiceId>
+      <JapaneseText>ありがと、アルベルトさん</JapaneseText>
+      <EnglishText>Thank you Mister Albert!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41512</PointerOffset>
+      <VoiceId>VCT_001_021_006</VoiceId>
+      <JapaneseText>……ふんふん……</JapaneseText>
+      <EnglishText>Mmm...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41852</PointerOffset>
+      <VoiceId>VCT_001_021_007</VoiceId>
+      <JapaneseText>でも、どーしたんだよ、
+今まで興味なかったくせに</JapaneseText>
+      <EnglishText>Why the sudden urge anyways?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42188</PointerOffset>
+      <VoiceId>VCT_001_021_008</VoiceId>
+      <JapaneseText>みんなのしてる話が全然、わかんないから、
+このままじゃいけないと思ったんだ</JapaneseText>
+      <EnglishText>I don't understand everything everyone talks about, I can't keep up like that.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42864</PointerOffset>
+      <VoiceId>VCT_001_021_009</VoiceId>
+      <JapaneseText>こういうことは、ちゃんと知っておかないと
+ダメなんだよ、きっと</JapaneseText>
+      <EnglishText>I'll try not to end up in this position again, I promise!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43372</PointerOffset>
+      <VoiceId>VCT_001_021_010</VoiceId>
+      <JapaneseText>相変わらず&lt;Mel&gt;って真面目だよな……</JapaneseText>
+      <EnglishText>Usual &lt;Mel&gt;, I see...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43540</PointerOffset>
+      <VoiceId>VCT_001_021_011</VoiceId>
+      <JapaneseText>あ〜、どこぞのチビ助と違って、な！</JapaneseText>
+      <EnglishText>I see this is usual brat idiocy.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44456</PointerOffset>
+      <VoiceId>VCT_001_021_012</VoiceId>
+      <JapaneseText>うるせー！　本棚に作り変えちまうぞ！</JapaneseText>
+      <EnglishText>Oh shut up! You are the one that stole the books in the first place!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

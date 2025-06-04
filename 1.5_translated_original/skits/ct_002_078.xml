@@ -1,0 +1,205 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37568</PointerOffset>
+      <VoiceId>VCT_002_078_001</VoiceId>
+      <JapaneseText>またこうやってみんなと旅が出来るなんて
+思ってもなかったよ</JapaneseText>
+      <EnglishText>I never thought we'd be able to journey together like this anymore.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37680</PointerOffset>
+      <VoiceId>VCT_002_078_002</VoiceId>
+      <JapaneseText>同じ目的に向かった者同士が、再び別の目的に
+向かって集まり、力を合わせるというのがいいな</JapaneseText>
+      <EnglishText>Travelling together for the same reason yet being called for a different reason than our previous travel. It's good we're able to join forces once again.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38380</PointerOffset>
+      <VoiceId>VCT_002_078_003</VoiceId>
+      <JapaneseText>&lt;Claus&gt;、おっさんくさーい</JapaneseText>
+      <EnglishText>&lt;Claus&gt; try to hold the grandpa talk in.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39400</PointerOffset>
+      <VoiceId>VCT_002_078_004</VoiceId>
+      <JapaneseText>おっさんくさいだと？
+私はまだ２９だ！</JapaneseText>
+      <EnglishText>Who's a grandpa!? I'm just 29!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40140</PointerOffset>
+      <VoiceId>VCT_002_078_005</VoiceId>
+      <JapaneseText>久しぶりに会ったのですから、
+ケンカはやめた方がいいかと……</JapaneseText>
+      <EnglishText>I'm overjoyed we are all together but please don't fight...</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40496</PointerOffset>
+      <VoiceId>VCT_002_078_006</VoiceId>
+      <JapaneseText>相変わらずだね</JapaneseText>
+      <EnglishText>Seems everyone's the same.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40608</PointerOffset>
+      <VoiceId>VCT_002_078_007</VoiceId>
+      <JapaneseText>&lt;Chester&gt;さんは
+どうしたのですか？</JapaneseText>
+      <EnglishText>&lt;Chester&gt;, what is on your mind?</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41700</PointerOffset>
+      <VoiceId>VCT_002_078_008</VoiceId>
+      <JapaneseText>&lt;Arche&gt;さんと久しぶりに会うので
+照れているのでは……？</JapaneseText>
+      <EnglishText>He's been looking forward to meeting with &lt;Arche&gt; for so long, maybe he's shy?</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42152</PointerOffset>
+      <VoiceId>VCT_002_078_009</VoiceId>
+      <JapaneseText>チェ・ス・ター∀</JapaneseText>
+      <EnglishText>CHE-S-TER~!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43844</PointerOffset>
+      <VoiceId>VCT_002_078_010</VoiceId>
+      <JapaneseText>や、やめろ、なんだよ、
+おまえ……！</JapaneseText>
+      <EnglishText>Cut it out, you!</EnglishText>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44524</PointerOffset>
+      <VoiceId>VCT_002_078_011</VoiceId>
+      <JapaneseText>いいじゃん、いいじゃん、
+久しぶりなんだし</JapaneseText>
+      <EnglishText>Oh it's ok! You've been missing me, haven't you?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45704</PointerOffset>
+      <VoiceId>VCT_002_078_012</VoiceId>
+      <JapaneseText>な、なんだよ、おまえ、２００年経って
+なんか性格変わってねーか！？</JapaneseText>
+      <EnglishText>W-what's up with you? 200 years passed by and you've not changed one bit!?</EnglishText>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

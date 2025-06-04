@@ -1,0 +1,209 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37208</PointerOffset>
+      <VoiceId>VCT_002_075_001</VoiceId>
+      <JapaneseText>そう言えば、君たちがいなくなった後、
+バジルのところで少し研究を手伝っていたんだが</JapaneseText>
+      <EnglishText>By the way, ever since you kids left I've got some work done with Basil on his research.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37576</PointerOffset>
+      <VoiceId>VCT_002_075_002</VoiceId>
+      <JapaneseText>バジルさんの……！</JapaneseText>
+      <EnglishText>Mister Basil's research...!?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37756</PointerOffset>
+      <VoiceId>VCT_002_075_003</VoiceId>
+      <JapaneseText>ん？　どうした？</JapaneseText>
+      <EnglishText>Mmm? What of it?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37992</PointerOffset>
+      <VoiceId>VCT_002_075_004</VoiceId>
+      <JapaneseText>えっと……その……</JapaneseText>
+      <EnglishText>Err, how can I say this...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38304</PointerOffset>
+      <VoiceId>VCT_002_075_005</VoiceId>
+      <JapaneseText>なんでもありません</JapaneseText>
+      <EnglishText>It's nothing.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38616</PointerOffset>
+      <VoiceId>VCT_002_075_006</VoiceId>
+      <JapaneseText>……そうか……</JapaneseText>
+      <EnglishText>...Right.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39520</PointerOffset>
+      <VoiceId>VCT_002_075_007</VoiceId>
+      <JapaneseText>ヘンなこと言わない方がいいよ……</JapaneseText>
+      <EnglishText>It's better if we don't talk about these things, I think...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39700</PointerOffset>
+      <VoiceId>VCT_002_075_008</VoiceId>
+      <JapaneseText>でもさ、&lt;Claus&gt;さんに言って
+止めてもらえれば……</JapaneseText>
+      <EnglishText>But if what Mister &lt;Claus&gt; said is true and if we stop the research...!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40144</PointerOffset>
+      <VoiceId>VCT_002_075_009</VoiceId>
+      <JapaneseText>でもわたしたち……</JapaneseText>
+      <EnglishText>Yes, but we...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40312</PointerOffset>
+      <VoiceId>VCT_002_075_010</VoiceId>
+      <JapaneseText>バジルの身に何かあったんだな</JapaneseText>
+      <EnglishText>If there's something up with Basil just say it out loud.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40948</PointerOffset>
+      <VoiceId>VCT_002_075_011</VoiceId>
+      <JapaneseText>え！　い、いや、その……</JapaneseText>
+      <EnglishText>Wha? Er, nevermind...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41364</PointerOffset>
+      <VoiceId>VCT_002_075_012</VoiceId>
+      <JapaneseText>……何があったのかはわからないが、
+それが運命ならば、ヤツも潔く受け止めるだろう</JapaneseText>
+      <EnglishText>...I'm not sure whatever he's up to. However, if this is something destined to happen then nothing will stop his convictions.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41636</PointerOffset>
+      <VoiceId>VCT_002_075_013</VoiceId>
+      <JapaneseText>だから、私もこれ以上、深くは聞かない。
+それでいいだろ？</JapaneseText>
+      <EnglishText>This is why I'd rather not hear about it. Is that ok with you two?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42320</PointerOffset>
+      <VoiceId>VCT_002_075_014</VoiceId>
+      <JapaneseText>え……あ、はい……</JapaneseText>
+      <EnglishText>I...I guess...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42908</PointerOffset>
+      <VoiceId>VCT_002_075_015</VoiceId>
+      <JapaneseText>……大人だな、&lt;Claus&gt;さん……</JapaneseText>
+      <EnglishText>...You really are an adult, Mister &lt;Claus&gt;...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

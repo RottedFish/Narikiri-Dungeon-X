@@ -1,0 +1,118 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37020</PointerOffset>
+      <VoiceId>VCT_002_081_001</VoiceId>
+      <JapaneseText>……『音』の精霊って
+何ができるのかな？</JapaneseText>
+      <EnglishText>If I'm the Spirit of Sound...what kind of abilities do I possess?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37252</PointerOffset>
+      <VoiceId>VCT_002_081_002</VoiceId>
+      <JapaneseText>『音』を操ったり……？
+でも、ぼく音痴なんだけド……</JapaneseText>
+      <EnglishText>He said I can manipulate sound but...I've never composed music...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37756</PointerOffset>
+      <VoiceId>VCT_002_081_003</VoiceId>
+      <JapaneseText>あ、記憶が封印されてるからかな？</JapaneseText>
+      <EnglishText>Oh! Maybe I lost my powers along my memories?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38080</PointerOffset>
+      <VoiceId>VCT_002_081_004</VoiceId>
+      <JapaneseText>歌が上手くなったら、&lt;Dio&gt;と&lt;Mel&gt;に
+すてきな子守唄を歌ってあげられるかも♪</JapaneseText>
+      <EnglishText>If I re-learn my latent musical ability, maybe I can create a nice lullaby for &lt;Dio&gt; and &lt;Mel&gt;!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38812</PointerOffset>
+      <VoiceId>VCT_002_081_005</VoiceId>
+      <JapaneseText>……ふたりとも子守唄って
+歳でもないか</JapaneseText>
+      <EnglishText>...Though I think they might be a bit too old for lullabies.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39044</PointerOffset>
+      <VoiceId>VCT_002_081_006</VoiceId>
+      <JapaneseText>……うーん……
+全然、わかんないや</JapaneseText>
+      <EnglishText>...Mmm, I really don't know what I'm able to do.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39548</PointerOffset>
+      <VoiceId>VCT_002_081_007</VoiceId>
+      <JapaneseText>……別に今のままでも
+不便はないけド……</JapaneseText>
+      <EnglishText>Well, it's never been an inconvenience before but...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39780</PointerOffset>
+      <VoiceId>VCT_002_081_008</VoiceId>
+      <JapaneseText>やっぱり、気になる、な</JapaneseText>
+      <EnglishText>...The thought really makes me uneasy...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

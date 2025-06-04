@@ -1,0 +1,220 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37320</PointerOffset>
+      <VoiceId>VCT_003_103_001</VoiceId>
+      <JapaneseText>ダオス城の中……変わってないな、
+あの時のまんまだ</JapaneseText>
+      <EnglishText>I couldn't see things through to the end back then... Things look the same as then.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37772</PointerOffset>
+      <VoiceId>VCT_003_103_002</VoiceId>
+      <JapaneseText>ふしぎ空間だからね</JapaneseText>
+      <EnglishText>It's a pretty interesting time-space, here.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38044</PointerOffset>
+      <VoiceId>VCT_003_103_003</VoiceId>
+      <JapaneseText>私の心もあの時のまんま</JapaneseText>
+      <EnglishText>My heart is just as shaken as back then, too...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38196</PointerOffset>
+      <VoiceId>VCT_003_103_004</VoiceId>
+      <JapaneseText>構やしない。初心忘るべからずだ</JapaneseText>
+      <EnglishText>Don't fill yourself up with concern. Remember your original resolution.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38840</PointerOffset>
+      <VoiceId>VCT_003_103_005</VoiceId>
+      <JapaneseText>&lt;Claus&gt;、おっさんくさいってば</JapaneseText>
+      <EnglishText>Always with the old man talk...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39492</PointerOffset>
+      <VoiceId>VCT_003_103_006</VoiceId>
+      <JapaneseText>初心とか、そんなんじゃないんだ。
+ダオスと顔合わせるのが怖いだけ</JapaneseText>
+      <EnglishText>I didn't really have so much resolution as much as I was utterly scared to meet with Dhaos again.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40084</PointerOffset>
+      <VoiceId>VCT_003_103_007</VoiceId>
+      <JapaneseText>だから、ダオス城の場所知ってたのに
+近づかなかったんだな</JapaneseText>
+      <EnglishText>So then why did you enter Dhaos's Castle if you're shaken up?</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40408</PointerOffset>
+      <VoiceId>VCT_003_103_008</VoiceId>
+      <JapaneseText>双子ちゃんに背中を押してもらっちゃった。
+情けないなあ</JapaneseText>
+      <EnglishText>The twins kinda shoved me inside forcibly. No use cryin' now.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40924</PointerOffset>
+      <VoiceId>VCT_003_103_009</VoiceId>
+      <JapaneseText>恋する乙女はみんな
+そんなもんよ♪</JapaneseText>
+      <EnglishText>That is the way of a young lady in love~!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41592</PointerOffset>
+      <VoiceId>VCT_003_103_010</VoiceId>
+      <JapaneseText>ちゃかすなよな、おまえは……</JapaneseText>
+      <EnglishText>You're one to poke fun at other people...</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42260</PointerOffset>
+      <VoiceId>VCT_003_103_011</VoiceId>
+      <JapaneseText>いいのいいの</JapaneseText>
+      <EnglishText>It's fine, it's fine~</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42516</PointerOffset>
+      <VoiceId>VCT_003_103_012</VoiceId>
+      <JapaneseText>でも、&lt;Arche&gt;先輩は、
+いつも積極的じゃないですかぁ∀</JapaneseText>
+      <EnglishText>Isn't &lt;Arche&gt; such an assertive young lady~?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43604</PointerOffset>
+      <VoiceId>VCT_003_103_013</VoiceId>
+      <JapaneseText>いやーん、そうかなあ♪</JapaneseText>
+      <EnglishText>Hohohoho, yes I am!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44012</PointerOffset>
+      <VoiceId>VCT_003_103_014</VoiceId>
+      <JapaneseText>……『おっさん』には、
+つきあってられないな、&lt;Chester&gt;行くぞ</JapaneseText>
+      <EnglishText>Grandpa will leave you two alone. Let's go &lt;Chester&gt;.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44736</PointerOffset>
+      <VoiceId>VCT_003_103_015</VoiceId>
+      <JapaneseText>おい待て、オレはおっさんじゃねーぞ</JapaneseText>
+      <EnglishText>Hey wait! I'm no old man!</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

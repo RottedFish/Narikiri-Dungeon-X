@@ -1,0 +1,218 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Chester&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37468</PointerOffset>
+      <VoiceId>VCT_002_056_001</VoiceId>
+      <JapaneseText>……どうしてバジルさんが悪いヤツらに……</JapaneseText>
+      <EnglishText>Why would Mister Basil become a bad person...?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37660</PointerOffset>
+      <VoiceId>VCT_002_056_002</VoiceId>
+      <JapaneseText>そのバジルって人は
+君の知り合いなのかい？</JapaneseText>
+      <EnglishText>Is this Basil person some sort of acquaintance?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38024</PointerOffset>
+      <VoiceId>VCT_002_056_003</VoiceId>
+      <JapaneseText>ああ。変わり者だったけど、熱い人だった。
+人殺しするヤツと仲間になる人とは違うのに……</JapaneseText>
+      <EnglishText>We met him in the past. It was just a while, but he was really kind to people. He's the type of person to help people in need, not hurt them...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38612</PointerOffset>
+      <VoiceId>VCT_002_056_004</VoiceId>
+      <JapaneseText>まだバジルさんかどうか
+わかんないんでしょ？</JapaneseText>
+      <EnglishText>We still can't be too sure if it's him or not, right?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39112</PointerOffset>
+      <VoiceId>VCT_002_056_005</VoiceId>
+      <JapaneseText>あ……う、うん……
+そうだけど……</JapaneseText>
+      <EnglishText>I....guess...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39564</PointerOffset>
+      <VoiceId>VCT_002_056_006</VoiceId>
+      <JapaneseText>だったら、信じようよ</JapaneseText>
+      <EnglishText>You have to believe in him, &lt;Dio&gt;!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39796</PointerOffset>
+      <VoiceId>VCT_002_056_007</VoiceId>
+      <JapaneseText>そ、そうだな……うん……</JapaneseText>
+      <EnglishText>R-right...yes...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40644</PointerOffset>
+      <VoiceId>VCT_002_056_008</VoiceId>
+      <JapaneseText>&lt;Mel&gt;、そのバジルってヤツの顔見たんだよな？
+それなのにわからないって……</JapaneseText>
+      <EnglishText>&lt;Mel&gt;, you seen Basil's face, right? Then I don't understand why you go and say stuff like that...?</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41124</PointerOffset>
+      <VoiceId>VCT_002_056_009</VoiceId>
+      <JapaneseText>……なんか、&lt;Dio&gt;見てたら、
+ああ言わなきゃって思って……</JapaneseText>
+      <EnglishText>... Back then I was actually worried about &lt;Dio&gt;'s wounds, so I was looking directly at him.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41480</PointerOffset>
+      <VoiceId>VCT_002_056_010</VoiceId>
+      <JapaneseText>それに見間違いってこともありますから</JapaneseText>
+      <EnglishText>There's some room for misunderstanding, I think.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41788</PointerOffset>
+      <VoiceId>VCT_002_056_011</VoiceId>
+      <JapaneseText>……&lt;Mel&gt;ちゃんは
+&lt;Dio&gt;くんのお姉さんなんですね</JapaneseText>
+      <EnglishText>...&lt;Mel&gt;, you really are the big sister of the two!</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42220</PointerOffset>
+      <VoiceId>VCT_002_056_012</VoiceId>
+      <JapaneseText>いつもはオレが兄貴だって
+&lt;Dio&gt;に言われてますけど</JapaneseText>
+      <EnglishText>Uh, don't say that near him. He insists he's the big brother.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42560</PointerOffset>
+      <VoiceId>VCT_002_056_013</VoiceId>
+      <JapaneseText>兄弟って……いいよな</JapaneseText>
+      <EnglishText>Brother and sister...just as it should be!</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42936</PointerOffset>
+      <VoiceId>VCT_002_056_014</VoiceId>
+      <JapaneseText>……ああ</JapaneseText>
+      <EnglishText>...Of course.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

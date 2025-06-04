@@ -1,0 +1,147 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37320</PointerOffset>
+      <VoiceId>VCT_001_032_001</VoiceId>
+      <JapaneseText>剣士に魔法使いに……
+なんでもなれるんだな、オレら</JapaneseText>
+      <EnglishText>A knight who can use magic... I could become anything!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38096</PointerOffset>
+      <VoiceId>VCT_001_032_002</VoiceId>
+      <JapaneseText>そりゃ『なりきり士』だし
+服があれば、なんにでもなれるけど……</JapaneseText>
+      <EnglishText>But we're Roleplayers. Wearing clothes we can become anything already...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38452</PointerOffset>
+      <VoiceId>VCT_001_032_003</VoiceId>
+      <JapaneseText>別に服なんてなくてもなれるんだよ。
+バジルさん言ってた、オレら真っ白なんだって</JapaneseText>
+      <EnglishText>It has nothing to do with becoming something with our costumes. I'm thinking of what Basil said, my noble dream.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39208</PointerOffset>
+      <VoiceId>VCT_001_032_004</VoiceId>
+      <JapaneseText>だったら『なりきり士』の力に
+頼らない方がいいんじゃない？</JapaneseText>
+      <EnglishText>Couldn't we just rely on our Roleplayer powers?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39564</PointerOffset>
+      <VoiceId>VCT_001_032_005</VoiceId>
+      <JapaneseText>そっだらことは、ダメだ、&lt;Mel&gt;&lt;Mel&gt;！
+なーんかあって、ケガでもしたら大事だど！</JapaneseText>
+      <EnglishText>That's a big no-no, &lt;Mel&gt;-&lt;Mel&gt;! People need to do mistakes and get hurt to know how important things really are.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41160</PointerOffset>
+      <VoiceId>VCT_001_032_006</VoiceId>
+      <JapaneseText>大体、服ないとダメって、
+便利なようで、めんどくさいぜ</JapaneseText>
+      <EnglishText>Still, without costumes it'd be inconvenient and we'd get tired.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41660</PointerOffset>
+      <VoiceId>VCT_001_032_007</VoiceId>
+      <JapaneseText>着替えなきゃだし、
+このヘンテコタンス野郎もいつも一緒だしさ</JapaneseText>
+      <EnglishText>Whenever we need to change clothes we could use you, closet freak.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42304</PointerOffset>
+      <VoiceId>VCT_001_032_008</VoiceId>
+      <JapaneseText>おめぇの、そのマヌケヅラは、魔物に殴られた方が
+ちっとはマシになるかもしんねーな。へへへ</JapaneseText>
+      <EnglishText>Well, since you pointed it out, next time a monster appears you'll become whatever they want. Hehehehe!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43708</PointerOffset>
+      <VoiceId>VCT_001_032_009</VoiceId>
+      <JapaneseText>てめぇは……</JapaneseText>
+      <EnglishText>You sunnuva...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

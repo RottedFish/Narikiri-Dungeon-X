@@ -1,0 +1,112 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37144</PointerOffset>
+      <VoiceId>VCT_004_170_001</VoiceId>
+      <JapaneseText>よし！　次はこっちのコスチュームを着て……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38092</PointerOffset>
+      <VoiceId>VCT_004_170_002</VoiceId>
+      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;、頑張ってるだなぁ。いっぱい着替えまくっで</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38816</PointerOffset>
+      <VoiceId>VCT_004_170_003</VoiceId>
+      <JapaneseText>わたしの力が役立つなら、
+精いっぱいやらないと！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39240</PointerOffset>
+      <VoiceId>VCT_004_170_004</VoiceId>
+      <JapaneseText>すんばらしーだ。おら感動で、目から汗が出てきたど</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40028</PointerOffset>
+      <VoiceId>VCT_004_170_005</VoiceId>
+      <JapaneseText>アルベルトさんだって、頑張って、くれてるじゃない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40544</PointerOffset>
+      <VoiceId>VCT_004_170_006</VoiceId>
+      <JapaneseText>……と、よし！　着替え終わった。
+じゃ、行ってきまーす！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42088</PointerOffset>
+      <VoiceId>VCT_004_170_007</VoiceId>
+      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;の着替えを毎回手伝えるなら、
+おらは何百着だって持つだーよ。うふ∀</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

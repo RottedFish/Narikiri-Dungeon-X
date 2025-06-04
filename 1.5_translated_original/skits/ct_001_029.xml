@@ -1,0 +1,164 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>38020</PointerOffset>
+      <VoiceId>VCT_001_029_001</VoiceId>
+      <JapaneseText>ノームに襲われた時、飛んで逃げりゃよかったのに、
+何してたんだよ？</JapaneseText>
+      <EnglishText>Hey, remember back when we were about to finish Gnome? Why did he run away all of a sudden?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38300</PointerOffset>
+      <VoiceId>VCT_001_029_002</VoiceId>
+      <JapaneseText>飛ぶためには色々準備が必要なんだよ？</JapaneseText>
+      <EnglishText>Wasn't it obvious why he ran?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38780</PointerOffset>
+      <VoiceId>VCT_001_029_003</VoiceId>
+      <JapaneseText>空気の流れに乗ったり、
+羽根のコンディション見たりさ</JapaneseText>
+      <EnglishText>The air around him was damp and after sensing it he felt the need to run away.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39364</PointerOffset>
+      <VoiceId>VCT_001_029_004</VoiceId>
+      <JapaneseText>そんなの初聞きたぜ？</JapaneseText>
+      <EnglishText>That's the first time I heard that.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39664</PointerOffset>
+      <VoiceId>VCT_001_029_005</VoiceId>
+      <JapaneseText>いつも簡単に飛んでるように
+見えるけど……</JapaneseText>
+      <EnglishText>His reasons seem to be simple, but...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39964</PointerOffset>
+      <VoiceId>VCT_001_029_006</VoiceId>
+      <JapaneseText>これでもすごく気を使ってるんだ。
+風が強かったりしたら、落ちるし……</JapaneseText>
+      <EnglishText>He was being very careful! If the wind had become strong, the ceiling would be crushe--...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40656</PointerOffset>
+      <VoiceId>VCT_001_029_007</VoiceId>
+      <JapaneseText>クルクルール！</JapaneseText>
+      <EnglishText>Kurukuruuuru!</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41892</PointerOffset>
+      <VoiceId>VCT_001_029_008</VoiceId>
+      <JapaneseText>うわっ！　ちょっ……
+じゃれつかないでって……</JapaneseText>
+      <EnglishText>Ahh! I don't want to play right now!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42640</PointerOffset>
+      <VoiceId>VCT_001_029_009</VoiceId>
+      <JapaneseText>クルール！　クルール！</JapaneseText>
+      <EnglishText>Kururu! Kururu!</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43188</PointerOffset>
+      <VoiceId>VCT_001_029_010</VoiceId>
+      <JapaneseText>わっ……ほら、あっと、ちょっと……
+ほ、ほらね……うわっ、やめて……</JapaneseText>
+      <EnglishText>T-there...good boy...calm down...please...Wah! Please stop!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

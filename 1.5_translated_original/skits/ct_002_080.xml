@@ -1,0 +1,226 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37244</PointerOffset>
+      <VoiceId>VCT_002_080_001</VoiceId>
+      <JapaneseText>&lt;Rody&gt;、さっき&lt;Cless&gt;さんたち
+迎えに行った時さ</JapaneseText>
+      <EnglishText>&lt;Rody&gt;, a while ago you've picked up &lt;Cless&gt; and everyone, right?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37584</PointerOffset>
+      <VoiceId>VCT_002_080_002</VoiceId>
+      <JapaneseText>行ってくるって言って、
+戻ってきたの、あっという間だったぜ？</JapaneseText>
+      <EnglishText>You said you've gone somewhere, but you meant the past, right? How come it was so fast?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38112</PointerOffset>
+      <VoiceId>VCT_002_080_003</VoiceId>
+      <JapaneseText>そりゃあ、戻ってくる時間も
+自由自在だからね</JapaneseText>
+      <EnglishText>That's right. I can travel freely to time eras I've already been to.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38400</PointerOffset>
+      <VoiceId>VCT_002_080_004</VoiceId>
+      <JapaneseText>え？　どういうことだ？</JapaneseText>
+      <EnglishText>Huh? Why's that?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38708</PointerOffset>
+      <VoiceId>VCT_002_080_005</VoiceId>
+      <JapaneseText>だから、向こうに長くいても、
+こっちの時間で少しだけ後に戻ってきたら</JapaneseText>
+      <EnglishText>Moving opposite to the time stream is quite a long ways but if I travel backwards just for a little while I can return right away.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39084</PointerOffset>
+      <VoiceId>VCT_002_080_006</VoiceId>
+      <JapaneseText>あら不思議、戻ってくるのは
+あっという間って感じかな</JapaneseText>
+      <EnglishText>It's pretty awesome! From an outside perspective it looks like it was instantaneous.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39660</PointerOffset>
+      <VoiceId>VCT_002_080_007</VoiceId>
+      <JapaneseText>え……？</JapaneseText>
+      <EnglishText>What?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39828</PointerOffset>
+      <VoiceId>VCT_002_080_008</VoiceId>
+      <JapaneseText>ありゃ、わかんないかな？
+つまりね……</JapaneseText>
+      <EnglishText>Y-you don't get it? In short...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40488</PointerOffset>
+      <VoiceId>VCT_002_080_009</VoiceId>
+      <JapaneseText>指輪の力使えば、
+全部速く動くことができるんだよ</JapaneseText>
+      <EnglishText>You used the Ring's power to travel to all the eras at the same time, right?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41400</PointerOffset>
+      <VoiceId>VCT_002_080_010</VoiceId>
+      <JapaneseText>ちょっと、&lt;Mel&gt;ちゃん？</JapaneseText>
+      <EnglishText>Um, &lt;Mel&gt;?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41832</PointerOffset>
+      <VoiceId>VCT_002_080_011</VoiceId>
+      <JapaneseText>なんだよ、
+今のそういうことなのか？</JapaneseText>
+      <EnglishText>Wait, that's how it works?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42416</PointerOffset>
+      <VoiceId>VCT_002_080_012</VoiceId>
+      <JapaneseText>えっと？</JapaneseText>
+      <EnglishText>Um?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42584</PointerOffset>
+      <VoiceId>VCT_002_080_013</VoiceId>
+      <JapaneseText>そういうことにしといてください。
+&lt;Dio&gt;に説明すると、長いですよ？</JapaneseText>
+      <EnglishText>Just let that explanation slip by. I think explaining to &lt;Dio&gt; how it actually works would take too long.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43312</PointerOffset>
+      <VoiceId>VCT_002_080_014</VoiceId>
+      <JapaneseText>そう……？</JapaneseText>
+      <EnglishText>Really?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43560</PointerOffset>
+      <VoiceId>VCT_002_080_015</VoiceId>
+      <JapaneseText>んじゃあ、そういうことで〜</JapaneseText>
+      <EnglishText>Then, uh, yeah that's TOTALLY how it works!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44432</PointerOffset>
+      <VoiceId>VCT_002_080_016</VoiceId>
+      <JapaneseText>そういうことでって、
+なんだよ、ちょっと待てよ！</JapaneseText>
+      <EnglishText>Hey, wait a minute! That explanation made no sense!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

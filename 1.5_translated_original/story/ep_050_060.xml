@@ -1,0 +1,405 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>泣きじゃくる子ども</JapaneseText>
+      <EnglishText>Sobbing Kid</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エルフの青年</JapaneseText>
+      <EnglishText>Young Elf</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>バジル</JapaneseText>
+      <EnglishText>Basil</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>258800</PointerOffset>
+      <VoiceId>VSM_050_060_000</VoiceId>
+      <JapaneseText>うわぁああん！！
+おなか、おなかが</JapaneseText>
+      <EnglishText>Waaah! My tummy! My tummmmyy! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>258996</PointerOffset>
+      <VoiceId>VSM_050_060_001</VoiceId>
+      <JapaneseText>な、なんだ！？
+腹痛いのか！？</JapaneseText>
+      <EnglishText>W-what's wrong!? You got stomach ache!? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259244</PointerOffset>
+      <VoiceId>VSM_050_060_002</VoiceId>
+      <JapaneseText>おなかすいたぁ！！
+うわぁああん！！</JapaneseText>
+      <EnglishText>I'm hungry! Waaah! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259544</PointerOffset>
+      <VoiceId>VSM_050_060_012</VoiceId>
+      <JapaneseText>ああ……どうしよう……
+ねぇ、エト……</JapaneseText>
+      <EnglishText>Uhh... what do we do, Eto? </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259684</PointerOffset>
+      <VoiceId>VSM_050_060_016</VoiceId>
+      <JapaneseText>うわああああああん！！</JapaneseText>
+      <EnglishText>Waaah! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260384</PointerOffset>
+      <VoiceId>VSM_050_060_017</VoiceId>
+      <JapaneseText>ああっ！　もうっ！</JapaneseText>
+      <EnglishText>For pete's sake! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261024</PointerOffset>
+      <VoiceId>VSM_050_060_018Z</VoiceId>
+      <JapaneseText>ほら、僕の手を見てごらん</JapaneseText>
+      <EnglishText>Here, look at my hand. </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261948</PointerOffset>
+      <VoiceId>VSM_050_060_019</VoiceId>
+      <JapaneseText>おおっ、すげーっ……</JapaneseText>
+      <EnglishText>Woah! That was cool! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262144</PointerOffset>
+      <VoiceId>VSM_050_060_020Z</VoiceId>
+      <JapaneseText>はい、おしまい</JapaneseText>
+      <EnglishText>Now, now, it's over. </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262340</PointerOffset>
+      <VoiceId>VSM_050_060_021</VoiceId>
+      <JapaneseText>おもろい、おもろい！
+もっとやって！</JapaneseText>
+      <EnglishText>Yay! That was great! Again, again! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262480</PointerOffset>
+      <VoiceId>VSM_050_060_022Z</VoiceId>
+      <JapaneseText>また今度</JapaneseText>
+      <EnglishText>That'll have to wait till next time. </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262480</PointerOffset>
+      <VoiceId>VSM_050_060_023Z</VoiceId>
+      <JapaneseText>今日はこれを食べて、
+元気出してお家に帰りな</JapaneseText>
+      <EnglishText>For now you should eat this and become a good healthy boy. 
+Now you should be returning home. </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262852</PointerOffset>
+      <VoiceId>VSM_050_060_024</VoiceId>
+      <JapaneseText>アメちゃんだ！
+あんがとー、おじさん！</JapaneseText>
+      <EnglishText>It's candy! Thank you mister! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265700</PointerOffset>
+      <VoiceId>VSM_050_060_025</VoiceId>
+      <JapaneseText>あっ。あんた……</JapaneseText>
+      <EnglishText>Hey...aren't you... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265840</PointerOffset>
+      <VoiceId>VSM_050_060_026Z</VoiceId>
+      <JapaneseText>ん？　どこかで会ったかな？</JapaneseText>
+      <EnglishText>Mmm? Have we met before? </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265980</PointerOffset>
+      <VoiceId>VSM_050_060_027</VoiceId>
+      <JapaneseText>&lt;Red&gt;ユークリッド村&lt;White&gt;でお会いした、
+&lt;Claus&gt;さんのお友達、
+ですよね？</JapaneseText>
+      <EnglishText>We met back in Euclid's village. You were &lt;Claus&gt;'s 
+friend...right? </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266120</PointerOffset>
+      <VoiceId>VSM_050_060_028Z</VoiceId>
+      <JapaneseText>ああ、あの時の……</JapaneseText>
+      <EnglishText>You are from that time... </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266260</PointerOffset>
+      <VoiceId>VSM_050_060_029</VoiceId>
+      <JapaneseText>なぁ、今の魔術？</JapaneseText>
+      <EnglishText>So, that just now was Magic? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266400</PointerOffset>
+      <VoiceId>VSM_050_060_030Z</VoiceId>
+      <JapaneseText>いや、ただの手品だよ。
+どうやったかは秘密</JapaneseText>
+      <EnglishText>Nah, this is a hand trick, but how I did it is a secret. </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>18</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266776</PointerOffset>
+      <VoiceId>VSM_050_060_031Z</VoiceId>
+      <JapaneseText>ところで君たち、
+どうしてここに？</JapaneseText>
+      <EnglishText>At any rate... why are you guys here? </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>19</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266916</PointerOffset>
+      <VoiceId>VSM_050_060_032</VoiceId>
+      <JapaneseText>えっと……バジルさんって
+ヤツに会いに来て……</JapaneseText>
+      <EnglishText>Lessee... we are supposed to meet a guy, Basil or 
+something. </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>20</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267056</PointerOffset>
+      <VoiceId>VSM_050_060_033Z</VoiceId>
+      <JapaneseText>バジルは、僕だけど</JapaneseText>
+      <EnglishText>Really? I am Basil. </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>21</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267196</PointerOffset>
+      <VoiceId>VSM_050_060_034</VoiceId>
+      <JapaneseText>あなたがバジルさん……？</JapaneseText>
+      <EnglishText>You are Basil? </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>22</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267336</PointerOffset>
+      <VoiceId>VSM_050_060_035</VoiceId>
+      <JapaneseText>&lt;Claus&gt;さんに
+会わなかったか？</JapaneseText>
+      <EnglishText>Have you not met &lt;Claus&gt; yet? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>23</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267476</PointerOffset>
+      <VoiceId>VSM_050_060_036Z</VoiceId>
+      <JapaneseText>え？　&lt;Claus&gt;が
+来てるのかい？</JapaneseText>
+      <EnglishText>Eh? &lt;Claus&gt; has come here? </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>24</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267724</PointerOffset>
+      <VoiceId>VSM_050_060_037Z</VoiceId>
+      <JapaneseText>どこに？</JapaneseText>
+      <EnglishText>Where is he? </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>25</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267932</PointerOffset>
+      <VoiceId>VSM_050_060_038</VoiceId>
+      <JapaneseText>ええっと……
+バジルさんを探して、
+どこかに……</JapaneseText>
+      <EnglishText>Well... he went looking after you, so... </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>26</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268176</PointerOffset>
+      <VoiceId>VSM_050_060_039Z</VoiceId>
+      <JapaneseText>&lt;Claus&gt;！</JapaneseText>
+      <EnglishText>&lt;Claus&gt;! </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>27</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268548</PointerOffset>
+      <VoiceId>VSM_050_060_040</VoiceId>
+      <JapaneseText>あっ……ちょっと……！</JapaneseText>
+      <EnglishText>Ah! Wait! </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>28</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268988</PointerOffset>
+      <VoiceId>VSM_050_060_041</VoiceId>
+      <JapaneseText>追いかけよーぜ</JapaneseText>
+      <EnglishText>Let's chase him! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>29</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

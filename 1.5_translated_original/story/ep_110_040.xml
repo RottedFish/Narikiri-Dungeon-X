@@ -1,0 +1,400 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ステキな師範代</JapaneseText>
+      <EnglishText>Assistant Instructor</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText>Ethos</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>258508</PointerOffset>
+      <VoiceId>VSM_110_040_001</VoiceId>
+      <JapaneseText>ん？　君たちは
+道場の入門者……
+にしては、ちんまいね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>258760</PointerOffset>
+      <VoiceId>VSM_110_040_002</VoiceId>
+      <JapaneseText>いえ、あの、
+わたしたち、&lt;Cless&gt;さんに
+会いに来たんです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>258900</PointerOffset>
+      <VoiceId>VSM_110_040_003</VoiceId>
+      <JapaneseText>うちの主に？
+うーん、それは困った</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259040</PointerOffset>
+      <VoiceId>VSM_110_040_004</VoiceId>
+      <JapaneseText>いねーのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259180</PointerOffset>
+      <VoiceId>VSM_110_040_005</VoiceId>
+      <JapaneseText>まぁね。今、うちの主は、
+&lt;Red&gt;ユークリッド&lt;White&gt;騎士団の
+特別顧問をしていてね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259180</PointerOffset>
+      <VoiceId>VSM_110_040_006</VoiceId>
+      <JapaneseText>&lt;Red&gt;ヴァルハラ&lt;White&gt;で
+軍事行動中なんだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259432</PointerOffset>
+      <VoiceId>VSM_110_040_007</VoiceId>
+      <JapaneseText>&lt;Red&gt;ヴァルハラ&lt;White&gt;で
+何かあったのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259572</PointerOffset>
+      <VoiceId>VSM_110_040_009</VoiceId>
+      <JapaneseText>『シグルド』って暴力集団が、
+街に立てこもってるんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259572</PointerOffset>
+      <VoiceId>VSM_110_040_010</VoiceId>
+      <JapaneseText>ブレイナーってのが
+リーダーになって以来、
+厄介でね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259712</PointerOffset>
+      <VoiceId>VSM_110_040_011</VoiceId>
+      <JapaneseText>&lt;Red&gt;ヴァルハラ&lt;White&gt;っていや……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259852</PointerOffset>
+      <VoiceId>VSM_110_040_012</VoiceId>
+      <JapaneseText>あぁ、あそこも
+色々あったからね、
+住民が追い出されたり</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259992</PointerOffset>
+      <VoiceId>VSM_110_040_013</VoiceId>
+      <JapaneseText>住民が？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260132</PointerOffset>
+      <VoiceId>VSM_110_040_014</VoiceId>
+      <JapaneseText>ああ、『紅の月』の
+採掘者と住民が
+ぶつかってな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260132</PointerOffset>
+      <VoiceId>VSM_110_040_015</VoiceId>
+      <JapaneseText>ともかく、危険だから、
+&lt;Red&gt;ヴァルハラ&lt;White&gt;には
+近づかない方がいいね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260536</PointerOffset>
+      <VoiceId>VSM_110_040_016</VoiceId>
+      <JapaneseText>どうしよう、エト……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261044</PointerOffset>
+      <VoiceId>VSM_110_040_017</VoiceId>
+      <JapaneseText>その間にマクスウェルのこと、
+知ってる人いないか、
+探せばいいんじゃないかな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261184</PointerOffset>
+      <VoiceId>VSM_110_040_018</VoiceId>
+      <JapaneseText>でも、ダオスの話も
+聞かなくちゃだし……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261648</PointerOffset>
+      <VoiceId>VSM_110_040_019</VoiceId>
+      <JapaneseText>なんだ、
+ダオスの話を
+聞きたいのかい？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261648</PointerOffset>
+      <VoiceId>VSM_110_040_020</VoiceId>
+      <JapaneseText>だったら、&lt;Mint&gt;様に
+会ってみちゃどうかね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262488</PointerOffset>
+      <VoiceId>VSM_110_040_021</VoiceId>
+      <JapaneseText>&lt;Mint&gt;って……
+時空戦士の？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262628</PointerOffset>
+      <VoiceId>VSM_110_040_022</VoiceId>
+      <JapaneseText>そのぅ……その人は、
+どこにいるんですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262768</PointerOffset>
+      <VoiceId>VSM_110_040_023</VoiceId>
+      <JapaneseText>もちろん。&lt;Mint&gt;様は、
+村の教会にいると思うけど</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>18</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262908</PointerOffset>
+      <VoiceId>VSM_110_040_024</VoiceId>
+      <JapaneseText>この村すげー……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>19</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263104</PointerOffset>
+      <VoiceId>VSM_110_040_025</VoiceId>
+      <JapaneseText>すごいってなにが？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>20</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263468</PointerOffset>
+      <VoiceId>VSM_110_040_026</VoiceId>
+      <JapaneseText>だってさ、
+時空戦士がふたりも
+いんだぜ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>21</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263664</PointerOffset>
+      <VoiceId>VSM_110_040_031</VoiceId>
+      <JapaneseText>&lt;Mint&gt;は時空戦士の法術師で、
+結社を作って、
+世界に法術を広めた人なんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>22</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263984</PointerOffset>
+      <VoiceId>VSM_110_040_032</VoiceId>
+      <JapaneseText>詳しいんだね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>23</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264248</PointerOffset>
+      <VoiceId>VSM_110_040_033</VoiceId>
+      <JapaneseText>それじゃあ、
+その&lt;Mint&gt;さんに
+会いに行ってみようか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>24</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264248</PointerOffset>
+      <VoiceId>VSM_110_040_034</VoiceId>
+      <JapaneseText>村の教会にいるんだっけ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>24</Id>
+      <BubbleId>2</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

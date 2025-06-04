@@ -1,0 +1,239 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText>Variable</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37412</PointerOffset>
+      <VoiceId>VCT_004_155_001</VoiceId>
+      <JapaneseText>ふふ、&lt;Couleur&gt;は頼りになるね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37932</PointerOffset>
+      <VoiceId>VCT_004_155_002</VoiceId>
+      <JapaneseText>戦闘もバッチリだしな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38368</PointerOffset>
+      <VoiceId>VCT_004_155_003</VoiceId>
+      <JapaneseText>クルール！　クルー！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38704</PointerOffset>
+      <VoiceId>VCT_004_155_004</VoiceId>
+      <JapaneseText>この調子でよろしくね、&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39080</PointerOffset>
+      <VoiceId>VCT_004_155_005</VoiceId>
+      <JapaneseText>おっし！　先に進もうぜ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40516</PointerOffset>
+      <VoiceId>VCT_004_155_006</VoiceId>
+      <JapaneseText>ク、ク、クルール！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41100</PointerOffset>
+      <VoiceId>VCT_004_155_007</VoiceId>
+      <JapaneseText>こんのー、ふくろだぬき！　&lt;Mel&gt;&lt;Mel&gt;に近づくなや！
+おらが前に言ったこと、忘れたか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43688</PointerOffset>
+      <VoiceId>VCT_004_155_008</VoiceId>
+      <JapaneseText>クルール！　クルー！！
+クル、クル、クル、クル！！！　クルールッ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44144</PointerOffset>
+      <VoiceId>VCT_004_155_009</VoiceId>
+      <JapaneseText>何言ってっか、わかんねが、へへぇんだ、やるかぁ？
+地元の仲間じゃ、口の悪さで慣らした、このおらだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45572</PointerOffset>
+      <VoiceId>VCT_004_155_010</VoiceId>
+      <JapaneseText>くくく……こんのぉ……エセだぬきがぁ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47060</PointerOffset>
+      <VoiceId>VCT_004_155_011</VoiceId>
+      <JapaneseText>クルッ……クッ……、クッルール……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48200</PointerOffset>
+      <VoiceId>VCT_004_155_012</VoiceId>
+      <JapaneseText>おいおい、おい！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48744</PointerOffset>
+      <VoiceId>VCT_004_155_013</VoiceId>
+      <JapaneseText>ちょっとふたりとも、何してるの！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49572</PointerOffset>
+      <VoiceId>VCT_004_155_014</VoiceId>
+      <JapaneseText>あう〜〜〜&lt;Mel&gt;&lt;Mel&gt;〜。おらの話聞いてくんろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>50900</PointerOffset>
+      <VoiceId>VCT_004_155_015</VoiceId>
+      <JapaneseText>あの、ふくろだぬきが、おらが大事に取っておいた
+芋を食っちまっただよ。それにそれに、&lt;Mel&gt;&lt;Mel&gt;の……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52048</PointerOffset>
+      <VoiceId>VCT_004_155_016</VoiceId>
+      <JapaneseText>&lt;Couleur&gt;、お疲れさん……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52596</PointerOffset>
+      <VoiceId>VCT_004_155_017</VoiceId>
+      <JapaneseText>クルクルクルー……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

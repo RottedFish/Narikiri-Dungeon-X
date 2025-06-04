@@ -1,0 +1,84 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>お兄ちゃん好きの男の子</JapaneseText>
+      <EnglishText>Little Kid</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>悲しみを背負った母親</JapaneseText>
+      <EnglishText>Sad Mother</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>258452</PointerOffset>
+      <VoiceId>VSM_080_030_000</VoiceId>
+      <JapaneseText>お母ちゃん！
+兄（あん）ちゃんはどこ？
+どこ行ったの？</JapaneseText>
+      <EnglishText>Mama! Where's brother? Where did he go? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>258692</PointerOffset>
+      <VoiceId>VSM_080_030_001</VoiceId>
+      <JapaneseText>お兄ちゃんはね……
+遠いお空の星になったの</JapaneseText>
+      <EnglishText>Your big brother is... He's become a star in the sky, far 
+far away. </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>258932</PointerOffset>
+      <VoiceId>VSM_080_030_002</VoiceId>
+      <JapaneseText>星ぃ？　星ぃ？
+どの星ぃ？</JapaneseText>
+      <EnglishText>A star? A star? Which star? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260180</PointerOffset>
+      <VoiceId>VSM_080_030_003</VoiceId>
+      <JapaneseText>あの時……
+あの子にちゃんと薬を
+飲ませてやれてれば……</JapaneseText>
+      <EnglishText>Back then... If I had given him the medicine then he'd 
+be... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

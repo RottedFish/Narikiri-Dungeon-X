@@ -1,0 +1,220 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37468</PointerOffset>
+      <VoiceId>VCT_002_077_001</VoiceId>
+      <JapaneseText>すげー、すげーよなっ！
+あの時空戦士たちが、今ここに勢ぞろいってさ！</JapaneseText>
+      <EnglishText>This is so damn awesome! I can't believe I'm fighting together with the Eternal Heroes!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38740</PointerOffset>
+      <VoiceId>VCT_002_077_002</VoiceId>
+      <JapaneseText>もう&lt;Dio&gt;、いい加減落ち着いてよ</JapaneseText>
+      <EnglishText>Cool down a bit, &lt;Dio&gt;! You're making way too much of a fuss!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39040</PointerOffset>
+      <VoiceId>VCT_002_077_003</VoiceId>
+      <JapaneseText>そうだど、チビ助。&lt;Mel&gt;&lt;Mel&gt;の言う通りだ。
+テンション上げすぎだーよ</JapaneseText>
+      <EnglishText>Just as &lt;Mel&gt;-&lt;Mel&gt; says, brat. You really are full of unresolved tension.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39968</PointerOffset>
+      <VoiceId>VCT_002_077_004</VoiceId>
+      <JapaneseText>んだよ！　どんなにすげー事か、
+わかってなさすぎだぞ</JapaneseText>
+      <EnglishText>What!? Just because I find it cool you don't need to act so sour!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40436</PointerOffset>
+      <VoiceId>VCT_002_077_005</VoiceId>
+      <JapaneseText>あ〜ん？　ミーたまと&lt;Suzu&gt;ちんは確かにかわいいだが、
+他のはただのぼんくらだぁ</JapaneseText>
+      <EnglishText>Oh, come on~. You sure find Miss &lt;Mint&gt;y and Lil &lt;Suzu&gt; are super cute. That other ordinary blockhead is nothing to write home about, though.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41608</PointerOffset>
+      <VoiceId>VCT_002_077_006</VoiceId>
+      <JapaneseText>野暮天にキツネ目、酔いどれオヤジに
+すれっからしだど？　どこがすごいだか？</JapaneseText>
+      <EnglishText>Then you got hunter boy, Mister Booze and shameless parade. What do you find so cool about this?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43020</PointerOffset>
+      <VoiceId>VCT_002_077_007</VoiceId>
+      <JapaneseText>う〜ん、いろんな伝記に載ってるぐらいだからねぇ。
+後世に名が残るってすごいことだよ</JapaneseText>
+      <EnglishText>Umm. Those are a lot of colorful descriptions. These surely are titles to be remembered by.</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43828</PointerOffset>
+      <VoiceId>VCT_002_077_008</VoiceId>
+      <JapaneseText>ほれ、みろ！　この書き割りが！</JapaneseText>
+      <EnglishText>Pretty biased ones if you ask me.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44652</PointerOffset>
+      <VoiceId>VCT_002_077_009</VoiceId>
+      <JapaneseText>へん！　おらだって、後世に名が残るだよ</JapaneseText>
+      <EnglishText>Mph, whatever. That's how they should be talked about anyways.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45268</PointerOffset>
+      <VoiceId>VCT_002_077_010</VoiceId>
+      <JapaneseText>うソ！　アルベルトって、
+このあと何か偉大な功績残すつもりなの？</JapaneseText>
+      <EnglishText>That's not true! Mister Albert, you know about all of the great things they've done for this world, right?</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45792</PointerOffset>
+      <VoiceId>VCT_002_077_011</VoiceId>
+      <JapaneseText>もちろんだど。　時空戦士とおまけを従え
+世界を滅亡の淵から救ったってなぁ、おい</JapaneseText>
+      <EnglishText>Of course. The Eternal Heroes and their nameless extras saved the world from its darkest moments.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47044</PointerOffset>
+      <VoiceId>VCT_002_077_012</VoiceId>
+      <JapaneseText>従えって……、おまえ、いつもポケットの中で、
+戦ってねぇじゃんかよ……</JapaneseText>
+      <EnglishText>...So you think it was the extras. Speaking of which, you've been hiding in our pockets without fighting all this time. What does that make you?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47736</PointerOffset>
+      <VoiceId>VCT_002_077_013</VoiceId>
+      <JapaneseText>自ら動かずして、世界を救った高名な策士として
+後世に名を馳せる、だぁ、だぁ、だぁ、だぁ……</JapaneseText>
+      <EnglishText>Since I can't move I am nothing less than the tactician who helped to save the world. That's how I'll be remembered by. Yeah! Yeah! Yeah!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48588</PointerOffset>
+      <VoiceId>VCT_002_077_014</VoiceId>
+      <JapaneseText>コバンザメみたい、だね……</JapaneseText>
+      <EnglishText>Sounds closer to a suckerfish...</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

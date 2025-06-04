@@ -1,0 +1,164 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37208</PointerOffset>
+      <VoiceId>VCT_001_004_001</VoiceId>
+      <JapaneseText>わたし……わたしのせいで……虹輪が……</JapaneseText>
+      <EnglishText>It's...it's all my fault... the Prism Ring...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37620</PointerOffset>
+      <VoiceId>VCT_001_004_002</VoiceId>
+      <JapaneseText>まだ原因もわかんねーんだろ、気にすんなって。
+だいじょーぶだって……タンス野郎もなんか言えよ！</JapaneseText>
+      <EnglishText>We still ain't sure about a thing. Cheer up! Everything‘ll work out! Piece of wood, say something for once!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38524</PointerOffset>
+      <VoiceId>VCT_001_004_003</VoiceId>
+      <JapaneseText>気にすることないだーよ。&lt;Mel&gt;&lt;Mel&gt;は悪くないだ</JapaneseText>
+      <EnglishText>Don't worry, &lt;Mel&gt;-&lt;Mel&gt;. You aren't evil at all.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39308</PointerOffset>
+      <VoiceId>VCT_001_004_004</VoiceId>
+      <JapaneseText>そうそう、悪くない悪くない</JapaneseText>
+      <EnglishText>See! Not evil! Not evil at all!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39680</PointerOffset>
+      <VoiceId>VCT_001_004_005</VoiceId>
+      <JapaneseText>今回の件で一番悪いのは、このクソぼうずだーよ</JapaneseText>
+      <EnglishText>For this time the worst one here is the damned kiddo here.</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40524</PointerOffset>
+      <VoiceId>VCT_001_004_006</VoiceId>
+      <JapaneseText>そうそう、オレが全部悪い……</JapaneseText>
+      <EnglishText>Yep, yep! I'm completely terrible, ain't I...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40984</PointerOffset>
+      <VoiceId>VCT_001_004_007</VoiceId>
+      <JapaneseText>んだよ！　なんでオレが悪いんだよ！！</JapaneseText>
+      <EnglishText>The hell I am! Why am I the bad one now!?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41616</PointerOffset>
+      <VoiceId>VCT_001_004_008</VoiceId>
+      <JapaneseText>おめぇがかっこつけて、魔物を退治しようとしたからだ。
+放っておけば、&lt;Mel&gt;&lt;Mel&gt;もこんな目に合わなかっただよ</JapaneseText>
+      <EnglishText>Let me say it nicely. YOU were supposed to exterminate the monsters that appeared but left the job unfinished so &lt;Mel&gt;-&lt;Mel&gt; had to use magic and experience a bad moment!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42616</PointerOffset>
+      <VoiceId>VCT_001_004_009</VoiceId>
+      <JapaneseText>あんな状況放っておけねーだろ！</JapaneseText>
+      <EnglishText>That's just how things happened, damn it!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42964</PointerOffset>
+      <VoiceId>VCT_001_004_010</VoiceId>
+      <JapaneseText>けっ！　ヒーロー気取りがぁ！　おめぇのかっこつけで、
+&lt;Mel&gt;&lt;Mel&gt;まで巻きこまれてかわいそーだど</JapaneseText>
+      <EnglishText>Hah! Admit it! The "Hero" title got over your head! Because you tried to act all cool &lt;Mel&gt;-&lt;Mel&gt; got involved in all of this!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44676</PointerOffset>
+      <VoiceId>VCT_001_004_011</VoiceId>
+      <JapaneseText>オ、オレかぁ……？</JapaneseText>
+      <EnglishText>...It was all because of me...?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

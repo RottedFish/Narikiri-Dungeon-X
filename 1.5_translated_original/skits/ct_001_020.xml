@@ -1,0 +1,221 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37468</PointerOffset>
+      <VoiceId>VCT_001_020_001</VoiceId>
+      <JapaneseText>君たちは私のことを誰に？</JapaneseText>
+      <EnglishText>Who was the one that told you about me?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37580</PointerOffset>
+      <VoiceId>VCT_001_020_002</VoiceId>
+      <JapaneseText>&lt;Arche&gt;さんに聞きました</JapaneseText>
+      <EnglishText>We heard from Miss &lt;Arche&gt;.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37824</PointerOffset>
+      <VoiceId>VCT_001_020_003</VoiceId>
+      <JapaneseText>&lt;Arche&gt;に会ったのか</JapaneseText>
+      <EnglishText>So you've met &lt;Arche&gt;...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37976</PointerOffset>
+      <VoiceId>VCT_001_020_004</VoiceId>
+      <JapaneseText>君たちの時代にいたということは
+２００歳の彼女だな、それは</JapaneseText>
+      <EnglishText>In your era she'd be about 200 years old...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38676</PointerOffset>
+      <VoiceId>VCT_001_020_005</VoiceId>
+      <JapaneseText>２００歳……そんなに長く生きるって
+どんな気持ちなんだろ</JapaneseText>
+      <EnglishText>200 years...I wonder how she feels after such a long time...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39288</PointerOffset>
+      <VoiceId>VCT_001_020_006</VoiceId>
+      <JapaneseText>人がひとりで生きるには
+長すぎる時間だな</JapaneseText>
+      <EnglishText>People can easily live alone for long periods of time, uh?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39400</PointerOffset>
+      <VoiceId>VCT_001_020_007</VoiceId>
+      <JapaneseText>でも、仲間がいれば、どんな長い年月だって
+きっと乗り越えられる……</JapaneseText>
+      <EnglishText>When one is with a companion you can overcome any amount of time...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40248</PointerOffset>
+      <VoiceId>VCT_001_020_008</VoiceId>
+      <JapaneseText>でも、ひとりは……
+やっぱり寂しい……</JapaneseText>
+      <EnglishText>But it's just too sad...being alone...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40536</PointerOffset>
+      <VoiceId>VCT_001_020_009</VoiceId>
+      <JapaneseText>エト？</JapaneseText>
+      <EnglishText>Eto?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40776</PointerOffset>
+      <VoiceId>VCT_001_020_010</VoiceId>
+      <JapaneseText>え？　あ、ううん……&lt;Arche&gt;さん、
+どうしてひとりなんだろ</JapaneseText>
+      <EnglishText>Eh? Oh it's ok. So why was &lt;Arche&gt; alone in the first place?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41776</PointerOffset>
+      <VoiceId>VCT_001_020_011</VoiceId>
+      <JapaneseText>一番大切な思い出が彼女の中で大きすぎる。
+誰もその穴を埋められない。それどころか</JapaneseText>
+      <EnglishText>She keeps her memories very dearly inside her. She created a hole she couldn't fill.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42236</PointerOffset>
+      <VoiceId>VCT_001_020_012</VoiceId>
+      <JapaneseText>人といるとその時のことを思い出して
+よけいに彼女を寂しくしてしまうから</JapaneseText>
+      <EnglishText>With no one to share them, each time she remembers such things she would probably go through a lot of sadness...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42756</PointerOffset>
+      <VoiceId>VCT_001_020_013</VoiceId>
+      <JapaneseText>そう、なんですか？</JapaneseText>
+      <EnglishText>Is that...really true?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42924</PointerOffset>
+      <VoiceId>VCT_001_020_014</VoiceId>
+      <JapaneseText>……かもな</JapaneseText>
+      <EnglishText>Sadly, yes...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43404</PointerOffset>
+      <VoiceId>VCT_001_020_015</VoiceId>
+      <JapaneseText>クルルル〜……</JapaneseText>
+      <EnglishText>Kurururu...</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

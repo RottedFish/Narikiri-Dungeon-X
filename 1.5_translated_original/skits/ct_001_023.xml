@@ -1,0 +1,161 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37120</PointerOffset>
+      <VoiceId>VCT_001_023_001</VoiceId>
+      <JapaneseText>精霊晶核って、精霊さんの卵なんだよね？
+あれから精霊さんが生まれるの？</JapaneseText>
+      <EnglishText>You said that an Atomism Core is the Spirit's egg, right? Is that where they are born from?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37744</PointerOffset>
+      <VoiceId>VCT_001_023_002</VoiceId>
+      <JapaneseText>簡単に言えばそうなるが、
+そんな簡単な話でもない</JapaneseText>
+      <EnglishText>You could say it's that simple that but at the same time it's much more complicated.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37912</PointerOffset>
+      <VoiceId>VCT_001_023_003</VoiceId>
+      <JapaneseText>…………？</JapaneseText>
+      <EnglishText>...?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38064</PointerOffset>
+      <VoiceId>VCT_001_023_004</VoiceId>
+      <JapaneseText>精霊晶核そのものだけでは、
+精霊は生まれないのさ</JapaneseText>
+      <EnglishText>Just with an Atomism Core a Summon Spirit can't be born.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38296</PointerOffset>
+      <VoiceId>VCT_001_023_005</VoiceId>
+      <JapaneseText>そっか、そんな簡単に精霊さんが生まれたら、
+世界中精霊さんまみれになっちゃうもんね</JapaneseText>
+      <EnglishText>That's right, if the Summon Spirits were born that easily then the world would be filled with them!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38736</PointerOffset>
+      <VoiceId>VCT_001_023_006</VoiceId>
+      <JapaneseText>凝縮したマナのエネルギーを与えてやって
+初めて精霊晶核に精霊の命が宿る</JapaneseText>
+      <EnglishText>With the massive amount of Mana energy the egg holds, the Spirit's life itself dwells inside.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39336</PointerOffset>
+      <VoiceId>VCT_001_023_007</VoiceId>
+      <JapaneseText>が、そのエネルギーというのが
+そう簡単には手に入らない</JapaneseText>
+      <EnglishText>But getting your hands on that energy could be really hard...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39932</PointerOffset>
+      <VoiceId>VCT_001_023_008</VoiceId>
+      <JapaneseText>そっか、つまりそれはヒヨコが生まれる卵と
+そうでない卵があるのとおんなじってことなんだね</JapaneseText>
+      <EnglishText>I see... a small bird that was born from an egg that isn't really an egg. It's kinda like that, uh!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40724</PointerOffset>
+      <VoiceId>VCT_001_023_009</VoiceId>
+      <JapaneseText>ニワトリ……まぁ、端的に言うとそうだが……
+精霊晶核がいっきに安っぽくなるな……</JapaneseText>
+      <EnglishText>A chicken...? It's really hard to explain but... Atomism Core is unlike anything else...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41764</PointerOffset>
+      <VoiceId>VCT_001_023_010</VoiceId>
+      <JapaneseText>フライパン、ない？</JapaneseText>
+      <EnglishText>Got any Fry pans?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42180</PointerOffset>
+      <VoiceId>VCT_001_023_011</VoiceId>
+      <JapaneseText>食うんじゃないぞ……</JapaneseText>
+      <EnglishText>Don't even think about it...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

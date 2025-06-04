@@ -1,0 +1,191 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Claus&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37684</PointerOffset>
+      <VoiceId>VCT_001_019_001</VoiceId>
+      <JapaneseText>ミラルドさんは
+&lt;Claus&gt;さんの奥さんなんですか？</JapaneseText>
+      <EnglishText>Hey &lt;Claus&gt;, is Milard by any chance your wife?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38064</PointerOffset>
+      <VoiceId>VCT_001_019_002</VoiceId>
+      <JapaneseText>あいつは単なる助手だ、
+そういうのとは違う</JapaneseText>
+      <EnglishText>Not at all, she's just my assistant.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38460</PointerOffset>
+      <VoiceId>VCT_001_019_003</VoiceId>
+      <JapaneseText>……え？　でも恋人同士みたいな
+話だったし……</JapaneseText>
+      <EnglishText>...Uh? You really looked like lovers when you were talking back then...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38928</PointerOffset>
+      <VoiceId>VCT_001_019_004</VoiceId>
+      <JapaneseText>違う。断じて違う</JapaneseText>
+      <EnglishText>You are mistaken! You couldn't have been more wrong.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39880</PointerOffset>
+      <VoiceId>VCT_001_019_005</VoiceId>
+      <JapaneseText>……どうしてそんな
+むきになるんですか？</JapaneseText>
+      <EnglishText>Why did you suddenly get so serious?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40656</PointerOffset>
+      <VoiceId>VCT_001_019_006</VoiceId>
+      <JapaneseText>&lt;Mel&gt;、興味本位で
+そういうこと聞かないの</JapaneseText>
+      <EnglishText>&lt;Mel&gt;! You shouldn't meddle in other's business like that!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41304</PointerOffset>
+      <VoiceId>VCT_001_019_007</VoiceId>
+      <JapaneseText>そうだ。君にはまだ
+こういう話は早い</JapaneseText>
+      <EnglishText>Exactly! This is such a scandalous subject to talk about!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41832</PointerOffset>
+      <VoiceId>VCT_001_019_008</VoiceId>
+      <JapaneseText>早くはないと、思いますけど……</JapaneseText>
+      <EnglishText>I don't think it's that bad...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42000</PointerOffset>
+      <VoiceId>VCT_001_019_009</VoiceId>
+      <JapaneseText>あ……ってことはやっぱり、
+おふたりは恋人同士なんですね</JapaneseText>
+      <EnglishText>I get it! You DO are a couple!</EnglishText>
+      <Notes>needs TL check</Notes>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42668</PointerOffset>
+      <VoiceId>VCT_001_019_010</VoiceId>
+      <JapaneseText>どうしてそうなるんだ。
+違うと言ったら、違う</JapaneseText>
+      <EnglishText>How do you end up concluding that!? I told you already you're wrong!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43688</PointerOffset>
+      <VoiceId>VCT_001_019_011</VoiceId>
+      <JapaneseText>じゃあ、どういう関係ですか？</JapaneseText>
+      <EnglishText>Then why are you hiding yourself?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44068</PointerOffset>
+      <VoiceId>VCT_001_019_012</VoiceId>
+      <JapaneseText>あ、&lt;Mel&gt;ってば……</JapaneseText>
+      <EnglishText>&lt;Mel&gt;, you...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44392</PointerOffset>
+      <VoiceId>VCT_001_019_013</VoiceId>
+      <JapaneseText>もう……女の子なんだかラ</JapaneseText>
+      <EnglishText>You're a girl, alright...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

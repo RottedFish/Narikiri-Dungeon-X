@@ -1,0 +1,125 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>魔女の声</JapaneseText>
+      <EnglishText>Magician's Voice</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>259096</PointerOffset>
+      <VoiceId>VSM_030_060_001</VoiceId>
+      <JapaneseText>ここが塔のてっぺん、かな？</JapaneseText>
+      <EnglishText>Is this the tower's summit? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259476</PointerOffset>
+      <VoiceId>VSM_030_060_002</VoiceId>
+      <JapaneseText>出てこい、悪い魔女！
+観念しろーっ！</JapaneseText>
+      <EnglishText>Come out you horrid magician! Stop hiding! </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259616</PointerOffset>
+      <VoiceId>VSM_030_060_003</VoiceId>
+      <JapaneseText>ちっ……まったく、もう……
+あ〜、コホン……ンンッ……</JapaneseText>
+      <EnglishText>Kids these days... Well, *cough* ahem *cough cough* </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259756</PointerOffset>
+      <VoiceId>VSM_030_060_004</VoiceId>
+      <JapaneseText>ここまでよく来たな。
+褒めてやろう</JapaneseText>
+      <EnglishText>This is as far as you go. You're standing in my way. </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259756</PointerOffset>
+      <VoiceId>VSM_030_060_005</VoiceId>
+      <JapaneseText>じゃが、おまえたちの命は
+ここまでじゃ</JapaneseText>
+      <EnglishText>This is it! Your life shall come to an end right here! </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260640</PointerOffset>
+      <VoiceId>VSM_030_060_009</VoiceId>
+      <JapaneseText>我が魔力を結集し作り出した、
+ミラクルドリームエックス！</JapaneseText>
+      <EnglishText>Come forth, o guardian created
+by my grand magical power. 
+Miracle Dream X! </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260640</PointerOffset>
+      <VoiceId>VSM_030_060_010</VoiceId>
+      <JapaneseText>これまでみたいに
+簡単にはいかぬぞ！！</JapaneseText>
+      <EnglishText>Defeating this foe won't be an easy feat at all! </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Proofreading</Status>
+    </Entry>
+  </Strings>
+</SceneText>

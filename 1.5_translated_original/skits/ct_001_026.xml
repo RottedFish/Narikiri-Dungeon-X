@@ -1,0 +1,188 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37248</PointerOffset>
+      <VoiceId>VCT_001_026_001</VoiceId>
+      <JapaneseText>続・エトちゃん奪還、
+ウルトラローリングアタックミッション！</JapaneseText>
+      <EnglishText>Begin, Operation Rescue Miss Eto... Mission Ultra Rolling Attack!!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38096</PointerOffset>
+      <VoiceId>VCT_001_026_002</VoiceId>
+      <JapaneseText>その計画の名前、決定なんですか……？</JapaneseText>
+      <EnglishText>That project name...who decided it?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38340</PointerOffset>
+      <VoiceId>VCT_001_026_003</VoiceId>
+      <JapaneseText>決定だろ？</JapaneseText>
+      <EnglishText>Wasn't it decided before?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38644</PointerOffset>
+      <VoiceId>VCT_001_026_004</VoiceId>
+      <JapaneseText>名前はさておき、どうやってエトちゃんを
+救うか、ってことだけど……</JapaneseText>
+      <EnglishText>The name has to be big if we really want to bring Eto back...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39104</PointerOffset>
+      <VoiceId>VCT_001_026_005</VoiceId>
+      <JapaneseText>ノームの穴に水流そうぜ！</JapaneseText>
+      <EnglishText>Let's fill the hole Gnome is in with water!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39532</PointerOffset>
+      <VoiceId>VCT_001_026_006</VoiceId>
+      <JapaneseText>エトも一緒におぼれちゃうってば</JapaneseText>
+      <EnglishText>We would drown Eto...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39832</PointerOffset>
+      <VoiceId>VCT_001_026_007</VoiceId>
+      <JapaneseText>じゃあ、穴を掘り返して、
+ほじくりだすとか</JapaneseText>
+      <EnglishText>Ok, what about if we dig a big hole all the way there?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40328</PointerOffset>
+      <VoiceId>VCT_001_026_008</VoiceId>
+      <JapaneseText>ドロンコになっちゃうよ？</JapaneseText>
+      <EnglishText>All the way down there?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40496</PointerOffset>
+      <VoiceId>VCT_001_026_009</VoiceId>
+      <JapaneseText>エトを助けるためなら、それくらい。
+平気です！</JapaneseText>
+      <EnglishText>If it's to save Eto, then nothing matters. It's fine by me!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41000</PointerOffset>
+      <VoiceId>VCT_001_026_010</VoiceId>
+      <JapaneseText>その覚悟やよし！</JapaneseText>
+      <EnglishText>Then let's get our hands dirty!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41440</PointerOffset>
+      <VoiceId>VCT_001_026_011</VoiceId>
+      <JapaneseText>じゃあ、今度逃げたら、その
+ゴーゴーアンダーグラウンド作戦で追いかけようぜ！</JapaneseText>
+      <EnglishText>In that case let's call this strategy "Operation Go-Go-Around-Underground!"</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42464</PointerOffset>
+      <VoiceId>VCT_001_026_012</VoiceId>
+      <JapaneseText>あはは、それいいね</JapaneseText>
+      <EnglishText>Hahahaha! That's the spirit!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42888</PointerOffset>
+      <VoiceId>VCT_001_026_013</VoiceId>
+      <JapaneseText>名前なんてどうでもいいってば</JapaneseText>
+      <EnglishText>How can you think that that's a good name...?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

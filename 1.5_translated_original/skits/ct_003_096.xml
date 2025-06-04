@@ -1,0 +1,125 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37120</PointerOffset>
+      <VoiceId>VCT_003_096_001</VoiceId>
+      <JapaneseText>&lt;Dio&gt;。全部……思い出した？</JapaneseText>
+      <EnglishText>&lt;Dio&gt;...have you remembered everything?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37352</PointerOffset>
+      <VoiceId>VCT_003_096_002</VoiceId>
+      <JapaneseText>いや……まだ。
+なんかひとつにつながりそうでつながらないんだ</JapaneseText>
+      <EnglishText>No... There's at least still one very important thing that I haven't remembered, I feel.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37624</PointerOffset>
+      <VoiceId>VCT_003_096_003</VoiceId>
+      <JapaneseText>……おまえは？</JapaneseText>
+      <EnglishText>What about you?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37852</PointerOffset>
+      <VoiceId>VCT_003_096_004</VoiceId>
+      <JapaneseText>わたしもまだところどころ
+欠けてる感じ……</JapaneseText>
+      <EnglishText>My memories have bits and pieces missing, too...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38084</PointerOffset>
+      <VoiceId>VCT_003_096_005</VoiceId>
+      <JapaneseText>イヤなことだから思い出したくない
+ことがあんのかな</JapaneseText>
+      <EnglishText>Maybe they are painful memories so we don't want to remember.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38488</PointerOffset>
+      <VoiceId>VCT_003_096_006</VoiceId>
+      <JapaneseText>どうでもいいことだから、
+思い出せないんだよ、きっと</JapaneseText>
+      <EnglishText>It'll be fine. I'm sure we'll remember everything.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38940</PointerOffset>
+      <VoiceId>VCT_003_096_007</VoiceId>
+      <JapaneseText>そうか？</JapaneseText>
+      <EnglishText>Really?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39168</PointerOffset>
+      <VoiceId>VCT_003_096_008</VoiceId>
+      <JapaneseText>だって……これ以上、
+イヤな思い出はいらないよ……</JapaneseText>
+      <EnglishText>Yes but...I don't know if I want to remember more sad things anymore...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

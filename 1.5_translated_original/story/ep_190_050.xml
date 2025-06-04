@@ -1,0 +1,378 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>282724</PointerOffset>
+      <VoiceId>VSM_190_050_001</VoiceId>
+      <JapaneseText>いないね……</JapaneseText>
+      <EnglishText>She's not here... </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>282960</PointerOffset>
+      <VoiceId>VSM_190_050_002</VoiceId>
+      <JapaneseText>もう、ここにはいねーのかな</JapaneseText>
+      <EnglishText>Yeah I don't think she's around here... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>283212</PointerOffset>
+      <VoiceId>VSM_190_050_003</VoiceId>
+      <JapaneseText>クルールルー……</JapaneseText>
+      <EnglishText>Kuruuururu... </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>283580</PointerOffset>
+      <VoiceId>VSM_190_050_004</VoiceId>
+      <JapaneseText>ここにいなきゃ、どこに？</JapaneseText>
+      <EnglishText>If she's not around here, where could she be? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>284388</PointerOffset>
+      <VoiceId>VSM_190_050_006</VoiceId>
+      <JapaneseText>わたしたち、いつも
+エトと一緒だったんだよね</JapaneseText>
+      <EnglishText>It's so weird to be apart. We are always with her. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>284528</PointerOffset>
+      <VoiceId>VSM_190_050_007</VoiceId>
+      <JapaneseText>ノームの洞窟ん時以外は
+ずっとな……</JapaneseText>
+      <EnglishText>There was that one time in Gnome's cavern, but... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>284668</PointerOffset>
+      <VoiceId>VSM_190_050_008</VoiceId>
+      <JapaneseText>その前からずっと
+一緒だった……</JapaneseText>
+      <EnglishText>We've always been together all three of us... </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>284808</PointerOffset>
+      <VoiceId>VSM_190_050_009</VoiceId>
+      <JapaneseText>やっぱいつまでも
+一緒にいられるって
+わけと違うのかな……</JapaneseText>
+      <EnglishText>Yeah when I try to think about it... there's no other 
+moment we've been without Eto... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>284948</PointerOffset>
+      <VoiceId>VSM_190_050_010</VoiceId>
+      <JapaneseText>ノルンが言ってたみたいに？</JapaneseText>
+      <EnglishText>But we did our best the last time with Gnome, remember? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>285144</PointerOffset>
+      <VoiceId>VSM_190_050_011</VoiceId>
+      <JapaneseText>……でも、オレら、
+ひとりじゃ何もできないよな……</JapaneseText>
+      <EnglishText>Yeah... But I don't think we can do much alone... </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>285340</PointerOffset>
+      <VoiceId>VSM_190_050_012</VoiceId>
+      <JapaneseText>……でも……できるように
+ならなきゃいけないのかも……</JapaneseText>
+      <EnglishText>But... if we can't do anything what do we do...? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>286500</PointerOffset>
+      <VoiceId>VSM_190_050_013</VoiceId>
+      <JapaneseText>ダメだった……</JapaneseText>
+      <EnglishText>It's useless... </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>287304</PointerOffset>
+      <VoiceId>VSM_190_050_014</VoiceId>
+      <JapaneseText>そんなメチャクチャに
+壊れてんのか？</JapaneseText>
+      <EnglishText>It's messed up beyond repair? </EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>287624</PointerOffset>
+      <VoiceId>VSM_190_050_015</VoiceId>
+      <JapaneseText>じゃなくて、電力不足だって。
+『オズ』がそう言ってた</JapaneseText>
+      <EnglishText>No it's not that. It's lacking some electrical energy to 
+power up according to Oz. </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>287888</PointerOffset>
+      <VoiceId>VSM_190_050_016</VoiceId>
+      <JapaneseText>電力？</JapaneseText>
+      <EnglishText>Electricity? </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>288028</PointerOffset>
+      <VoiceId>VSM_190_050_017</VoiceId>
+      <JapaneseText>そ……うーん、
+どうすりゃいいかな……</JapaneseText>
+      <EnglishText>Yeah... what a bummer. Wonder where we can find some... </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>288288</PointerOffset>
+      <VoiceId>VSM_190_050_018</VoiceId>
+      <JapaneseText>……電気の精霊、
+ヴォルトの力を借りましょう</JapaneseText>
+      <EnglishText>We could ask help of the Summon Spirit of Electricity, 
+Volt. </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>288288</PointerOffset>
+      <VoiceId>VSM_190_050_019</VoiceId>
+      <JapaneseText>かつて、ダオスと戦った時、
+&lt;Cless&gt;さんは空を飛ぶ機械の力を
+ヴォルトから借りたと聞きます</JapaneseText>
+      <EnglishText>Back when we were fighting Dhaos, &lt;Cless&gt; and his party used 
+Volt's electricity to power up flying machines. </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>17</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>289032</PointerOffset>
+      <VoiceId>VSM_190_050_020</VoiceId>
+      <JapaneseText>ヴォルト……か……</JapaneseText>
+      <EnglishText>Volt...mmm... </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>18</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>289032</PointerOffset>
+      <VoiceId>VSM_190_050_021</VoiceId>
+      <JapaneseText>行ってみるか。
+その精霊さん、どこにいんの？</JapaneseText>
+      <EnglishText>We could give it a shot! Where is Mister Summon Spirit 
+right now? </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>18</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>289464</PointerOffset>
+      <VoiceId>VSM_190_050_022</VoiceId>
+      <JapaneseText>ユークリッド大陸の南にある
+&lt;Red&gt;ムジョルニア洞窟&lt;White&gt;にいたはずです</JapaneseText>
+      <EnglishText>Mjolnir cave is south of the Kingdom of Euclid. Volt 
+resides there. </EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>19</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>289704</PointerOffset>
+      <VoiceId>VSM_190_050_023</VoiceId>
+      <JapaneseText>よし！　&lt;Dio&gt;くんたちも
+一緒に行こうぜ</JapaneseText>
+      <EnglishText>It's settled then! &lt;Dio&gt; and &lt;Mel&gt;, let's go! </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>20</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>290172</PointerOffset>
+      <VoiceId>VSM_190_050_024</VoiceId>
+      <JapaneseText>でもエトが……</JapaneseText>
+      <EnglishText>B-but we still haven't found...! </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>21</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>290580</PointerOffset>
+      <VoiceId>VSM_190_050_025</VoiceId>
+      <JapaneseText>ここにはエトちゃん、
+いなかったんでしょ？</JapaneseText>
+      <EnglishText>Miss Eto isn't around here, right? </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>22</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>290580</PointerOffset>
+      <VoiceId>VSM_190_050_026</VoiceId>
+      <JapaneseText>元の時代に戻る準備できてた方が
+エトちゃん喜ぶと思うよ</JapaneseText>
+      <EnglishText>I think if we found her when we got the machine kicking to 
+get back to your timeline she'll get happy! </EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>22</Id>
+      <BubbleId>2</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>291020</PointerOffset>
+      <VoiceId>VSM_190_050_027</VoiceId>
+      <JapaneseText>クルール！</JapaneseText>
+      <EnglishText>Kuruuru! </EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>23</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>291668</PointerOffset>
+      <VoiceId>VSM_190_050_028</VoiceId>
+      <JapaneseText>……わかりました</JapaneseText>
+      <EnglishText>... You've got a point. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>24</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

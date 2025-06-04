@@ -1,0 +1,158 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37120</PointerOffset>
+      <VoiceId>VCT_003_111_000</VoiceId>
+      <JapaneseText>オレ、もっと大冒険したかったな、
+命を懸けて世界を救うようなさ</JapaneseText>
+      <EnglishText>This sure has been one big adventure. I never thought we'd put our lives on the line to save the world!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37656</PointerOffset>
+      <VoiceId>VCT_003_111_001</VoiceId>
+      <JapaneseText>したじゃない、大冒険。時間を行ったり来たりして
+&lt;Cless&gt;さんや&lt;Mint&gt;さん、&lt;Chester&gt;さんたちと</JapaneseText>
+      <EnglishText>It really has been a great adventure. We travelled through time and met all sorts of people like Mister &lt;Cless&gt;, Miss &lt;Mint&gt;, and Mister &lt;Chester&gt;.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38844</PointerOffset>
+      <VoiceId>VCT_003_111_002</VoiceId>
+      <JapaneseText>わたしには全部、命懸けだったよ</JapaneseText>
+      <EnglishText>All the way through giving the best we got.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39296</PointerOffset>
+      <VoiceId>VCT_003_111_003</VoiceId>
+      <JapaneseText>そうだよな……うん</JapaneseText>
+      <EnglishText>Yeah, that's right.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39616</PointerOffset>
+      <VoiceId>VCT_003_111_004</VoiceId>
+      <JapaneseText>この旅で世界が救われるとか
+そんなんじゃないけど</JapaneseText>
+      <EnglishText>Though this whole journey wasn't about saving the world.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39888</PointerOffset>
+      <VoiceId>VCT_003_111_005</VoiceId>
+      <JapaneseText>オレら、自分の結論出すために
+ここまで来たんだ</JapaneseText>
+      <EnglishText>It was about giving us the chance to find our answer.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40396</PointerOffset>
+      <VoiceId>VCT_003_111_006</VoiceId>
+      <JapaneseText>悲しい結論だけど</JapaneseText>
+      <EnglishText>It's a sad conclusion, though...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40572</PointerOffset>
+      <VoiceId>VCT_003_111_007</VoiceId>
+      <JapaneseText>後悔してんのか</JapaneseText>
+      <EnglishText>With a bit of regret, yeah.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40740</PointerOffset>
+      <VoiceId>VCT_003_111_008</VoiceId>
+      <JapaneseText>してるよ、ちょっとだけ</JapaneseText>
+      <EnglishText>Maybe, but just a little bit.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41060</PointerOffset>
+      <VoiceId>VCT_003_111_009</VoiceId>
+      <JapaneseText>でも、これが逃げずに向き合った結果。
+自分のやったことに対する相応の決着だから</JapaneseText>
+      <EnglishText>But all of this started from running away. It's time we face our problems head on.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41776</PointerOffset>
+      <VoiceId>VCT_003_111_010</VoiceId>
+      <JapaneseText>オレも……おんなじだ</JapaneseText>
+      <EnglishText>I feel the same...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

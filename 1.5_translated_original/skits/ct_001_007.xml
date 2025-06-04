@@ -1,0 +1,207 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Couleur&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37320</PointerOffset>
+      <VoiceId>VCT_001_007_001</VoiceId>
+      <JapaneseText>&lt;Couleur&gt;って何の動物なの？　エト</JapaneseText>
+      <EnglishText>Eto, what kind of animal do you think &lt;Couleur&gt; is?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37548</PointerOffset>
+      <VoiceId>VCT_001_007_002</VoiceId>
+      <JapaneseText>え？　タヌキ……かな？</JapaneseText>
+      <EnglishText>Eh? Perhaps... a... raccoon?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38208</PointerOffset>
+      <VoiceId>VCT_001_007_003</VoiceId>
+      <JapaneseText>クルール！！</JapaneseText>
+      <EnglishText>Kururu!!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38596</PointerOffset>
+      <VoiceId>VCT_001_007_004</VoiceId>
+      <JapaneseText>じゃ、ないし、えっと……
+カエル……</JapaneseText>
+      <EnglishText>Maybe not...Umm, what about a frog?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39284</PointerOffset>
+      <VoiceId>VCT_001_007_005</VoiceId>
+      <JapaneseText>クルール！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39780</PointerOffset>
+      <VoiceId>VCT_001_007_006</VoiceId>
+      <JapaneseText>こ、こういうの、&lt;Dio&gt;の方が得意でしょ？
+いつも図鑑とか読んでんだかラ……</JapaneseText>
+      <EnglishText>A-ah... &lt;Dio&gt; you would probably have better luck with solving this, don't you think? You should look at an illustrated encyclopedia...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41284</PointerOffset>
+      <VoiceId>VCT_001_007_007</VoiceId>
+      <JapaneseText>図鑑のどこにも載ってねーんだよな……
+あっ……まさか、新種！</JapaneseText>
+      <EnglishText>I can't see it mentioned anywhere in this encyclopedia... Ah! Could it be that... it's part of a new species!?</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41808</PointerOffset>
+      <VoiceId>VCT_001_007_008</VoiceId>
+      <JapaneseText>クルール？</JapaneseText>
+      <EnglishText>Kururu?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41988</PointerOffset>
+      <VoiceId>VCT_001_007_009</VoiceId>
+      <JapaneseText>捕まったら、実験台にされたり！</JapaneseText>
+      <EnglishText>We must catch it and investigate it!</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42244</PointerOffset>
+      <VoiceId>VCT_001_007_010</VoiceId>
+      <JapaneseText>クルール！</JapaneseText>
+      <EnglishText>Kururu!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42736</PointerOffset>
+      <VoiceId>VCT_001_007_011</VoiceId>
+      <JapaneseText>絶対、ダメ！　そんなのかわいそうだよ！
+&lt;Couleur&gt;はタヌキだよ、タヌキだよね？</JapaneseText>
+      <EnglishText>Absolutely not! You're a cruel jerk! &lt;Couleur&gt; is totally a raccoon dog! A raccoon dog! You hear!?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44448</PointerOffset>
+      <VoiceId>VCT_001_007_012</VoiceId>
+      <JapaneseText>クルールゥ！</JapaneseText>
+      <EnglishText>Kururu!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44848</PointerOffset>
+      <VoiceId>VCT_001_007_013</VoiceId>
+      <JapaneseText>タヌキってことにしとけば、
+実験台とかにされないから。ね？　ね？</JapaneseText>
+      <EnglishText>Since it is a raccoon dog you don't need to do any kind of research on it! Right? Right!?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46028</PointerOffset>
+      <VoiceId>VCT_001_007_014</VoiceId>
+      <JapaneseText>クルール〜……</JapaneseText>
+      <EnglishText>Kururu~...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>
